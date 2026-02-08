@@ -1,0 +1,216 @@
+{
+  "fetched_at": "2026-02-08T11:35:53.999955",
+  "team_key": "465.l.71635.t.5",
+  "roster": [
+    {
+      "player_id": 6744,
+      "name": "Jack Eichel",
+      "team": "VGK",
+      "position": "C",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "C",
+      "status": ""
+    },
+    {
+      "player_id": 5431,
+      "name": "Vincent Trocheck",
+      "team": "NYR",
+      "position": "C",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "C",
+      "status": ""
+    },
+    {
+      "player_id": 8653,
+      "name": "Seth Jarvis",
+      "team": "CAR",
+      "position": "C",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "LW",
+      "status": ""
+    },
+    {
+      "player_id": 8699,
+      "name": "Will Cuylle",
+      "team": "NYR",
+      "position": "LW",
+      "line": 3,
+      "pp_unit": 2,
+      "selected_position": "LW",
+      "status": ""
+    },
+    {
+      "player_id": 4471,
+      "name": "Steven Stamkos",
+      "team": "NSH",
+      "position": "C",
+      "line": 2,
+      "pp_unit": 1,
+      "selected_position": "RW",
+      "status": ""
+    },
+    {
+      "player_id": 7264,
+      "name": "Brandon Hagel",
+      "team": "TBL",
+      "position": "LW",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "RW",
+      "status": ""
+    },
+    {
+      "player_id": 5689,
+      "name": "Jacob Trouba",
+      "team": "ANA",
+      "position": "D",
+      "line": 1,
+      "pp_unit": 2,
+      "selected_position": "D",
+      "status": ""
+    },
+    {
+      "player_id": 7161,
+      "name": "Filip Hronek",
+      "team": "VAN",
+      "position": "D",
+      "line": 1,
+      "pp_unit": 2,
+      "selected_position": "D",
+      "status": ""
+    },
+    {
+      "player_id": 9280,
+      "name": "Denton Mateychuk",
+      "team": "CBJ",
+      "position": "D",
+      "line": 3,
+      "pp_unit": 2,
+      "selected_position": "D",
+      "status": ""
+    },
+    {
+      "player_id": 7930,
+      "name": "Mattias Samuelsson",
+      "team": "BUF",
+      "position": "D",
+      "line": 1,
+      "pp_unit": null,
+      "selected_position": "D",
+      "status": ""
+    },
+    {
+      "player_id": 6402,
+      "name": "Ivan Barbashev",
+      "team": "VGK",
+      "position": "LW",
+      "line": 1,
+      "pp_unit": 2,
+      "selected_position": "Util",
+      "status": ""
+    },
+    {
+      "player_id": 4990,
+      "name": "Brock Nelson",
+      "team": "COL",
+      "position": "C",
+      "line": 2,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 9269,
+      "name": "Juraj Slafkovsk\u00fd",
+      "team": "MTL",
+      "position": "LW",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 7115,
+      "name": "Clayton Keller",
+      "team": "UTA",
+      "position": "LW",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 7554,
+      "name": "Jason Robertson",
+      "team": "DAL",
+      "position": "LW",
+      "line": 2,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 7910,
+      "name": "Noah Dobson",
+      "team": "MTL",
+      "position": "D",
+      "line": 1,
+      "pp_unit": 2,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 8652,
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "position": "C",
+      "line": 3,
+      "pp_unit": 2,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 7089,
+      "name": "Alex Lyon",
+      "team": "BUF",
+      "position": "G",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "G",
+      "status": ""
+    },
+    {
+      "player_id": 6447,
+      "name": "Ilya Sorokin",
+      "team": "NYI",
+      "position": "G",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "G",
+      "status": ""
+    },
+    {
+      "player_id": 6486,
+      "name": "Igor Shesterkin",
+      "team": "NYR",
+      "position": "G",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "IR",
+      "status": "IR"
+    },
+    {
+      "player_id": 7569,
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "position": "G",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "IR+",
+      "status": "IR"
+    }
+  ]
+}

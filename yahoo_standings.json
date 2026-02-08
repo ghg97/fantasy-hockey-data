@@ -1,0 +1,105 @@
+{
+  "fetched_at": "2026-02-08T11:36:11.464236",
+  "teams": [
+    {
+      "team_key": "465.l.71635.t.1",
+      "name": "ALL EYES ON YOU",
+      "rank": "1",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3764.90",
+      "points_against": 3372.0999999999995
+    },
+    {
+      "team_key": "465.l.71635.t.8",
+      "name": "Viens",
+      "rank": "2",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3607.00",
+      "points_against": 3537.2000000000003
+    },
+    {
+      "team_key": "465.l.71635.t.5",
+      "name": "Puck Daddy",
+      "rank": "3",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3606.30",
+      "points_against": 3640
+    },
+    {
+      "team_key": "465.l.71635.t.12",
+      "name": "Baba",
+      "rank": "4",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3800.00",
+      "points_against": 3575.9999999999995
+    },
+    {
+      "team_key": "465.l.71635.t.3",
+      "name": "Jte Pete",
+      "rank": "5",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3617.90",
+      "points_against": 3452.3
+    },
+    {
+      "team_key": "465.l.71635.t.2",
+      "name": "El Chapo",
+      "rank": "6",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3565.20",
+      "points_against": 3710.6
+    },
+    {
+      "team_key": "465.l.71635.t.10",
+      "name": "Zad",
+      "rank": "7",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3520.50",
+      "points_against": 3459.399999999999
+    },
+    {
+      "team_key": "465.l.71635.t.4",
+      "name": "Robshet la Jaf HC",
+      "rank": "8",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3477.90",
+      "points_against": 3626.6000000000004
+    },
+    {
+      "team_key": "465.l.71635.t.7",
+      "name": "Vasyy",
+      "rank": "9",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3485.30",
+      "points_against": 3665.4999999999995
+    },
+    {
+      "team_key": "465.l.71635.t.6",
+      "name": "The Sleix Blue Squad",
+      "rank": "10",
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "3280.60",
+      "points_against": 3685.8999999999996
+    }
+  ]
+}

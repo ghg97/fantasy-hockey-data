@@ -1,0 +1,11 @@
+# Logs
+logs/
+
+# Digests (generated, not needed for analysis)
+weekly_digest_*.md
+*.sent
+
+# Any credentials (shouldn't be here but just in case)
+*token*.json
+*oauth*.json
+*credentials*.json

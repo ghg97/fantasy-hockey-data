@@ -1,0 +1,7646 @@
+{
+  "fetched_at": "2026-02-08T11:36:09.746634",
+  "count": 525,
+  "players": [
+    {
+      "player_id": 3358,
+      "name": "Brent Burns",
+      "team": "COL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 59
+    },
+    {
+      "player_id": 3788,
+      "name": "Anze Kopitar",
+      "team": "LAK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 28
+    },
+    {
+      "player_id": 3980,
+      "name": "Jordan Staal",
+      "team": "CAR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 11
+    },
+    {
+      "player_id": 3981,
+      "name": "Jonathan Toews",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 4002,
+      "name": "Claude Giroux",
+      "team": "OTT",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 27
+    },
+    {
+      "player_id": 4008,
+      "name": "Nick Foligno",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4064,
+      "name": "Kris Letang",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "IR",
+      "percent_owned": 32
+    },
+    {
+      "player_id": 4186,
+      "name": "Ryan Reaves",
+      "team": "SJS",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4241,
+      "name": "James van Riemsdyk",
+      "team": "DET",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 4251,
+      "name": "Ryan McDonagh",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 4252,
+      "name": "Lars Eller",
+      "team": "OTT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4257,
+      "name": "Ian Cole",
+      "team": "UTA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 4263,
+      "name": "Mikael Backlund",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 4265,
+      "name": "David Perron",
+      "team": "OTT",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 4266,
+      "name": "Brendan Smith",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4472,
+      "name": "Drew Doughty",
+      "team": "LAK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 34
+    },
+    {
+      "player_id": 4473,
+      "name": "Zach Bogosian",
+      "team": "MIN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4474,
+      "name": "Alex Pietrangelo",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4475,
+      "name": "Luke Schenn",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 4485,
+      "name": "Tyler Myers",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4519,
+      "name": "Jamie Benn",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 4684,
+      "name": "Evander Kane",
+      "team": "VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 4685,
+      "name": "Brayden Schenn",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 14
+    },
+    {
+      "player_id": 4686,
+      "name": "Oliver Ekman-Larsson",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 39
+    },
+    {
+      "player_id": 4687,
+      "name": "Nazem Kadri",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 60
+    },
+    {
+      "player_id": 4691,
+      "name": "Ryan Ellis",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4694,
+      "name": "Dmitry Kulikov",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4704,
+      "name": "Marcus Johansson",
+      "team": "MIN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 4706,
+      "name": "Kyle Palmieri",
+      "team": "NYI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 4753,
+      "name": "Evgenii Dadonov",
+      "team": "NJD",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4771,
+      "name": "Travis Hamonic",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4773,
+      "name": "Casey Cizikas",
+      "team": "NYI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4779,
+      "name": "Marcus Foligno",
+      "team": "MIN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 4849,
+      "name": "Jeff Petry",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4935,
+      "name": "Chris Tanev",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4961,
+      "name": "Taylor Hall",
+      "team": "CAR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 4962,
+      "name": "Tyler Seguin",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 4963,
+      "name": "Erik Gudbranson",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4965,
+      "name": "Nino Niederreiter",
+      "team": "WPG",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 4967,
+      "name": "Jeff Skinner",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 4970,
+      "name": "Dylan McIlrath",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4972,
+      "name": "Cam Fowler",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 27
+    },
+    {
+      "player_id": 4974,
+      "name": "Jaden Schwartz",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 4975,
+      "name": "Derek Forbort",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4976,
+      "name": "Vladimir Tarasenko",
+      "team": "MIN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 4979,
+      "name": "Nick Bjugstad",
+      "team": "STL,NJD",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 4984,
+      "name": "Kevin Hayes",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5009,
+      "name": "Alexander Petrovic",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5020,
+      "name": "Tyler Toffoli",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 41
+    },
+    {
+      "player_id": 5024,
+      "name": "Calle Jarnkrok",
+      "team": "TOR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5032,
+      "name": "Jason Zucker",
+      "team": "BUF",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 5039,
+      "name": "Radko Gudas",
+      "team": "ANA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 21
+    },
+    {
+      "player_id": 5104,
+      "name": "John Klingberg",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 9
+    },
+    {
+      "player_id": 5117,
+      "name": "Sam Carrick",
+      "team": "NYR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5120,
+      "name": "Brendan Gallagher",
+      "team": "MTL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5227,
+      "name": "Brayden McNabb",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 5232,
+      "name": "Jared Spurgeon",
+      "team": "MIN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 5238,
+      "name": "Adam Henrique",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5251,
+      "name": "Brenden Dillon",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 5254,
+      "name": "Dmitry Orlov",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 18
+    },
+    {
+      "player_id": 5263,
+      "name": "Ben Chiarot",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 15
+    },
+    {
+      "player_id": 5279,
+      "name": "Gustav Nyquist",
+      "team": "WPG",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5329,
+      "name": "Mattias Ekholm",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 56
+    },
+    {
+      "player_id": 5345,
+      "name": "Nicolas Deslauriers",
+      "team": null,
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5364,
+      "name": "Jonathan Huberdeau",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "O",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 5365,
+      "name": "Adam Larsson",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 5366,
+      "name": "Ryan Strome",
+      "team": "ANA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5369,
+      "name": "Sean Couturier",
+      "team": "PHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 5371,
+      "name": "Jonas Brodin",
+      "team": "MIN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5375,
+      "name": "Jamie Oleksiak",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5377,
+      "name": "Joel Armia",
+      "team": "LAK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5381,
+      "name": "Connor Murphy",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5382,
+      "name": "Stefan Noesen",
+      "team": "NJD",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5387,
+      "name": "Phillip Danault",
+      "team": "LAK,MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 5388,
+      "name": "Vladislav Namestnikov",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5402,
+      "name": "Scott Mayfield",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5405,
+      "name": "Boone Jenner",
+      "team": "CBJ",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 24
+    },
+    {
+      "player_id": 5411,
+      "name": "Brandon Saad",
+      "team": "VGK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5414,
+      "name": "Joel Edmundson",
+      "team": "LAK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5421,
+      "name": "William Karlsson",
+      "team": "VGK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 5434,
+      "name": "Adam Lowry",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5435,
+      "name": "Nick Cousins",
+      "team": "OTT",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5441,
+      "name": "Blake Coleman",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 28
+    },
+    {
+      "player_id": 5462,
+      "name": "Jean-Gabriel Pageau",
+      "team": "NYI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 5464,
+      "name": "Mike Reilly",
+      "team": "CAR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5496,
+      "name": "Nick Seeler",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 5498,
+      "name": "Sean Kuraly",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5544,
+      "name": "Dylan DeMelo",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 5559,
+      "name": "Colin Blackwell",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5573,
+      "name": "Ondrej Palat",
+      "team": "NJD,NYI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5639,
+      "name": "Reilly Smith",
+      "team": "VGK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5659,
+      "name": "Brian Dumoulin",
+      "team": "LAK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5686,
+      "name": "Hampus Lindholm",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 5693,
+      "name": "Radek Faksa",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5694,
+      "name": "Zemgus Girgensons",
+      "team": "TBL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5695,
+      "name": "Cody Ceci",
+      "team": "LAK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5698,
+      "name": "Teuvo Teravainen",
+      "team": "CHI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 5700,
+      "name": "Scott Laughton",
+      "team": "TOR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 5701,
+      "name": "Mark Jankowski",
+      "team": "CAR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5702,
+      "name": "Olli Maatta",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5708,
+      "name": "Brady Skjei",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 5710,
+      "name": "Tanner Pearson",
+      "team": "WPG",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5733,
+      "name": "Jake McCabe",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 5739,
+      "name": "Colton Sissons",
+      "team": "VGK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5741,
+      "name": "Teddy Blueger",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5747,
+      "name": "Jordan Martinook",
+      "team": "CAR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5749,
+      "name": "Damon Severson",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 5756,
+      "name": "Adam Pelech",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5765,
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 32
+    },
+    {
+      "player_id": 5768,
+      "name": "Chandler Stephenson",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 11
+    },
+    {
+      "player_id": 5772,
+      "name": "Oskar Sundqvist",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5776,
+      "name": "Matt Grzelcyk",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5777,
+      "name": "Colton Parayko",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 45
+    },
+    {
+      "player_id": 5783,
+      "name": "Erik Gustafsson",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5785,
+      "name": "Josh Anderson",
+      "team": "MTL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5795,
+      "name": "Brett Kulak",
+      "team": "EDM,PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5810,
+      "name": "Jaccob Slavin",
+      "team": "CAR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 5837,
+      "name": "Ben Hutton",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5840,
+      "name": "Alexander Kerfoot",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5841,
+      "name": "Colin Miller",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5846,
+      "name": "Connor Brown",
+      "team": "NJD",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5859,
+      "name": "Vincent Hinostroza",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5904,
+      "name": "Kurtis MacDermid",
+      "team": null,
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5928,
+      "name": "Anders Lee",
+      "team": "NYI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 15
+    },
+    {
+      "player_id": 5932,
+      "name": "Nate Schmidt",
+      "team": "UTA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 5946,
+      "name": "Erik Haula",
+      "team": "NSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 5958,
+      "name": "Nick Jensen",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5976,
+      "name": "Luke Glendening",
+      "team": "NJD",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5981,
+      "name": "Aleksander Barkov",
+      "team": "FLA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 29
+    },
+    {
+      "player_id": 5982,
+      "name": "Jonathan Drouin",
+      "team": "NYI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 5985,
+      "name": "Sean Monahan",
+      "team": "CBJ",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 22
+    },
+    {
+      "player_id": 5986,
+      "name": "Darnell Nurse",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 58
+    },
+    {
+      "player_id": 5987,
+      "name": "Rasmus Ristolainen",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 5991,
+      "name": "Max Domi",
+      "team": "TOR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 5993,
+      "name": "Alexander Wennberg",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 9
+    },
+    {
+      "player_id": 5994,
+      "name": "Ryan Pulock",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 5995,
+      "name": "Nikita Zadorov",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 38
+    },
+    {
+      "player_id": 5996,
+      "name": "Curtis Lazar",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 5999,
+      "name": "Anthony Mantha",
+      "team": "PIT",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 36
+    },
+    {
+      "player_id": 6002,
+      "name": "Andre Burakovsky",
+      "team": "CHI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6004,
+      "name": "Michael McCarron",
+      "team": "NSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 6008,
+      "name": "Jason Dickinson",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6009,
+      "name": "Ryan Hartman",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 6013,
+      "name": "Adam Erne",
+      "team": "DAL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6015,
+      "name": "J.T. Compher",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6037,
+      "name": "William Carrier",
+      "team": "CAR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6046,
+      "name": "Brett Pesce",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6055,
+      "name": "Pavel Buchnevich",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 22
+    },
+    {
+      "player_id": 6059,
+      "name": "Mattias Janmark",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6060,
+      "name": "Anthony Duclair",
+      "team": "NYI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 6068,
+      "name": "Oliver Bjorkstrand",
+      "team": "TBL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 6079,
+      "name": "Miles Wood",
+      "team": "CBJ",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6080,
+      "name": "Nick Paul",
+      "team": "TBL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6083,
+      "name": "Andrew Copp",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 6089,
+      "name": "Ryan Graves",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6113,
+      "name": "Connor Clifton",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 6117,
+      "name": "Carson Soucy",
+      "team": "NYR,NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6128,
+      "name": "Jonny Brodzinski",
+      "team": "NYR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6232,
+      "name": "Nathan Walker",
+      "team": "STL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6248,
+      "name": "Scott Sabourin",
+      "team": "TBL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6283,
+      "name": "Ross Johnston",
+      "team": "ANA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6290,
+      "name": "Barclay Goodrow",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6330,
+      "name": "Yanni Gourde",
+      "team": "TBL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6340,
+      "name": "Trevor van Riemsdyk",
+      "team": "WSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6350,
+      "name": "Nic Dowd",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6366,
+      "name": "Tomas Nosek",
+      "team": "FLA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-NR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6367,
+      "name": "Aaron Ekblad",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 58
+    },
+    {
+      "player_id": 6373,
+      "name": "Haydn Fleury",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6375,
+      "name": "Nikolaj Ehlers",
+      "team": "CAR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 82
+    },
+    {
+      "player_id": 6382,
+      "name": "Sonny Milano",
+      "team": "WSH",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6385,
+      "name": "Tony DeAngelo",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 6387,
+      "name": "Robby Fabbri",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6388,
+      "name": "Kasperi Kapanen",
+      "team": "EDM",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6407,
+      "name": "Marcus Pettersson",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6425,
+      "name": "Ryan Donato",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 6427,
+      "name": "Christian Dvorak",
+      "team": "PHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 6436,
+      "name": "Warren Foegele",
+      "team": "LAK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6451,
+      "name": "Jake Walman",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 25
+    },
+    {
+      "player_id": 6458,
+      "name": "Michael Amadio",
+      "team": "OTT",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6476,
+      "name": "Devon Toews",
+      "team": "COL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 39
+    },
+    {
+      "player_id": 6481,
+      "name": "Sam Lafferty",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6484,
+      "name": "Danton Heinen",
+      "team": "PIT,CBJ",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6485,
+      "name": "Michael Bunting",
+      "team": "NSH",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6494,
+      "name": "Gustav Forsling",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 31
+    },
+    {
+      "player_id": 6496,
+      "name": "Dakota Joshua",
+      "team": "TOR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6549,
+      "name": "Victor Olofsson",
+      "team": "COL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6555,
+      "name": "Pierre Engvall",
+      "team": "NYI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6573,
+      "name": "Jake Evans",
+      "team": "MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6576,
+      "name": "Jake Middleton",
+      "team": "MIN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6585,
+      "name": "Conor Sheary",
+      "team": "NYR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6616,
+      "name": "Liam O'Brien",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6636,
+      "name": "Garnet Hathaway",
+      "team": "PHI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6655,
+      "name": "Freddy Gaudreau",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6707,
+      "name": "Frank Vatrano",
+      "team": "ANA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 18
+    },
+    {
+      "player_id": 6726,
+      "name": "Evan Rodrigues",
+      "team": "FLA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 6739,
+      "name": "Noel Acciari",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6747,
+      "name": "Noah Hanifin",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 55
+    },
+    {
+      "player_id": 6748,
+      "name": "Pavel Zacha",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "DTD",
+      "percent_owned": 28
+    },
+    {
+      "player_id": 6749,
+      "name": "Ivan Provorov",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 15
+    },
+    {
+      "player_id": 6753,
+      "name": "Lawson Crouse",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 6756,
+      "name": "Jake DeBrusk",
+      "team": "VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 6765,
+      "name": "Brock Boeser",
+      "team": "VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "IR",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 6767,
+      "name": "Jack Roslovic",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 6768,
+      "name": "Noah Juulsen",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6770,
+      "name": "Anthony Beauvillier",
+      "team": "WSH",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6779,
+      "name": "Brandon Carlo",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6781,
+      "name": "A.J. Greer",
+      "team": "FLA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6785,
+      "name": "Erik Cernak",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6789,
+      "name": "Jansen Harkins",
+      "team": "ANA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6792,
+      "name": "Jordan Greenway",
+      "team": "BUF",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6794,
+      "name": "Jeremy Lauzon",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 20
+    },
+    {
+      "player_id": 6797,
+      "name": "Yakov Trenin",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 6799,
+      "name": "Jonas Siegenthaler",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6800,
+      "name": "Kevin Stenlund",
+      "team": "UTA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6805,
+      "name": "Kyle Capobianco",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6808,
+      "name": "Guillaume Brisebois",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-NR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6811,
+      "name": "Keegan Kolesar",
+      "team": "VGK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 6827,
+      "name": "Thomas Novak",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6834,
+      "name": "Will Borgen",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6838,
+      "name": "Nicolas Roy",
+      "team": "TOR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6854,
+      "name": "Parker Wotherspoon",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6857,
+      "name": "Alexandre Carrier",
+      "team": "MTL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 6859,
+      "name": "Caleb Jones",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-NR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6862,
+      "name": "Mathieu Joseph",
+      "team": "STL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6863,
+      "name": "Ryan Shea",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6865,
+      "name": "Conor Garland",
+      "team": "VAN",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 6869,
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 6891,
+      "name": "Adam Gaudette",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6896,
+      "name": "John Marino",
+      "team": "UTA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 6901,
+      "name": "Vladislav Gavrikov",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 6908,
+      "name": "Andrew Mangiapane",
+      "team": "EDM",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 6910,
+      "name": "Mason Appleton",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6928,
+      "name": "Steven Lorentz",
+      "team": "TOR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6936,
+      "name": "Matt Roy",
+      "team": "WSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 6955,
+      "name": "Joel Hanley",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6965,
+      "name": "Philippe Myers",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 6984,
+      "name": "Jalen Chatfield",
+      "team": "CAR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7044,
+      "name": "Ryan Lomberg",
+      "team": "CGY",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7066,
+      "name": "Mason Marchment",
+      "team": "SEA,CBJ",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 27
+    },
+    {
+      "player_id": 7083,
+      "name": "Brandon Tanev",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7093,
+      "name": "Troy Stecher",
+      "team": "EDM,TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7110,
+      "name": "Patrik Laine",
+      "team": "MTL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 7118,
+      "name": "Tyson Jost",
+      "team": "NSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7121,
+      "name": "Jake Bean",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7123,
+      "name": "Luke Kunin",
+      "team": "FLA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7125,
+      "name": "Dante Fabbro",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7126,
+      "name": "Logan Stanley",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 7135,
+      "name": "Brett Howden",
+      "team": "VGK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7137,
+      "name": "Trent Frederic",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7138,
+      "name": "Sam Steel",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7142,
+      "name": "Andrew Peeke",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7149,
+      "name": "Nathan Bastian",
+      "team": "DAL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7155,
+      "name": "Samuel Girard",
+      "team": "COL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7157,
+      "name": "Ryan Lindgren",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7165,
+      "name": "Carl Grundstrom",
+      "team": "PHI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7166,
+      "name": "Taylor Raddysh",
+      "team": "NYR",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7193,
+      "name": "Josh Mahura",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7213,
+      "name": "Brandon Duhaime",
+      "team": "WSH",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7219,
+      "name": "Jacob Moverare",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7224,
+      "name": "Ross Colton",
+      "team": "COL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 7248,
+      "name": "Michael Eyssimont",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7250,
+      "name": "Beck Malenstyn",
+      "team": "BUF",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7288,
+      "name": "Vincent Desharnais",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7289,
+      "name": "Rodrigo Abols",
+      "team": "PHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7320,
+      "name": "Michael Carcone",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7321,
+      "name": "Trevor Moore",
+      "team": "LAK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7332,
+      "name": "Mathieu Olivier",
+      "team": "CBJ",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 13
+    },
+    {
+      "player_id": 7365,
+      "name": "Tanner Jeannot",
+      "team": "BOS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 7374,
+      "name": "Jeffrey Viel",
+      "team": "BOS,ANA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7384,
+      "name": "Zack MacEwen",
+      "team": "NJD",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7399,
+      "name": "Justin Brazeau",
+      "team": "PIT",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 7488,
+      "name": "Nick DeSimone",
+      "team": "UTA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7493,
+      "name": "Alex Iafallo",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7498,
+      "name": "Neal Pionk",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 42
+    },
+    {
+      "player_id": 7499,
+      "name": "David Kampf",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7521,
+      "name": "Cody Glass",
+      "team": "NJD",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 7523,
+      "name": "Casey Mittelstadt",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7524,
+      "name": "Michael Rasmussen",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7532,
+      "name": "Timothy Liljegren",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7533,
+      "name": "Urho Vaakanainen",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7536,
+      "name": "Filip Chytil",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7537,
+      "name": "Kailer Yamamoto",
+      "team": "UTA",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7538,
+      "name": "Pierre-Olivier Joseph",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7540,
+      "name": "Ryan Poehling",
+      "team": "ANA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7542,
+      "name": "Morgan Frost",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 7544,
+      "name": "Henri Jokiharju",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7545,
+      "name": "Eeli Tolvanen",
+      "team": "SEA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 24
+    },
+    {
+      "player_id": 7547,
+      "name": "Conor Timmins",
+      "team": "BUF",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7549,
+      "name": "Nicolas Hague",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7551,
+      "name": "Jesper Boqvist",
+      "team": "FLA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7557,
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7558,
+      "name": "Dylan Samberg",
+      "team": "WPG",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7560,
+      "name": "Alexandre Texier",
+      "team": "STL,MTL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 7564,
+      "name": "Mario Ferraro",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7570,
+      "name": "Jonah Gadjovich",
+      "team": "FLA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7578,
+      "name": "Fabian Zetterlund",
+      "team": "OTT",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 7580,
+      "name": "Jonas Rondbjerg",
+      "team": "VGK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7589,
+      "name": "Johnathan Kovacevic",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7602,
+      "name": "Cale Fleury",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7614,
+      "name": "Jacob Bryson",
+      "team": "BUF",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7618,
+      "name": "Mikey Anderson",
+      "team": "LAK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7628,
+      "name": "Alexey Toropchenko",
+      "team": "STL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7652,
+      "name": "Noah Cates",
+      "team": "PHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 7684,
+      "name": "Nick Perbix",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7689,
+      "name": "Morgan Barron",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7751,
+      "name": "Sean Walker",
+      "team": "CAR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 13
+    },
+    {
+      "player_id": 7773,
+      "name": "Jacob MacDonald",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-NR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7828,
+      "name": "Parker Kelly",
+      "team": "COL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7829,
+      "name": "Pius Suter",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7832,
+      "name": "Mark Kastelic",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 7851,
+      "name": "Zach Whitecloud",
+      "team": "VGK,CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7859,
+      "name": "Eric Robinson",
+      "team": "CAR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7889,
+      "name": "Ilya Lyubushkin",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7901,
+      "name": "Jesperi Kotkaniemi",
+      "team": "CAR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7903,
+      "name": "Barrett Hayton",
+      "team": "UTA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 7906,
+      "name": "Adam Boqvist",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7911,
+      "name": "Ty Dellandrea",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7912,
+      "name": "Joel Farabee",
+      "team": "CGY",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7920,
+      "name": "K'Andre Miller",
+      "team": "CAR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 7921,
+      "name": "Isac Lundestrom",
+      "team": "CBJ",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7924,
+      "name": "Jacob Bernard-Docker",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7926,
+      "name": "Nils Lundkvist",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7927,
+      "name": "Rasmus Sandin",
+      "team": "WSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 7928,
+      "name": "Joseph Veleno",
+      "team": "MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7931,
+      "name": "Jonatan Berggren",
+      "team": "DET,STL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7936,
+      "name": "Alexander Romanov",
+      "team": "NYI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 7938,
+      "name": "Ryan McLeod",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 7940,
+      "name": "Jack Drury",
+      "team": "COL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7944,
+      "name": "Martin Fehervary",
+      "team": "WSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 7950,
+      "name": "Sean Durzi",
+      "team": "UTA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 7953,
+      "name": "Kevin Bahl",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 7956,
+      "name": "Filip Hallander",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7961,
+      "name": "Jack McBain",
+      "team": "UTA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 14
+    },
+    {
+      "player_id": 7965,
+      "name": "Alec Regula",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7969,
+      "name": "Jordan Harris",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7971,
+      "name": "Ty Emberson",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7973,
+      "name": "Oskar Back",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7985,
+      "name": "Linus Karlsson",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7990,
+      "name": "Connor Dewar",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8002,
+      "name": "Martin Pospisil",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8003,
+      "name": "Curtis Douglas",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8009,
+      "name": "Jack St. Ivany",
+      "team": "PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8012,
+      "name": "Paul Cotter",
+      "team": "NJD",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8017,
+      "name": "Philipp Kurashev",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8028,
+      "name": "Spencer Stastney",
+      "team": "NSH,EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8047,
+      "name": "Declan Chisholm",
+      "team": "WSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8053,
+      "name": "Pontus Holmberg",
+      "team": "TBL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8061,
+      "name": "Michael Kesselring",
+      "team": "BUF",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8069,
+      "name": "Yegor Sharangovich",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8081,
+      "name": "Cole Koepke",
+      "team": "WPG",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8097,
+      "name": "Tyler Tucker",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8119,
+      "name": "Logan O'Connor",
+      "team": "COL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8131,
+      "name": "Egor Zamula",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8157,
+      "name": "Simon Benoit",
+      "team": "TOR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8194,
+      "name": "Jonathan Aspirot",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8197,
+      "name": "Jake Christiansen",
+      "team": "CBJ",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8199,
+      "name": "Brayden Pachal",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8217,
+      "name": "Kyle MacLean",
+      "team": "NYI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8245,
+      "name": "Nico Sturm",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8249,
+      "name": "Blake Lizotte",
+      "team": "PIT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8262,
+      "name": "Ilya Mikheyev",
+      "team": "CHI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8273,
+      "name": "Joel Kiviranta",
+      "team": "COL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8280,
+      "name": "Kaapo Kakko",
+      "team": "SEA",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8281,
+      "name": "Kirby Dach",
+      "team": "MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8283,
+      "name": "Alex Turcotte",
+      "team": "LAK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8286,
+      "name": "Philip Broberg",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 8288,
+      "name": "Vasily Podkolzin",
+      "team": "EDM",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 15
+    },
+    {
+      "player_id": 8292,
+      "name": "Cam York",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 8294,
+      "name": "Alex Newhook",
+      "team": "MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8295,
+      "name": "Peyton Krebs",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8300,
+      "name": "Tobias Bjornfot",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8301,
+      "name": "Simon Holmstrom",
+      "team": "NYI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8303,
+      "name": "Connor McMichael",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "IR",
+      "percent_owned": 13
+    },
+    {
+      "player_id": 8308,
+      "name": "John Beecher",
+      "team": "BOS,CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8310,
+      "name": "Shane Pinto",
+      "team": "OTT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 23
+    },
+    {
+      "player_id": 8312,
+      "name": "Bobby Brink",
+      "team": "PHI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8318,
+      "name": "Nils Hoglander",
+      "team": "VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8319,
+      "name": "Kaedan Korczak",
+      "team": "VGK",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8321,
+      "name": "Alex Vlasic",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8325,
+      "name": "Drew Helleson",
+      "team": "ANA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8327,
+      "name": "Matthew Robertson",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8331,
+      "name": "Nicholas Robertson",
+      "team": "TOR",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8338,
+      "name": "Albert Johansson",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8359,
+      "name": "Cole Schwindt",
+      "team": "FLA",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8369,
+      "name": "Aliaksei Protas",
+      "team": "WSH",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 61
+    },
+    {
+      "player_id": 8373,
+      "name": "Jordan Spence",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8376,
+      "name": "Matias Maccelli",
+      "team": "TOR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8392,
+      "name": "Dmitri Voronkov",
+      "team": "CBJ",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 23
+    },
+    {
+      "player_id": 8436,
+      "name": "Elmer Soderblom",
+      "team": "DET",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8438,
+      "name": "Adam Edstrom",
+      "team": "NYR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8522,
+      "name": "Charle-Edouard D'Astous",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8527,
+      "name": "Louis Crevier",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8590,
+      "name": "Drew O'Connor",
+      "team": "VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8595,
+      "name": "Cole Smith",
+      "team": "NSH",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8614,
+      "name": "Artem Zub",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 8646,
+      "name": "Jamie Drysdale",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 8647,
+      "name": "Alexander Holtz",
+      "team": "VGK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8648,
+      "name": "Jack Quinn",
+      "team": "BUF",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 12
+    },
+    {
+      "player_id": 8649,
+      "name": "Marco Rossi",
+      "team": "MIN,VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 8650,
+      "name": "Cole Perfetti",
+      "team": "WPG",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 13
+    },
+    {
+      "player_id": 8656,
+      "name": "Kaiden Guhle",
+      "team": "MTL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 8658,
+      "name": "Dawson Mercer",
+      "team": "NJD",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 20
+    },
+    {
+      "player_id": 8659,
+      "name": "Braden Schneider",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 8660,
+      "name": "Shakir Mukhamadullin",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8661,
+      "name": "Yegor Chinakhov",
+      "team": null,
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 9
+    },
+    {
+      "player_id": 8662,
+      "name": "Hendrix Lapierre",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8663,
+      "name": "Tyson Foerster",
+      "team": "PHI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8664,
+      "name": "Connor Zary",
+      "team": "CGY",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8665,
+      "name": "Justin Barron",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8666,
+      "name": "Jake Neighbours",
+      "team": "STL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 8668,
+      "name": "Ridly Greig",
+      "team": "OTT",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 8670,
+      "name": "Mavrik Bourque",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8671,
+      "name": "Ozzy Wiesblatt",
+      "team": "NSH",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8674,
+      "name": "JJ Peterka",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 55
+    },
+    {
+      "player_id": 8682,
+      "name": "Luke Evangelista",
+      "team": "NSH",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 11
+    },
+    {
+      "player_id": 8689,
+      "name": "Yan Kuznetsov",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8696,
+      "name": "Jack Finley",
+      "team": "TBL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8700,
+      "name": "Gage Goncalves",
+      "team": "TBL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8701,
+      "name": "Donovan Sebrango",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8703,
+      "name": "Daemon Hunt",
+      "team": "MIN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8725,
+      "name": "Justin Sourdif",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 15
+    },
+    {
+      "player_id": 8739,
+      "name": "Adam Wilsby",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8788,
+      "name": "Matthew Kessel",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8804,
+      "name": "Matt Rempe",
+      "team": "NYR",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8806,
+      "name": "Nils Aman",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8819,
+      "name": "Cole Reinhardt",
+      "team": "VGK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8841,
+      "name": "Ilya Solovyov",
+      "team": "COL,PIT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8856,
+      "name": "Josh Dunne",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8860,
+      "name": "Alex Steeves",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8868,
+      "name": "Justin Danforth",
+      "team": "BUF",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8874,
+      "name": "Jeff Malott",
+      "team": "LAK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8877,
+      "name": "Owen Power",
+      "team": "BUF",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 11
+    },
+    {
+      "player_id": 8879,
+      "name": "Mason McTavish",
+      "team": "ANA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 50
+    },
+    {
+      "player_id": 8881,
+      "name": "Kent Johnson",
+      "team": "CBJ",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 8882,
+      "name": "Simon Edvinsson",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 8883,
+      "name": "William Eklund",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 32
+    },
+    {
+      "player_id": 8887,
+      "name": "Cole Sillinger",
+      "team": "CBJ",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 8891,
+      "name": "Brennan Othmann",
+      "team": "NYR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8892,
+      "name": "Zachary Bolduc",
+      "team": "MTL",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 8906,
+      "name": "Logan Mailloux",
+      "team": "STL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8909,
+      "name": "Olen Zellweger",
+      "team": "ANA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 8910,
+      "name": "Ryker Evans",
+      "team": "SEA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8914,
+      "name": "Zack Ostapchuk",
+      "team": "SJS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8922,
+      "name": "Logan Stankoven",
+      "team": "CAR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 20
+    },
+    {
+      "player_id": 8927,
+      "name": "Aatu Raty",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8930,
+      "name": "Vincent Iorio",
+      "team": "SJS,NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8934,
+      "name": "Samuel Helenius",
+      "team": "LAK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 8935,
+      "name": "J.J. Moser",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 18
+    },
+    {
+      "player_id": 8937,
+      "name": "Colton Dach",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 8942,
+      "name": "Ryan Winterton",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9006,
+      "name": "Jacob Melanson",
+      "team": "SEA",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 9068,
+      "name": "Tyson Kozak",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9154,
+      "name": "Arber Xhekaj",
+      "team": "MTL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 9207,
+      "name": "Tye Kartye",
+      "team": "SEA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9226,
+      "name": "Marc McLaughlin",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9227,
+      "name": "Taylor Ward",
+      "team": "LAK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9228,
+      "name": "Declan Carlile",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9243,
+      "name": "Nick Blankenburg",
+      "team": "NSH",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9246,
+      "name": "Ben Meyers",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9251,
+      "name": "Bobby McMann",
+      "team": "TOR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 18
+    },
+    {
+      "player_id": 9258,
+      "name": "Adam Klapka",
+      "team": "CGY",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 9264,
+      "name": "Pavol Regenda",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9268,
+      "name": "Andrei Kuzmenko",
+      "team": "LAK",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "DTD",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 9270,
+      "name": "Simon Nemec",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 9
+    },
+    {
+      "player_id": 9272,
+      "name": "Shane Wright",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 9276,
+      "name": "Marco Kasper",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 9277,
+      "name": "Matt Savoie",
+      "team": "EDM",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 9278,
+      "name": "Pavel Mintyukov",
+      "team": "ANA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9284,
+      "name": "Noah Ostlund",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9287,
+      "name": "Liam Ohgren",
+      "team": "MIN,VAN",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9296,
+      "name": "Jiri Kulich",
+      "team": "BUF",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9306,
+      "name": "Fraser Minten",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 17
+    },
+    {
+      "player_id": 9424,
+      "name": "Sandis Vilmanis",
+      "team": "FLA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9522,
+      "name": "Ethen Frank",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 9594,
+      "name": "Marc Gatcomb",
+      "team": "NYI",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9603,
+      "name": "Braeden Bowman",
+      "team": "VGK",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30024,
+      "name": "Frank Nazar",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 18
+    },
+    {
+      "player_id": 30104,
+      "name": "Wyatt Kaiser",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "DTD",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30108,
+      "name": "Jayden Struble",
+      "team": "MTL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30121,
+      "name": "Max Crozier",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30124,
+      "name": "Tyler Kleven",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 30145,
+      "name": "Matt Coronato",
+      "team": "CGY",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 8
+    },
+    {
+      "player_id": 30147,
+      "name": "Scott Morrow",
+      "team": "NYR",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30148,
+      "name": "Emil Andrae",
+      "team": "PHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30155,
+      "name": "Jackson Blake",
+      "team": "CAR",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 10
+    },
+    {
+      "player_id": 30163,
+      "name": "Mason Lohrei",
+      "team": "BOS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 30184,
+      "name": "Easton Cowan",
+      "team": "TOR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 30221,
+      "name": "Luke Hughes",
+      "team": "NJD",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 65
+    },
+    {
+      "player_id": 30327,
+      "name": "Uvis Balinskis",
+      "team": "FLA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 30522,
+      "name": "Mackie Samoskevich",
+      "team": "FLA",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 30525,
+      "name": "Nikolas Matinpalo",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30548,
+      "name": "Matvei Michkov",
+      "team": "PHI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 43
+    },
+    {
+      "player_id": 30549,
+      "name": "Zach Benson",
+      "team": "BUF",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 6
+    },
+    {
+      "player_id": 30555,
+      "name": "Dalibor Dvorsky",
+      "team": "STL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30556,
+      "name": "Tom Willander",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30559,
+      "name": "Oliver Moore",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30561,
+      "name": "Axel Sandin-Pellikka",
+      "team": "DET",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 30562,
+      "name": "Samuel Honzek",
+      "team": "CGY",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30569,
+      "name": "Calum Ritchie",
+      "team": "NYI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30574,
+      "name": "Gabe Perreault",
+      "team": "NYR",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30578,
+      "name": "Gavin Brindley",
+      "team": "COL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30611,
+      "name": "Denver Barkey",
+      "team": "PHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30680,
+      "name": "Emmitt Finnie",
+      "team": "DET",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
+      "player_id": 30742,
+      "name": "Danila Yurov",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30788,
+      "name": "Emil Lilleberg",
+      "team": "TBL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30796,
+      "name": "Oliver Kapanen",
+      "team": "MTL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 30849,
+      "name": "Jimmy Snuggerud",
+      "team": "STL",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 30877,
+      "name": "Dominic James",
+      "team": "TBL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30885,
+      "name": "Arseny Gritsyuk",
+      "team": "NJD",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 30914,
+      "name": "Landon Slaggert",
+      "team": "CHI",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30960,
+      "name": "Noah Laba",
+      "team": "NYR",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30965,
+      "name": "Marat Khusnutdinov",
+      "team": "BOS",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
+      "player_id": 30994,
+      "name": "Max Sasson",
+      "team": "VAN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 31161,
+      "name": "Sam Malinski",
+      "team": "COL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 19
+    },
+    {
+      "player_id": 31617,
+      "name": "Ian Moore",
+      "team": "ANA",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 31800,
+      "name": "Lian Bichsel",
+      "team": "DAL",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-LT",
+      "percent_owned": 5
+    },
+    {
+      "player_id": 31911,
+      "name": "Ryan Greene",
+      "team": "CHI",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 32585,
+      "name": "Zakhar Bardakov",
+      "team": "COL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 32762,
+      "name": "Elias Pettersson",
+      "team": "VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 32764,
+      "name": "Artyom Levshunov",
+      "team": "CHI",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 7
+    },
+    {
+      "player_id": 32766,
+      "name": "Zeev Buium",
+      "team": "MIN,VAN",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "IR",
+      "percent_owned": 32
+    },
+    {
+      "player_id": 32771,
+      "name": "Sam Dickinson",
+      "team": "SJS",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    },
+    {
+      "player_id": 32773,
+      "name": "Zayne Parekh",
+      "team": "CGY",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 16
+    },
+    {
+      "player_id": 32775,
+      "name": "Berkly Catton",
+      "team": "SEA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util",
+        "IR",
+        "IR+"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "IR",
+      "percent_owned": 1
+    },
+    {
+      "player_id": 32811,
+      "name": "Collin Graf",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4
+    }
+  ]
+}
