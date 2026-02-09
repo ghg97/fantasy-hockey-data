@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-08T11:35:53.999955",
+  "fetched_at": "2026-02-09T06:03:41.448132",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -10,17 +10,19 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "C",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 5431,
       "name": "Vincent Trocheck",
       "team": "NYR",
       "position": "C",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
       "selected_position": "C",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 8653,
@@ -30,27 +32,30 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "LW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8699,
       "name": "Will Cuylle",
       "team": "NYR",
       "position": "LW",
-      "line": 3,
+      "line": 2,
       "pp_unit": 2,
       "selected_position": "LW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 4471,
       "name": "Steven Stamkos",
       "team": "NSH",
       "position": "C",
-      "line": 2,
+      "line": 1,
       "pp_unit": 1,
       "selected_position": "RW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7264,
@@ -60,7 +65,8 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "RW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 5689,
@@ -68,9 +74,10 @@
       "team": "ANA",
       "position": "D",
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": null,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7161,
@@ -80,17 +87,19 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 9280,
       "name": "Denton Mateychuk",
       "team": "CBJ",
       "position": "D",
-      "line": 3,
+      "line": 2,
       "pp_unit": 2,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7930,
@@ -100,7 +109,8 @@
       "line": 1,
       "pp_unit": null,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 6402,
@@ -108,9 +118,10 @@
       "team": "VGK",
       "position": "LW",
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": null,
       "selected_position": "Util",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 4990,
@@ -120,17 +131,19 @@
       "line": 2,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 9269,
       "name": "Juraj Slafkovsk\u00fd",
       "team": "MTL",
       "position": "LW",
-      "line": null,
-      "pp_unit": null,
+      "line": 2,
+      "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7115,
@@ -140,7 +153,8 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7554,
@@ -150,7 +164,8 @@
       "line": 2,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7910,
@@ -160,17 +175,19 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8652,
       "name": "Anton Lundell",
       "team": "FLA",
       "position": "C",
-      "line": 3,
-      "pp_unit": 2,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 7089,
@@ -180,7 +197,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": ""
+      "status": "",
+      "nhl_position": "Starting Goalie"
     },
     {
       "player_id": 6447,
@@ -190,7 +208,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": ""
+      "status": "",
+      "nhl_position": "Starting Goalie"
     },
     {
       "player_id": 6486,
@@ -200,7 +219,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "IR",
-      "status": "IR"
+      "status": "IR",
+      "nhl_position": "Injured Reserve 4"
     },
     {
       "player_id": 7569,
@@ -210,7 +230,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "IR+",
-      "status": "IR"
+      "status": "IR",
+      "nhl_position": "Injured Reserve 6"
     }
   ]
 }
