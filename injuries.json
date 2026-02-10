@@ -159,15 +159,7 @@
         "date": "2025-09-30T17:35Z"
       }
     ],
-    "COL": [
-      {
-        "name": "Martin Necas",
-        "team": "COL",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-05T14:13Z"
-      }
-    ],
+    "COL": [],
     "CBJ": [
       {
         "name": "Kirill Marchenko",
@@ -420,13 +412,6 @@
     ],
     "PIT": [
       {
-        "name": "Rickard Rakell",
-        "team": "PIT",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-06T15:02Z"
-      },
-      {
         "name": "Noel Acciari",
         "team": "PIT",
         "status": "Day-To-Day",
@@ -569,6 +554,13 @@
       }
     ],
     "TOR": [
+      {
+        "name": "William Nylander",
+        "team": "TOR",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-02-10T15:46Z"
+      },
       {
         "name": "Morgan Rielly",
         "team": "TOR",
@@ -867,13 +859,6 @@
       "details": "ir-lt",
       "date": "2025-09-30T17:35Z"
     },
-    "Martin Necas": {
-      "name": "Martin Necas",
-      "team": "COL",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-05T14:13Z"
-    },
     "Kirill Marchenko": {
       "name": "Kirill Marchenko",
       "team": "CBJ",
@@ -1098,13 +1083,6 @@
       "details": "Abols could still return in time for the last month of the regular season, though that may depend on how the Flyers are performing at the time. In any case, the 30-year-old is likely to be out at least two months. He is on injured reserve and could be transferred to long-term injured reserve if the Flyers get into a cap crunch.",
       "date": "2026-01-22T00:33Z"
     },
-    "Rickard Rakell": {
-      "name": "Rickard Rakell",
-      "team": "PIT",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-06T15:02Z"
-    },
     "Noel Acciari": {
       "name": "Noel Acciari",
       "team": "PIT",
@@ -1237,6 +1215,13 @@
       "status": "Injured Reserve",
       "details": "ir",
       "date": "2026-01-25T21:40Z"
+    },
+    "William Nylander": {
+      "name": "William Nylander",
+      "team": "TOR",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-02-10T15:46Z"
     },
     "Morgan Rielly": {
       "name": "Morgan Rielly",
@@ -1380,6 +1365,6 @@
     }
   },
   "injury_opportunities": {},
-  "total_injured": 94,
-  "fetched_at": "2026-02-09T06:03:32.556433"
+  "total_injured": 93,
+  "fetched_at": "2026-02-10T18:54:00.526609"
 }

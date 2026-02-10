@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-09T06:04:05.144509",
-  "count": 525,
+  "fetched_at": "2026-02-10T18:54:48.316853",
+  "count": 526,
   "players": [
     {
       "player_id": 3358,
@@ -2784,7 +2784,7 @@
     {
       "player_id": 6481,
       "name": "Sam Lafferty",
-      "team": null,
+      "team": "CHI",
       "position": "C",
       "eligible_positions": [
         "C",
@@ -3990,7 +3990,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 0,
       "nhl_position": "Left Wing"
     },
     {
@@ -5451,7 +5451,7 @@
     {
       "player_id": 8131,
       "name": "Egor Zamula",
-      "team": "PHI,CBJ",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
@@ -5495,7 +5495,7 @@
     {
       "player_id": 8197,
       "name": "Jake Christiansen",
-      "team": null,
+      "team": "CBJ",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -6064,7 +6064,7 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 2,
       "nhl_position": "Right Defense"
     },
     {
@@ -6412,6 +6412,20 @@
       "status": "",
       "percent_owned": 55,
       "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 8678,
+      "name": "Thomas Bordeleau",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 8682,
@@ -7001,7 +7015,7 @@
     {
       "player_id": 9154,
       "name": "Arber Xhekaj",
-      "team": "MTL",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",

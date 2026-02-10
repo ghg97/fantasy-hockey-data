@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-09T06:04:07.560501",
+  "fetched_at": "2026-02-10T18:54:51.415259",
   "count": 36,
   "players": [
     {
@@ -54,7 +54,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 23
+      "percent_owned": 22
     },
     {
       "player_id": 4854,
@@ -448,6 +448,19 @@
       "percent_owned": 7
     },
     {
+      "player_id": 8817,
+      "name": "Garin Bjorklund",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
       "player_id": 8871,
       "name": "Arvid Soderblom",
       "team": "CHI",
@@ -472,19 +485,6 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 65
-    },
-    {
-      "player_id": 9234,
-      "name": "Clay Stevenson",
-      "team": "WSH",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 3
     }
   ]
 }
