@@ -1407,17 +1407,17 @@
     {
       "player_id": 5639,
       "name": "Reilly Smith",
-      "team": "VGK",
+      "team": "SJS",
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": 2,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 5659,
@@ -2360,11 +2360,11 @@
         "Util",
         "IR+"
       ],
-      "line": null,
-      "pp_unit": null,
+      "line": 4,
+      "pp_unit": 2,
       "status": "DTD",
       "percent_owned": 2,
-      "nhl_position": "Injured Reserve 5"
+      "nhl_position": "Center"
     },
     {
       "player_id": 6083,
