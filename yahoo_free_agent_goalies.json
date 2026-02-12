@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-10T18:54:51.415259",
-  "count": 36,
+  "fetched_at": "2026-02-12T06:11:02.867819",
+  "count": 37,
   "players": [
     {
       "player_id": 4003,
@@ -229,7 +229,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 14
+      "percent_owned": 15
     },
     {
       "player_id": 6462,
@@ -485,6 +485,19 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 65
+    },
+    {
+      "player_id": 30135,
+      "name": "Hugo Ollas",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     }
   ]
 }

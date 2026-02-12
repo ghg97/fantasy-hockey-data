@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-10T18:54:48.316853",
-  "count": 526,
+  "fetched_at": "2026-02-12T06:11:00.468403",
+  "count": 525,
   "players": [
     {
       "player_id": 3358,
@@ -1407,17 +1407,17 @@
     {
       "player_id": 5639,
       "name": "Reilly Smith",
-      "team": "SJS",
+      "team": "VGK",
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": 1,
-      "pp_unit": 1,
+      "line": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 5659,
@@ -2784,7 +2784,7 @@
     {
       "player_id": 6481,
       "name": "Sam Lafferty",
-      "team": "CHI",
+      "team": null,
       "position": "C",
       "eligible_positions": [
         "C",
@@ -3990,7 +3990,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
+      "percent_owned": 1,
       "nhl_position": "Left Wing"
     },
     {
@@ -4529,12 +4529,11 @@
       "eligible_positions": [
         "LW",
         "RW",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 3,
       "nhl_position": "Injured Reserve 4"
     },
@@ -4621,7 +4620,7 @@
     {
       "player_id": 7602,
       "name": "Cale Fleury",
-      "team": null,
+      "team": "SEA",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -5451,7 +5450,7 @@
     {
       "player_id": 8131,
       "name": "Egor Zamula",
-      "team": null,
+      "team": "PHI,CBJ",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -5495,7 +5494,7 @@
     {
       "player_id": 8197,
       "name": "Jake Christiansen",
-      "team": "CBJ",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
@@ -6466,11 +6465,10 @@
         "C",
         "Util"
       ],
-      "line": 4,
-      "pp_unit": 2,
+      "line": null,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Center"
+      "percent_owned": 0
     },
     {
       "player_id": 8700,
@@ -7040,22 +7038,6 @@
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 9226,
-      "name": "Marc McLaughlin",
-      "team": null,
-      "position": "C",
-      "eligible_positions": [
-        "C",
-        "Util",
-        "IR",
-        "IR+"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "IR-LT",
-      "percent_owned": 0
     },
     {
       "player_id": 9227,
