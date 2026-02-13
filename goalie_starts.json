@@ -1,38 +1,5 @@
 {
-  "starters": {
-    "Jordan Binnington": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Frederik Andersen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Arturs Silovs": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Lukas Dostal": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Connor Hellebuyck": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Philipp Grubauer": {
-      "status": "unconfirmed",
-      "starting_today": false
-    }
-  },
-  "date": "2026-02-12",
-  "fetched_at": "2026-02-12T06:10:28.068166"
+  "starters": {},
+  "date": "2026-02-13",
+  "fetched_at": "2026-02-13T11:55:53.127560"
 }
