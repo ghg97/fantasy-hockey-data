@@ -1,5 +1,42 @@
 {
-  "starters": {},
-  "date": "2026-02-13",
-  "fetched_at": "2026-02-13T11:55:53.127560"
+  "starters": {
+    "Philipp Grubauer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arturs Silovs": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Samuel Hlavaj": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-02-14",
+  "fetched_at": "2026-02-14T09:40:04.034330"
 }
