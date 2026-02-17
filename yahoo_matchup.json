@@ -1,4 +1,4 @@
 {
-  "fetched_at": "2026-02-16T06:30:12.812260",
-  "error": "HTTPSConnectionPool(host='fantasysports.yahooapis.com', port=443): Max retries exceeded with url: /fantasy/v2/users;use_login=1/games/teams?format=json (Caused by NameResolutionError(\"HTTPSConnection(host='fantasysports.yahooapis.com', port=443): Failed to resolve 'fantasysports.yahooapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  "fetched_at": "2026-02-16T08:26:44.916019",
+  "error": "Team.matchup() missing 1 required positional argument: 'week'"
 }

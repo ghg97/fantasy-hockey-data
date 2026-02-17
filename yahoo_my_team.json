@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-16T06:25:44.455602",
+  "fetched_at": "2026-02-16T08:26:30.912853",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -10,8 +10,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "C",
-      "status": "",
-      "nhl_position": "Center"
+      "status": ""
     },
     {
       "player_id": 5431,
@@ -65,8 +64,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "RW",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 5689,
@@ -87,8 +85,7 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 9280,
@@ -120,8 +117,7 @@
       "line": 1,
       "pp_unit": null,
       "selected_position": "Util",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 4990,
@@ -153,8 +149,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 7554,
