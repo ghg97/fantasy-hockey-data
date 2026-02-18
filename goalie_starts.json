@@ -1,5 +1,46 @@
 {
-  "starters": {},
-  "date": "2026-02-17",
-  "fetched_at": "2026-02-17T09:36:18.084181"
+  "starters": {
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jordan Binnington": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Philipp Grubauer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Leonardo Genoni": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Samuel Hlavaj": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Lukas Dostal": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Hellebuyck": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-02-18",
+  "fetched_at": "2026-02-18T06:01:31.078756"
 }

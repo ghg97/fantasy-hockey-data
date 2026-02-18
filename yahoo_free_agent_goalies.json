@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-16T08:26:44.279137",
-  "count": 37,
+  "fetched_at": "2026-02-18T06:02:00.296559",
+  "count": 39,
   "players": [
     {
       "player_id": 4003,
@@ -327,6 +327,19 @@
       "percent_owned": 18
     },
     {
+      "player_id": 7587,
+      "name": "Matt Villalta",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
       "player_id": 7593,
       "name": "Stuart Skinner",
       "team": "EDM,PIT",
@@ -485,6 +498,19 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 65
+    },
+    {
+      "player_id": 9474,
+      "name": "Domenic DiVincentiis",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 30135,
