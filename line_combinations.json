@@ -3116,7 +3116,7 @@
       "line": null,
       "position": "Backup Goalie"
     },
-    "Caleb Jones": {
+    "Kris Letang": {
       "team": "PIT",
       "pp_unit": null,
       "line": null,
@@ -3146,17 +3146,11 @@
       "line": null,
       "position": "Injured Reserve 5"
     },
-    "Kris Letang": {
-      "team": "PIT",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 6"
-    },
     "Blake Lizotte": {
       "team": "PIT",
       "pp_unit": null,
       "line": null,
-      "position": "Injured Reserve 7"
+      "position": "Injured Reserve 6"
     },
     "Rickard Rakell": {
       "team": "PIT",
@@ -3716,17 +3710,17 @@
       "line": null,
       "position": "Injured Reserve 3"
     },
-    "Anthony Cirelli": {
+    "Maxwell Crozier": {
       "team": "TBL",
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Maxwell Crozier": {
+    "Anthony Cirelli": {
       "team": "TBL",
       "pp_unit": null,
       "line": null,
-      "position": "Skater 4"
+      "position": "Injured Reserve 6"
     },
     "Bobby McMann": {
       "team": "TOR",
@@ -4605,5 +4599,5 @@
       "position": "Injured Reserve 3"
     }
   },
-  "fetched_at": "2026-02-18T06:01:30.231159"
+  "fetched_at": "2026-02-19T06:02:04.347579"
 }

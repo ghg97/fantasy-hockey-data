@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-18T06:02:00.296559",
-  "count": 39,
+  "fetched_at": "2026-02-19T06:02:31.399414",
+  "count": 40,
   "players": [
     {
       "player_id": 4003,
@@ -325,6 +325,19 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 18
+    },
+    {
+      "player_id": 7579,
+      "name": "Michael DiPietro",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 7587,
