@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-19T06:02:13.503570",
+  "fetched_at": "2026-02-23T08:48:07.159718",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -96,7 +96,7 @@
       "team": "CBJ",
       "position": "D",
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": null,
       "selected_position": "D",
       "status": "",
       "nhl_position": "Right Defense"
@@ -231,7 +231,7 @@
       "pp_unit": null,
       "selected_position": "IR+",
       "status": "IR",
-      "nhl_position": "Injured Reserve 6"
+      "nhl_position": "Backup Goalie"
     }
   ]
 }

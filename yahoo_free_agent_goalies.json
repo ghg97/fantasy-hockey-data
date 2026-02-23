@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-19T06:02:31.399414",
+  "fetched_at": "2026-02-23T08:49:53.452656",
   "count": 40,
   "players": [
     {
@@ -121,7 +121,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17
+      "percent_owned": 16
     },
     {
       "player_id": 5753,
@@ -327,32 +327,6 @@
       "percent_owned": 18
     },
     {
-      "player_id": 7579,
-      "name": "Michael DiPietro",
-      "team": null,
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
-      "player_id": 7587,
-      "name": "Matt Villalta",
-      "team": null,
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
       "player_id": 7593,
       "name": "Stuart Skinner",
       "team": "EDM,PIT",
@@ -371,12 +345,11 @@
       "team": "FLA",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 7
     },
     {
@@ -513,9 +486,9 @@
       "percent_owned": 65
     },
     {
-      "player_id": 9474,
-      "name": "Domenic DiVincentiis",
-      "team": null,
+      "player_id": 9516,
+      "name": "Matt Murray",
+      "team": "SEA",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -528,6 +501,32 @@
     {
       "player_id": 30135,
       "name": "Hugo Ollas",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30817,
+      "name": "Aku Koskenvuo",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 31045,
+      "name": "Georgii Romanov",
       "team": null,
       "position": "G",
       "eligible_positions": [
