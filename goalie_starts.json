@@ -1,14 +1,5 @@
 {
-  "starters": {
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    }
-  },
-  "date": "2026-02-23",
-  "fetched_at": "2026-02-23T08:47:24.661791"
+  "starters": {},
+  "date": "2026-02-24",
+  "fetched_at": "2026-02-24T09:24:14.580565"
 }

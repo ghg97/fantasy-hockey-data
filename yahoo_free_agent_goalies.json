@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-23T08:49:53.452656",
+  "fetched_at": "2026-02-23T10:23:21.430768",
   "count": 40,
   "players": [
     {
@@ -80,7 +80,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 25
+      "percent_owned": 24
     },
     {
       "player_id": 5114,
@@ -337,7 +337,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 59
+      "percent_owned": 58
     },
     {
       "player_id": 7601,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-23T08:48:07.159718",
+  "fetched_at": "2026-02-23T10:23:04.271658",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -10,8 +10,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "C",
-      "status": "",
-      "nhl_position": "Center"
+      "status": ""
     },
     {
       "player_id": 5431,
@@ -21,8 +20,7 @@
       "line": 2,
       "pp_unit": 1,
       "selected_position": "C",
-      "status": "",
-      "nhl_position": "Center"
+      "status": ""
     },
     {
       "player_id": 8653,
@@ -32,8 +30,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "LW",
-      "status": "",
-      "nhl_position": "Right Wing"
+      "status": ""
     },
     {
       "player_id": 8699,
@@ -43,8 +40,7 @@
       "line": 2,
       "pp_unit": 2,
       "selected_position": "LW",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 4471,
@@ -54,8 +50,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "RW",
-      "status": "",
-      "nhl_position": "Right Wing"
+      "status": ""
     },
     {
       "player_id": 7264,
@@ -65,8 +60,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "RW",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 5689,
@@ -76,8 +70,7 @@
       "line": 1,
       "pp_unit": null,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 7161,
@@ -87,8 +80,7 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 9280,
@@ -98,8 +90,7 @@
       "line": 2,
       "pp_unit": null,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 7930,
@@ -109,8 +100,7 @@
       "line": 1,
       "pp_unit": null,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Left Defense"
+      "status": ""
     },
     {
       "player_id": 6402,
@@ -120,8 +110,7 @@
       "line": 1,
       "pp_unit": null,
       "selected_position": "Util",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 4990,
@@ -131,19 +120,17 @@
       "line": 2,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Center"
+      "status": ""
     },
     {
       "player_id": 9269,
       "name": "Juraj Slafkovsk\u00fd",
       "team": "MTL",
       "position": "LW",
-      "line": 2,
-      "pp_unit": 1,
+      "line": null,
+      "pp_unit": null,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 7115,
@@ -153,8 +140,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 7554,
@@ -164,8 +150,7 @@
       "line": 2,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 7910,
@@ -175,8 +160,7 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 8652,
@@ -186,8 +170,7 @@
       "line": 1,
       "pp_unit": 1,
       "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Center"
+      "status": ""
     },
     {
       "player_id": 7089,
@@ -197,8 +180,7 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": "",
-      "nhl_position": "Starting Goalie"
+      "status": ""
     },
     {
       "player_id": 6447,
@@ -208,8 +190,7 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": "",
-      "nhl_position": "Starting Goalie"
+      "status": ""
     },
     {
       "player_id": 6486,
@@ -219,8 +200,7 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "IR",
-      "status": "IR",
-      "nhl_position": "Injured Reserve 4"
+      "status": "IR"
     },
     {
       "player_id": 7569,
@@ -230,8 +210,7 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "IR+",
-      "status": "IR",
-      "nhl_position": "Backup Goalie"
+      "status": "IR"
     }
   ]
 }
