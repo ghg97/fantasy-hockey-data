@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-02-23T10:23:21.430768",
-  "count": 40,
+  "fetched_at": "2026-02-27T07:02:55.233801",
+  "count": 37,
   "players": [
     {
       "player_id": 4003,
@@ -28,7 +28,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 6
     },
     {
       "player_id": 4369,
@@ -41,7 +41,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 2
     },
     {
       "player_id": 4589,
@@ -54,7 +54,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 22
+      "percent_owned": 21
     },
     {
       "player_id": 4854,
@@ -80,7 +80,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 24
+      "percent_owned": 23
     },
     {
       "player_id": 5114,
@@ -111,6 +111,21 @@
       "percent_owned": 27
     },
     {
+      "player_id": 5454,
+      "name": "Jordan Binnington",
+      "team": "STL",
+      "position": "G",
+      "eligible_positions": [
+        "G",
+        "IR",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "IR-NR",
+      "percent_owned": 46
+    },
+    {
       "player_id": 5553,
       "name": "Anton Forsberg",
       "team": "LAK",
@@ -121,7 +136,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 16
+      "percent_owned": 13
     },
     {
       "player_id": 5753,
@@ -134,7 +149,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 7
     },
     {
       "player_id": 5774,
@@ -162,7 +177,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 6
     },
     {
       "player_id": 6405,
@@ -177,7 +192,7 @@
       "line": null,
       "pp_unit": null,
       "status": "IR",
-      "percent_owned": 32
+      "percent_owned": 31
     },
     {
       "player_id": 6406,
@@ -190,7 +205,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 6408,
@@ -229,7 +244,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 15
+      "percent_owned": 14
     },
     {
       "player_id": 6462,
@@ -245,19 +260,6 @@
       "percent_owned": 1
     },
     {
-      "player_id": 6819,
-      "name": "Samuel Montembeault",
-      "team": "MTL",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 35
-    },
-    {
       "player_id": 6985,
       "name": "Connor Ingram",
       "team": "EDM",
@@ -268,7 +270,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17
+      "percent_owned": 16
     },
     {
       "player_id": 7084,
@@ -276,14 +278,12 @@
       "team": "WSH",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
-      "percent_owned": 7
+      "status": "",
+      "percent_owned": 6
     },
     {
       "player_id": 7108,
@@ -296,7 +296,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 7156,
@@ -310,13 +310,13 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
-      "percent_owned": 17
+      "status": "IR-LT",
+      "percent_owned": 16
     },
     {
-      "player_id": 7429,
-      "name": "Casey DeSmith",
-      "team": "DAL",
+      "player_id": 7579,
+      "name": "Michael DiPietro",
+      "team": "BOS",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -324,7 +324,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18
+      "percent_owned": 0
     },
     {
       "player_id": 7593,
@@ -337,7 +337,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 58
+      "percent_owned": 56
     },
     {
       "player_id": 7601,
@@ -350,20 +350,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
-    },
-    {
-      "player_id": 7676,
-      "name": "Jiri Patera",
-      "team": "VAN",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
+      "percent_owned": 6
     },
     {
       "player_id": 7886,
@@ -376,7 +363,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 6
+    },
+    {
+      "player_id": 7962,
+      "name": "Justus Annunen",
+      "team": "NSH",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
     },
     {
       "player_id": 8004,
@@ -389,7 +389,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18
+      "percent_owned": 19
     },
     {
       "player_id": 8040,
@@ -397,12 +397,11 @@
       "team": "PHI",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 3
     },
     {
@@ -444,20 +443,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
-    },
-    {
-      "player_id": 8817,
-      "name": "Garin Bjorklund",
-      "team": null,
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
+      "percent_owned": 6
     },
     {
       "player_id": 8871,
@@ -486,21 +472,8 @@
       "percent_owned": 65
     },
     {
-      "player_id": 9516,
-      "name": "Matt Murray",
-      "team": "SEA",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
-      "player_id": 30135,
-      "name": "Hugo Ollas",
+      "player_id": 9474,
+      "name": "Domenic DiVincentiis",
       "team": null,
       "position": "G",
       "eligible_positions": [
@@ -512,9 +485,9 @@
       "percent_owned": 0
     },
     {
-      "player_id": 30817,
-      "name": "Aku Koskenvuo",
-      "team": null,
+      "player_id": 30995,
+      "name": "Nikita Tolopilo",
+      "team": "VAN",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -522,20 +495,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
-    },
-    {
-      "player_id": 31045,
-      "name": "Georgii Romanov",
-      "team": null,
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
+      "percent_owned": 1
     }
   ]
 }

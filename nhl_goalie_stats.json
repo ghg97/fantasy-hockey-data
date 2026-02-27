@@ -1,3 +1,78 @@
 {
-  "fetched_at": "2026-02-26T06:01:08.066162"
+  "fetched_at": "2026-02-27T07:02:35.649021",
+  "wins_leaders": [
+    {
+      "player_id": 8476883,
+      "name": "Andrei Vasilevskiy",
+      "team": "TBL",
+      "games_played": null,
+      "value": 28
+    },
+    {
+      "player_id": 8478872,
+      "name": "Karel Vejmelka",
+      "team": "UTA",
+      "games_played": null,
+      "value": 27
+    },
+    {
+      "player_id": 8483548,
+      "name": "Brandon Bussi",
+      "team": "CAR",
+      "games_played": null,
+      "value": 24
+    },
+    {
+      "player_id": 8479979,
+      "name": "Jake Oettinger",
+      "team": "DAL",
+      "games_played": null,
+      "value": 23
+    },
+    {
+      "player_id": 8476434,
+      "name": "John Gibson",
+      "team": "DET",
+      "games_played": null,
+      "value": 23
+    }
+  ],
+  "save_pct_leaders": [
+    {
+      "player_id": 8482445,
+      "name": "Devin Cooley",
+      "team": "CGY",
+      "games_played": null,
+      "value": 0.921415
+    },
+    {
+      "player_id": 8476883,
+      "name": "Andrei Vasilevskiy",
+      "team": "TBL",
+      "games_played": null,
+      "value": 0.920523
+    },
+    {
+      "player_id": 8478406,
+      "name": "Mackenzie Blackwood",
+      "team": "COL",
+      "games_played": null,
+      "value": 0.915842
+    },
+    {
+      "player_id": 8478009,
+      "name": "Ilya Sorokin",
+      "team": "NYI",
+      "games_played": null,
+      "value": 0.915058
+    },
+    {
+      "player_id": 8475831,
+      "name": "Philipp Grubauer",
+      "team": "SEA",
+      "games_played": null,
+      "value": 0.914149
+    }
+  ],
+  "gaa_leaders": []
 }
