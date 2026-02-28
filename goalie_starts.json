@@ -1,42 +1,5 @@
 {
-  "starters": {
-    "Filip Gustavsson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Karel Vejmelka": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Eric Comrie": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Adin Hill": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Sergei Bobrovsky": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Lukas Dostal": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Logan Thompson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    }
-  },
-  "date": "2026-02-27",
-  "fetched_at": "2026-02-27T07:02:31.124966"
+  "starters": {},
+  "date": "2026-02-28",
+  "fetched_at": "2026-02-28T07:54:53.552083"
 }
