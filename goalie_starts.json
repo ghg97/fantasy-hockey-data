@@ -1,5 +1,114 @@
 {
-  "starters": {},
-  "date": "2026-02-28",
-  "fetched_at": "2026-02-28T07:54:53.552083"
+  "starters": {
+    "Spencer Knight": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jordan Binnington": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Mackenzie Blackwood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joseph Woll": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Kevin Lankinen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jet Greaves": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ilya Sorokin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Anton Forsberg": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Stuart Skinner": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Yaroslav Askarov": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Charlie Lindgren": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Ingram": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Cam Talbot": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joey Daccord": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dustin Wolf": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-01",
+  "fetched_at": "2026-03-01T01:52:46.513285"
 }

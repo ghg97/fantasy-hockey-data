@@ -1,7 +1,1023 @@
 {
-  "injuries_by_team": {},
-  "injured_players": {},
-  "injury_opportunities": {},
-  "total_injured": 0,
-  "fetched_at": "2026-02-28T07:54:53.653508"
+  "injuries_by_team": {
+    "ANA": [
+      {
+        "name": "Ryan Strome",
+        "team": "ANA",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-02-28T19:23Z"
+      },
+      {
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-02-28T11:07Z"
+      },
+      {
+        "name": "Troy Terry",
+        "team": "ANA",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-02-28T11:07Z"
+      },
+      {
+        "name": "Petr Mrazek",
+        "team": "ANA",
+        "status": "Injured Reserve",
+        "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
+        "date": "2026-02-18T23:39Z"
+      },
+      {
+        "name": "Frank Vatrano",
+        "team": "ANA",
+        "status": "Injured Reserve",
+        "details": "Vatrano probably won't return before the Olympic break, based on that timetable. Nikita Nesterenko should get an opportunity to play regularly while Vatrano is recovering. The 31-year-old Vatrano has three goals, six points, 36 PIM, 67 hits and 24 blocks in 38 outings in 2025-26.",
+        "date": "2025-12-31T22:52Z"
+      }
+    ],
+    "BOS": [
+      {
+        "name": "Dans Locmelis",
+        "team": "BOS",
+        "status": "Out",
+        "details": "Locmelis has played through his injury for a while but will now get it addressed. The 22-year-old expects to be ready for training camp in September. He stood out with 28 points in 43 games with AHL Providence this season, as well as two goals in four games with Latvia at the Olympics.",
+        "date": "2026-02-28T23:26Z"
+      }
+    ],
+    "BUF": [
+      {
+        "name": "Jordan Greenway",
+        "team": "BUF",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-25T20:14Z"
+      },
+      {
+        "name": "Justin Danforth",
+        "team": "BUF",
+        "status": "Injured Reserve",
+        "details": "Danforth has been out of the lineup since Oct. 15 versus the Senators, a stretch of 47 games on injured reserve due to his lower-body issue. Once given the all-clear, the 32-year-old winger will likely slot into a bottom-six role. At this point, with his extended layoff, Danforth will likely miss the 20-point threshold for the first time since 2022-23 when he was with Columbus.",
+        "date": "2026-01-26T17:01Z"
+      }
+    ],
+    "CGY": [
+      {
+        "name": "Jonathan Huberdeau",
+        "team": "CGY",
+        "status": "Injured Reserve",
+        "details": "Huberdeau was already ruled out for the rest of the 2025-26 campaign after undergoing hip surgery, so the decision to put him on IR isn't surprising. He'll conclude the year with 10 goals and 25 points in 50 regular-season appearances. The 32-year-old's eight-year, $84 million contract runs through 2030-31, and he has a no-movement clause, so odds are he'll be back with Calgary next season.",
+        "date": "2026-02-21T22:27Z"
+      },
+      {
+        "name": "Cullen Potter",
+        "team": "CGY",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-01-21T23:05Z"
+      }
+    ],
+    "CAR": [
+      {
+        "name": "Pyotr Kochetkov",
+        "team": "CAR",
+        "status": "Injured Reserve",
+        "details": "Kochetkov missed time earlier this season due to the same lower-body issue, and this surgery will fix the problem. Kochetkov is slated to finish the season with a 6-2-0 record, 2.33 GAA and .899 save percentage in six appearances. Brandon Bussi and Frederik Andersen will compete for starts the rest of the campaign. Bussi has been the No. 1 option recently, but it's possible that the 36-year-old Andersen will rebound and challenge Bussi for the starting gig.",
+        "date": "2025-12-29T21:58Z"
+      }
+    ],
+    "CHI": [
+      {
+        "name": "Sam Rinzel",
+        "team": "CHI",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T22:47Z"
+      },
+      {
+        "name": "Wyatt Kaiser",
+        "team": "CHI",
+        "status": "Injured Reserve",
+        "details": "Kaiser suffered a lower-body injury just before the Olympic break, and the Blackhawks announced Tuesday that the 23-year-old won'y be available when the team resumes play in late February. While it's not yet clear when he'll be able to return, he'll be eligible to be activated off injured reserve at any point, while Kevin Korchinski and Sam Rinzel were recalled by Chicago on Wednesday.",
+        "date": "2026-02-18T16:58Z"
+      },
+      {
+        "name": "Ryan Ellis",
+        "team": "CHI",
+        "status": "Injured Reserve",
+        "details": "Ellis hasn't played since 2021-22 when he logged four games for the Flyers, generating one goal and four assists along the way. The 35-year-old blueliner hasn't been officially shifted to long-term injured reserve, but that move could give the Blackhawks some cap relief if they need it.",
+        "date": "2026-01-08T20:25Z"
+      },
+      {
+        "name": "Shea Weber",
+        "team": "CHI",
+        "status": "Injured Reserve",
+        "details": "ir-lt",
+        "date": "2025-09-30T17:35Z"
+      }
+    ],
+    "COL": [
+      {
+        "name": "Joel Kiviranta",
+        "team": "COL",
+        "status": "Out",
+        "details": "Kiviranta sustained the injury during Thursday's game against Minnesota. He was already expected to miss Saturday's match versus Chicago, but Kiviranta being in the concussion protocol means he will probably miss additional time. Zakhar Bardakov will likely play regularly on the fourth line during Kiviranta's absence.",
+        "date": "2026-02-28T23:02Z"
+      }
+    ],
+    "DAL": [
+      {
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "status": "Out",
+        "details": "Hintz skated on his own Saturday, but he will miss his second straight game. He has compiled 15 goals, 44 points, 125 shots on net and 58 hits through 52 appearances this season. According to Robert Tiffin of D Magazine, Hintz should be able to travel with the team for the Stars' two-game road trip against Vancouver and Calgary on Monday and Tuesday, respectively.",
+        "date": "2026-02-28T17:40Z"
+      },
+      {
+        "name": "Mikko Rantanen",
+        "team": "DAL",
+        "status": "Injured Reserve",
+        "details": "Rantanen was previously ruled out for a minimum of two weeks, and it seems that he will miss more than that minimum. He's on injured reserve after getting hurt Feb. 20 while playing for Finland at the 2026 Winter Games. The 29-year-old has 20 goals and 69 points in 54 appearances with Dallas in 2025-26.",
+        "date": "2026-02-27T20:50Z"
+      },
+      {
+        "name": "Tyler Seguin",
+        "team": "DAL",
+        "status": "Injured Reserve",
+        "details": "Dallas has filed the paperwork to gain full cap relief for Seguin, but in doing so, the Stars have ruled out the possibility of him returning at any point during the 2026 postseason. This is the second straight campaign that Seguin has missed a major block of time due to injury -- he played in 20 regular-season outings and an additional 18 playoff matches in 2024-25. He'll finish 2025-26 with seven goals and 17 points in 27 appearances. Seguin's contract runs through 2026-27, so he'll probably be back with the Stars next season.",
+        "date": "2026-02-27T20:24Z"
+      },
+      {
+        "name": "Radek Faksa",
+        "team": "DAL",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-24T22:17Z"
+      }
+    ],
+    "EDM": [
+      {
+        "name": "Mattias Janmark",
+        "team": "EDM",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-27T02:29Z"
+      }
+    ],
+    "FLA": [
+      {
+        "name": "Uvis Balinskis",
+        "team": "FLA",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-02-28T03:21Z"
+      },
+      {
+        "name": "Cole Schwindt",
+        "team": "FLA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-27T21:50Z"
+      },
+      {
+        "name": "Seth Jones",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "Placing Jones on LTIR counters activating Matthew Tkachuk (groin) from LTIR in terms of the cap implications. Jones was already believed to be week-to-week, and this move further cements the reality that the defenseman isn't close to returning. Jones has six goals and 24 points in 40 appearances in 2025-26. He last played Jan. 2.",
+        "date": "2026-01-19T19:55Z"
+      },
+      {
+        "name": "Jonah Gadjovich",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "Gadjovich has been on the shelf since Oct. 25 versus Vegas, a stretch of 31 games on injured reserve. Considering the 27-year-old winger has never reached the 10-point threshold in his five-year NHL career, few fantasy managers figure to be impacted by his continued absence.",
+        "date": "2026-01-05T17:31Z"
+      }
+    ],
+    "LAK": [
+      {
+        "name": "Joel Armia",
+        "team": "LAK",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T23:08Z"
+      },
+      {
+        "name": "Drew Doughty",
+        "team": "LAK",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T23:02Z"
+      },
+      {
+        "name": "Andrei Kuzmenko",
+        "team": "LAK",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-28T19:08Z"
+      },
+      {
+        "name": "Kevin Fiala",
+        "team": "LAK",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-18T18:56Z"
+      }
+    ],
+    "MIN": [
+      {
+        "name": "Jonas Brodin",
+        "team": "MIN",
+        "status": "Injured Reserve",
+        "details": "Brodin had already been ruled out through the Olympic break, and it was previously reported that he wouldn't suit up for Sweden in the tournament. However, his updated timetable suggests that he could also be sidelined for several games after the Wild resume play. A better idea of his status could come into focus in late February, but it's possible that Brodin will be unavailable until at least early March.",
+        "date": "2026-01-26T18:00Z"
+      }
+    ],
+    "MTL": [
+      {
+        "name": "Patrik Laine",
+        "team": "MTL",
+        "status": "Injured Reserve",
+        "details": "Laine underwent core muscle surgery Oct. 25, and this is the first time since then that he has joined his teammates on the ice. Laine was given a 3-4 month recovery timetable and he could return to the lineup as early as late January. Laine has one assist in five games this season.",
+        "date": "2026-01-10T15:23Z"
+      }
+    ],
+    "NJD": [
+      {
+        "name": "Zack MacEwen",
+        "team": "NJD",
+        "status": "Injured Reserve",
+        "details": "MacEwen was injured Nov. 12 and underwent ACL surgery, according to head coach Sheldon Keefe. MacEwen managed six hits and four shots on goal across three appearances for the Devils this season. He should be healthy enough to return for the start of training camp, though he will be an unrestricted free agent come July 1.",
+        "date": "2026-01-10T18:44Z"
+      },
+      {
+        "name": "Stefan Noesen",
+        "team": "NJD",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-01-10T17:56Z"
+      }
+    ],
+    "NYI": [
+      {
+        "name": "Kyle Palmieri",
+        "team": "NYI",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2025-11-30T16:08Z"
+      }
+    ],
+    "NYR": [
+      {
+        "name": "Adam Edstrom",
+        "team": "NYR",
+        "status": "Injured Reserve",
+        "details": "Edstrom looks poised to be ready to play when the Rangers face the Flyers on Thursday. Even if Edstrom is activated off injured reserve before Thursday's tilt, he is far from a lock to play, considering he has managed just four points in 24 games this season. Whenever Edstrom does return, it will likely come at the expense of Brett Berard.",
+        "date": "2026-02-24T16:17Z"
+      },
+      {
+        "name": "Matt Rempe",
+        "team": "NYR",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-20T22:14Z"
+      }
+    ],
+    "OTT": [
+      {
+        "name": "Nikolas Matinpalo",
+        "team": "OTT",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T16:56Z"
+      },
+      {
+        "name": "David Perron",
+        "team": "OTT",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-01-23T22:35Z"
+      }
+    ],
+    "PHI": [
+      {
+        "name": "Ty Murchison",
+        "team": "PHI",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-04T01:48Z"
+      },
+      {
+        "name": "Rodrigo Abols",
+        "team": "PHI",
+        "status": "Injured Reserve",
+        "details": "Abols could still return in time for the last month of the regular season, though that may depend on how the Flyers are performing at the time. In any case, the 30-year-old is likely to be out at least two months. He is on injured reserve and could be transferred to long-term injured reserve if the Flyers get into a cap crunch.",
+        "date": "2026-01-22T00:33Z"
+      }
+    ],
+    "PIT": [
+      {
+        "name": "Filip Hallander",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
+        "date": "2026-02-27T23:43Z"
+      },
+      {
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-25T15:07Z"
+      },
+      {
+        "name": "Caleb Jones",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "Jones is currently on injured reserve due to a lower-body injury, but he had been working in the minors while on a conditioning stint. At a minimum, the 28-year-old blueliner will be out of action until March 31 due to his suspension, though that time frame assumes the league starts counting games immediately, even though he is still on injured reserve.",
+        "date": "2026-02-04T20:29Z"
+      },
+      {
+        "name": "Jack St. Ivany",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "St. Ivany was injured Jan. 25 and had surgery two days later. He is expected to miss up to eight weeks. St. Ivany had seven assists, 40 hits and 23 blocked shots over 17 NHL appearances this season. The Penguins recalled Rutger McGroarty from AHL Wilkes-Barre/Scranton in a corresponding move.",
+        "date": "2026-01-29T15:11Z"
+      },
+      {
+        "name": "Peyton Kettles",
+        "team": "PIT",
+        "status": "Out",
+        "details": "out",
+        "date": "2025-11-24T18:30Z"
+      }
+    ],
+    "SJS": [
+      {
+        "name": "Ty Dellandrea",
+        "team": "SJS",
+        "status": "Injured Reserve",
+        "details": "Dellandrea also skated on his own without equipment earlier in the week. He's clearly making progress, but Dellandrea will almost certainly have to get into a practice and take contact before drawing back into the lineup, so his return likely isn't imminent. The 25-year-old has two goals, 11 points, 18 PIM and 117 hits in 42 appearances in 2025-26. He was last in the lineup Jan. 6.",
+        "date": "2026-02-27T19:13Z"
+      },
+      {
+        "name": "Logan Couture",
+        "team": "SJS",
+        "status": "Injured Reserve",
+        "details": "ir-lt",
+        "date": "2025-09-30T17:35Z"
+      }
+    ],
+    "SEA": [
+      {
+        "name": "Ryan Lindgren",
+        "team": "SEA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-01T03:00Z"
+      },
+      {
+        "name": "Max McCormick",
+        "team": "SEA",
+        "status": "Out",
+        "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
+        "date": "2025-09-30T16:59Z"
+      }
+    ],
+    "STL": [
+      {
+        "name": "Colton Parayko",
+        "team": "STL",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T20:59Z"
+      },
+      {
+        "name": "Robert Thomas",
+        "team": "STL",
+        "status": "Injured Reserve",
+        "details": "Thomas will miss Thursday's game against Seattle. He'll be back with the team ahead of Saturday's match versus the Devils, but it's not clear if he'll be an option for that game. Thomas hasn't played since Jan. 10 due to a leg injury, and he is on IR.",
+        "date": "2026-02-25T16:04Z"
+      }
+    ],
+    "TBL": [
+      {
+        "name": "Dominic James",
+        "team": "TBL",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T03:30Z"
+      },
+      {
+        "name": "Gage Goncalves",
+        "team": "TBL",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T03:27Z"
+      },
+      {
+        "name": "Nick Paul",
+        "team": "TBL",
+        "status": "Injured Reserve",
+        "details": "Paul hasn't played since Feb. 1 due to the injury. Emil Lilleberg was also placed on IR, while Brayden Point was activated off LTIR in corresponding moves. Paul has six goals and 12 points in 34 appearances in 2025-26. He'll likely serve in a middle-six capacity once he's healthy.",
+        "date": "2026-02-25T16:08Z"
+      }
+    ],
+    "TOR": [
+      {
+        "name": "Chris Tanev",
+        "team": "TOR",
+        "status": "Injured Reserve",
+        "details": "Tanev remains out indefinitely. He has already missed the requisite time for LTIR, so he can be activated whenever he's ready, but that is not imminent.",
+        "date": "2026-01-28T23:37Z"
+      }
+    ],
+    "VAN": [
+      {
+        "name": "Tyler Myers",
+        "team": "VAN",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-27T21:02Z"
+      },
+      {
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "status": "Out",
+        "details": "The Canucks announced Saturday that Lekkerimaki would require season-ending surgery, but he's expected to be ready to return in time for training camp in September, when he should have an opportunity to compete for an NHL roster spot. Over 13 appearances with Vancouver this year, the 21-year-old recorded two goals, an assist, 10 hits and five blocked shots while averaging 11:41 of ice time.",
+        "date": "2026-02-27T20:49Z"
+      },
+      {
+        "name": "Filip Chytil",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-26T00:15Z"
+      },
+      {
+        "name": "Thatcher Demko",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "According to the team, Demko's hip surgery is unrelated to the one from last season, and the backstop will be ready for the start of training camp in the fall. Still, the fact that the San Diego native will play less than 25 games for the second straight year is a concern for fans and fantasy managers alike. With Demko on the shelf, Kevin Lankinen figures to serve as the primary option for the Canucks moving forward.",
+        "date": "2026-01-27T18:03Z"
+      },
+      {
+        "name": "Derek Forbort",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
+        "date": "2025-10-28T17:30Z"
+      }
+    ],
+    "WSH": [
+      {
+        "name": "John Carlson",
+        "team": "WSH",
+        "status": "Out",
+        "details": "Carlson was producing offensively prior to getting hurt, racking up 17 points in his last 17 games, including a trio of power-play assists. With the veteran blueliner unavailable, Jakob Chychrun will feature on the top power-play unit while Rasmus Sandin features with the No. 2 group. Given the length of his injury, Carlson could be a candidate for injured reserve to free up a roster spot for the Caps.",
+        "date": "2026-02-27T16:03Z"
+      },
+      {
+        "name": "Eriks Mateiko",
+        "team": "WSH",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-01-13T23:05Z"
+      }
+    ],
+    "WPG": [
+      {
+        "name": "Nino Niederreiter",
+        "team": "WPG",
+        "status": "Injured Reserve",
+        "details": "Head coach Scott Arniel revealed that Niederreiter underwent surgery and remains week-to-week for a return. Prior to the injury, the 33-year-old winger posted eight goals, 19 points and 76 shots on net across 55 games this season. Once he's ready to return to action, he'll look to bolster Winnipeg's forward group and will likely return to a bottom-six role.",
+        "date": "2026-02-28T20:16Z"
+      },
+      {
+        "name": "Vladislav Namestnikov",
+        "team": "WPG",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-28T20:05Z"
+      },
+      {
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "status": "Injured Reserve",
+        "details": "Pionk appeared to be on track to return to the lineup from a lower-body injury against Vancouver on Wednesday. However, he will miss additional action after suffering a new injury. Pionk hasn't played since Jan. 13 against the Islanders and remains on injured reserve. He has two goals, eight points, 76 shots on net, 64 blocked shots and 84 hits across 40 appearances this season.",
+        "date": "2026-02-24T19:20Z"
+      },
+      {
+        "name": "Josh Morrissey",
+        "team": "WPG",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-23T22:35Z"
+      },
+      {
+        "name": "Colin Miller",
+        "team": "WPG",
+        "status": "Injured Reserve",
+        "details": "Miller is week-to-week and will miss his third straight game against Toronto on Saturday. He has contributed one assist, 16 shots on goal, 10 blocked shots and 25 hits across 15 appearances this season. With Neal Pionk (lower body) and Haydn Fleury (upper body) unavailable as well, Elias Salomonsson and Luke Schenn have been seeing time in Winnipeg's bottom four. Isaak Phillips is also on hand as a spare defender.",
+        "date": "2026-01-17T16:48Z"
+      }
+    ]
+  },
+  "injured_players": {
+    "Ryan Strome": {
+      "name": "Ryan Strome",
+      "team": "ANA",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-02-28T19:23Z"
+    },
+    "Mikael Granlund": {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-02-28T11:07Z"
+    },
+    "Troy Terry": {
+      "name": "Troy Terry",
+      "team": "ANA",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-02-28T11:07Z"
+    },
+    "Petr Mrazek": {
+      "name": "Petr Mrazek",
+      "team": "ANA",
+      "status": "Injured Reserve",
+      "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
+      "date": "2026-02-18T23:39Z"
+    },
+    "Frank Vatrano": {
+      "name": "Frank Vatrano",
+      "team": "ANA",
+      "status": "Injured Reserve",
+      "details": "Vatrano probably won't return before the Olympic break, based on that timetable. Nikita Nesterenko should get an opportunity to play regularly while Vatrano is recovering. The 31-year-old Vatrano has three goals, six points, 36 PIM, 67 hits and 24 blocks in 38 outings in 2025-26.",
+      "date": "2025-12-31T22:52Z"
+    },
+    "Dans Locmelis": {
+      "name": "Dans Locmelis",
+      "team": "BOS",
+      "status": "Out",
+      "details": "Locmelis has played through his injury for a while but will now get it addressed. The 22-year-old expects to be ready for training camp in September. He stood out with 28 points in 43 games with AHL Providence this season, as well as two goals in four games with Latvia at the Olympics.",
+      "date": "2026-02-28T23:26Z"
+    },
+    "Jordan Greenway": {
+      "name": "Jordan Greenway",
+      "team": "BUF",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-25T20:14Z"
+    },
+    "Justin Danforth": {
+      "name": "Justin Danforth",
+      "team": "BUF",
+      "status": "Injured Reserve",
+      "details": "Danforth has been out of the lineup since Oct. 15 versus the Senators, a stretch of 47 games on injured reserve due to his lower-body issue. Once given the all-clear, the 32-year-old winger will likely slot into a bottom-six role. At this point, with his extended layoff, Danforth will likely miss the 20-point threshold for the first time since 2022-23 when he was with Columbus.",
+      "date": "2026-01-26T17:01Z"
+    },
+    "Jonathan Huberdeau": {
+      "name": "Jonathan Huberdeau",
+      "team": "CGY",
+      "status": "Injured Reserve",
+      "details": "Huberdeau was already ruled out for the rest of the 2025-26 campaign after undergoing hip surgery, so the decision to put him on IR isn't surprising. He'll conclude the year with 10 goals and 25 points in 50 regular-season appearances. The 32-year-old's eight-year, $84 million contract runs through 2030-31, and he has a no-movement clause, so odds are he'll be back with Calgary next season.",
+      "date": "2026-02-21T22:27Z"
+    },
+    "Cullen Potter": {
+      "name": "Cullen Potter",
+      "team": "CGY",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-01-21T23:05Z"
+    },
+    "Pyotr Kochetkov": {
+      "name": "Pyotr Kochetkov",
+      "team": "CAR",
+      "status": "Injured Reserve",
+      "details": "Kochetkov missed time earlier this season due to the same lower-body issue, and this surgery will fix the problem. Kochetkov is slated to finish the season with a 6-2-0 record, 2.33 GAA and .899 save percentage in six appearances. Brandon Bussi and Frederik Andersen will compete for starts the rest of the campaign. Bussi has been the No. 1 option recently, but it's possible that the 36-year-old Andersen will rebound and challenge Bussi for the starting gig.",
+      "date": "2025-12-29T21:58Z"
+    },
+    "Sam Rinzel": {
+      "name": "Sam Rinzel",
+      "team": "CHI",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T22:47Z"
+    },
+    "Wyatt Kaiser": {
+      "name": "Wyatt Kaiser",
+      "team": "CHI",
+      "status": "Injured Reserve",
+      "details": "Kaiser suffered a lower-body injury just before the Olympic break, and the Blackhawks announced Tuesday that the 23-year-old won'y be available when the team resumes play in late February. While it's not yet clear when he'll be able to return, he'll be eligible to be activated off injured reserve at any point, while Kevin Korchinski and Sam Rinzel were recalled by Chicago on Wednesday.",
+      "date": "2026-02-18T16:58Z"
+    },
+    "Ryan Ellis": {
+      "name": "Ryan Ellis",
+      "team": "CHI",
+      "status": "Injured Reserve",
+      "details": "Ellis hasn't played since 2021-22 when he logged four games for the Flyers, generating one goal and four assists along the way. The 35-year-old blueliner hasn't been officially shifted to long-term injured reserve, but that move could give the Blackhawks some cap relief if they need it.",
+      "date": "2026-01-08T20:25Z"
+    },
+    "Shea Weber": {
+      "name": "Shea Weber",
+      "team": "CHI",
+      "status": "Injured Reserve",
+      "details": "ir-lt",
+      "date": "2025-09-30T17:35Z"
+    },
+    "Joel Kiviranta": {
+      "name": "Joel Kiviranta",
+      "team": "COL",
+      "status": "Out",
+      "details": "Kiviranta sustained the injury during Thursday's game against Minnesota. He was already expected to miss Saturday's match versus Chicago, but Kiviranta being in the concussion protocol means he will probably miss additional time. Zakhar Bardakov will likely play regularly on the fourth line during Kiviranta's absence.",
+      "date": "2026-02-28T23:02Z"
+    },
+    "Roope Hintz": {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "status": "Out",
+      "details": "Hintz skated on his own Saturday, but he will miss his second straight game. He has compiled 15 goals, 44 points, 125 shots on net and 58 hits through 52 appearances this season. According to Robert Tiffin of D Magazine, Hintz should be able to travel with the team for the Stars' two-game road trip against Vancouver and Calgary on Monday and Tuesday, respectively.",
+      "date": "2026-02-28T17:40Z"
+    },
+    "Mikko Rantanen": {
+      "name": "Mikko Rantanen",
+      "team": "DAL",
+      "status": "Injured Reserve",
+      "details": "Rantanen was previously ruled out for a minimum of two weeks, and it seems that he will miss more than that minimum. He's on injured reserve after getting hurt Feb. 20 while playing for Finland at the 2026 Winter Games. The 29-year-old has 20 goals and 69 points in 54 appearances with Dallas in 2025-26.",
+      "date": "2026-02-27T20:50Z"
+    },
+    "Tyler Seguin": {
+      "name": "Tyler Seguin",
+      "team": "DAL",
+      "status": "Injured Reserve",
+      "details": "Dallas has filed the paperwork to gain full cap relief for Seguin, but in doing so, the Stars have ruled out the possibility of him returning at any point during the 2026 postseason. This is the second straight campaign that Seguin has missed a major block of time due to injury -- he played in 20 regular-season outings and an additional 18 playoff matches in 2024-25. He'll finish 2025-26 with seven goals and 17 points in 27 appearances. Seguin's contract runs through 2026-27, so he'll probably be back with the Stars next season.",
+      "date": "2026-02-27T20:24Z"
+    },
+    "Radek Faksa": {
+      "name": "Radek Faksa",
+      "team": "DAL",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-24T22:17Z"
+    },
+    "Mattias Janmark": {
+      "name": "Mattias Janmark",
+      "team": "EDM",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-27T02:29Z"
+    },
+    "Uvis Balinskis": {
+      "name": "Uvis Balinskis",
+      "team": "FLA",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-02-28T03:21Z"
+    },
+    "Cole Schwindt": {
+      "name": "Cole Schwindt",
+      "team": "FLA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-27T21:50Z"
+    },
+    "Seth Jones": {
+      "name": "Seth Jones",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "Placing Jones on LTIR counters activating Matthew Tkachuk (groin) from LTIR in terms of the cap implications. Jones was already believed to be week-to-week, and this move further cements the reality that the defenseman isn't close to returning. Jones has six goals and 24 points in 40 appearances in 2025-26. He last played Jan. 2.",
+      "date": "2026-01-19T19:55Z"
+    },
+    "Jonah Gadjovich": {
+      "name": "Jonah Gadjovich",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "Gadjovich has been on the shelf since Oct. 25 versus Vegas, a stretch of 31 games on injured reserve. Considering the 27-year-old winger has never reached the 10-point threshold in his five-year NHL career, few fantasy managers figure to be impacted by his continued absence.",
+      "date": "2026-01-05T17:31Z"
+    },
+    "Joel Armia": {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T23:08Z"
+    },
+    "Drew Doughty": {
+      "name": "Drew Doughty",
+      "team": "LAK",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T23:02Z"
+    },
+    "Andrei Kuzmenko": {
+      "name": "Andrei Kuzmenko",
+      "team": "LAK",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-28T19:08Z"
+    },
+    "Kevin Fiala": {
+      "name": "Kevin Fiala",
+      "team": "LAK",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-18T18:56Z"
+    },
+    "Jonas Brodin": {
+      "name": "Jonas Brodin",
+      "team": "MIN",
+      "status": "Injured Reserve",
+      "details": "Brodin had already been ruled out through the Olympic break, and it was previously reported that he wouldn't suit up for Sweden in the tournament. However, his updated timetable suggests that he could also be sidelined for several games after the Wild resume play. A better idea of his status could come into focus in late February, but it's possible that Brodin will be unavailable until at least early March.",
+      "date": "2026-01-26T18:00Z"
+    },
+    "Patrik Laine": {
+      "name": "Patrik Laine",
+      "team": "MTL",
+      "status": "Injured Reserve",
+      "details": "Laine underwent core muscle surgery Oct. 25, and this is the first time since then that he has joined his teammates on the ice. Laine was given a 3-4 month recovery timetable and he could return to the lineup as early as late January. Laine has one assist in five games this season.",
+      "date": "2026-01-10T15:23Z"
+    },
+    "Zack MacEwen": {
+      "name": "Zack MacEwen",
+      "team": "NJD",
+      "status": "Injured Reserve",
+      "details": "MacEwen was injured Nov. 12 and underwent ACL surgery, according to head coach Sheldon Keefe. MacEwen managed six hits and four shots on goal across three appearances for the Devils this season. He should be healthy enough to return for the start of training camp, though he will be an unrestricted free agent come July 1.",
+      "date": "2026-01-10T18:44Z"
+    },
+    "Stefan Noesen": {
+      "name": "Stefan Noesen",
+      "team": "NJD",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-01-10T17:56Z"
+    },
+    "Kyle Palmieri": {
+      "name": "Kyle Palmieri",
+      "team": "NYI",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2025-11-30T16:08Z"
+    },
+    "Adam Edstrom": {
+      "name": "Adam Edstrom",
+      "team": "NYR",
+      "status": "Injured Reserve",
+      "details": "Edstrom looks poised to be ready to play when the Rangers face the Flyers on Thursday. Even if Edstrom is activated off injured reserve before Thursday's tilt, he is far from a lock to play, considering he has managed just four points in 24 games this season. Whenever Edstrom does return, it will likely come at the expense of Brett Berard.",
+      "date": "2026-02-24T16:17Z"
+    },
+    "Matt Rempe": {
+      "name": "Matt Rempe",
+      "team": "NYR",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-20T22:14Z"
+    },
+    "Nikolas Matinpalo": {
+      "name": "Nikolas Matinpalo",
+      "team": "OTT",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T16:56Z"
+    },
+    "David Perron": {
+      "name": "David Perron",
+      "team": "OTT",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-01-23T22:35Z"
+    },
+    "Ty Murchison": {
+      "name": "Ty Murchison",
+      "team": "PHI",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-04T01:48Z"
+    },
+    "Rodrigo Abols": {
+      "name": "Rodrigo Abols",
+      "team": "PHI",
+      "status": "Injured Reserve",
+      "details": "Abols could still return in time for the last month of the regular season, though that may depend on how the Flyers are performing at the time. In any case, the 30-year-old is likely to be out at least two months. He is on injured reserve and could be transferred to long-term injured reserve if the Flyers get into a cap crunch.",
+      "date": "2026-01-22T00:33Z"
+    },
+    "Filip Hallander": {
+      "name": "Filip Hallander",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
+      "date": "2026-02-27T23:43Z"
+    },
+    "Sidney Crosby": {
+      "name": "Sidney Crosby",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-25T15:07Z"
+    },
+    "Caleb Jones": {
+      "name": "Caleb Jones",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "Jones is currently on injured reserve due to a lower-body injury, but he had been working in the minors while on a conditioning stint. At a minimum, the 28-year-old blueliner will be out of action until March 31 due to his suspension, though that time frame assumes the league starts counting games immediately, even though he is still on injured reserve.",
+      "date": "2026-02-04T20:29Z"
+    },
+    "Jack St. Ivany": {
+      "name": "Jack St. Ivany",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "St. Ivany was injured Jan. 25 and had surgery two days later. He is expected to miss up to eight weeks. St. Ivany had seven assists, 40 hits and 23 blocked shots over 17 NHL appearances this season. The Penguins recalled Rutger McGroarty from AHL Wilkes-Barre/Scranton in a corresponding move.",
+      "date": "2026-01-29T15:11Z"
+    },
+    "Peyton Kettles": {
+      "name": "Peyton Kettles",
+      "team": "PIT",
+      "status": "Out",
+      "details": "out",
+      "date": "2025-11-24T18:30Z"
+    },
+    "Ty Dellandrea": {
+      "name": "Ty Dellandrea",
+      "team": "SJS",
+      "status": "Injured Reserve",
+      "details": "Dellandrea also skated on his own without equipment earlier in the week. He's clearly making progress, but Dellandrea will almost certainly have to get into a practice and take contact before drawing back into the lineup, so his return likely isn't imminent. The 25-year-old has two goals, 11 points, 18 PIM and 117 hits in 42 appearances in 2025-26. He was last in the lineup Jan. 6.",
+      "date": "2026-02-27T19:13Z"
+    },
+    "Logan Couture": {
+      "name": "Logan Couture",
+      "team": "SJS",
+      "status": "Injured Reserve",
+      "details": "ir-lt",
+      "date": "2025-09-30T17:35Z"
+    },
+    "Ryan Lindgren": {
+      "name": "Ryan Lindgren",
+      "team": "SEA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-01T03:00Z"
+    },
+    "Max McCormick": {
+      "name": "Max McCormick",
+      "team": "SEA",
+      "status": "Out",
+      "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
+      "date": "2025-09-30T16:59Z"
+    },
+    "Colton Parayko": {
+      "name": "Colton Parayko",
+      "team": "STL",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T20:59Z"
+    },
+    "Robert Thomas": {
+      "name": "Robert Thomas",
+      "team": "STL",
+      "status": "Injured Reserve",
+      "details": "Thomas will miss Thursday's game against Seattle. He'll be back with the team ahead of Saturday's match versus the Devils, but it's not clear if he'll be an option for that game. Thomas hasn't played since Jan. 10 due to a leg injury, and he is on IR.",
+      "date": "2026-02-25T16:04Z"
+    },
+    "Dominic James": {
+      "name": "Dominic James",
+      "team": "TBL",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T03:30Z"
+    },
+    "Gage Goncalves": {
+      "name": "Gage Goncalves",
+      "team": "TBL",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T03:27Z"
+    },
+    "Nick Paul": {
+      "name": "Nick Paul",
+      "team": "TBL",
+      "status": "Injured Reserve",
+      "details": "Paul hasn't played since Feb. 1 due to the injury. Emil Lilleberg was also placed on IR, while Brayden Point was activated off LTIR in corresponding moves. Paul has six goals and 12 points in 34 appearances in 2025-26. He'll likely serve in a middle-six capacity once he's healthy.",
+      "date": "2026-02-25T16:08Z"
+    },
+    "Chris Tanev": {
+      "name": "Chris Tanev",
+      "team": "TOR",
+      "status": "Injured Reserve",
+      "details": "Tanev remains out indefinitely. He has already missed the requisite time for LTIR, so he can be activated whenever he's ready, but that is not imminent.",
+      "date": "2026-01-28T23:37Z"
+    },
+    "Tyler Myers": {
+      "name": "Tyler Myers",
+      "team": "VAN",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-27T21:02Z"
+    },
+    "Jonathan Lekkerimaki": {
+      "name": "Jonathan Lekkerimaki",
+      "team": "VAN",
+      "status": "Out",
+      "details": "The Canucks announced Saturday that Lekkerimaki would require season-ending surgery, but he's expected to be ready to return in time for training camp in September, when he should have an opportunity to compete for an NHL roster spot. Over 13 appearances with Vancouver this year, the 21-year-old recorded two goals, an assist, 10 hits and five blocked shots while averaging 11:41 of ice time.",
+      "date": "2026-02-27T20:49Z"
+    },
+    "Filip Chytil": {
+      "name": "Filip Chytil",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-26T00:15Z"
+    },
+    "Thatcher Demko": {
+      "name": "Thatcher Demko",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "According to the team, Demko's hip surgery is unrelated to the one from last season, and the backstop will be ready for the start of training camp in the fall. Still, the fact that the San Diego native will play less than 25 games for the second straight year is a concern for fans and fantasy managers alike. With Demko on the shelf, Kevin Lankinen figures to serve as the primary option for the Canucks moving forward.",
+      "date": "2026-01-27T18:03Z"
+    },
+    "Derek Forbort": {
+      "name": "Derek Forbort",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
+      "date": "2025-10-28T17:30Z"
+    },
+    "John Carlson": {
+      "name": "John Carlson",
+      "team": "WSH",
+      "status": "Out",
+      "details": "Carlson was producing offensively prior to getting hurt, racking up 17 points in his last 17 games, including a trio of power-play assists. With the veteran blueliner unavailable, Jakob Chychrun will feature on the top power-play unit while Rasmus Sandin features with the No. 2 group. Given the length of his injury, Carlson could be a candidate for injured reserve to free up a roster spot for the Caps.",
+      "date": "2026-02-27T16:03Z"
+    },
+    "Eriks Mateiko": {
+      "name": "Eriks Mateiko",
+      "team": "WSH",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-01-13T23:05Z"
+    },
+    "Nino Niederreiter": {
+      "name": "Nino Niederreiter",
+      "team": "WPG",
+      "status": "Injured Reserve",
+      "details": "Head coach Scott Arniel revealed that Niederreiter underwent surgery and remains week-to-week for a return. Prior to the injury, the 33-year-old winger posted eight goals, 19 points and 76 shots on net across 55 games this season. Once he's ready to return to action, he'll look to bolster Winnipeg's forward group and will likely return to a bottom-six role.",
+      "date": "2026-02-28T20:16Z"
+    },
+    "Vladislav Namestnikov": {
+      "name": "Vladislav Namestnikov",
+      "team": "WPG",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-28T20:05Z"
+    },
+    "Neal Pionk": {
+      "name": "Neal Pionk",
+      "team": "WPG",
+      "status": "Injured Reserve",
+      "details": "Pionk appeared to be on track to return to the lineup from a lower-body injury against Vancouver on Wednesday. However, he will miss additional action after suffering a new injury. Pionk hasn't played since Jan. 13 against the Islanders and remains on injured reserve. He has two goals, eight points, 76 shots on net, 64 blocked shots and 84 hits across 40 appearances this season.",
+      "date": "2026-02-24T19:20Z"
+    },
+    "Josh Morrissey": {
+      "name": "Josh Morrissey",
+      "team": "WPG",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-23T22:35Z"
+    },
+    "Colin Miller": {
+      "name": "Colin Miller",
+      "team": "WPG",
+      "status": "Injured Reserve",
+      "details": "Miller is week-to-week and will miss his third straight game against Toronto on Saturday. He has contributed one assist, 16 shots on goal, 10 blocked shots and 25 hits across 15 appearances this season. With Neal Pionk (lower body) and Haydn Fleury (upper body) unavailable as well, Elias Salomonsson and Luke Schenn have been seeing time in Winnipeg's bottom four. Isaak Phillips is also on hand as a spare defender.",
+      "date": "2026-01-17T16:48Z"
+    }
+  },
+  "injury_opportunities": {
+    "DAL": {
+      "injured": [
+        "Mikko Rantanen"
+      ],
+      "beneficiaries": [
+        "Nathan MacKinnon",
+        "Casey Mittelstadt"
+      ],
+      "boost": 1.06
+    },
+    "PIT": {
+      "injured": [
+        "Sidney Crosby"
+      ],
+      "beneficiaries": [
+        "Evgeni Malkin",
+        "Bryan Rust",
+        "Rickard Rakell"
+      ],
+      "boost": 1.06
+    }
+  },
+  "total_injured": 67,
+  "fetched_at": "2026-03-01T01:52:48.576601"
 }

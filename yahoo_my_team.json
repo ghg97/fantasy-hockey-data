@@ -29,10 +29,11 @@
       "name": "Will Cuylle",
       "team": "NYR",
       "position": "LW",
-      "line": null,
-      "pp_unit": null,
+      "line": 2,
+      "pp_unit": 2,
       "selected_position": "LW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 9269,
@@ -127,21 +128,22 @@
       "name": "Vincent Trocheck",
       "team": "NYR",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 2,
+      "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 6744,
       "name": "Jack Eichel",
       "team": "VGK",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "BN",
       "status": "",
-      "nhl_position": "Injured Reserve 4"
+      "nhl_position": "Center"
     },
     {
       "player_id": 7554,
@@ -195,7 +197,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": ""
+      "status": "",
+      "nhl_position": "Starting Goalie"
     },
     {
       "player_id": 7569,
