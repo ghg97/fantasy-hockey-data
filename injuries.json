@@ -4,23 +4,30 @@
       {
         "name": "Ryan Strome",
         "team": "ANA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-28T19:23Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-02T00:41Z"
+      },
+      {
+        "name": "Frank Vatrano",
+        "team": "ANA",
+        "status": "Injured Reserve",
+        "details": "Vatrano will miss his 21st consecutive game Sunday and remains on injured reserve. The Massachusetts native practice Sunday, so he's seemingly nearing a return to game action. The Ducks' next game is at home against the Avalanche on Tuesday.",
+        "date": "2026-03-02T00:41Z"
       },
       {
         "name": "Mikael Granlund",
         "team": "ANA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-28T11:07Z"
+        "status": "Out",
+        "details": "Granlund has yet to play in a game following the Olympic break, as this will be his third consecutive absence. The left-shot forward's next opportunity to suit up will be in the first of a back-to-back set at home against Colorado on Tuesday. Granlund has registered 12 goals, 27 points, 78 shots and a minus-10 rating over 38 appearances this season.",
+        "date": "2026-03-02T00:37Z"
       },
       {
         "name": "Troy Terry",
         "team": "ANA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-28T11:07Z"
+        "status": "Out",
+        "details": "Terry continues to deal with an upper-body injury, and it's not yet clear when he'll be able to return. Drew Helleson will likely remain in the lineup Sunday, while Terry's next opportunity to suit up will be Tuesday against Colorado.",
+        "date": "2026-03-02T00:34Z"
       },
       {
         "name": "Petr Mrazek",
@@ -28,13 +35,6 @@
         "status": "Injured Reserve",
         "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
         "date": "2026-02-18T23:39Z"
-      },
-      {
-        "name": "Frank Vatrano",
-        "team": "ANA",
-        "status": "Injured Reserve",
-        "details": "Vatrano probably won't return before the Olympic break, based on that timetable. Nikita Nesterenko should get an opportunity to play regularly while Vatrano is recovering. The 31-year-old Vatrano has three goals, six points, 36 PIM, 67 hits and 24 blocks in 38 outings in 2025-26.",
-        "date": "2025-12-31T22:52Z"
       }
     ],
     "BOS": [
@@ -92,8 +92,8 @@
         "name": "Sam Rinzel",
         "team": "CHI",
         "status": "Out",
-        "details": "out",
-        "date": "2026-02-28T22:47Z"
+        "details": "Rinzel will miss his second straight outing. He has collected two goals, 10 points, 51 shots on net, 37 blocked shots and 28 hits in 32 games this season. Due to Rinzel's absence,  Kevin Korchinski will remain in the lineup for Sunday's matchup.",
+        "date": "2026-03-01T20:39Z"
       },
       {
         "name": "Wyatt Kaiser",
@@ -130,9 +130,9 @@
       {
         "name": "Roope Hintz",
         "team": "DAL",
-        "status": "Out",
-        "details": "Hintz skated on his own Saturday, but he will miss his second straight game. He has compiled 15 goals, 44 points, 125 shots on net and 58 hits through 52 appearances this season. According to Robert Tiffin of D Magazine, Hintz should be able to travel with the team for the Stars' two-game road trip against Vancouver and Calgary on Monday and Tuesday, respectively.",
-        "date": "2026-02-28T17:40Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
       },
       {
         "name": "Mikko Rantanen",
@@ -167,18 +167,18 @@
     ],
     "FLA": [
       {
-        "name": "Uvis Balinskis",
+        "name": "Cole Schwindt",
         "team": "FLA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-02-28T03:21Z"
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-03-01T16:43Z"
       },
       {
-        "name": "Cole Schwindt",
+        "name": "Uvis Balinskis",
         "team": "FLA",
         "status": "Out",
         "details": "out",
-        "date": "2026-02-27T21:50Z"
+        "date": "2026-03-01T15:19Z"
       },
       {
         "name": "Seth Jones",
@@ -197,18 +197,18 @@
     ],
     "LAK": [
       {
-        "name": "Joel Armia",
-        "team": "LAK",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-02-28T23:08Z"
-      },
-      {
         "name": "Drew Doughty",
         "team": "LAK",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-02-28T23:02Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
+      },
+      {
+        "name": "Joel Armia",
+        "team": "LAK",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
       },
       {
         "name": "Andrei Kuzmenko",
@@ -226,6 +226,13 @@
       }
     ],
     "MIN": [
+      {
+        "name": "Marcus Foligno",
+        "team": "MIN",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-01T20:53Z"
+      },
       {
         "name": "Jonas Brodin",
         "team": "MIN",
@@ -261,6 +268,13 @@
     ],
     "NYI": [
       {
+        "name": "Jonathan Drouin",
+        "team": "NYI",
+        "status": "Out",
+        "details": "Drouin will miss at least one game after sustaining the injury in Saturday's 4-3 overtime win over Columbus. He has produced three goals, 20 points and 70 shots on net across 53 appearances this season. Anthony Duclair will replace Drouin in Sunday's lineup against the Panthers.",
+        "date": "2026-03-01T22:26Z"
+      },
+      {
         "name": "Kyle Palmieri",
         "team": "NYI",
         "status": "Injured Reserve",
@@ -288,9 +302,9 @@
       {
         "name": "Nikolas Matinpalo",
         "team": "OTT",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-02-28T16:56Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
       },
       {
         "name": "David Perron",
@@ -323,13 +337,6 @@
         "status": "Injured Reserve",
         "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
         "date": "2026-02-27T23:43Z"
-      },
-      {
-        "name": "Sidney Crosby",
-        "team": "PIT",
-        "status": "Injured Reserve",
-        "details": "ir",
-        "date": "2026-02-25T15:07Z"
       },
       {
         "name": "Caleb Jones",
@@ -373,9 +380,9 @@
       {
         "name": "Ryan Lindgren",
         "team": "SEA",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-01T03:00Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
       },
       {
         "name": "Max McCormick",
@@ -392,13 +399,6 @@
         "status": "Out",
         "details": "out",
         "date": "2026-02-28T20:59Z"
-      },
-      {
-        "name": "Robert Thomas",
-        "team": "STL",
-        "status": "Injured Reserve",
-        "details": "Thomas will miss Thursday's game against Seattle. He'll be back with the team ahead of Saturday's match versus the Devils, but it's not clear if he'll be an option for that game. Thomas hasn't played since Jan. 10 due to a leg injury, and he is on IR.",
-        "date": "2026-02-25T16:04Z"
       }
     ],
     "TBL": [
@@ -470,13 +470,22 @@
         "date": "2025-10-28T17:30Z"
       }
     ],
+    "VGK": [
+      {
+        "name": "Mark Stone",
+        "team": "VGK",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T19:14Z"
+      }
+    ],
     "WSH": [
       {
         "name": "John Carlson",
         "team": "WSH",
-        "status": "Out",
-        "details": "Carlson was producing offensively prior to getting hurt, racking up 17 points in his last 17 games, including a trio of power-play assists. With the veteran blueliner unavailable, Jakob Chychrun will feature on the top power-play unit while Rasmus Sandin features with the No. 2 group. Given the length of his injury, Carlson could be a candidate for injured reserve to free up a roster spot for the Caps.",
-        "date": "2026-02-27T16:03Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-01T14:25Z"
       },
       {
         "name": "Eriks Mateiko",
@@ -528,23 +537,30 @@
     "Ryan Strome": {
       "name": "Ryan Strome",
       "team": "ANA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-28T19:23Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-02T00:41Z"
+    },
+    "Frank Vatrano": {
+      "name": "Frank Vatrano",
+      "team": "ANA",
+      "status": "Injured Reserve",
+      "details": "Vatrano will miss his 21st consecutive game Sunday and remains on injured reserve. The Massachusetts native practice Sunday, so he's seemingly nearing a return to game action. The Ducks' next game is at home against the Avalanche on Tuesday.",
+      "date": "2026-03-02T00:41Z"
     },
     "Mikael Granlund": {
       "name": "Mikael Granlund",
       "team": "ANA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-28T11:07Z"
+      "status": "Out",
+      "details": "Granlund has yet to play in a game following the Olympic break, as this will be his third consecutive absence. The left-shot forward's next opportunity to suit up will be in the first of a back-to-back set at home against Colorado on Tuesday. Granlund has registered 12 goals, 27 points, 78 shots and a minus-10 rating over 38 appearances this season.",
+      "date": "2026-03-02T00:37Z"
     },
     "Troy Terry": {
       "name": "Troy Terry",
       "team": "ANA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-28T11:07Z"
+      "status": "Out",
+      "details": "Terry continues to deal with an upper-body injury, and it's not yet clear when he'll be able to return. Drew Helleson will likely remain in the lineup Sunday, while Terry's next opportunity to suit up will be Tuesday against Colorado.",
+      "date": "2026-03-02T00:34Z"
     },
     "Petr Mrazek": {
       "name": "Petr Mrazek",
@@ -552,13 +568,6 @@
       "status": "Injured Reserve",
       "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
       "date": "2026-02-18T23:39Z"
-    },
-    "Frank Vatrano": {
-      "name": "Frank Vatrano",
-      "team": "ANA",
-      "status": "Injured Reserve",
-      "details": "Vatrano probably won't return before the Olympic break, based on that timetable. Nikita Nesterenko should get an opportunity to play regularly while Vatrano is recovering. The 31-year-old Vatrano has three goals, six points, 36 PIM, 67 hits and 24 blocks in 38 outings in 2025-26.",
-      "date": "2025-12-31T22:52Z"
     },
     "Dans Locmelis": {
       "name": "Dans Locmelis",
@@ -606,8 +615,8 @@
       "name": "Sam Rinzel",
       "team": "CHI",
       "status": "Out",
-      "details": "out",
-      "date": "2026-02-28T22:47Z"
+      "details": "Rinzel will miss his second straight outing. He has collected two goals, 10 points, 51 shots on net, 37 blocked shots and 28 hits in 32 games this season. Due to Rinzel's absence,  Kevin Korchinski will remain in the lineup for Sunday's matchup.",
+      "date": "2026-03-01T20:39Z"
     },
     "Wyatt Kaiser": {
       "name": "Wyatt Kaiser",
@@ -640,9 +649,9 @@
     "Roope Hintz": {
       "name": "Roope Hintz",
       "team": "DAL",
-      "status": "Out",
-      "details": "Hintz skated on his own Saturday, but he will miss his second straight game. He has compiled 15 goals, 44 points, 125 shots on net and 58 hits through 52 appearances this season. According to Robert Tiffin of D Magazine, Hintz should be able to travel with the team for the Stars' two-game road trip against Vancouver and Calgary on Monday and Tuesday, respectively.",
-      "date": "2026-02-28T17:40Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
     },
     "Mikko Rantanen": {
       "name": "Mikko Rantanen",
@@ -672,19 +681,19 @@
       "details": "out",
       "date": "2026-02-27T02:29Z"
     },
-    "Uvis Balinskis": {
-      "name": "Uvis Balinskis",
-      "team": "FLA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-02-28T03:21Z"
-    },
     "Cole Schwindt": {
       "name": "Cole Schwindt",
       "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-03-01T16:43Z"
+    },
+    "Uvis Balinskis": {
+      "name": "Uvis Balinskis",
+      "team": "FLA",
       "status": "Out",
       "details": "out",
-      "date": "2026-02-27T21:50Z"
+      "date": "2026-03-01T15:19Z"
     },
     "Seth Jones": {
       "name": "Seth Jones",
@@ -700,19 +709,19 @@
       "details": "Gadjovich has been on the shelf since Oct. 25 versus Vegas, a stretch of 31 games on injured reserve. Considering the 27-year-old winger has never reached the 10-point threshold in his five-year NHL career, few fantasy managers figure to be impacted by his continued absence.",
       "date": "2026-01-05T17:31Z"
     },
-    "Joel Armia": {
-      "name": "Joel Armia",
-      "team": "LAK",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-02-28T23:08Z"
-    },
     "Drew Doughty": {
       "name": "Drew Doughty",
       "team": "LAK",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-02-28T23:02Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
+    },
+    "Joel Armia": {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
     },
     "Andrei Kuzmenko": {
       "name": "Andrei Kuzmenko",
@@ -727,6 +736,13 @@
       "status": "Injured Reserve",
       "details": "ir",
       "date": "2026-02-18T18:56Z"
+    },
+    "Marcus Foligno": {
+      "name": "Marcus Foligno",
+      "team": "MIN",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-01T20:53Z"
     },
     "Jonas Brodin": {
       "name": "Jonas Brodin",
@@ -756,6 +772,13 @@
       "details": "ir",
       "date": "2026-01-10T17:56Z"
     },
+    "Jonathan Drouin": {
+      "name": "Jonathan Drouin",
+      "team": "NYI",
+      "status": "Out",
+      "details": "Drouin will miss at least one game after sustaining the injury in Saturday's 4-3 overtime win over Columbus. He has produced three goals, 20 points and 70 shots on net across 53 appearances this season. Anthony Duclair will replace Drouin in Sunday's lineup against the Panthers.",
+      "date": "2026-03-01T22:26Z"
+    },
     "Kyle Palmieri": {
       "name": "Kyle Palmieri",
       "team": "NYI",
@@ -780,9 +803,9 @@
     "Nikolas Matinpalo": {
       "name": "Nikolas Matinpalo",
       "team": "OTT",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-02-28T16:56Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
     },
     "David Perron": {
       "name": "David Perron",
@@ -811,13 +834,6 @@
       "status": "Injured Reserve",
       "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
       "date": "2026-02-27T23:43Z"
-    },
-    "Sidney Crosby": {
-      "name": "Sidney Crosby",
-      "team": "PIT",
-      "status": "Injured Reserve",
-      "details": "ir",
-      "date": "2026-02-25T15:07Z"
     },
     "Caleb Jones": {
       "name": "Caleb Jones",
@@ -857,9 +873,9 @@
     "Ryan Lindgren": {
       "name": "Ryan Lindgren",
       "team": "SEA",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-01T03:00Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
     },
     "Max McCormick": {
       "name": "Max McCormick",
@@ -874,13 +890,6 @@
       "status": "Out",
       "details": "out",
       "date": "2026-02-28T20:59Z"
-    },
-    "Robert Thomas": {
-      "name": "Robert Thomas",
-      "team": "STL",
-      "status": "Injured Reserve",
-      "details": "Thomas will miss Thursday's game against Seattle. He'll be back with the team ahead of Saturday's match versus the Devils, but it's not clear if he'll be an option for that game. Thomas hasn't played since Jan. 10 due to a leg injury, and he is on IR.",
-      "date": "2026-02-25T16:04Z"
     },
     "Dominic James": {
       "name": "Dominic James",
@@ -945,12 +954,19 @@
       "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
       "date": "2025-10-28T17:30Z"
     },
+    "Mark Stone": {
+      "name": "Mark Stone",
+      "team": "VGK",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T19:14Z"
+    },
     "John Carlson": {
       "name": "John Carlson",
       "team": "WSH",
-      "status": "Out",
-      "details": "Carlson was producing offensively prior to getting hurt, racking up 17 points in his last 17 games, including a trio of power-play assists. With the veteran blueliner unavailable, Jakob Chychrun will feature on the top power-play unit while Rasmus Sandin features with the No. 2 group. Given the length of his injury, Carlson could be a candidate for injured reserve to free up a roster spot for the Caps.",
-      "date": "2026-02-27T16:03Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-01T14:25Z"
     },
     "Eriks Mateiko": {
       "name": "Eriks Mateiko",
@@ -1005,19 +1021,8 @@
         "Casey Mittelstadt"
       ],
       "boost": 1.06
-    },
-    "PIT": {
-      "injured": [
-        "Sidney Crosby"
-      ],
-      "beneficiaries": [
-        "Evgeni Malkin",
-        "Bryan Rust",
-        "Rickard Rakell"
-      ],
-      "boost": 1.06
     }
   },
-  "total_injured": 67,
-  "fetched_at": "2026-03-01T01:52:48.576601"
+  "total_injured": 68,
+  "fetched_at": "2026-03-02T06:51:41.040765"
 }

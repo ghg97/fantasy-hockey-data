@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-27T07:02:38.458694",
+  "fetched_at": "2026-03-02T06:51:46.819226",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -14,12 +14,12 @@
       "nhl_position": "Center"
     },
     {
-      "player_id": 8652,
-      "name": "Anton Lundell",
-      "team": "FLA",
+      "player_id": 5431,
+      "name": "Vincent Trocheck",
+      "team": "NYR",
       "position": "C",
-      "line": 3,
-      "pp_unit": 2,
+      "line": 2,
+      "pp_unit": 1,
       "selected_position": "C",
       "status": "",
       "nhl_position": "Center"
@@ -36,23 +36,23 @@
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 9269,
-      "name": "Juraj Slafkovsk\u00fd",
-      "team": "MTL",
+      "player_id": 7554,
+      "name": "Jason Robertson",
+      "team": "DAL",
       "position": "LW",
-      "line": 2,
+      "line": 1,
       "pp_unit": 1,
       "selected_position": "LW",
       "status": "",
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 7264,
-      "name": "Brandon Hagel",
-      "team": "TBL",
+      "player_id": 7115,
+      "name": "Clayton Keller",
+      "team": "UTA",
       "position": "LW",
-      "line": 2,
-      "pp_unit": 2,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "RW",
       "status": "",
       "nhl_position": "Left Wing"
@@ -124,12 +124,12 @@
       "nhl_position": "Right Wing"
     },
     {
-      "player_id": 5431,
-      "name": "Vincent Trocheck",
-      "team": "NYR",
+      "player_id": 8652,
+      "name": "Anton Lundell",
+      "team": "FLA",
       "position": "C",
-      "line": 2,
-      "pp_unit": 1,
+      "line": 3,
+      "pp_unit": 2,
       "selected_position": "BN",
       "status": "",
       "nhl_position": "Center"
@@ -146,34 +146,34 @@
       "nhl_position": "Center"
     },
     {
-      "player_id": 7554,
-      "name": "Jason Robertson",
-      "team": "DAL",
-      "position": "LW",
-      "line": 1,
-      "pp_unit": 1,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 7115,
-      "name": "Clayton Keller",
-      "team": "UTA",
-      "position": "LW",
-      "line": 1,
-      "pp_unit": 1,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
-    },
-    {
       "player_id": 6402,
       "name": "Ivan Barbashev",
       "team": "VGK",
       "position": "LW",
       "line": 1,
       "pp_unit": 2,
+      "selected_position": "BN",
+      "status": "",
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 7264,
+      "name": "Brandon Hagel",
+      "team": "TBL",
+      "position": "LW",
+      "line": 2,
+      "pp_unit": 2,
+      "selected_position": "BN",
+      "status": "",
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 9269,
+      "name": "Juraj Slafkovsk\u00fd",
+      "team": "MTL",
+      "position": "LW",
+      "line": 2,
+      "pp_unit": 1,
       "selected_position": "BN",
       "status": "",
       "nhl_position": "Left Wing"
@@ -187,7 +187,7 @@
       "pp_unit": null,
       "selected_position": "G",
       "status": "",
-      "nhl_position": "Starting Goalie"
+      "nhl_position": "Backup Goalie"
     },
     {
       "player_id": 6486,

@@ -1,10 +1,26 @@
 {
   "starters": {
-    "Spencer Knight": {
+    "Brandon Bussi": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Linus Ullmark": {
+    "Mackenzie Blackwood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Anton Forsberg": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Cam Talbot": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -12,11 +28,23 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jordan Binnington": {
+    "Dan Vladar": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Mackenzie Blackwood": {
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joey Daccord": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Elvis Merzlikins": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -27,88 +55,8 @@
     "Kevin Lankinen": {
       "status": "unconfirmed",
       "starting_today": false
-    },
-    "Jet Greaves": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Igor Shesterkin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Frederik Andersen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jakub Dobes": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Ilya Sorokin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Juuse Saros": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Andrei Vasilevskiy": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Anton Forsberg": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Stuart Skinner": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jeremy Swayman": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Yaroslav Askarov": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jacob Markstrom": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Charlie Lindgren": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jake Oettinger": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Connor Ingram": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Cam Talbot": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Joey Daccord": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Dustin Wolf": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Dan Vladar": {
-      "status": "unconfirmed",
-      "starting_today": false
     }
   },
-  "date": "2026-03-01",
-  "fetched_at": "2026-03-01T01:52:46.513285"
+  "date": "2026-03-02",
+  "fetched_at": "2026-03-02T06:51:39.627054"
 }
