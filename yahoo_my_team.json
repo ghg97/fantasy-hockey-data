@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T06:51:46.819226",
+  "fetched_at": "2026-03-03T06:30:21.115793",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -14,26 +14,14 @@
       "nhl_position": "Center"
     },
     {
-      "player_id": 5431,
-      "name": "Vincent Trocheck",
-      "team": "NYR",
+      "player_id": 6744,
+      "name": "Jack Eichel",
+      "team": "VGK",
       "position": "C",
-      "line": 2,
-      "pp_unit": 1,
+      "line": null,
+      "pp_unit": null,
       "selected_position": "C",
-      "status": "",
-      "nhl_position": "Center"
-    },
-    {
-      "player_id": 8699,
-      "name": "Will Cuylle",
-      "team": "NYR",
-      "position": "LW",
-      "line": 2,
-      "pp_unit": 2,
-      "selected_position": "LW",
-      "status": "",
-      "nhl_position": "Left Wing"
+      "status": ""
     },
     {
       "player_id": 7554,
@@ -47,26 +35,35 @@
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 7115,
-      "name": "Clayton Keller",
-      "team": "UTA",
+      "player_id": 9269,
+      "name": "Juraj Slafkovsk\u00fd",
+      "team": "MTL",
       "position": "LW",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
-      "selected_position": "RW",
+      "selected_position": "LW",
       "status": "",
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 8653,
-      "name": "Seth Jarvis",
-      "team": "CAR",
-      "position": "C",
-      "line": 1,
-      "pp_unit": 1,
+      "player_id": 7115,
+      "name": "Clayton Keller",
+      "team": "UTA",
+      "position": "LW",
+      "line": null,
+      "pp_unit": null,
       "selected_position": "RW",
-      "status": "",
-      "nhl_position": "Right Wing"
+      "status": ""
+    },
+    {
+      "player_id": 7264,
+      "name": "Brandon Hagel",
+      "team": "TBL",
+      "position": "LW",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "RW",
+      "status": ""
     },
     {
       "player_id": 5689,
@@ -74,7 +71,7 @@
       "team": "ANA",
       "position": "D",
       "line": 1,
-      "pp_unit": null,
+      "pp_unit": 2,
       "selected_position": "D",
       "status": "",
       "nhl_position": "Right Defense"
@@ -84,11 +81,10 @@
       "name": "Filip Hronek",
       "team": "VAN",
       "position": "D",
-      "line": 1,
-      "pp_unit": 1,
+      "line": null,
+      "pp_unit": null,
       "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
+      "status": ""
     },
     {
       "player_id": 7930,
@@ -121,6 +117,49 @@
       "pp_unit": 1,
       "selected_position": "Util",
       "status": "",
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 6402,
+      "name": "Ivan Barbashev",
+      "team": "VGK",
+      "position": "LW",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "BN",
+      "status": ""
+    },
+    {
+      "player_id": 5431,
+      "name": "Vincent Trocheck",
+      "team": "NYR",
+      "position": "C",
+      "line": 2,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": "",
+      "nhl_position": "Center"
+    },
+    {
+      "player_id": 8699,
+      "name": "Will Cuylle",
+      "team": "NYR",
+      "position": "LW",
+      "line": 2,
+      "pp_unit": 2,
+      "selected_position": "BN",
+      "status": "",
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 8653,
+      "name": "Seth Jarvis",
+      "team": "CAR",
+      "position": "C",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": "",
       "nhl_position": "Right Wing"
     },
     {
@@ -133,61 +172,6 @@
       "selected_position": "BN",
       "status": "",
       "nhl_position": "Center"
-    },
-    {
-      "player_id": 6744,
-      "name": "Jack Eichel",
-      "team": "VGK",
-      "position": "C",
-      "line": 1,
-      "pp_unit": 1,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Center"
-    },
-    {
-      "player_id": 6402,
-      "name": "Ivan Barbashev",
-      "team": "VGK",
-      "position": "LW",
-      "line": 1,
-      "pp_unit": 2,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 7264,
-      "name": "Brandon Hagel",
-      "team": "TBL",
-      "position": "LW",
-      "line": 2,
-      "pp_unit": 2,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 9269,
-      "name": "Juraj Slafkovsk\u00fd",
-      "team": "MTL",
-      "position": "LW",
-      "line": 2,
-      "pp_unit": 1,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 6447,
-      "name": "Ilya Sorokin",
-      "team": "NYI",
-      "position": "G",
-      "line": null,
-      "pp_unit": null,
-      "selected_position": "G",
-      "status": "",
-      "nhl_position": "Backup Goalie"
     },
     {
       "player_id": 6486,
@@ -204,6 +188,17 @@
       "player_id": 7569,
       "name": "Ukko-Pekka Luukkonen",
       "team": "BUF",
+      "position": "G",
+      "line": null,
+      "pp_unit": null,
+      "selected_position": "G",
+      "status": "",
+      "nhl_position": "Starting Goalie"
+    },
+    {
+      "player_id": 6447,
+      "name": "Ilya Sorokin",
+      "team": "NYI",
       "position": "G",
       "line": null,
       "pp_unit": null,

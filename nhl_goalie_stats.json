@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T06:51:44.832094",
+  "fetched_at": "2026-03-03T06:30:19.041939",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -20,7 +20,7 @@
       "name": "Jake Oettinger",
       "team": "DAL",
       "games_played": null,
-      "value": 24
+      "value": 25
     },
     {
       "player_id": 8480843,
@@ -57,7 +57,7 @@
       "name": "Mackenzie Blackwood",
       "team": "COL",
       "games_played": null,
-      "value": 0.916264
+      "value": 0.915888
     },
     {
       "player_id": 8478009,

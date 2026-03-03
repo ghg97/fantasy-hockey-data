@@ -96,6 +96,18 @@
       "recent_ppg": 0.67,
       "season_ppg": 1.19
     },
+    "Jason Robertson": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 5.7,
+      "season_fpts_pg": 5.08,
+      "form_score": 12.1,
+      "recent_goals": 2,
+      "recent_assists": 2,
+      "recent_shots": 9,
+      "trend": "normal",
+      "recent_ppg": 1.33,
+      "season_ppg": 1.17
+    },
     "Matt Boldy": {
       "games_last_14": 3,
       "recent_fpts_pg": 10.4,
@@ -120,42 +132,6 @@
       "recent_ppg": 2.0,
       "season_ppg": 1.13
     },
-    "Jack Eichel": {
-      "games_last_14": 2,
-      "recent_fpts_pg": -0.8,
-      "season_fpts_pg": 5.14,
-      "form_score": -115.6,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 1.31
-    },
-    "Jason Robertson": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 4.75,
-      "season_fpts_pg": 5.04,
-      "form_score": -5.8,
-      "recent_goals": 1,
-      "recent_assists": 1,
-      "recent_shots": 5,
-      "trend": "normal",
-      "recent_ppg": 1.0,
-      "season_ppg": 1.15
-    },
-    "Martin Necas": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 7.43,
-      "season_fpts_pg": 4.48,
-      "form_score": 65.9,
-      "recent_goals": 3,
-      "recent_assists": 3,
-      "recent_shots": 12,
-      "trend": "hot",
-      "recent_ppg": 2.0,
-      "season_ppg": 1.24
-    },
     "Nick Suzuki": {
       "games_last_14": 2,
       "recent_fpts_pg": 5.85,
@@ -167,6 +143,30 @@
       "trend": "hot",
       "recent_ppg": 1.5,
       "season_ppg": 1.15
+    },
+    "Martin Necas": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 8.15,
+      "season_fpts_pg": 4.48,
+      "form_score": 81.9,
+      "recent_goals": 4,
+      "recent_assists": 5,
+      "recent_shots": 14,
+      "trend": "hot",
+      "recent_ppg": 2.25,
+      "season_ppg": 1.24
+    },
+    "Jack Eichel": {
+      "games_last_14": 2,
+      "recent_fpts_pg": -0.8,
+      "season_fpts_pg": 5.14,
+      "form_score": -115.6,
+      "recent_goals": 0,
+      "recent_assists": 0,
+      "recent_shots": 1,
+      "trend": "cold",
+      "recent_ppg": 0.0,
+      "season_ppg": 1.31
     },
     "Kyle Connor": {
       "games_last_14": 3,
@@ -192,41 +192,17 @@
       "recent_ppg": 1.5,
       "season_ppg": 1.2
     },
-    "Tage Thompson": {
+    "Lucas Raymond": {
       "games_last_14": 3,
-      "recent_fpts_pg": 5.0,
-      "season_fpts_pg": 4.34,
-      "form_score": 15.1,
-      "recent_goals": 2,
-      "recent_assists": 2,
-      "recent_shots": 10,
+      "recent_fpts_pg": 4.6,
+      "season_fpts_pg": 3.96,
+      "form_score": 16.2,
+      "recent_goals": 1,
+      "recent_assists": 3,
+      "recent_shots": 7,
       "trend": "hot",
       "recent_ppg": 1.33,
-      "season_ppg": 1.05
-    },
-    "Wyatt Johnston": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 8.55,
-      "season_fpts_pg": 4.3,
-      "form_score": 98.8,
-      "recent_goals": 3,
-      "recent_assists": 1,
-      "recent_shots": 9,
-      "trend": "hot",
-      "recent_ppg": 2.0,
-      "season_ppg": 1.07
-    },
-    "Tim St\u00fctzle": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.6,
-      "season_fpts_pg": 4.14,
-      "form_score": -13.0,
-      "recent_goals": 0,
-      "recent_assists": 2,
-      "recent_shots": 3,
-      "trend": "normal",
-      "recent_ppg": 1.0,
-      "season_ppg": 1.07
+      "season_ppg": 1.08
     },
     "Jake Guentzel": {
       "games_last_14": 3,
@@ -240,17 +216,65 @@
       "recent_ppg": 1.0,
       "season_ppg": 1.09
     },
-    "Lucas Raymond": {
+    "Tage Thompson": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 5.0,
+      "season_fpts_pg": 4.34,
+      "form_score": 15.1,
+      "recent_goals": 2,
+      "recent_assists": 2,
+      "recent_shots": 10,
+      "trend": "hot",
+      "recent_ppg": 1.33,
+      "season_ppg": 1.05
+    },
+    "Wyatt Johnston": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 6.1,
+      "season_fpts_pg": 4.25,
+      "form_score": 43.5,
+      "recent_goals": 3,
+      "recent_assists": 1,
+      "recent_shots": 12,
+      "trend": "hot",
+      "recent_ppg": 1.33,
+      "season_ppg": 1.05
+    },
+    "Tim St\u00fctzle": {
       "games_last_14": 2,
-      "recent_fpts_pg": 3.55,
-      "season_fpts_pg": 3.91,
-      "form_score": -9.3,
+      "recent_fpts_pg": 3.6,
+      "season_fpts_pg": 4.14,
+      "form_score": -13.0,
       "recent_goals": 0,
       "recent_assists": 2,
-      "recent_shots": 4,
+      "recent_shots": 3,
       "trend": "normal",
       "recent_ppg": 1.0,
       "season_ppg": 1.07
+    },
+    "Cale Makar": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 4.45,
+      "season_fpts_pg": 4.09,
+      "form_score": 8.7,
+      "recent_goals": 2,
+      "recent_assists": 2,
+      "recent_shots": 12,
+      "trend": "normal",
+      "recent_ppg": 1.0,
+      "season_ppg": 1.03
+    },
+    "Artemi Panarin": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.53,
+      "season_fpts_pg": 3.97,
+      "form_score": -36.4,
+      "recent_goals": 0,
+      "recent_assists": 3,
+      "recent_shots": 9,
+      "trend": "cold",
+      "recent_ppg": 0.75,
+      "season_ppg": 1.09
     },
     "Cole Caufield": {
       "games_last_14": 2,
@@ -276,41 +300,17 @@
       "recent_ppg": 0.0,
       "season_ppg": 1.4
     },
-    "Cale Makar": {
+    "Alex DeBrincat": {
       "games_last_14": 3,
-      "recent_fpts_pg": 4.1,
-      "season_fpts_pg": 4.09,
-      "form_score": 0.1,
-      "recent_goals": 2,
-      "recent_assists": 1,
+      "recent_fpts_pg": 3.6,
+      "season_fpts_pg": 4.25,
+      "form_score": -15.3,
+      "recent_goals": 1,
+      "recent_assists": 2,
       "recent_shots": 7,
-      "trend": "normal",
+      "trend": "cold",
       "recent_ppg": 1.0,
-      "season_ppg": 1.03
-    },
-    "Artemi Panarin": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.4,
-      "season_fpts_pg": 3.97,
-      "form_score": -14.4,
-      "recent_goals": 0,
-      "recent_assists": 3,
-      "recent_shots": 8,
-      "trend": "normal",
-      "recent_ppg": 1.0,
-      "season_ppg": 1.09
-    },
-    "Sebastian Aho": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 5.9,
-      "season_fpts_pg": 3.88,
-      "form_score": 52.0,
-      "recent_goals": 2,
-      "recent_assists": 0,
-      "recent_shots": 7,
-      "trend": "hot",
-      "recent_ppg": 1.0,
-      "season_ppg": 1.0
+      "season_ppg": 0.98
     },
     "Mitch Marner": {
       "games_last_14": 2,
@@ -320,6 +320,30 @@
       "recent_goals": 0,
       "recent_assists": 1,
       "recent_shots": 3,
+      "trend": "cold",
+      "recent_ppg": 0.5,
+      "season_ppg": 1.0
+    },
+    "Sebastian Aho": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 4.3,
+      "season_fpts_pg": 3.83,
+      "form_score": 12.1,
+      "recent_goals": 2,
+      "recent_assists": 0,
+      "recent_shots": 11,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.98
+    },
+    "Lane Hutson": {
+      "games_last_14": 2,
+      "recent_fpts_pg": 1.65,
+      "season_fpts_pg": 3.32,
+      "form_score": -50.3,
+      "recent_goals": 0,
+      "recent_assists": 1,
+      "recent_shots": 2,
       "trend": "cold",
       "recent_ppg": 0.5,
       "season_ppg": 1.0
@@ -336,17 +360,17 @@
       "recent_ppg": 0.67,
       "season_ppg": 1.07
     },
-    "Lane Hutson": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 1.65,
-      "season_fpts_pg": 3.32,
-      "form_score": -50.3,
-      "recent_goals": 0,
+    "Ryan O'Reilly": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.63,
+      "season_fpts_pg": 3.55,
+      "form_score": 2.4,
+      "recent_goals": 1,
       "recent_assists": 1,
-      "recent_shots": 2,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 1.0
+      "recent_shots": 11,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.97
     },
     "Clayton Keller": {
       "games_last_14": 3,
@@ -358,18 +382,6 @@
       "recent_shots": 9,
       "trend": "hot",
       "recent_ppg": 1.33,
-      "season_ppg": 0.97
-    },
-    "Alex DeBrincat": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 2.05,
-      "season_fpts_pg": 4.21,
-      "form_score": -51.3,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 4,
-      "trend": "cold",
-      "recent_ppg": 0.5,
       "season_ppg": 0.97
     },
     "Travis Konecny": {
@@ -384,18 +396,6 @@
       "recent_ppg": 1.0,
       "season_ppg": 0.98
     },
-    "Ryan O'Reilly": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.05,
-      "season_fpts_pg": 3.53,
-      "form_score": -13.5,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 4,
-      "trend": "normal",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.97
-    },
     "Sam Reinhart": {
       "games_last_14": 3,
       "recent_fpts_pg": 2.73,
@@ -409,40 +409,16 @@
       "season_ppg": 0.95
     },
     "William Nylander": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.4,
-      "season_fpts_pg": 4.2,
-      "form_score": -19.0,
-      "recent_goals": 1,
-      "recent_assists": 2,
-      "recent_shots": 8,
-      "trend": "cold",
-      "recent_ppg": 1.0,
-      "season_ppg": 1.28
-    },
-    "Morgan Geekie": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 2.7,
-      "season_fpts_pg": 3.82,
-      "form_score": -29.3,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 6,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.95
-    },
-    "Connor Bedard": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.6,
-      "season_fpts_pg": 4.55,
-      "form_score": -20.9,
+      "games_last_14": 4,
+      "recent_fpts_pg": 3.83,
+      "season_fpts_pg": 4.22,
+      "form_score": -9.4,
       "recent_goals": 2,
-      "recent_assists": 0,
+      "recent_assists": 2,
       "recent_shots": 12,
-      "trend": "cold",
-      "recent_ppg": 0.67,
-      "season_ppg": 1.17
+      "trend": "normal",
+      "recent_ppg": 1.0,
+      "season_ppg": 1.27
     },
     "Brandon Hagel": {
       "games_last_14": 3,
@@ -456,6 +432,18 @@
       "recent_ppg": 0.33,
       "season_ppg": 1.04
     },
+    "Morgan Geekie": {
+      "games_last_14": 2,
+      "recent_fpts_pg": 2.7,
+      "season_fpts_pg": 3.82,
+      "form_score": -29.3,
+      "recent_goals": 1,
+      "recent_assists": 0,
+      "recent_shots": 6,
+      "trend": "cold",
+      "recent_ppg": 0.5,
+      "season_ppg": 0.95
+    },
     "Mathew Barzal": {
       "games_last_14": 3,
       "recent_fpts_pg": 4.3,
@@ -467,6 +455,18 @@
       "trend": "hot",
       "recent_ppg": 1.33,
       "season_ppg": 0.92
+    },
+    "Connor Bedard": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.6,
+      "season_fpts_pg": 4.55,
+      "form_score": -20.9,
+      "recent_goals": 2,
+      "recent_assists": 0,
+      "recent_shots": 12,
+      "trend": "cold",
+      "recent_ppg": 0.67,
+      "season_ppg": 1.17
     },
     "Nick Schmaltz": {
       "games_last_14": 3,
@@ -480,18 +480,6 @@
       "recent_ppg": 0.67,
       "season_ppg": 0.92
     },
-    "Dylan Larkin": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 6.65,
-      "season_fpts_pg": 3.94,
-      "form_score": 68.9,
-      "recent_goals": 2,
-      "recent_assists": 1,
-      "recent_shots": 7,
-      "trend": "hot",
-      "recent_ppg": 1.5,
-      "season_ppg": 0.9
-    },
     "Darren Raddysh": {
       "games_last_14": 3,
       "recent_fpts_pg": 3.17,
@@ -504,6 +492,30 @@
       "recent_ppg": 0.67,
       "season_ppg": 1.04
     },
+    "Dylan Larkin": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 5.23,
+      "season_fpts_pg": 3.91,
+      "form_score": 33.7,
+      "recent_goals": 2,
+      "recent_assists": 1,
+      "recent_shots": 13,
+      "trend": "hot",
+      "recent_ppg": 1.0,
+      "season_ppg": 0.89
+    },
+    "Mika Zibanejad": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 2.73,
+      "season_fpts_pg": 3.63,
+      "form_score": -24.7,
+      "recent_goals": 1,
+      "recent_assists": 0,
+      "recent_shots": 13,
+      "trend": "cold",
+      "recent_ppg": 0.33,
+      "season_ppg": 0.9
+    },
     "Brad Marchand": {
       "games_last_14": 3,
       "recent_fpts_pg": 4.57,
@@ -515,18 +527,6 @@
       "trend": "normal",
       "recent_ppg": 1.0,
       "season_ppg": 1.08
-    },
-    "Mika Zibanejad": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.1,
-      "season_fpts_pg": 3.66,
-      "form_score": -15.2,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 8,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.91
     },
     "Cutter Gauthier": {
       "games_last_14": 3,
@@ -552,41 +552,29 @@
       "recent_ppg": 0.67,
       "season_ppg": 0.88
     },
-    "Tomas Hertl": {
+    "Alex Tuch": {
       "games_last_14": 3,
-      "recent_fpts_pg": 2.97,
-      "season_fpts_pg": 3.46,
-      "form_score": -14.3,
-      "recent_goals": 1,
+      "recent_fpts_pg": 5.23,
+      "season_fpts_pg": 3.52,
+      "form_score": 48.5,
+      "recent_goals": 2,
       "recent_assists": 1,
-      "recent_shots": 6,
-      "trend": "normal",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.85
-    },
-    "Auston Matthews": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.47,
-      "season_fpts_pg": 4.09,
-      "form_score": -39.6,
-      "recent_goals": 0,
-      "recent_assists": 3,
-      "recent_shots": 6,
-      "trend": "cold",
-      "recent_ppg": 1.0,
-      "season_ppg": 0.94
-    },
-    "Andrei Svechnikov": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.5,
-      "season_fpts_pg": 3.58,
-      "form_score": -2.3,
-      "recent_goals": 0,
-      "recent_assists": 2,
-      "recent_shots": 5,
-      "trend": "normal",
+      "recent_shots": 13,
+      "trend": "hot",
       "recent_ppg": 1.0,
       "season_ppg": 0.86
+    },
+    "Auston Matthews": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.52,
+      "season_fpts_pg": 4.06,
+      "form_score": -37.8,
+      "recent_goals": 0,
+      "recent_assists": 3,
+      "recent_shots": 14,
+      "trend": "cold",
+      "recent_ppg": 0.75,
+      "season_ppg": 0.93
     },
     "Rasmus Dahlin": {
       "games_last_14": 3,
@@ -600,17 +588,77 @@
       "recent_ppg": 1.0,
       "season_ppg": 0.91
     },
-    "Alex Tuch": {
+    "Andrei Svechnikov": {
       "games_last_14": 3,
-      "recent_fpts_pg": 5.23,
-      "season_fpts_pg": 3.52,
-      "form_score": 48.5,
+      "recent_fpts_pg": 2.83,
+      "season_fpts_pg": 3.55,
+      "form_score": -20.2,
+      "recent_goals": 0,
+      "recent_assists": 2,
+      "recent_shots": 10,
+      "trend": "cold",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.85
+    },
+    "Drake Batherson": {
+      "games_last_14": 2,
+      "recent_fpts_pg": 5.55,
+      "season_fpts_pg": 3.42,
+      "form_score": 62.3,
       "recent_goals": 2,
-      "recent_assists": 1,
-      "recent_shots": 13,
+      "recent_assists": 0,
+      "recent_shots": 9,
       "trend": "hot",
       "recent_ppg": 1.0,
+      "season_ppg": 0.91
+    },
+    "Tomas Hertl": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 2.97,
+      "season_fpts_pg": 3.46,
+      "form_score": -14.3,
+      "recent_goals": 1,
+      "recent_assists": 1,
+      "recent_shots": 6,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.85
+    },
+    "Brock Nelson": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.33,
+      "season_fpts_pg": 3.55,
+      "form_score": -34.5,
+      "recent_goals": 1,
+      "recent_assists": 0,
+      "recent_shots": 12,
+      "trend": "cold",
+      "recent_ppg": 0.25,
       "season_ppg": 0.86
+    },
+    "Miro Heiskanen": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 4.63,
+      "season_fpts_pg": 3.15,
+      "form_score": 47.0,
+      "recent_goals": 0,
+      "recent_assists": 4,
+      "recent_shots": 6,
+      "trend": "hot",
+      "recent_ppg": 1.33,
+      "season_ppg": 0.86
+    },
+    "Kirill Marchenko": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 4.8,
+      "season_fpts_pg": 3.99,
+      "form_score": 20.2,
+      "recent_goals": 3,
+      "recent_assists": 1,
+      "recent_shots": 6,
+      "trend": "hot",
+      "recent_ppg": 1.33,
+      "season_ppg": 0.94
     },
     "Alex Ovechkin": {
       "games_last_14": 3,
@@ -624,52 +672,28 @@
       "recent_ppg": 0.67,
       "season_ppg": 0.81
     },
-    "Brock Nelson": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.83,
-      "season_fpts_pg": 3.55,
-      "form_score": -20.2,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 10,
-      "trend": "cold",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.86
-    },
     "Trevor Zegras": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 1.73,
-      "season_fpts_pg": 3.2,
-      "form_score": -45.9,
+      "games_last_14": 4,
+      "recent_fpts_pg": 1.4,
+      "season_fpts_pg": 3.16,
+      "form_score": -55.6,
       "recent_goals": 1,
       "recent_assists": 0,
-      "recent_shots": 3,
+      "recent_shots": 4,
       "trend": "cold",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.85
-    },
-    "Tom Wilson": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 0.4,
-      "season_fpts_pg": 3.62,
-      "form_score": -88.9,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 2,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.94
+      "recent_ppg": 0.25,
+      "season_ppg": 0.83
     },
     "John Tavares": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.8,
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.95,
       "season_fpts_pg": 3.01,
-      "form_score": -6.9,
+      "form_score": -2.1,
       "recent_goals": 2,
-      "recent_assists": 0,
-      "recent_shots": 6,
+      "recent_assists": 1,
+      "recent_shots": 7,
       "trend": "normal",
-      "recent_ppg": 0.67,
+      "recent_ppg": 0.75,
       "season_ppg": 0.82
     },
     "Leo Carlsson": {
@@ -684,18 +708,6 @@
       "recent_ppg": 1.67,
       "season_ppg": 1.04
     },
-    "Beckett Sennecke": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 5.0,
-      "season_fpts_pg": 3.09,
-      "form_score": 62.0,
-      "recent_goals": 1,
-      "recent_assists": 4,
-      "recent_shots": 5,
-      "trend": "hot",
-      "recent_ppg": 1.67,
-      "season_ppg": 0.83
-    },
     "Dylan Guenther": {
       "games_last_14": 3,
       "recent_fpts_pg": 3.37,
@@ -709,40 +721,64 @@
       "season_ppg": 0.84
     },
     "Adrian Kempe": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.53,
+      "games_last_14": 4,
+      "recent_fpts_pg": 3.32,
       "season_fpts_pg": 3.53,
-      "form_score": 0.2,
+      "form_score": -5.7,
       "recent_goals": 2,
-      "recent_assists": 1,
-      "recent_shots": 9,
+      "recent_assists": 2,
+      "recent_shots": 12,
       "trend": "normal",
       "recent_ppg": 1.0,
       "season_ppg": 0.83
     },
     "Filip Forsberg": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.1,
-      "season_fpts_pg": 3.52,
-      "form_score": -12.0,
-      "recent_goals": 1,
+      "games_last_14": 3,
+      "recent_fpts_pg": 4.03,
+      "season_fpts_pg": 3.56,
+      "form_score": 13.2,
+      "recent_goals": 2,
       "recent_assists": 0,
+      "recent_shots": 14,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.82
+    },
+    "Matthew Knies": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.42,
+      "season_fpts_pg": 2.77,
+      "form_score": -12.5,
+      "recent_goals": 1,
+      "recent_assists": 2,
       "recent_shots": 8,
       "trend": "normal",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.81
-    },
-    "Miro Heiskanen": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.55,
-      "season_fpts_pg": 3.09,
-      "form_score": 15.0,
-      "recent_goals": 0,
-      "recent_assists": 2,
-      "recent_shots": 4,
-      "trend": "normal",
-      "recent_ppg": 1.0,
+      "recent_ppg": 0.75,
       "season_ppg": 0.84
+    },
+    "Tom Wilson": {
+      "games_last_14": 2,
+      "recent_fpts_pg": 0.4,
+      "season_fpts_pg": 3.62,
+      "form_score": -88.9,
+      "recent_goals": 0,
+      "recent_assists": 0,
+      "recent_shots": 2,
+      "trend": "cold",
+      "recent_ppg": 0.0,
+      "season_ppg": 0.94
+    },
+    "Beckett Sennecke": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 5.0,
+      "season_fpts_pg": 3.09,
+      "form_score": 62.0,
+      "recent_goals": 1,
+      "recent_assists": 4,
+      "recent_shots": 5,
+      "trend": "hot",
+      "recent_ppg": 1.67,
+      "season_ppg": 0.83
     },
     "Jakob Chychrun": {
       "games_last_14": 3,
@@ -755,18 +791,6 @@
       "trend": "cold",
       "recent_ppg": 0.67,
       "season_ppg": 0.8
-    },
-    "Matthew Knies": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.1,
-      "season_fpts_pg": 2.76,
-      "form_score": -24.0,
-      "recent_goals": 1,
-      "recent_assists": 1,
-      "recent_shots": 7,
-      "trend": "cold",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.84
     },
     "Dylan Strome": {
       "games_last_14": 3,
@@ -804,30 +828,6 @@
       "recent_ppg": 1.0,
       "season_ppg": 0.78
     },
-    "Ivan Demidov": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 1.85,
-      "season_fpts_pg": 2.68,
-      "form_score": -31.0,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 3,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.8
-    },
-    "Ryan Nugent-Hopkins": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.6,
-      "season_fpts_pg": 3.26,
-      "form_score": -20.2,
-      "recent_goals": 1,
-      "recent_assists": 1,
-      "recent_shots": 7,
-      "trend": "cold",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.9
-    },
     "Sam Bennett": {
       "games_last_14": 3,
       "recent_fpts_pg": 6.2,
@@ -840,29 +840,41 @@
       "recent_ppg": 1.67,
       "season_ppg": 0.78
     },
-    "Kirill Marchenko": {
+    "Ivan Demidov": {
       "games_last_14": 2,
-      "recent_fpts_pg": 1.4,
-      "season_fpts_pg": 3.85,
-      "form_score": -63.6,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 2,
+      "recent_fpts_pg": 1.85,
+      "season_fpts_pg": 2.68,
+      "form_score": -31.0,
+      "recent_goals": 0,
+      "recent_assists": 1,
+      "recent_shots": 3,
       "trend": "cold",
       "recent_ppg": 0.5,
-      "season_ppg": 0.9
+      "season_ppg": 0.8
     },
     "Evgeni Malkin": {
       "games_last_14": 3,
-      "recent_fpts_pg": 4.7,
-      "season_fpts_pg": 4.1,
-      "form_score": 14.6,
+      "recent_fpts_pg": 4.83,
+      "season_fpts_pg": 4.11,
+      "form_score": 17.6,
       "recent_goals": 0,
       "recent_assists": 3,
-      "recent_shots": 14,
-      "trend": "normal",
+      "recent_shots": 15,
+      "trend": "hot",
       "recent_ppg": 1.0,
       "season_ppg": 1.07
+    },
+    "Ryan Nugent-Hopkins": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 2.6,
+      "season_fpts_pg": 3.26,
+      "form_score": -20.2,
+      "recent_goals": 1,
+      "recent_assists": 1,
+      "recent_shots": 7,
+      "trend": "cold",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.9
     },
     "Dylan Cozens": {
       "games_last_14": 2,
@@ -877,28 +889,16 @@
       "season_ppg": 0.78
     },
     "Steven Stamkos": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 4.85,
-      "season_fpts_pg": 3.35,
-      "form_score": 44.7,
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.07,
+      "season_fpts_pg": 3.29,
+      "form_score": -6.7,
       "recent_goals": 2,
       "recent_assists": 0,
       "recent_shots": 8,
-      "trend": "hot",
-      "recent_ppg": 1.0,
-      "season_ppg": 0.78
-    },
-    "Seth Jarvis": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 6.1,
-      "season_fpts_pg": 4.18,
-      "form_score": 45.9,
-      "recent_goals": 1,
-      "recent_assists": 2,
-      "recent_shots": 8,
-      "trend": "hot",
-      "recent_ppg": 1.5,
-      "season_ppg": 0.9
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.77
     },
     "Juraj Slafkovsk\u00fd": {
       "games_last_14": 2,
@@ -912,6 +912,42 @@
       "recent_ppg": 0.5,
       "season_ppg": 0.78
     },
+    "Seth Jarvis": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 4.17,
+      "season_fpts_pg": 4.11,
+      "form_score": 1.5,
+      "recent_goals": 1,
+      "recent_assists": 2,
+      "recent_shots": 10,
+      "trend": "normal",
+      "recent_ppg": 1.0,
+      "season_ppg": 0.88
+    },
+    "Luke Evangelista": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.07,
+      "season_fpts_pg": 2.81,
+      "form_score": 9.0,
+      "recent_goals": 0,
+      "recent_assists": 3,
+      "recent_shots": 3,
+      "trend": "normal",
+      "recent_ppg": 1.0,
+      "season_ppg": 0.76
+    },
+    "Nikolaj Ehlers": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.33,
+      "season_fpts_pg": 3.12,
+      "form_score": 6.9,
+      "recent_goals": 2,
+      "recent_assists": 0,
+      "recent_shots": 10,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.75
+    },
     "Troy Terry": {
       "games_last_14": 1,
       "recent_fpts_pg": 2.0,
@@ -923,6 +959,18 @@
       "trend": "cold",
       "recent_ppg": 1.0,
       "season_ppg": 0.98
+    },
+    "Charlie Coyle": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.27,
+      "season_fpts_pg": 2.66,
+      "form_score": 22.6,
+      "recent_goals": 0,
+      "recent_assists": 3,
+      "recent_shots": 7,
+      "trend": "hot",
+      "recent_ppg": 1.0,
+      "season_ppg": 0.76
     },
     "Tyler Bertuzzi": {
       "games_last_14": 3,
@@ -960,53 +1008,17 @@
       "recent_ppg": 1.67,
       "season_ppg": 0.72
     },
-    "Luke Evangelista": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 3.35,
-      "season_fpts_pg": 2.82,
-      "form_score": 18.8,
-      "recent_goals": 0,
-      "recent_assists": 2,
-      "recent_shots": 3,
-      "trend": "hot",
-      "recent_ppg": 1.0,
-      "season_ppg": 0.76
-    },
-    "Nikolaj Ehlers": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 2.45,
-      "season_fpts_pg": 3.08,
-      "form_score": -20.6,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 6,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.75
-    },
-    "Nico Hischier": {
+    "Bryan Rust": {
       "games_last_14": 3,
-      "recent_fpts_pg": 2.4,
-      "season_fpts_pg": 3.04,
-      "form_score": -21.1,
+      "recent_fpts_pg": 4.0,
+      "season_fpts_pg": 3.5,
+      "form_score": 14.3,
       "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 8,
-      "trend": "cold",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.72
-    },
-    "Charlie Coyle": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 1.8,
-      "season_fpts_pg": 2.6,
-      "form_score": -30.9,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 4,
-      "trend": "cold",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.74
+      "recent_assists": 2,
+      "recent_shots": 5,
+      "trend": "normal",
+      "recent_ppg": 1.0,
+      "season_ppg": 0.83
     },
     "Carter Verhaeghe": {
       "games_last_14": 3,
@@ -1020,17 +1032,17 @@
       "recent_ppg": 0.33,
       "season_ppg": 0.73
     },
-    "Bryan Rust": {
+    "Nico Hischier": {
       "games_last_14": 3,
-      "recent_fpts_pg": 4.0,
-      "season_fpts_pg": 3.5,
-      "form_score": 14.3,
+      "recent_fpts_pg": 2.4,
+      "season_fpts_pg": 3.04,
+      "form_score": -21.1,
       "recent_goals": 1,
-      "recent_assists": 2,
-      "recent_shots": 5,
-      "trend": "normal",
-      "recent_ppg": 1.0,
-      "season_ppg": 0.83
+      "recent_assists": 0,
+      "recent_shots": 8,
+      "trend": "cold",
+      "recent_ppg": 0.33,
+      "season_ppg": 0.72
     },
     "Jesper Bratt": {
       "games_last_14": 3,
@@ -1042,6 +1054,66 @@
       "recent_shots": 6,
       "trend": "normal",
       "recent_ppg": 0.67,
+      "season_ppg": 0.72
+    },
+    "Joel Eriksson Ek": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.57,
+      "season_fpts_pg": 3.38,
+      "form_score": 5.6,
+      "recent_goals": 2,
+      "recent_assists": 0,
+      "recent_shots": 8,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.76
+    },
+    "Ryan McLeod": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 1.97,
+      "season_fpts_pg": 2.53,
+      "form_score": -22.2,
+      "recent_goals": 0,
+      "recent_assists": 1,
+      "recent_shots": 6,
+      "trend": "cold",
+      "recent_ppg": 0.33,
+      "season_ppg": 0.7
+    },
+    "Anton Lundell": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 2.47,
+      "season_fpts_pg": 3.04,
+      "form_score": -18.9,
+      "recent_goals": 0,
+      "recent_assists": 2,
+      "recent_shots": 1,
+      "trend": "cold",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.74
+    },
+    "Bo Horvat": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 3.73,
+      "season_fpts_pg": 4.14,
+      "form_score": -9.9,
+      "recent_goals": 1,
+      "recent_assists": 1,
+      "recent_shots": 13,
+      "trend": "normal",
+      "recent_ppg": 0.67,
+      "season_ppg": 0.89
+    },
+    "Artturi Lehkonen": {
+      "games_last_14": 4,
+      "recent_fpts_pg": 0.23,
+      "season_fpts_pg": 3.02,
+      "form_score": -92.6,
+      "recent_goals": 0,
+      "recent_assists": 0,
+      "recent_shots": 6,
+      "trend": "cold",
+      "recent_ppg": 0.0,
       "season_ppg": 0.72
     },
     "Aliaksei Protas": {
@@ -1056,42 +1128,6 @@
       "recent_ppg": 1.33,
       "season_ppg": 0.71
     },
-    "Ryan McLeod": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 1.97,
-      "season_fpts_pg": 2.53,
-      "form_score": -22.2,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 6,
-      "trend": "cold",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.7
-    },
-    "Artturi Lehkonen": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.17,
-      "season_fpts_pg": 3.02,
-      "form_score": -94.5,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 5,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.72
-    },
-    "Anton Lundell": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 2.47,
-      "season_fpts_pg": 3.04,
-      "form_score": -18.9,
-      "recent_goals": 0,
-      "recent_assists": 2,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.74
-    },
     "Ivan Barbashev": {
       "games_last_14": 3,
       "recent_fpts_pg": 1.03,
@@ -1104,62 +1140,38 @@
       "recent_ppg": 0.33,
       "season_ppg": 0.7
     },
-    "Bo Horvat": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.73,
-      "season_fpts_pg": 4.14,
-      "form_score": -9.9,
-      "recent_goals": 1,
-      "recent_assists": 1,
-      "recent_shots": 13,
-      "trend": "normal",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.89
-    },
-    "Joel Eriksson Ek": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.57,
-      "season_fpts_pg": 3.38,
-      "form_score": 5.6,
-      "recent_goals": 2,
-      "recent_assists": 0,
-      "recent_shots": 8,
-      "trend": "normal",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.76
-    },
     "Brent Burns": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 1.67,
+      "games_last_14": 4,
+      "recent_fpts_pg": 2.05,
       "season_fpts_pg": 1.22,
-      "form_score": 36.9,
+      "form_score": 68.4,
       "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 5,
+      "recent_assists": 2,
+      "recent_shots": 8,
       "trend": "hot",
-      "recent_ppg": 0.33,
+      "recent_ppg": 0.5,
       "season_ppg": 0.0
     },
     "Anze Kopitar": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.93,
+      "games_last_14": 4,
+      "recent_fpts_pg": 1.52,
       "season_fpts_pg": 0.8,
-      "form_score": 16.7,
+      "form_score": 90.6,
       "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 2,
+      "recent_assists": 2,
+      "recent_shots": 4,
       "trend": "hot",
-      "recent_ppg": 0.33,
+      "recent_ppg": 0.5,
       "season_ppg": 0.0
     },
     "Jordan Staal": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 0.2,
+      "games_last_14": 3,
+      "recent_fpts_pg": 0.43,
       "season_fpts_pg": 0.67,
-      "form_score": -70.4,
+      "form_score": -35.8,
       "recent_goals": 0,
       "recent_assists": 0,
-      "recent_shots": 1,
+      "recent_shots": 2,
       "trend": "cold",
       "recent_ppg": 0.0,
       "season_ppg": 0.0
@@ -1225,13 +1237,13 @@
       "season_ppg": 0.0
     },
     "James van Riemsdyk": {
-      "games_last_14": 2,
-      "recent_fpts_pg": -0.55,
+      "games_last_14": 3,
+      "recent_fpts_pg": -0.23,
       "season_fpts_pg": 0.73,
-      "form_score": -175.4,
+      "form_score": -132.0,
       "recent_goals": 0,
       "recent_assists": 0,
-      "recent_shots": 1,
+      "recent_shots": 2,
       "trend": "cold",
       "recent_ppg": 0.0,
       "season_ppg": 0.0
@@ -1260,162 +1272,6 @@
       "recent_ppg": 0.0,
       "season_ppg": 0.0
     },
-    "Ian Cole": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.4,
-      "season_fpts_pg": 0.49,
-      "form_score": -18.6,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 3,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
-    },
-    "Mikael Backlund": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 3.33,
-      "season_fpts_pg": 1.33,
-      "form_score": 150.5,
-      "recent_goals": 1,
-      "recent_assists": 1,
-      "recent_shots": 10,
-      "trend": "hot",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.0
-    },
-    "Drew Doughty": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 0.4,
-      "season_fpts_pg": 0.64,
-      "form_score": -37.3,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 2,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
-    },
-    "Zach Bogosian": {
-      "games_last_14": 3,
-      "recent_fpts_pg": -0.7,
-      "season_fpts_pg": 0.37,
-      "form_score": -290.3,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
-    },
-    "Luke Schenn": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.63,
-      "season_fpts_pg": 0.17,
-      "form_score": 265.4,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 1,
-      "trend": "hot",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.0
-    },
-    "Jamie Benn": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 1.9,
-      "season_fpts_pg": 0.76,
-      "form_score": 149.3,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 2,
-      "trend": "hot",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.0
-    },
-    "Evander Kane": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 2.2,
-      "season_fpts_pg": 0.93,
-      "form_score": 137.2,
-      "recent_goals": 1,
-      "recent_assists": 0,
-      "recent_shots": 6,
-      "trend": "hot",
-      "recent_ppg": 0.5,
-      "season_ppg": 0.0
-    },
-    "Brayden Schenn": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 1.2,
-      "season_fpts_pg": 0.49,
-      "form_score": 147.4,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 4,
-      "trend": "hot",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.0
-    },
-    "Oliver Ekman-Larsson": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.67,
-      "season_fpts_pg": 0.6,
-      "form_score": 11.4,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 5,
-      "trend": "normal",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.0
-    },
-    "Nazem Kadri": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 4.27,
-      "season_fpts_pg": 1.2,
-      "form_score": 255.6,
-      "recent_goals": 2,
-      "recent_assists": 0,
-      "recent_shots": 17,
-      "trend": "hot",
-      "recent_ppg": 0.67,
-      "season_ppg": 0.0
-    },
-    "Marcus Johansson": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 0.67,
-      "season_fpts_pg": 0.95,
-      "form_score": -29.8,
-      "recent_goals": 0,
-      "recent_assists": 1,
-      "recent_shots": 0,
-      "trend": "cold",
-      "recent_ppg": 0.33,
-      "season_ppg": 0.0
-    },
-    "Casey Cizikas": {
-      "games_last_14": 3,
-      "recent_fpts_pg": -0.2,
-      "season_fpts_pg": 0.39,
-      "form_score": -151.1,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
-    },
-    "Marcus Foligno": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 0.2,
-      "season_fpts_pg": 0.39,
-      "form_score": -48.1,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
-    },
     "Jeff Petry": {
       "games_last_14": 3,
       "recent_fpts_pg": 0.1,
@@ -1429,25 +1285,25 @@
       "season_ppg": 0.0
     },
     "Taylor Hall": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 7.8,
+      "games_last_14": 3,
+      "recent_fpts_pg": 5.73,
       "season_fpts_pg": 0.82,
-      "form_score": 856.8,
+      "form_score": 603.3,
       "recent_goals": 2,
       "recent_assists": 3,
-      "recent_shots": 4,
+      "recent_shots": 8,
       "trend": "hot",
-      "recent_ppg": 2.5,
+      "recent_ppg": 1.67,
       "season_ppg": 0.0
     },
     "Erik Gudbranson": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 0.0,
+      "games_last_14": 3,
+      "recent_fpts_pg": 0.13,
       "season_fpts_pg": 0.43,
-      "form_score": -100.0,
+      "form_score": -68.6,
       "recent_goals": 0,
       "recent_assists": 0,
-      "recent_shots": 0,
+      "recent_shots": 1,
       "trend": "cold",
       "recent_ppg": 0.0,
       "season_ppg": 0.0
@@ -1465,15 +1321,15 @@
       "season_ppg": 0.0
     },
     "Jaden Schwartz": {
-      "games_last_14": 3,
-      "recent_fpts_pg": 1.53,
+      "games_last_14": 4,
+      "recent_fpts_pg": 1.12,
       "season_fpts_pg": 1.03,
-      "form_score": 48.4,
+      "form_score": 8.9,
       "recent_goals": 0,
       "recent_assists": 1,
-      "recent_shots": 4,
-      "trend": "hot",
-      "recent_ppg": 0.33,
+      "recent_shots": 5,
+      "trend": "normal",
+      "recent_ppg": 0.25,
       "season_ppg": 0.0
     },
     "Vladimir Tarasenko": {
@@ -1560,16 +1416,28 @@
       "recent_ppg": 0.33,
       "season_ppg": 0.0
     },
+    "John Klingberg": {
+      "games_last_14": 3,
+      "recent_fpts_pg": 0.9,
+      "season_fpts_pg": 0.77,
+      "form_score": 16.5,
+      "recent_goals": 0,
+      "recent_assists": 1,
+      "recent_shots": 3,
+      "trend": "hot",
+      "recent_ppg": 0.33,
+      "season_ppg": 0.0
+    },
     "Sam Carrick": {
-      "games_last_14": 2,
-      "recent_fpts_pg": 2.2,
+      "games_last_14": 3,
+      "recent_fpts_pg": 1.3,
       "season_fpts_pg": 0.41,
-      "form_score": 443.1,
+      "form_score": 220.9,
       "recent_goals": 1,
       "recent_assists": 0,
       "recent_shots": 1,
       "trend": "hot",
-      "recent_ppg": 0.5,
+      "recent_ppg": 0.33,
       "season_ppg": 0.0
     },
     "Brendan Gallagher": {
@@ -1619,19 +1487,7 @@
       "trend": "normal",
       "recent_ppg": 0.0,
       "season_ppg": 0.0
-    },
-    "Brenden Dillon": {
-      "games_last_14": 3,
-      "recent_fpts_pg": -0.03,
-      "season_fpts_pg": 0.23,
-      "form_score": -114.4,
-      "recent_goals": 0,
-      "recent_assists": 0,
-      "recent_shots": 1,
-      "trend": "cold",
-      "recent_ppg": 0.0,
-      "season_ppg": 0.0
     }
   },
-  "fetched_at": "2026-03-02T06:51:22.085543"
+  "fetched_at": "2026-03-03T06:01:30.033849"
 }

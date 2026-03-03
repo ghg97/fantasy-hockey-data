@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T08:02:31.908006",
+  "fetched_at": "2026-03-03T06:30:34.789781",
   "teams": [
     {
       "team_key": "465.l.71635.t.1",
@@ -8,7 +8,7 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "4102.50",
+      "points_for": "4103.30",
       "points_against": 3656.5999999999995
     },
     {
@@ -18,8 +18,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3937.60",
-      "points_against": 3937.2
+      "points_for": "3938.00",
+      "points_against": 3937.6
     },
     {
       "team_key": "465.l.71635.t.8",
@@ -28,8 +28,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3932.60",
-      "points_against": 3912.2000000000003
+      "points_for": "3933.00",
+      "points_against": 3913.0000000000005
     },
     {
       "team_key": "465.l.71635.t.3",
@@ -38,8 +38,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3992.90",
-      "points_against": 3777.9
+      "points_for": "3993.70",
+      "points_against": 3778.3
     },
     {
       "team_key": "465.l.71635.t.4",
@@ -49,7 +49,7 @@
       "losses": null,
       "ties": null,
       "points_for": "3823.10",
-      "points_against": 3933.5000000000005
+      "points_against": 3933.3
     },
     {
       "team_key": "465.l.71635.t.12",
@@ -59,7 +59,7 @@
       "losses": null,
       "ties": null,
       "points_for": "4084.50",
-      "points_against": 3913.5999999999995
+      "points_against": 3914.3999999999996
     },
     {
       "team_key": "465.l.71635.t.2",
@@ -68,8 +68,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3865.90",
-      "points_against": 4016.1
+      "points_for": "3866.30",
+      "points_against": 4016.5
     },
     {
       "team_key": "465.l.71635.t.10",
@@ -78,8 +78,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3817.70",
-      "points_against": 3790.6999999999994
+      "points_for": "3818.10",
+      "points_against": 3791.099999999999
     },
     {
       "team_key": "465.l.71635.t.6",
@@ -88,8 +88,8 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3586.10",
-      "points_against": 3986.5999999999995
+      "points_for": "3586.50",
+      "points_against": 3986.9999999999995
     },
     {
       "team_key": "465.l.71635.t.7",
@@ -98,7 +98,7 @@
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "3792.20",
+      "points_for": "3792.00",
       "points_against": 4010.6999999999994
     }
   ]

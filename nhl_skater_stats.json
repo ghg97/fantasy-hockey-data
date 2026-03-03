@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T06:51:42.841008",
+  "fetched_at": "2026-03-03T06:30:17.416652",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -15,7 +15,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 97
+      "value": 99
     },
     {
       "player_id": 8476453,
@@ -49,7 +49,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 40
+      "value": 41
     },
     {
       "player_id": 8478402,
@@ -107,7 +107,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 57
+      "value": 58
     },
     {
       "player_id": 8477934,

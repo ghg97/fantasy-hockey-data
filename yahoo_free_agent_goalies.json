@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-02T08:02:31.050697",
-  "count": 36,
+  "fetched_at": "2026-03-03T06:30:34.608698",
+  "count": 35,
   "players": [
     {
       "player_id": 4003,
@@ -57,19 +57,6 @@
       "percent_owned": 20
     },
     {
-      "player_id": 4854,
-      "name": "Cam Talbot",
-      "team": "DET",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 9
-    },
-    {
       "player_id": 5085,
       "name": "Philipp Grubauer",
       "team": "SEA",
@@ -80,7 +67,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 20
+      "percent_owned": 19
     },
     {
       "player_id": 5114,
@@ -96,19 +83,6 @@
       "pp_unit": null,
       "status": "IR",
       "percent_owned": 1
-    },
-    {
-      "player_id": 5161,
-      "name": "Frederik Andersen",
-      "team": "CAR",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 27
     },
     {
       "player_id": 5454,
@@ -134,7 +108,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 11
     },
     {
       "player_id": 5753,
@@ -175,7 +149,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 3
     },
     {
       "player_id": 6405,
@@ -203,7 +177,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 6408,
@@ -242,7 +216,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 12
+      "percent_owned": 16
     },
     {
       "player_id": 6462,
@@ -281,7 +255,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 6
     },
     {
       "player_id": 7089,
@@ -307,7 +281,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 7156,
@@ -335,7 +309,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 20
+      "percent_owned": 21
     },
     {
       "player_id": 7593,
@@ -348,7 +322,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 54
+      "percent_owned": 53
     },
     {
       "player_id": 7886,
@@ -400,7 +374,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 2
     },
     {
       "player_id": 8314,
@@ -441,7 +415,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 8871,
@@ -470,6 +444,19 @@
       "percent_owned": 64
     },
     {
+      "player_id": 30487,
+      "name": "Erik Portillo",
+      "team": "LAK",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
       "player_id": 30995,
       "name": "Nikita Tolopilo",
       "team": "VAN",
@@ -480,7 +467,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 2
     }
   ]
 }
