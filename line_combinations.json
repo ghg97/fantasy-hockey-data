@@ -1,5 +1,1663 @@
 {
-  "teams": {},
-  "player_lines": {},
-  "fetched_at": "2026-03-04T08:00:46.805019"
+  "teams": {
+    "ANA": {
+      "fetched": true
+    },
+    "BOS": {
+      "fetched": true
+    },
+    "BUF": {
+      "fetched": true
+    },
+    "CGY": {
+      "fetched": true
+    },
+    "CAR": {
+      "fetched": true
+    },
+    "CHI": {
+      "fetched": true
+    },
+    "COL": {
+      "fetched": true
+    },
+    "CBJ": {
+      "fetched": true
+    },
+    "DAL": {
+      "fetched": true
+    },
+    "DET": {
+      "fetched": true
+    },
+    "EDM": {
+      "fetched": true
+    },
+    "FLA": {
+      "fetched": true
+    }
+  },
+  "player_lines": {
+    "Chris Kreider": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Leo Carlsson": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Cutter Gauthier": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Alex Killorn": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Mason McTavish": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Beckett Sennecke": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Frank Vatrano": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Ryan Poehling": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Ryan Strome": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Ross Johnston": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Tim Washe": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Jeffrey Viel": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Jackson Lacombe": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Jacob Trouba": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Olen Zellweger": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Radko Gudas": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Pavel Mintyukov": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Ian Moore": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Ville Husso": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Lukas Dostal": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Petr Mrazek": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Mikael Granlund": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Troy Terry": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 4"
+    },
+    "Marat Khusnutdinov": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Elias Lindholm": {
+      "team": "BOS",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "David Pastrnak": {
+      "team": "BOS",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Casey Mittelstadt": {
+      "team": "BOS",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Pavel Zacha": {
+      "team": "BOS",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Viktor Arvidsson": {
+      "team": "BOS",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Michael Eyssimont": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Fraser Minten": {
+      "team": "BOS",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
+    "Morgan Geekie": {
+      "team": "BOS",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Tanner Jeannot": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Sean Kuraly": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Mark Kastelic": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Jonathan Aspirot": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Charlie McAvoy": {
+      "team": "BOS",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Hampus Lindholm": {
+      "team": "BOS",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Mason Lohrei": {
+      "team": "BOS",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Nikita Zadorov": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Andrew Peeke": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Jeremy Swayman": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Joonas Korpisalo": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Jordan Harris": {
+      "team": "BOS",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Peyton Krebs": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Tage Thompson": {
+      "team": "BUF",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Alex Tuch": {
+      "team": "BUF",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Jason Zucker": {
+      "team": "BUF",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Ryan McLeod": {
+      "team": "BUF",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Jack Quinn": {
+      "team": "BUF",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Noah Ostlund": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Josh Norris": {
+      "team": "BUF",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Center"
+    },
+    "Josh Doan": {
+      "team": "BUF",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Zach Benson": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Tyson Kozak": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Beck Malenstyn": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Mattias Samuelsson": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Rasmus Dahlin": {
+      "team": "BUF",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Bowen Byram": {
+      "team": "BUF",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Owen Power": {
+      "team": "BUF",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Zach Metsa": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Michael Kesselring": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Ukko-Pekka Luukkonen": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Alex Lyon": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Conor Timmins": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Jordan Greenway": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Jiri Kulich": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Justin Danforth": {
+      "team": "BUF",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 4"
+    },
+    "Connor Zary": {
+      "team": "CGY",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Nazem Kadri": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Joel Farabee": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Blake Coleman": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Mikael Backlund": {
+      "team": "CGY",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Matt Coronato": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Yegor Sharangovich": {
+      "team": "CGY",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Morgan Frost": {
+      "team": "CGY",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
+    "Matvei Gridin": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Ryan Lomberg": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "John Beecher": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Adam Klapka": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Kevin Bahl": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Zach Whitecloud": {
+      "team": "CGY",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Yan Kuznetsov": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Zayne Parekh": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Joel Hanley": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Brayden Pachal": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Dustin Wolf": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Devin Cooley": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Jonathan Huberdeau": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Samuel Honzek": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Jake Bean": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Andrei Svechnikov": {
+      "team": "CAR",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Sebastian Aho": {
+      "team": "CAR",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Seth Jarvis": {
+      "team": "CAR",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Taylor Hall": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Logan Stankoven": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Jackson Blake": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Nikolaj Ehlers": {
+      "team": "CAR",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Jordan Staal": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Jordan Martinook": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "William Carrier": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Jesperi Kotkaniemi": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Eric Robinson": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Jaccob Slavin": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Jalen Chatfield": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "K'Andre Miller": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Sean Walker": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Shayne Gostisbehere": {
+      "team": "CAR",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Alexander Nikishin": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Brandon Bussi": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Frederik Andersen": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Mark Jankowski": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": null,
+      "position": "Skater 4"
+    },
+    "Charles-Alexis Legault": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Pyotr Kochetkov": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Ryan Greene": {
+      "team": "CHI",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Connor Bedard": {
+      "team": "CHI",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Andre Burakovsky": {
+      "team": "CHI",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Ryan Donato": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Frank Nazar": {
+      "team": "CHI",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Teuvo Teravainen": {
+      "team": "CHI",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Tyler Bertuzzi": {
+      "team": "CHI",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Ilya Mikheyev": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Nick Foligno": {
+      "team": "CHI",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Oliver Moore": {
+      "team": "CHI",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Center"
+    },
+    "Landon Slaggert": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Alex Vlasic": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Louis Crevier": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Matt Grzelcyk": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Artyom Levshunov": {
+      "team": "CHI",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Ethan Del Mastro": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Sam Rinzel": {
+      "team": "CHI",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Spencer Knight": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Arvid Soderblom": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Wyatt Kaiser": {
+      "team": "CHI",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Gabriel Landeskog": {
+      "team": "COL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Nathan MacKinnon": {
+      "team": "COL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Martin Necas": {
+      "team": "COL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Ross Colton": {
+      "team": "COL",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Brock Nelson": {
+      "team": "COL",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Valeri Nichushkin": {
+      "team": "COL",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Parker Kelly": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Jack Drury": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Victor Olofsson": {
+      "team": "COL",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Jason Polin": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Zakhar Bardakov": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Gavin Brindley": {
+      "team": "COL",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Devon Toews": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Cale Makar": {
+      "team": "COL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Josh Manson": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Brent Burns": {
+      "team": "COL",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Brett Kulak": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Sam Malinski": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Scott Wedgewood": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Mackenzie Blackwood": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Logan O'Connor": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Joel Kiviranta": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Artturi Lehkonen": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Mason Marchment": {
+      "team": "CBJ",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Adam Fantilli": {
+      "team": "CBJ",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Kirill Marchenko": {
+      "team": "CBJ",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Kent Johnson": {
+      "team": "CBJ",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Sean Monahan": {
+      "team": "CBJ",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Danton Heinen": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Cole Sillinger": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Charlie Coyle": {
+      "team": "CBJ",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Center"
+    },
+    "Mathieu Olivier": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Dmitri Voronkov": {
+      "team": "CBJ",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Isac Lundestrom": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Miles Wood": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Ivan Provorov": {
+      "team": "CBJ",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Erik Gudbranson": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Denton Mateychuk": {
+      "team": "CBJ",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Damon Severson": {
+      "team": "CBJ",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Egor Zamula": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Dante Fabbro": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Elvis Merzlikins": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Jet Greaves": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Brendan Smith": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Zach Werenski": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Boone Jenner": {
+      "team": "CBJ",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Jason Robertson": {
+      "team": "DAL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Wyatt Johnston": {
+      "team": "DAL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Mavrik Bourque": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Sam Steel": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Matt Duchene": {
+      "team": "DAL",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Jamie Benn": {
+      "team": "DAL",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Adam Erne": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Justin Hryckowian": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
+    "Colin Blackwell": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Oskar Back": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Arttu Hyry": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Nathan Bastian": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Esa Lindell": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Miro Heiskanen": {
+      "team": "DAL",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Thomas Harley": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Nils Lundkvist": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Lian Bichsel": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Tyler Myers": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Jake Oettinger": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Casey DeSmith": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Tyler Seguin": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Mikko Rantanen": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Radek Faksa": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 4"
+    },
+    "Roope Hintz": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 5"
+    },
+    "Michael Rasmussen": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Dylan Larkin": {
+      "team": "DET",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Patrick Kane": {
+      "team": "DET",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Alex DeBrincat": {
+      "team": "DET",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Andrew Copp": {
+      "team": "DET",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Center"
+    },
+    "Lucas Raymond": {
+      "team": "DET",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Emmitt Finnie": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Marco Kasper": {
+      "team": "DET",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
+    "Mason Appleton": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "James van Riemsdyk": {
+      "team": "DET",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "J.T. Compher": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Dominik Shine": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Simon Edvinsson": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Moritz Seider": {
+      "team": "DET",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Ben Chiarot": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Jacob Bernard-Docker": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Albert Johansson": {
+      "team": "DET",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Axel Sandin-Pellikka": {
+      "team": "DET",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Cam Talbot": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Sebastian Cossa": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "John Gibson": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Ryan Nugent-Hopkins": {
+      "team": "EDM",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Connor McDavid": {
+      "team": "EDM",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Center"
+    },
+    "Zach Hyman": {
+      "team": "EDM",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Matthew Savoie": {
+      "team": "EDM",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Leon Draisaitl": {
+      "team": "EDM",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Jack Roslovic": {
+      "team": "EDM",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Vasily Podkolzin": {
+      "team": "EDM",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Josh Samanski": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Trent Frederic": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Adam Henrique": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Curtis Lazar": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Kasperi Kapanen": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Jake Walman": {
+      "team": "EDM",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Evan Bouchard": {
+      "team": "EDM",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Mattias Ekholm": {
+      "team": "EDM",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Spencer Stastney": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Darnell Nurse": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Ty Emberson": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Connor Ingram": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Tristan Jarry": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Mattias Janmark": {
+      "team": "EDM",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Sandis Vilmanis": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Wing"
+    },
+    "Anton Lundell": {
+      "team": "FLA",
+      "pp_unit": 2,
+      "line": 1,
+      "position": "Center"
+    },
+    "Sam Reinhart": {
+      "team": "FLA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Wing"
+    },
+    "Carter Verhaeghe": {
+      "team": "FLA",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Sam Bennett": {
+      "team": "FLA",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Matthew Tkachuk": {
+      "team": "FLA",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Eetu Luostarinen": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "Evan Rodrigues": {
+      "team": "FLA",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
+    "Brad Marchand": {
+      "team": "FLA",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Mackie Samoskevich": {
+      "team": "FLA",
+      "pp_unit": 2,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Tomas Nosek": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "A.J. Greer": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
+    },
+    "Gustav Forsling": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 1,
+      "position": "Left Defense"
+    },
+    "Aaron Ekblad": {
+      "team": "FLA",
+      "pp_unit": 1,
+      "line": 1,
+      "position": "Right Defense"
+    },
+    "Niko Mikkola": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Dmitry Kulikov": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Tobias Bjornfot": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Uvis Balinskis": {
+      "team": "FLA",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Defense"
+    },
+    "Sergei Bobrovsky": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Starting Goalie"
+    },
+    "Daniil Tarasov": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Backup Goalie"
+    },
+    "Aleksander Barkov": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Cole Schwindt": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 2"
+    },
+    "Jonah Gadjovich": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Seth Jones": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 4"
+    }
+  },
+  "fetched_at": "2026-03-05T07:31:53.275112"
 }
