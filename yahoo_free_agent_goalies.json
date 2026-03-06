@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-03T06:30:34.608698",
-  "count": 35,
+  "fetched_at": "2026-03-06T00:01:37.989094",
+  "count": 33,
   "players": [
     {
       "player_id": 4003,
@@ -41,7 +41,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 1
     },
     {
       "player_id": 4589,
@@ -55,19 +55,6 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 20
-    },
-    {
-      "player_id": 5085,
-      "name": "Philipp Grubauer",
-      "team": "SEA",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 19
     },
     {
       "player_id": 5114,
@@ -95,7 +82,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 46
+      "percent_owned": 47
     },
     {
       "player_id": 5553,
@@ -108,7 +95,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 11
+      "percent_owned": 10
     },
     {
       "player_id": 5753,
@@ -121,7 +108,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 9
     },
     {
       "player_id": 5774,
@@ -163,8 +150,8 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
-      "percent_owned": 31
+      "status": "IR-LT",
+      "percent_owned": 29
     },
     {
       "player_id": 6406,
@@ -177,7 +164,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 6408,
@@ -190,7 +177,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 2
     },
     {
       "player_id": 6430,
@@ -204,19 +191,6 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 3
-    },
-    {
-      "player_id": 6445,
-      "name": "Elvis Merzlikins",
-      "team": "CBJ",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 16
     },
     {
       "player_id": 6462,
@@ -242,7 +216,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 33
+      "percent_owned": 32
+    },
+    {
+      "player_id": 6985,
+      "name": "Connor Ingram",
+      "team": "EDM",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 14
     },
     {
       "player_id": 7084,
@@ -268,7 +255,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
+      "percent_owned": 47
     },
     {
       "player_id": 7108,
@@ -281,7 +268,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 11
     },
     {
       "player_id": 7156,
@@ -309,7 +296,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 21
+      "percent_owned": 24
     },
     {
       "player_id": 7593,
@@ -323,6 +310,19 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 53
+    },
+    {
+      "player_id": 7601,
+      "name": "Daniil Tarasov",
+      "team": "FLA",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 6
     },
     {
       "player_id": 7886,
@@ -361,7 +361,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18
+      "percent_owned": 20
     },
     {
       "player_id": 8040,
@@ -431,32 +431,6 @@
       "percent_owned": 1
     },
     {
-      "player_id": 9118,
-      "name": "Jet Greaves",
-      "team": "CBJ",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 64
-    },
-    {
-      "player_id": 30487,
-      "name": "Erik Portillo",
-      "team": "LAK",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
       "player_id": 30995,
       "name": "Nikita Tolopilo",
       "team": "VAN",
@@ -467,7 +441,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 1
     }
   ]
 }
