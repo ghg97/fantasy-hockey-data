@@ -1,5 +1,62 @@
 {
-  "starters": {},
-  "date": "2026-03-08",
-  "fetched_at": "2026-03-08T01:33:51.425371"
+  "starters": {
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jonas Johansson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "John Gibson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arturs Silovs": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Ingram": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Adin Hill": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jesper Wallstedt": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joonas Korpisalo": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arvid Soderblom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ville Husso": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-09",
+  "fetched_at": "2026-03-09T01:30:41.862660"
 }

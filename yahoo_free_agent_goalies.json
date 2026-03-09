@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-08T03:24:41.864730",
-  "count": 33,
+  "fetched_at": "2026-03-09T01:31:21.714889",
+  "count": 35,
   "players": [
     {
       "player_id": 4003,
       "name": "Semyon Varlamov",
-      "team": null,
+      "team": "NYI",
       "position": "G",
       "eligible_positions": [
         "G",
@@ -54,7 +54,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 19
+      "percent_owned": 20
+    },
+    {
+      "player_id": 4854,
+      "name": "Cam Talbot",
+      "team": "DET",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 10
     },
     {
       "player_id": 5085,
@@ -67,7 +80,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17
+      "percent_owned": 16
     },
     {
       "player_id": 5114,
@@ -83,6 +96,19 @@
       "pp_unit": null,
       "status": "IR",
       "percent_owned": 1
+    },
+    {
+      "player_id": 5161,
+      "name": "Frederik Andersen",
+      "team": "CAR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 28
     },
     {
       "player_id": 5454,
@@ -121,7 +147,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 11
     },
     {
       "player_id": 5774,
@@ -177,7 +203,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 8
     },
     {
       "player_id": 6408,
@@ -193,9 +219,9 @@
       "percent_owned": 1
     },
     {
-      "player_id": 6430,
-      "name": "Jonas Johansson",
-      "team": "TBL",
+      "player_id": 6445,
+      "name": "Elvis Merzlikins",
+      "team": "CBJ",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -203,7 +229,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 12
     },
     {
       "player_id": 6462,
@@ -229,7 +255,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 13
+      "percent_owned": 17
     },
     {
       "player_id": 7084,
@@ -283,7 +309,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 22
+      "percent_owned": 24
     },
     {
       "player_id": 7593,
@@ -296,7 +322,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 53
+      "percent_owned": 51
     },
     {
       "player_id": 7601,
@@ -309,7 +335,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 4
     },
     {
       "player_id": 7886,
@@ -348,7 +374,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 20
+      "percent_owned": 21
     },
     {
       "player_id": 8040,
@@ -415,7 +441,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 2
     },
     {
       "player_id": 30235,

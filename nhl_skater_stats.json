@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-08T01:33:58.974321",
+  "fetched_at": "2026-03-09T01:30:47.962700",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -7,7 +7,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 106
+      "value": 108
     },
     {
       "player_id": 8477492,
@@ -15,7 +15,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 103
+      "value": 104
     },
     {
       "player_id": 8476453,
@@ -23,7 +23,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 100
+      "value": 103
     },
     {
       "player_id": 8477934,
@@ -31,7 +31,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 91
+      "value": 92
     },
     {
       "player_id": 8484801,
@@ -49,7 +49,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 42
+      "value": 43
     },
     {
       "player_id": 8481540,
@@ -60,17 +60,17 @@
       "value": 37
     },
     {
-      "player_id": 8478402,
-      "name": "Connor McDavid",
-      "team": "EDM",
-      "position": null,
-      "games_played": null,
-      "value": 35
-    },
-    {
       "player_id": 8478864,
       "name": "Kirill Kaprizov",
       "team": "MIN",
+      "position": null,
+      "games_played": null,
+      "value": 36
+    },
+    {
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
       "position": null,
       "games_played": null,
       "value": 35
@@ -91,7 +91,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 71
+      "value": 73
     },
     {
       "player_id": 8476453,
@@ -99,7 +99,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 68
+      "value": 69
     },
     {
       "player_id": 8477492,

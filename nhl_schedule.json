@@ -1,63 +1,7 @@
 {
-  "fetched_at": "2026-03-08T01:33:54.304759",
+  "fetched_at": "2026-03-09T01:30:46.305459",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021001,
-      "home_team": "COL",
-      "away_team": "MIN",
-      "start_time": "2026-03-08T18:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021002,
-      "home_team": "PIT",
-      "away_team": "BOS",
-      "start_time": "2026-03-08T20:30:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021003,
-      "home_team": "BUF",
-      "away_team": "TBL",
-      "start_time": "2026-03-08T22:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021004,
-      "home_team": "DAL",
-      "away_team": "CHI",
-      "start_time": "2026-03-08T22:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021005,
-      "home_team": "NJD",
-      "away_team": "DET",
-      "start_time": "2026-03-08T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021006,
-      "home_team": "ANA",
-      "away_team": "STL",
-      "start_time": "2026-03-09T01:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-08",
-      "game_id": 2025021007,
-      "home_team": "VGK",
-      "away_team": "EDM",
-      "start_time": "2026-03-09T01:30:00Z",
-      "game_type": 2
-    },
     {
       "date": "2026-03-09",
       "game_id": 2025020828,
@@ -953,40 +897,48 @@
       "away_team": "LAK",
       "start_time": "2026-03-23T01:00:00Z",
       "game_type": 2
+    },
+    {
+      "date": "2026-03-23",
+      "game_id": 2025021119,
+      "home_team": "NYR",
+      "away_team": "OTT",
+      "start_time": "2026-03-23T23:30:00Z",
+      "game_type": 2
     }
   ],
   "team_games_count": {
-    "COL": 8,
-    "MIN": 8,
-    "PIT": 8,
-    "BOS": 8,
-    "BUF": 8,
-    "TBL": 8,
-    "DAL": 8,
-    "CHI": 8,
-    "NJD": 6,
-    "DET": 7,
-    "ANA": 8,
-    "STL": 7,
-    "VGK": 8,
-    "EDM": 8,
     "CBJ": 8,
     "LAK": 8,
     "PHI": 7,
-    "NYR": 8,
+    "NYR": 9,
     "WSH": 7,
     "CGY": 8,
+    "CHI": 7,
     "UTA": 8,
     "VAN": 6,
-    "OTT": 7,
+    "OTT": 8,
+    "BOS": 7,
+    "BUF": 7,
     "SJS": 7,
     "MTL": 7,
     "TOR": 7,
+    "TBL": 7,
     "FLA": 6,
+    "DET": 6,
     "CAR": 7,
+    "PIT": 7,
+    "STL": 6,
     "NYI": 7,
+    "DAL": 7,
+    "VGK": 7,
+    "MIN": 7,
     "WPG": 8,
+    "ANA": 7,
+    "COL": 7,
+    "EDM": 7,
     "SEA": 7,
-    "NSH": 7
+    "NSH": 7,
+    "NJD": 5
   }
 }
