@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-09T01:30:47.598952",
+  "fetched_at": "2026-03-10T07:55:02.735413",
   "teams": [
     {
       "abbrev": "COL",
@@ -140,10 +140,22 @@
       "division": "Metropolitan",
       "wins": 32,
       "losses": 21,
+      "ot_losses": 10,
+      "points": 74,
+      "games_played": 63,
+      "goal_differential": 1
+    },
+    {
+      "abbrev": "OTT",
+      "name": "Ottawa Senators",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "wins": 32,
+      "losses": 22,
       "ot_losses": 9,
       "points": 73,
-      "games_played": 62,
-      "goal_differential": 2
+      "games_played": 63,
+      "goal_differential": 16
     },
     {
       "abbrev": "ANA",
@@ -164,10 +176,10 @@
       "division": "Central",
       "wins": 34,
       "losses": 25,
-      "ot_losses": 4,
-      "points": 72,
-      "games_played": 63,
-      "goal_differential": 28
+      "ot_losses": 5,
+      "points": 73,
+      "games_played": 64,
+      "goal_differential": 27
     },
     {
       "abbrev": "VGK",
@@ -182,16 +194,16 @@
       "goal_differential": 4
     },
     {
-      "abbrev": "OTT",
-      "name": "Ottawa Senators",
+      "abbrev": "WSH",
+      "name": "Washington Capitals",
       "conference": "Eastern",
-      "division": "Atlantic",
-      "wins": 31,
-      "losses": 22,
-      "ot_losses": 9,
+      "division": "Metropolitan",
+      "wins": 32,
+      "losses": 26,
+      "ot_losses": 7,
       "points": 71,
-      "games_played": 62,
-      "goal_differential": 14
+      "games_played": 65,
+      "goal_differential": 12
     },
     {
       "abbrev": "EDM",
@@ -211,23 +223,11 @@
       "conference": "Eastern",
       "division": "Metropolitan",
       "wins": 29,
-      "losses": 22,
+      "losses": 23,
       "ot_losses": 11,
       "points": 69,
-      "games_played": 62,
-      "goal_differential": -13
-    },
-    {
-      "abbrev": "WSH",
-      "name": "Washington Capitals",
-      "conference": "Eastern",
-      "division": "Metropolitan",
-      "wins": 31,
-      "losses": 26,
-      "ot_losses": 7,
-      "points": 69,
-      "games_played": 64,
-      "goal_differential": 8
+      "games_played": 63,
+      "goal_differential": -17
     },
     {
       "abbrev": "SEA",
@@ -252,6 +252,18 @@
       "points": 66,
       "games_played": 61,
       "goal_differential": -23
+    },
+    {
+      "abbrev": "LAK",
+      "name": "Los Angeles Kings",
+      "conference": "Western",
+      "division": "Pacific",
+      "wins": 26,
+      "losses": 23,
+      "ot_losses": 14,
+      "points": 66,
+      "games_played": 63,
+      "goal_differential": -22
     },
     {
       "abbrev": "NJD",
@@ -290,18 +302,6 @@
       "goal_differential": -24
     },
     {
-      "abbrev": "LAK",
-      "name": "Los Angeles Kings",
-      "conference": "Western",
-      "division": "Pacific",
-      "wins": 25,
-      "losses": 23,
-      "ot_losses": 14,
-      "points": 64,
-      "games_played": 62,
-      "goal_differential": -23
-    },
-    {
       "abbrev": "NSH",
       "name": "Nashville Predators",
       "conference": "Western",
@@ -338,40 +338,40 @@
       "goal_differential": -46
     },
     {
-      "abbrev": "CGY",
-      "name": "Calgary Flames",
-      "conference": "Western",
-      "division": "Pacific",
-      "wins": 25,
-      "losses": 30,
-      "ot_losses": 7,
-      "points": 57,
-      "games_played": 62,
-      "goal_differential": -34
-    },
-    {
       "abbrev": "CHI",
       "name": "Chicago Blackhawks",
       "conference": "Western",
       "division": "Central",
-      "wins": 23,
+      "wins": 24,
       "losses": 29,
       "ot_losses": 11,
-      "points": 57,
-      "games_played": 63,
-      "goal_differential": -36
+      "points": 59,
+      "games_played": 64,
+      "goal_differential": -35
     },
     {
       "abbrev": "NYR",
       "name": "New York Rangers",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "wins": 24,
+      "wins": 25,
       "losses": 30,
       "ot_losses": 8,
-      "points": 56,
-      "games_played": 62,
-      "goal_differential": -29
+      "points": 58,
+      "games_played": 63,
+      "goal_differential": -25
+    },
+    {
+      "abbrev": "CGY",
+      "name": "Calgary Flames",
+      "conference": "Western",
+      "division": "Pacific",
+      "wins": 25,
+      "losses": 31,
+      "ot_losses": 7,
+      "points": 57,
+      "games_played": 63,
+      "goal_differential": -38
     },
     {
       "abbrev": "VAN",
@@ -379,11 +379,11 @@
       "conference": "Western",
       "division": "Pacific",
       "wins": 19,
-      "losses": 36,
+      "losses": 37,
       "ot_losses": 8,
       "points": 46,
-      "games_played": 63,
-      "goal_differential": -71
+      "games_played": 64,
+      "goal_differential": -73
     }
   ]
 }

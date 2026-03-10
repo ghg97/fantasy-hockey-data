@@ -4,9 +4,9 @@
       {
         "name": "Troy Terry",
         "team": "ANA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-09T04:54Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-09T12:13Z"
       },
       {
         "name": "John Carlson",
@@ -64,18 +64,11 @@
     ],
     "CGY": [
       {
-        "name": "Joel Hanley",
-        "team": "CGY",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T13:57Z"
-      },
-      {
         "name": "Zach Whitecloud",
         "team": "CGY",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T05:15Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-09T15:56Z"
       },
       {
         "name": "Jonathan Huberdeau",
@@ -93,13 +86,6 @@
       }
     ],
     "CAR": [
-      {
-        "name": "Nicolas Deslauriers",
-        "team": "CAR",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T13:57Z"
-      },
       {
         "name": "Shayne Gostisbehere",
         "team": "CAR",
@@ -119,16 +105,16 @@
       {
         "name": "Oliver Moore",
         "team": "CHI",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-09T04:51Z"
+        "status": "Out",
+        "details": "Moore sustained the injury Sunday in Dallas. The full extent of Moore's injury has not been revealed, but there is a possibility the 21-year-old gets shut down for the rest of the season at some point in the near future, depending on how his recovery goes. Moore will probably land on injured reserve as well, with a forward being recalled from AHL Rockford in a corresponding move -- the Blackhawks currently have only 12 healthy forwards on their roster.",
+        "date": "2026-03-10T04:42Z"
       },
       {
         "name": "Spencer Knight",
         "team": "CHI",
         "status": "Out",
-        "details": "Knight missed Friday's game against Vancouver with the illness. The hope is that he will be good to go Monday when Utah plays in Chicago. Knight is 16-18-8 with three shutouts, a 2.63 GAA and a .908 save percentage. The Blackhawks recalled Drew Commesso on Saturday and he could start in Dallas on Sunday.",
-        "date": "2026-03-07T18:29Z"
+        "details": "Knight was on the ice briefly for Monday's optional morning skate, but he will miss his third straight game. He has some additional time to recover, as Chicago is off until Thursday's road rematch against the Mammoth. Knight has a 16-18-8 record this season with three shutouts, a 2.63 GAA and a .908 save percentage through 42 appearances.",
+        "date": "2026-03-09T15:57Z"
       },
       {
         "name": "Ryan Ellis",
@@ -168,15 +154,6 @@
         "date": "2026-03-04T01:05Z"
       }
     ],
-    "CBJ": [
-      {
-        "name": "Dante Fabbro",
-        "team": "CBJ",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T13:57Z"
-      }
-    ],
     "DAL": [
       {
         "name": "Roope Hintz",
@@ -209,18 +186,18 @@
     ],
     "DET": [
       {
+        "name": "Dylan Larkin",
+        "team": "DET",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-09T12:16Z"
+      },
+      {
         "name": "John Gibson",
         "team": "DET",
         "status": "Day-To-Day",
         "details": "day-to-day",
         "date": "2026-03-09T01:47Z"
-      },
-      {
-        "name": "Dylan Larkin",
-        "team": "DET",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-07T18:29Z"
       },
       {
         "name": "David Perron",
@@ -254,6 +231,13 @@
       }
     ],
     "FLA": [
+      {
+        "name": "Brad Marchand",
+        "team": "FLA",
+        "status": "Out",
+        "details": "Marchand may need surgery to address the issue, which is something he has been playing through for a couple of months. Even if he doesn't need a procedure, Marchand's absence is likely to be for an extended period. He has amassed 27 goals, 54 points and 138 shots on net across 52 appearances this season.",
+        "date": "2026-03-09T17:51Z"
+      },
       {
         "name": "Seth Jones",
         "team": "FLA",
@@ -303,9 +287,9 @@
       {
         "name": "Marcus Johansson",
         "team": "MIN",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-05T17:56Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-09T12:16Z"
       },
       {
         "name": "Marcus Foligno",
@@ -390,42 +374,14 @@
     ],
     "OTT": [
       {
-        "name": "Nikolas Matinpalo",
-        "team": "OTT",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T13:57Z"
-      },
-      {
         "name": "Jake Sanderson",
         "team": "OTT",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T05:21Z"
+        "status": "Out",
+        "details": "Sanderson sustained the injury in Saturday's 7-4 win over Seattle. He has compiled 11 goals, 48 points, 133 shots on net and 116 blocked shots across 62 appearances this season. With Sanderson unavailable, Nikolas Matinpalo (undisclosed) will return to action from an injury, and Thomas Chabot will receive an increased role in the lineup.",
+        "date": "2026-03-09T18:02Z"
       }
     ],
     "PHI": [
-      {
-        "name": "Garnet Hathaway",
-        "team": "PHI",
-        "status": "Day-To-Day",
-        "details": "Hathaway still could be an option for Monday's matchup against the Rangers if he recovers in time from the flu. He has generated one goal, two points, 23 shots on net, 40 blocked shots and 199 hits across 53 appearances this season.",
-        "date": "2026-03-08T18:07Z"
-      },
-      {
-        "name": "Nick Seeler",
-        "team": "PHI",
-        "status": "Day-To-Day",
-        "details": "Seeler took part in Sunday's practice to put him on the right track for a return, but the Flyers didn't commit to whether or not he would be back in time for Monday's game. The 32-year-old has missed the last two contests with injury after leaving Monday's game against the Maple Leafs early. He has eight points (two goals, six assists) in 60 games on the season.",
-        "date": "2026-03-08T17:53Z"
-      },
-      {
-        "name": "Travis Konecny",
-        "team": "PHI",
-        "status": "Day-To-Day",
-        "details": "Konecny has missed the last three games, but he was a full participant in Sunday's practice. He has accounted for 23 goals, 57 points, 130 shots on net and 80 hits across 58 appearances this season.",
-        "date": "2026-03-08T17:50Z"
-      },
       {
         "name": "Ty Murchison",
         "team": "PHI",
@@ -442,6 +398,13 @@
       }
     ],
     "PIT": [
+      {
+        "name": "Jack St. Ivany",
+        "team": "PIT",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-10T01:27Z"
+      },
       {
         "name": "Justin Brazeau",
         "team": "PIT",
@@ -478,13 +441,6 @@
         "date": "2026-02-04T20:29Z"
       },
       {
-        "name": "Jack St. Ivany",
-        "team": "PIT",
-        "status": "Injured Reserve",
-        "details": "St. Ivany was injured Jan. 25 and had surgery two days later. He is expected to miss up to eight weeks. St. Ivany had seven assists, 40 hits and 23 blocked shots over 17 NHL appearances this season. The Penguins recalled Rutger McGroarty from AHL Wilkes-Barre/Scranton in a corresponding move.",
-        "date": "2026-01-29T15:11Z"
-      },
-      {
         "name": "Peyton Kettles",
         "team": "PIT",
         "status": "Out",
@@ -510,6 +466,13 @@
     ],
     "SEA": [
       {
+        "name": "Jaden Schwartz",
+        "team": "SEA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-09T17:47Z"
+      },
+      {
         "name": "Frederick Gaudreau",
         "team": "SEA",
         "status": "Day-To-Day",
@@ -529,13 +492,6 @@
         "status": "Day-To-Day",
         "details": "day-to-day",
         "date": "2026-03-08T13:57Z"
-      },
-      {
-        "name": "Jaden Schwartz",
-        "team": "SEA",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-08T04:24Z"
       },
       {
         "name": "Max McCormick",
@@ -595,6 +551,13 @@
     ],
     "VAN": [
       {
+        "name": "Evander Kane",
+        "team": "VAN",
+        "status": "Out",
+        "details": "Kane sat out Monday's loss due to his upper-body injury. It currently remains to be seen if the veteran winger will be an option for Thursday's home game versus Nashville. The 34-year-old has accounted for 11 goals, 27 points, 78 PIM, 146 shots, 102 hits and a minus-18 rating over 61 appearances in 2025-26.",
+        "date": "2026-03-10T04:33Z"
+      },
+      {
         "name": "Pierre-Olivier Joseph",
         "team": "VAN",
         "status": "Injured Reserve",
@@ -641,6 +604,13 @@
     ],
     "WSH": [
       {
+        "name": "David Kampf",
+        "team": "WSH",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-09T22:57Z"
+      },
+      {
         "name": "Eriks Mateiko",
         "team": "WSH",
         "status": "Out",
@@ -683,9 +653,9 @@
     "Troy Terry": {
       "name": "Troy Terry",
       "team": "ANA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-09T04:54Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-09T12:13Z"
     },
     "John Carlson": {
       "name": "John Carlson",
@@ -736,19 +706,12 @@
       "details": "Danforth has been out of the lineup since Oct. 15 versus the Senators, a stretch of 47 games on injured reserve due to his lower-body issue. Once given the all-clear, the 32-year-old winger will likely slot into a bottom-six role. At this point, with his extended layoff, Danforth will likely miss the 20-point threshold for the first time since 2022-23 when he was with Columbus.",
       "date": "2026-01-26T17:01Z"
     },
-    "Joel Hanley": {
-      "name": "Joel Hanley",
-      "team": "CGY",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T13:57Z"
-    },
     "Zach Whitecloud": {
       "name": "Zach Whitecloud",
       "team": "CGY",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T05:15Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-09T15:56Z"
     },
     "Jonathan Huberdeau": {
       "name": "Jonathan Huberdeau",
@@ -763,13 +726,6 @@
       "status": "Out",
       "details": "out",
       "date": "2026-01-21T23:05Z"
-    },
-    "Nicolas Deslauriers": {
-      "name": "Nicolas Deslauriers",
-      "team": "CAR",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T13:57Z"
     },
     "Shayne Gostisbehere": {
       "name": "Shayne Gostisbehere",
@@ -788,16 +744,16 @@
     "Oliver Moore": {
       "name": "Oliver Moore",
       "team": "CHI",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-09T04:51Z"
+      "status": "Out",
+      "details": "Moore sustained the injury Sunday in Dallas. The full extent of Moore's injury has not been revealed, but there is a possibility the 21-year-old gets shut down for the rest of the season at some point in the near future, depending on how his recovery goes. Moore will probably land on injured reserve as well, with a forward being recalled from AHL Rockford in a corresponding move -- the Blackhawks currently have only 12 healthy forwards on their roster.",
+      "date": "2026-03-10T04:42Z"
     },
     "Spencer Knight": {
       "name": "Spencer Knight",
       "team": "CHI",
       "status": "Out",
-      "details": "Knight missed Friday's game against Vancouver with the illness. The hope is that he will be good to go Monday when Utah plays in Chicago. Knight is 16-18-8 with three shutouts, a 2.63 GAA and a .908 save percentage. The Blackhawks recalled Drew Commesso on Saturday and he could start in Dallas on Sunday.",
-      "date": "2026-03-07T18:29Z"
+      "details": "Knight was on the ice briefly for Monday's optional morning skate, but he will miss his third straight game. He has some additional time to recover, as Chicago is off until Thursday's road rematch against the Mammoth. Knight has a 16-18-8 record this season with three shutouts, a 2.63 GAA and a .908 save percentage through 42 appearances.",
+      "date": "2026-03-09T15:57Z"
     },
     "Ryan Ellis": {
       "name": "Ryan Ellis",
@@ -834,13 +790,6 @@
       "details": "Lehkonen was hurt Monday versus the Kings and will be out for at least a few games. If the Avalanche are able to make trades before Friday's deadline, Lehkonen could land on injured reserve to clear a roster spot. It remains to be seen when he'll be able to get back into the lineup.",
       "date": "2026-03-04T01:05Z"
     },
-    "Dante Fabbro": {
-      "name": "Dante Fabbro",
-      "team": "CBJ",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T13:57Z"
-    },
     "Roope Hintz": {
       "name": "Roope Hintz",
       "team": "DAL",
@@ -869,19 +818,19 @@
       "details": "Dallas has filed the paperwork to gain full cap relief for Seguin, but in doing so, the Stars have ruled out the possibility of him returning at any point during the 2026 postseason. This is the second straight campaign that Seguin has missed a major block of time due to injury -- he played in 20 regular-season outings and an additional 18 playoff matches in 2024-25. He'll finish 2025-26 with seven goals and 17 points in 27 appearances. Seguin's contract runs through 2026-27, so he'll probably be back with the Stars next season.",
       "date": "2026-02-27T20:24Z"
     },
+    "Dylan Larkin": {
+      "name": "Dylan Larkin",
+      "team": "DET",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-09T12:16Z"
+    },
     "John Gibson": {
       "name": "John Gibson",
       "team": "DET",
       "status": "Day-To-Day",
       "details": "day-to-day",
       "date": "2026-03-09T01:47Z"
-    },
-    "Dylan Larkin": {
-      "name": "Dylan Larkin",
-      "team": "DET",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-07T18:29Z"
     },
     "David Perron": {
       "name": "David Perron",
@@ -910,6 +859,13 @@
       "status": "Injured Reserve",
       "details": "ir-lt",
       "date": "2026-03-05T04:08Z"
+    },
+    "Brad Marchand": {
+      "name": "Brad Marchand",
+      "team": "FLA",
+      "status": "Out",
+      "details": "Marchand may need surgery to address the issue, which is something he has been playing through for a couple of months. Even if he doesn't need a procedure, Marchand's absence is likely to be for an extended period. He has amassed 27 goals, 54 points and 138 shots on net across 52 appearances this season.",
+      "date": "2026-03-09T17:51Z"
     },
     "Seth Jones": {
       "name": "Seth Jones",
@@ -956,9 +912,9 @@
     "Marcus Johansson": {
       "name": "Marcus Johansson",
       "team": "MIN",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-05T17:56Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-09T12:16Z"
     },
     "Marcus Foligno": {
       "name": "Marcus Foligno",
@@ -1030,40 +986,12 @@
       "details": "ir",
       "date": "2026-02-20T22:14Z"
     },
-    "Nikolas Matinpalo": {
-      "name": "Nikolas Matinpalo",
-      "team": "OTT",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T13:57Z"
-    },
     "Jake Sanderson": {
       "name": "Jake Sanderson",
       "team": "OTT",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T05:21Z"
-    },
-    "Garnet Hathaway": {
-      "name": "Garnet Hathaway",
-      "team": "PHI",
-      "status": "Day-To-Day",
-      "details": "Hathaway still could be an option for Monday's matchup against the Rangers if he recovers in time from the flu. He has generated one goal, two points, 23 shots on net, 40 blocked shots and 199 hits across 53 appearances this season.",
-      "date": "2026-03-08T18:07Z"
-    },
-    "Nick Seeler": {
-      "name": "Nick Seeler",
-      "team": "PHI",
-      "status": "Day-To-Day",
-      "details": "Seeler took part in Sunday's practice to put him on the right track for a return, but the Flyers didn't commit to whether or not he would be back in time for Monday's game. The 32-year-old has missed the last two contests with injury after leaving Monday's game against the Maple Leafs early. He has eight points (two goals, six assists) in 60 games on the season.",
-      "date": "2026-03-08T17:53Z"
-    },
-    "Travis Konecny": {
-      "name": "Travis Konecny",
-      "team": "PHI",
-      "status": "Day-To-Day",
-      "details": "Konecny has missed the last three games, but he was a full participant in Sunday's practice. He has accounted for 23 goals, 57 points, 130 shots on net and 80 hits across 58 appearances this season.",
-      "date": "2026-03-08T17:50Z"
+      "status": "Out",
+      "details": "Sanderson sustained the injury in Saturday's 7-4 win over Seattle. He has compiled 11 goals, 48 points, 133 shots on net and 116 blocked shots across 62 appearances this season. With Sanderson unavailable, Nikolas Matinpalo (undisclosed) will return to action from an injury, and Thomas Chabot will receive an increased role in the lineup.",
+      "date": "2026-03-09T18:02Z"
     },
     "Ty Murchison": {
       "name": "Ty Murchison",
@@ -1078,6 +1006,13 @@
       "status": "Injured Reserve",
       "details": "Abols could still return in time for the last month of the regular season, though that may depend on how the Flyers are performing at the time. In any case, the 30-year-old is likely to be out at least two months. He is on injured reserve and could be transferred to long-term injured reserve if the Flyers get into a cap crunch.",
       "date": "2026-01-22T00:33Z"
+    },
+    "Jack St. Ivany": {
+      "name": "Jack St. Ivany",
+      "team": "PIT",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-10T01:27Z"
     },
     "Justin Brazeau": {
       "name": "Justin Brazeau",
@@ -1114,13 +1049,6 @@
       "details": "Jones is currently on injured reserve due to a lower-body injury, but he had been working in the minors while on a conditioning stint. At a minimum, the 28-year-old blueliner will be out of action until March 31 due to his suspension, though that time frame assumes the league starts counting games immediately, even though he is still on injured reserve.",
       "date": "2026-02-04T20:29Z"
     },
-    "Jack St. Ivany": {
-      "name": "Jack St. Ivany",
-      "team": "PIT",
-      "status": "Injured Reserve",
-      "details": "St. Ivany was injured Jan. 25 and had surgery two days later. He is expected to miss up to eight weeks. St. Ivany had seven assists, 40 hits and 23 blocked shots over 17 NHL appearances this season. The Penguins recalled Rutger McGroarty from AHL Wilkes-Barre/Scranton in a corresponding move.",
-      "date": "2026-01-29T15:11Z"
-    },
     "Peyton Kettles": {
       "name": "Peyton Kettles",
       "team": "PIT",
@@ -1142,6 +1070,13 @@
       "details": "ir-lt",
       "date": "2025-09-30T17:35Z"
     },
+    "Jaden Schwartz": {
+      "name": "Jaden Schwartz",
+      "team": "SEA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-09T17:47Z"
+    },
     "Frederick Gaudreau": {
       "name": "Frederick Gaudreau",
       "team": "SEA",
@@ -1162,13 +1097,6 @@
       "status": "Day-To-Day",
       "details": "day-to-day",
       "date": "2026-03-08T13:57Z"
-    },
-    "Jaden Schwartz": {
-      "name": "Jaden Schwartz",
-      "team": "SEA",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-08T04:24Z"
     },
     "Max McCormick": {
       "name": "Max McCormick",
@@ -1219,6 +1147,13 @@
       "details": "Tanev is projected to be ready for training camp in September. He's signed to a six-year, $27 million contract that runs through 2029-30 and comes with a no-movement clause, so it's fair to believe he'll still be a member of the Leafs for the 2026-27 season. The 36-year-old defenseman will complete 2025-26 with two assists, eight shots, two hits and 15 blocks in 11 appearances.",
       "date": "2026-03-04T16:59Z"
     },
+    "Evander Kane": {
+      "name": "Evander Kane",
+      "team": "VAN",
+      "status": "Out",
+      "details": "Kane sat out Monday's loss due to his upper-body injury. It currently remains to be seen if the veteran winger will be an option for Thursday's home game versus Nashville. The 34-year-old has accounted for 11 goals, 27 points, 78 PIM, 146 shots, 102 hits and a minus-18 rating over 61 appearances in 2025-26.",
+      "date": "2026-03-10T04:33Z"
+    },
     "Pierre-Olivier Joseph": {
       "name": "Pierre-Olivier Joseph",
       "team": "VAN",
@@ -1260,6 +1195,13 @@
       "status": "Injured Reserve",
       "details": "ir",
       "date": "2026-03-05T16:16Z"
+    },
+    "David Kampf": {
+      "name": "David Kampf",
+      "team": "WSH",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-09T22:57Z"
     },
     "Eriks Mateiko": {
       "name": "Eriks Mateiko",
@@ -1320,6 +1262,6 @@
       "boost": 1.06
     }
   },
-  "total_injured": 88,
-  "fetched_at": "2026-03-09T01:30:44.803808"
+  "total_injured": 84,
+  "fetched_at": "2026-03-10T07:54:57.190525"
 }

@@ -1,42 +1,30 @@
 {
   "starters": {
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jacob Markstrom": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jonas Johansson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "John Gibson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Scott Wedgewood": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Arturs Silovs": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
     "Connor Ingram": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Adin Hill": {
+    "Joseph Woll": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jesper Wallstedt": {
+    "Connor Hellebuyck": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Joonas Korpisalo": {
+    "Alex Nedeljkovic": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jonathan Quick": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -44,19 +32,87 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Arvid Soderblom": {
+    "Lukas Dostal": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Joel Hofer": {
+    "Darcy Kuemper": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Ville Husso": {
+    "Ilya Sorokin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Akira Schmid": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Stuart Skinner": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Karel Vejmelka": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Cam Talbot": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Alex Lyon": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Philipp Grubauer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Filip Gustavsson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dustin Wolf": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Sergei Bobrovsky": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jordan Binnington": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Elvis Merzlikins": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-03-09",
-  "fetched_at": "2026-03-09T01:30:41.862660"
+  "date": "2026-03-10",
+  "fetched_at": "2026-03-10T07:54:55.246000"
 }

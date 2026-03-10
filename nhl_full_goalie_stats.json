@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-09T01:30:50.756360",
+  "fetched_at": "2026-03-10T07:55:07.245629",
   "season": "2025-2026",
   "goalies": {
     "Karel Vejmelka": {
@@ -137,34 +137,45 @@
     "Logan Thompson": {
       "player_id": 8480313,
       "team": "WSH",
-      "gp": 43,
-      "wins": 21,
+      "gp": 44,
+      "wins": 22,
       "losses": 18,
       "ot_losses": 4,
-      "save_pct": 0.91296,
-      "gaa": 2.40941,
+      "save_pct": 0.91235,
+      "gaa": 2.42304,
       "shutouts": 2
     },
     "Dan Vladar": {
       "player_id": 8478435,
       "team": "PHI",
-      "gp": 38,
+      "gp": 39,
       "wins": 20,
-      "losses": 10,
+      "losses": 11,
       "ot_losses": 6,
-      "save_pct": 0.90727,
-      "gaa": 2.40198,
+      "save_pct": 0.90339,
+      "gaa": 2.5199,
       "shutouts": 0
+    },
+    "Igor Shesterkin": {
+      "player_id": 8478048,
+      "team": "NYR",
+      "gp": 39,
+      "wins": 20,
+      "losses": 12,
+      "ot_losses": 6,
+      "save_pct": 0.91264,
+      "gaa": 2.49,
+      "shutouts": 1
     },
     "Jet Greaves": {
       "player_id": 8482982,
       "team": "CBJ",
-      "gp": 40,
+      "gp": 41,
       "wins": 20,
       "losses": 12,
-      "ot_losses": 7,
-      "save_pct": 0.90917,
-      "gaa": 2.63093,
+      "ot_losses": 8,
+      "save_pct": 0.90731,
+      "gaa": 2.68654,
       "shutouts": 2
     },
     "Jakub Dobes": {
@@ -200,17 +211,6 @@
       "gaa": 3.0471,
       "shutouts": 0
     },
-    "Igor Shesterkin": {
-      "player_id": 8478048,
-      "team": "NYR",
-      "gp": 38,
-      "wins": 19,
-      "losses": 12,
-      "ot_losses": 6,
-      "save_pct": 0.91173,
-      "gaa": 2.50282,
-      "shutouts": 1
-    },
     "Yaroslav Askarov": {
       "player_id": 8482137,
       "team": "SJS",
@@ -229,7 +229,7 @@
       "wins": 19,
       "losses": 13,
       "ot_losses": 7,
-      "save_pct": 0.89029,
+      "save_pct": 0.89041,
       "gaa": 2.74241,
       "shutouts": 2
     },
@@ -251,7 +251,7 @@
       "wins": 18,
       "losses": 14,
       "ot_losses": 5,
-      "save_pct": 0.9034,
+      "save_pct": 0.9035,
       "gaa": 2.8565,
       "shutouts": 2
     },
@@ -288,16 +288,16 @@
       "gaa": 2.73167,
       "shutouts": 0
     },
-    "Akira Schmid": {
-      "player_id": 8481033,
-      "team": "VGK",
-      "gp": 32,
+    "Joel Hofer": {
+      "player_id": 8480981,
+      "team": "STL",
+      "gp": 34,
       "wins": 16,
-      "losses": 9,
-      "ot_losses": 6,
-      "save_pct": 0.89299,
-      "gaa": 2.61213,
-      "shutouts": 2
+      "losses": 11,
+      "ot_losses": 3,
+      "save_pct": 0.90307,
+      "gaa": 2.69283,
+      "shutouts": 5
     },
     "Spencer Knight": {
       "player_id": 8481519,
@@ -309,6 +309,17 @@
       "save_pct": 0.90794,
       "gaa": 2.62496,
       "shutouts": 3
+    },
+    "Akira Schmid": {
+      "player_id": 8481033,
+      "team": "VGK",
+      "gp": 32,
+      "wins": 16,
+      "losses": 9,
+      "ot_losses": 6,
+      "save_pct": 0.89299,
+      "gaa": 2.61213,
+      "shutouts": 2
     },
     "Tristan Jarry": {
       "player_id": 8477465,
@@ -331,17 +342,6 @@
       "save_pct": 0.90532,
       "gaa": 2.73607,
       "shutouts": 0
-    },
-    "Joel Hofer": {
-      "player_id": 8480981,
-      "team": "STL",
-      "gp": 33,
-      "wins": 15,
-      "losses": 11,
-      "ot_losses": 3,
-      "save_pct": 0.90058,
-      "gaa": 2.78093,
-      "shutouts": 4
     },
     "Darcy Kuemper": {
       "player_id": 8475311,
@@ -438,7 +438,7 @@
       "wins": 12,
       "losses": 9,
       "ot_losses": 2,
-      "save_pct": 0.88378,
+      "save_pct": 0.88412,
       "gaa": 3.52749,
       "shutouts": 1
     },
@@ -452,6 +452,17 @@
       "save_pct": 0.89958,
       "gaa": 2.83148,
       "shutouts": 0
+    },
+    "Anton Forsberg": {
+      "player_id": 8476341,
+      "team": "LAK",
+      "gp": 27,
+      "wins": 11,
+      "losses": 9,
+      "ot_losses": 5,
+      "save_pct": 0.90318,
+      "gaa": 2.7439,
+      "shutouts": 2
     },
     "Philipp Grubauer": {
       "player_id": 8475831,
@@ -471,7 +482,7 @@
       "wins": 11,
       "losses": 9,
       "ot_losses": 3,
-      "save_pct": 0.89161,
+      "save_pct": 0.89177,
       "gaa": 3.27741,
       "shutouts": 1
     },
@@ -508,28 +519,6 @@
       "gaa": 3.22865,
       "shutouts": 0
     },
-    "Anton Forsberg": {
-      "player_id": 8476341,
-      "team": "LAK",
-      "gp": 26,
-      "wins": 10,
-      "losses": 9,
-      "ot_losses": 5,
-      "save_pct": 0.90448,
-      "gaa": 2.69736,
-      "shutouts": 2
-    },
-    "Samuel Ersson": {
-      "player_id": 8481035,
-      "team": "PHI",
-      "gp": 25,
-      "wins": 9,
-      "losses": 10,
-      "ot_losses": 5,
-      "save_pct": 0.8586,
-      "gaa": 3.4433,
-      "shutouts": 0
-    },
     "Connor Ingram": {
       "player_id": 8478971,
       "team": "EDM",
@@ -540,6 +529,17 @@
       "save_pct": 0.89182,
       "gaa": 2.78054,
       "shutouts": 1
+    },
+    "Samuel Ersson": {
+      "player_id": 8481035,
+      "team": "PHI",
+      "gp": 26,
+      "wins": 9,
+      "losses": 10,
+      "ot_losses": 5,
+      "save_pct": 0.85932,
+      "gaa": 3.39684,
+      "shutouts": 0
     },
     "Frederik Andersen": {
       "player_id": 8475883,
@@ -607,17 +607,6 @@
       "gaa": 2.80695,
       "shutouts": 0
     },
-    "Kevin Lankinen": {
-      "player_id": 8480947,
-      "team": "VAN",
-      "gp": 35,
-      "wins": 7,
-      "losses": 20,
-      "ot_losses": 5,
-      "save_pct": 0.8746,
-      "gaa": 3.72549,
-      "shutouts": 0
-    },
     "Colten Ellis": {
       "player_id": 8481551,
       "team": "BUF",
@@ -627,6 +616,17 @@
       "ot_losses": 1,
       "save_pct": 0.89645,
       "gaa": 3.1139,
+      "shutouts": 0
+    },
+    "Kevin Lankinen": {
+      "player_id": 8480947,
+      "team": "VAN",
+      "gp": 36,
+      "wins": 7,
+      "losses": 21,
+      "ot_losses": 5,
+      "save_pct": 0.87668,
+      "gaa": 3.64654,
       "shutouts": 0
     },
     "Anthony Stolarz": {
@@ -643,23 +643,23 @@
     "Ville Husso": {
       "player_id": 8478024,
       "team": "ANA",
-      "gp": 13,
+      "gp": 14,
       "wins": 7,
-      "losses": 5,
+      "losses": 6,
       "ot_losses": 1,
-      "save_pct": 0.89398,
-      "gaa": 3.07834,
+      "save_pct": 0.89556,
+      "gaa": 3.08034,
       "shutouts": 0
     },
     "Devin Cooley": {
       "player_id": 8482445,
       "team": "CGY",
-      "gp": 22,
+      "gp": 23,
       "wins": 7,
-      "losses": 7,
+      "losses": 8,
       "ot_losses": 4,
-      "save_pct": 0.92307,
-      "gaa": 2.26908,
+      "save_pct": 0.91693,
+      "gaa": 2.44565,
       "shutouts": 0
     },
     "Justus Annunen": {
@@ -742,12 +742,23 @@
     "Vitek Vanecek": {
       "player_id": 8477970,
       "team": "UTA",
-      "gp": 15,
+      "gp": 16,
       "wins": 4,
       "losses": 9,
-      "ot_losses": 2,
-      "save_pct": 0.8895,
-      "gaa": 2.72923,
+      "ot_losses": 3,
+      "save_pct": 0.88917,
+      "gaa": 2.73895,
+      "shutouts": 1
+    },
+    "James Reimer": {
+      "player_id": 8473503,
+      "team": "OTT",
+      "gp": 8,
+      "wins": 4,
+      "losses": 3,
+      "ot_losses": 1,
+      "save_pct": 0.88235,
+      "gaa": 2.52951,
       "shutouts": 1
     },
     "Nikita Tolopilo": {
@@ -794,15 +805,26 @@
       "gaa": 4.07068,
       "shutouts": 0
     },
-    "James Reimer": {
-      "player_id": 8473503,
-      "team": "OTT",
-      "gp": 7,
-      "wins": 3,
-      "losses": 3,
-      "ot_losses": 1,
-      "save_pct": 0.87012,
-      "gaa": 2.89575,
+    "Drew Commesso": {
+      "player_id": 8482123,
+      "team": "CHI",
+      "gp": 3,
+      "wins": 2,
+      "losses": 1,
+      "ot_losses": 0,
+      "save_pct": 0.91666,
+      "gaa": 2.31129,
+      "shutouts": 1
+    },
+    "Cayden Primeau": {
+      "player_id": 8480051,
+      "team": "TOR",
+      "gp": 3,
+      "wins": 2,
+      "losses": 1,
+      "ot_losses": 0,
+      "save_pct": 0.8375,
+      "gaa": 4.29831,
       "shutouts": 0
     },
     "Carl Lindbom": {
@@ -816,17 +838,6 @@
       "gaa": 2.99583,
       "shutouts": 0
     },
-    "Cayden Primeau": {
-      "player_id": 8480051,
-      "team": "TOR",
-      "gp": 3,
-      "wins": 2,
-      "losses": 1,
-      "ot_losses": 0,
-      "save_pct": 0.8375,
-      "gaa": 4.29831,
-      "shutouts": 0
-    },
     "Clay Stevenson": {
       "player_id": 8483532,
       "team": "WSH",
@@ -836,17 +847,6 @@
       "ot_losses": 0,
       "save_pct": 0.9041,
       "gaa": 2.33182,
-      "shutouts": 0
-    },
-    "Mads Sogaard": {
-      "player_id": 8481544,
-      "team": "OTT",
-      "gp": 2,
-      "wins": 1,
-      "losses": 0,
-      "ot_losses": 0,
-      "save_pct": 0.83333,
-      "gaa": 4.65016,
       "shutouts": 0
     },
     "Trent Miner": {
@@ -859,6 +859,17 @@
       "save_pct": 0.93269,
       "gaa": 2.02902,
       "shutouts": 1
+    },
+    "Mads Sogaard": {
+      "player_id": 8481544,
+      "team": "OTT",
+      "gp": 2,
+      "wins": 1,
+      "losses": 0,
+      "ot_losses": 0,
+      "save_pct": 0.83333,
+      "gaa": 4.65016,
+      "shutouts": 0
     },
     "Spencer Martin": {
       "player_id": 8477484,
@@ -893,17 +904,6 @@
       "gaa": 1.0,
       "shutouts": 0
     },
-    "Drew Commesso": {
-      "player_id": 8482123,
-      "team": "CHI",
-      "gp": 2,
-      "wins": 1,
-      "losses": 1,
-      "ot_losses": 0,
-      "save_pct": 0.91666,
-      "gaa": 2.5,
-      "shutouts": 1
-    },
     "Hunter Shepard": {
       "player_id": 8482411,
       "team": "OTT",
@@ -924,17 +924,6 @@
       "ot_losses": 0,
       "save_pct": 0.87096,
       "gaa": 3.46237,
-      "shutouts": 0
-    },
-    "Pheonix Copley": {
-      "player_id": 8477831,
-      "team": "LAK",
-      "gp": 1,
-      "wins": 0,
-      "losses": 1,
-      "ot_losses": 0,
-      "save_pct": 0.89285,
-      "gaa": 3.07342,
       "shutouts": 0
     },
     "Artur Akhtyamov": {
@@ -959,15 +948,15 @@
       "gaa": 3.99944,
       "shutouts": 0
     },
-    "Vyacheslav Buteyets": {
-      "player_id": 8483746,
-      "team": "ANA",
+    "Pheonix Copley": {
+      "player_id": 8477831,
+      "team": "LAK",
       "gp": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ot_losses": 0,
-      "save_pct": 0.76923,
-      "gaa": 9.0,
+      "save_pct": 0.89285,
+      "gaa": 3.07342,
       "shutouts": 0
     },
     "Brandon Halverson": {
@@ -981,15 +970,15 @@
       "gaa": 0.0,
       "shutouts": 0
     },
-    "Jiri Patera": {
-      "player_id": 8480238,
-      "team": "VAN",
+    "Vyacheslav Buteyets": {
+      "player_id": 8483746,
+      "team": "ANA",
       "gp": 1,
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "ot_losses": 0,
-      "save_pct": 0.825,
-      "gaa": 7.39219,
+      "save_pct": 0.76923,
+      "gaa": 9.0,
       "shutouts": 0
     },
     "Marcus Hogberg": {
@@ -1001,6 +990,17 @@
       "ot_losses": 0,
       "save_pct": 0.71428,
       "gaa": 8.89987,
+      "shutouts": 0
+    },
+    "Jiri Patera": {
+      "player_id": 8480238,
+      "team": "VAN",
+      "gp": 1,
+      "wins": 0,
+      "losses": 1,
+      "ot_losses": 0,
+      "save_pct": 0.825,
+      "gaa": 7.39219,
       "shutouts": 0
     },
     "Michael DiPietro": {
