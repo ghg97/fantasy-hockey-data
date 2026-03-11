@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-10T07:55:06.997413",
+  "fetched_at": "2026-03-11T07:57:21.926488",
   "wins_leaders": [
     {
       "player_id": 8478872,
@@ -20,19 +20,19 @@
       "name": "Jake Oettinger",
       "team": "DAL",
       "games_played": null,
-      "value": 25
+      "value": 26
     },
     {
       "player_id": 8480843,
       "name": "Lukas Dostal",
       "team": "ANA",
       "games_played": null,
-      "value": 25
+      "value": 26
     },
     {
-      "player_id": 8483548,
-      "name": "Brandon Bussi",
-      "team": "CAR",
+      "player_id": 8480280,
+      "name": "Jeremy Swayman",
+      "team": "BOS",
       "games_played": null,
       "value": 25
     }
@@ -53,25 +53,25 @@
       "value": 0.916384
     },
     {
+      "player_id": 8479406,
+      "name": "Filip Gustavsson",
+      "team": "MIN",
+      "games_played": null,
+      "value": 0.914137
+    },
+    {
       "player_id": 8479312,
       "name": "Alex Lyon",
       "team": "BUF",
       "games_played": null,
-      "value": 0.915215
-    },
-    {
-      "player_id": 8476883,
-      "name": "Andrei Vasilevskiy",
-      "team": "TBL",
-      "games_played": null,
-      "value": 0.914443
+      "value": 0.913734
     },
     {
       "player_id": 8478009,
       "name": "Ilya Sorokin",
       "team": "NYI",
       "games_played": null,
-      "value": 0.914387
+      "value": 0.913495
     }
   ],
   "gaa_leaders": []

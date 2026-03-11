@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-10T07:55:59.437426",
+  "fetched_at": "2026-03-11T07:58:21.144224",
   "count": 35,
   "players": [
     {
       "player_id": 4003,
       "name": "Semyon Varlamov",
-      "team": "NYI",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -28,7 +28,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 6
     },
     {
       "player_id": 4369,
@@ -41,7 +41,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 4
     },
     {
       "player_id": 4589,
@@ -54,7 +54,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 19
+      "percent_owned": 18
     },
     {
       "player_id": 4854,
@@ -108,7 +108,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 28
+      "percent_owned": 30
     },
     {
       "player_id": 5454,
@@ -121,7 +121,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 46
+      "percent_owned": 45
     },
     {
       "player_id": 5553,
@@ -134,7 +134,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 5753,
@@ -147,7 +147,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 6
     },
     {
       "player_id": 5774,
@@ -155,13 +155,11 @@
       "team": "SEA",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
+      "status": "",
       "percent_owned": 0
     },
     {
@@ -216,7 +214,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 5
     },
     {
       "player_id": 6445,
@@ -229,7 +227,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 12
+      "percent_owned": 11
     },
     {
       "player_id": 6462,
@@ -250,11 +248,12 @@
       "team": "EDM",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
+      "status": "DTD",
       "percent_owned": 16
     },
     {
@@ -309,7 +308,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 22
+      "percent_owned": 21
     },
     {
       "player_id": 7593,
@@ -335,7 +334,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 5
     },
     {
       "player_id": 7886,
@@ -374,7 +373,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 24
+      "percent_owned": 28
     },
     {
       "player_id": 8040,
@@ -428,7 +427,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 11
+      "percent_owned": 9
     },
     {
       "player_id": 8871,

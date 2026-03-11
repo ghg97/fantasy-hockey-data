@@ -1,111 +1,7 @@
 {
-  "fetched_at": "2026-03-10T07:55:01.543533",
+  "fetched_at": "2026-03-11T07:57:11.426169",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021012,
-      "home_team": "BOS",
-      "away_team": "LAK",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021013,
-      "home_team": "BUF",
-      "away_team": "SJS",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021014,
-      "home_team": "MTL",
-      "away_team": "TOR",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021015,
-      "home_team": "TBL",
-      "away_team": "CBJ",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021016,
-      "home_team": "FLA",
-      "away_team": "DET",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021017,
-      "home_team": "NYR",
-      "away_team": "CGY",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021018,
-      "home_team": "CAR",
-      "away_team": "PIT",
-      "start_time": "2026-03-10T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021019,
-      "home_team": "STL",
-      "away_team": "NYI",
-      "start_time": "2026-03-10T23:30:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021020,
-      "home_team": "DAL",
-      "away_team": "VGK",
-      "start_time": "2026-03-11T00:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021021,
-      "home_team": "MIN",
-      "away_team": "UTA",
-      "start_time": "2026-03-11T00:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021022,
-      "home_team": "WPG",
-      "away_team": "ANA",
-      "start_time": "2026-03-11T00:30:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021023,
-      "home_team": "COL",
-      "away_team": "EDM",
-      "start_time": "2026-03-11T02:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-10",
-      "game_id": 2025021024,
-      "home_team": "SEA",
-      "away_team": "NSH",
-      "start_time": "2026-03-11T02:00:00Z",
-      "game_type": 2
-    },
     {
       "date": "2026-03-11",
       "game_id": 2025021025,
@@ -985,40 +881,56 @@
       "away_team": "ANA",
       "start_time": "2026-03-25T02:00:00Z",
       "game_type": 2
+    },
+    {
+      "date": "2026-03-25",
+      "game_id": 2025021135,
+      "home_team": "BUF",
+      "away_team": "BOS",
+      "start_time": "2026-03-25T23:30:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-03-25",
+      "game_id": 2025021136,
+      "home_team": "TOR",
+      "away_team": "NYR",
+      "start_time": "2026-03-25T23:30:00Z",
+      "game_type": 2
     }
   ],
   "team_games_count": {
-    "BOS": 8,
-    "LAK": 8,
-    "BUF": 7,
-    "SJS": 8,
-    "MTL": 8,
-    "TOR": 8,
-    "TBL": 8,
-    "CBJ": 8,
-    "FLA": 7,
-    "DET": 7,
-    "NYR": 8,
-    "CGY": 8,
-    "CAR": 8,
-    "PIT": 8,
-    "STL": 7,
-    "NYI": 8,
-    "DAL": 8,
-    "VGK": 8,
-    "MIN": 8,
-    "UTA": 8,
-    "WPG": 9,
-    "ANA": 8,
-    "COL": 8,
-    "EDM": 8,
-    "SEA": 8,
-    "NSH": 8,
     "OTT": 8,
+    "MTL": 7,
     "PHI": 7,
     "WSH": 7,
+    "BOS": 8,
+    "SJS": 7,
+    "BUF": 7,
+    "TOR": 8,
+    "ANA": 7,
+    "TBL": 7,
+    "DET": 6,
+    "FLA": 6,
+    "CBJ": 7,
     "NJD": 6,
+    "CGY": 7,
+    "CAR": 7,
+    "STL": 6,
+    "DAL": 7,
+    "EDM": 7,
+    "MIN": 7,
+    "WPG": 8,
+    "NYR": 8,
+    "UTA": 7,
     "CHI": 7,
-    "VAN": 6
+    "VAN": 6,
+    "NSH": 7,
+    "VGK": 7,
+    "PIT": 7,
+    "SEA": 7,
+    "COL": 7,
+    "NYI": 7,
+    "LAK": 7
   }
 }

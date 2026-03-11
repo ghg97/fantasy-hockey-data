@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-10T07:55:03.239289",
+  "fetched_at": "2026-03-11T07:57:16.780371",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -7,7 +7,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 108
+      "value": 110
     },
     {
       "player_id": 8477492,
@@ -23,7 +23,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 103
+      "value": 104
     },
     {
       "player_id": 8477934,
@@ -31,7 +31,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 92
+      "value": 94
     },
     {
       "player_id": 8484801,
@@ -39,7 +39,7 @@
       "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 89
+      "value": 90
     }
   ],
   "goals_leaders": [
@@ -52,6 +52,14 @@
       "value": 43
     },
     {
+      "player_id": 8478864,
+      "name": "Kirill Kaprizov",
+      "team": "MIN",
+      "position": null,
+      "games_played": null,
+      "value": 37
+    },
+    {
       "player_id": 8481540,
       "name": "Cole Caufield",
       "team": "MTL",
@@ -60,20 +68,12 @@
       "value": 37
     },
     {
-      "player_id": 8478864,
-      "name": "Kirill Kaprizov",
-      "team": "MIN",
-      "position": null,
-      "games_played": null,
-      "value": 36
-    },
-    {
       "player_id": 8478402,
       "name": "Connor McDavid",
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 35
+      "value": 36
     },
     {
       "player_id": 8481557,
@@ -81,7 +81,7 @@
       "team": "MIN",
       "position": null,
       "games_played": null,
-      "value": 35
+      "value": 36
     }
   ],
   "assists_leaders": [
@@ -91,7 +91,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 73
+      "value": 74
     },
     {
       "player_id": 8476453,
@@ -99,7 +99,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 69
+      "value": 70
     },
     {
       "player_id": 8477492,
@@ -115,15 +115,15 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 58
+      "value": 60
     },
     {
-      "player_id": 8484801,
-      "name": "Macklin Celebrini",
-      "team": "SJS",
+      "player_id": 8480800,
+      "name": "Quinn Hughes",
+      "team": "MIN",
       "position": null,
       "games_played": null,
-      "value": 57
+      "value": 58
     }
   ]
 }
