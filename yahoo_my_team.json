@@ -67,10 +67,11 @@
       "name": "Jacob Trouba",
       "team": "ANA",
       "position": "D",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 2,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7161,
@@ -87,10 +88,11 @@
       "name": "Mattias Samuelsson",
       "team": "BUF",
       "position": "D",
-      "line": null,
+      "line": 1,
       "pp_unit": null,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 7910,
@@ -160,7 +162,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "G",
-      "status": ""
+      "status": "",
+      "nhl_position": "Backup Goalie"
     },
     {
       "player_id": 6486,
@@ -180,7 +183,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Starting Goalie"
     },
     {
       "player_id": 6447,
