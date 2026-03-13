@@ -7,10 +7,11 @@
       "name": "Brock Nelson",
       "team": "COL",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 2,
+      "pp_unit": 1,
       "selected_position": "C",
-      "status": ""
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 5431,
@@ -27,30 +28,33 @@
       "name": "Jason Robertson",
       "team": "DAL",
       "position": "LW",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "LW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 9269,
       "name": "Juraj Slafkovsk\u00fd",
       "team": "MTL",
       "position": "LW",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "LW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8653,
       "name": "Seth Jarvis",
       "team": "CAR",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "RW",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8699,
@@ -99,10 +103,11 @@
       "name": "Noah Dobson",
       "team": "MTL",
       "position": "D",
-      "line": null,
-      "pp_unit": null,
+      "line": 2,
+      "pp_unit": 2,
       "selected_position": "D",
-      "status": ""
+      "status": "",
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7264,
@@ -139,10 +144,11 @@
       "name": "Steven Stamkos",
       "team": "NSH",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 8652,
@@ -152,7 +158,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Injured Reserve 6"
     },
     {
       "player_id": 7569,
@@ -163,7 +170,7 @@
       "pp_unit": null,
       "selected_position": "G",
       "status": "",
-      "nhl_position": "Backup Goalie"
+      "nhl_position": "Starting Goalie"
     },
     {
       "player_id": 6486,
@@ -184,7 +191,7 @@
       "pp_unit": null,
       "selected_position": "BN",
       "status": "",
-      "nhl_position": "Starting Goalie"
+      "nhl_position": "Backup Goalie"
     },
     {
       "player_id": 6447,
@@ -194,7 +201,8 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "BN",
-      "status": ""
+      "status": "",
+      "nhl_position": "Starting Goalie"
     }
   ]
 }
