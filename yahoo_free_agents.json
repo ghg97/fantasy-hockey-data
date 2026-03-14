@@ -705,18 +705,18 @@
     {
       "player_id": 4988,
       "name": "Charlie Coyle",
-      "team": "CBJ",
+      "team": "BOS",
       "position": "C",
       "eligible_positions": [
         "C",
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 1,
       "pp_unit": 1,
       "status": "",
       "percent_owned": 44,
-      "nhl_position": "Center"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 5009,
@@ -971,16 +971,17 @@
     {
       "player_id": 5345,
       "name": "Nicolas Deslauriers",
-      "team": null,
+      "team": "CAR",
       "position": "LW",
       "eligible_positions": [
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 5364,
@@ -1434,7 +1435,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 4,
       "nhl_position": "Left Defense"
@@ -1756,17 +1757,17 @@
     {
       "player_id": 5785,
       "name": "Josh Anderson",
-      "team": "MTL",
+      "team": "COL",
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 5795,
@@ -2867,17 +2868,17 @@
     {
       "player_id": 6573,
       "name": "Jake Evans",
-      "team": "MTL",
+      "team": "CGY",
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Center"
+      "nhl_position": "Injured Reserve 3"
     },
     {
       "player_id": 6576,
@@ -6561,11 +6562,11 @@
         "LW",
         "Util"
       ],
-      "line": 3,
-      "pp_unit": null,
+      "line": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Skater 4"
     },
     {
       "player_id": 8868,
