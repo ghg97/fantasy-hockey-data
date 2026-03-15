@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-11T07:58:21.144224",
-  "count": 35,
+  "fetched_at": "2026-03-15T07:26:48.263339",
+  "count": 36,
   "players": [
     {
       "player_id": 4003,
       "name": "Semyon Varlamov",
-      "team": null,
+      "team": "NYI",
       "position": "G",
       "eligible_positions": [
         "G",
@@ -28,7 +28,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 5
     },
     {
       "player_id": 4369,
@@ -41,7 +41,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 3
     },
     {
       "player_id": 4589,
@@ -67,7 +67,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 5085,
@@ -108,7 +108,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 30
+      "percent_owned": 29
     },
     {
       "player_id": 5454,
@@ -121,7 +121,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
+      "percent_owned": 46
+    },
+    {
+      "player_id": 5529,
+      "name": "Laurent Brossoit",
+      "team": "SJS",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
     },
     {
       "player_id": 5553,
@@ -147,7 +160,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 5
     },
     {
       "player_id": 5774,
@@ -173,7 +186,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 4
     },
     {
       "player_id": 6405,
@@ -201,7 +214,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 9
     },
     {
       "player_id": 6408,
@@ -214,7 +227,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 2
     },
     {
       "player_id": 6445,
@@ -243,18 +256,30 @@
       "percent_owned": 1
     },
     {
+      "player_id": 6941,
+      "name": "Joey Daccord",
+      "team": "SEA",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 64
+    },
+    {
       "player_id": 6985,
       "name": "Connor Ingram",
       "team": "EDM",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 16
+      "status": "",
+      "percent_owned": 20
     },
     {
       "player_id": 7084,
@@ -280,7 +305,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 14
     },
     {
       "player_id": 7156,
@@ -295,7 +320,7 @@
       "line": null,
       "pp_unit": null,
       "status": "IR-LT",
-      "percent_owned": 15
+      "percent_owned": 14
     },
     {
       "player_id": 7429,
@@ -308,7 +333,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 21
+      "percent_owned": 20
     },
     {
       "player_id": 7593,
@@ -321,7 +346,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 50
+      "percent_owned": 49
     },
     {
       "player_id": 7601,
@@ -334,7 +359,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 4
     },
     {
       "player_id": 7886,
@@ -363,19 +388,6 @@
       "percent_owned": 1
     },
     {
-      "player_id": 8004,
-      "name": "Joel Hofer",
-      "team": "STL",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 28
-    },
-    {
       "player_id": 8040,
       "name": "Samuel Ersson",
       "team": "PHI",
@@ -386,7 +398,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 3
     },
     {
       "player_id": 8314,
@@ -409,11 +421,12 @@
       "team": "BUF",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
+      "status": "O",
       "percent_owned": 1
     },
     {
@@ -427,7 +440,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 7
     },
     {
       "player_id": 8871,
@@ -443,9 +456,9 @@
       "percent_owned": 1
     },
     {
-      "player_id": 30235,
-      "name": "Drew Commesso",
-      "team": "CHI",
+      "player_id": 30201,
+      "name": "Jacob Fowler",
+      "team": "MTL",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -453,7 +466,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 14
     },
     {
       "player_id": 30995,

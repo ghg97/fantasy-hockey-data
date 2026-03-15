@@ -1,5 +1,62 @@
 {
-  "starters": {},
-  "date": "2026-03-14",
-  "fetched_at": "2026-03-14T07:19:25.793781"
+  "starters": {
+    "Connor Hellebuyck": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Sergei Bobrovsky": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Philipp Grubauer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jesper Wallstedt": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Ingram": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Alex Nedeljkovic": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ville Husso": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Anthony Stolarz": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-15",
+  "fetched_at": "2026-03-15T06:30:16.792159"
 }
