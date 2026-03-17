@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-15T07:26:48.263339",
-  "count": 36,
+  "fetched_at": "2026-03-17T07:16:26.191053",
+  "count": 34,
   "players": [
     {
       "player_id": 4003,
       "name": "Semyon Varlamov",
-      "team": "NYI",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -20,7 +20,7 @@
     {
       "player_id": 4147,
       "name": "Jonathan Quick",
-      "team": "NYR",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -33,7 +33,7 @@
     {
       "player_id": 4369,
       "name": "James Reimer",
-      "team": "OTT",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -46,7 +46,7 @@
     {
       "player_id": 4589,
       "name": "Jake Allen",
-      "team": "NJD",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -54,12 +54,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18
+      "percent_owned": 17
     },
     {
       "player_id": 4854,
       "name": "Cam Talbot",
-      "team": "DET",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -72,7 +72,7 @@
     {
       "player_id": 5085,
       "name": "Philipp Grubauer",
-      "team": "SEA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -80,12 +80,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 15
+      "percent_owned": 14
     },
     {
       "player_id": 5114,
       "name": "Petr Mrazek",
-      "team": "ANA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -100,7 +100,7 @@
     {
       "player_id": 5161,
       "name": "Frederik Andersen",
-      "team": "CAR",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -113,7 +113,7 @@
     {
       "player_id": 5454,
       "name": "Jordan Binnington",
-      "team": "STL",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -126,7 +126,7 @@
     {
       "player_id": 5529,
       "name": "Laurent Brossoit",
-      "team": "SJS",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -139,7 +139,7 @@
     {
       "player_id": 5553,
       "name": "Anton Forsberg",
-      "team": "LAK",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -147,12 +147,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 5753,
       "name": "Joonas Korpisalo",
-      "team": "BOS",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -160,12 +160,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 8
     },
     {
       "player_id": 5774,
       "name": "Matt Murray",
-      "team": "SEA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -178,7 +178,7 @@
     {
       "player_id": 6039,
       "name": "Eric Comrie",
-      "team": "WPG",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -186,12 +186,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 6
     },
     {
       "player_id": 6405,
       "name": "Thatcher Demko",
-      "team": "VAN",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -206,7 +206,7 @@
     {
       "player_id": 6406,
       "name": "Alex Nedeljkovic",
-      "team": "SJS",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -219,7 +219,7 @@
     {
       "player_id": 6408,
       "name": "Vitek Vanecek",
-      "team": "UTA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -232,7 +232,7 @@
     {
       "player_id": 6445,
       "name": "Elvis Merzlikins",
-      "team": "CBJ",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -240,12 +240,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 11
+      "percent_owned": 10
     },
     {
       "player_id": 6462,
       "name": "Ville Husso",
-      "team": "ANA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -258,7 +258,7 @@
     {
       "player_id": 6941,
       "name": "Joey Daccord",
-      "team": "SEA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -269,22 +269,9 @@
       "percent_owned": 64
     },
     {
-      "player_id": 6985,
-      "name": "Connor Ingram",
-      "team": "EDM",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 20
-    },
-    {
       "player_id": 7084,
       "name": "Charlie Lindgren",
-      "team": "WSH",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -292,12 +279,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 5
     },
     {
       "player_id": 7108,
       "name": "David Rittich",
-      "team": "NYI",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -305,12 +292,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 14
+      "percent_owned": 9
     },
     {
       "player_id": 7156,
       "name": "Carter Hart",
-      "team": "VGK",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -325,7 +312,7 @@
     {
       "player_id": 7429,
       "name": "Casey DeSmith",
-      "team": "DAL",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -333,12 +320,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 20
+      "percent_owned": 29
     },
     {
       "player_id": 7593,
       "name": "Stuart Skinner",
-      "team": "EDM,PIT",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -346,12 +333,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 49
+      "percent_owned": 47
     },
     {
       "player_id": 7601,
       "name": "Daniil Tarasov",
-      "team": "FLA",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -359,12 +346,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 5
     },
     {
       "player_id": 7886,
       "name": "Kevin Lankinen",
-      "team": "VAN",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -377,7 +364,7 @@
     {
       "player_id": 7962,
       "name": "Justus Annunen",
-      "team": "NSH",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -390,7 +377,7 @@
     {
       "player_id": 8040,
       "name": "Samuel Ersson",
-      "team": "PHI",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -398,12 +385,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 2
     },
     {
       "player_id": 8314,
       "name": "Pyotr Kochetkov",
-      "team": "CAR",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -418,7 +405,7 @@
     {
       "player_id": 8371,
       "name": "Colten Ellis",
-      "team": "BUF",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G",
@@ -426,13 +413,13 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "O",
+      "status": "DTD",
       "percent_owned": 1
     },
     {
       "player_id": 8794,
       "name": "Devin Cooley",
-      "team": "CGY",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -440,12 +427,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 6
     },
     {
       "player_id": 8871,
       "name": "Arvid Soderblom",
-      "team": "CHI",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -456,22 +443,9 @@
       "percent_owned": 1
     },
     {
-      "player_id": 30201,
-      "name": "Jacob Fowler",
-      "team": "MTL",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 14
-    },
-    {
       "player_id": 30995,
       "name": "Nikita Tolopilo",
-      "team": "VAN",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
