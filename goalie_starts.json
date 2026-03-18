@@ -1,5 +1,62 @@
 {
-  "starters": {},
-  "date": "2026-03-17",
-  "fetched_at": "2026-03-17T07:16:01.986302"
+  "starters": {
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Stuart Skinner": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Lukas Dostal": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dustin Wolf": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Logan Thompson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Mackenzie Blackwood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-18",
+  "fetched_at": "2026-03-18T09:23:00.644981"
 }
