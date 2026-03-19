@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18T09:37:32.731324",
+  "fetched_at": "2026-03-19T01:01:45.058911",
   "teams": [
     {
       "abbrev": "COL",
@@ -8,34 +8,34 @@
       "division": "Central",
       "wins": 44,
       "losses": 13,
-      "ot_losses": 9,
-      "points": 97,
-      "games_played": 66,
-      "goal_differential": 79
+      "ot_losses": 10,
+      "points": 98,
+      "games_played": 67,
+      "goal_differential": 78
     },
     {
       "abbrev": "DAL",
       "name": "Dallas Stars",
       "conference": "Western",
       "division": "Central",
-      "wins": 42,
+      "wins": 43,
       "losses": 15,
       "ot_losses": 10,
-      "points": 94,
-      "games_played": 67,
-      "goal_differential": 51
+      "points": 96,
+      "games_played": 68,
+      "goal_differential": 52
     },
     {
       "abbrev": "CAR",
       "name": "Carolina Hurricanes",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "wins": 42,
+      "wins": 43,
       "losses": 19,
       "ot_losses": 6,
-      "points": 90,
-      "games_played": 67,
-      "goal_differential": 38
+      "points": 92,
+      "games_played": 68,
+      "goal_differential": 39
     },
     {
       "abbrev": "BUF",
@@ -92,10 +92,10 @@
       "division": "Metropolitan",
       "wins": 34,
       "losses": 18,
-      "ot_losses": 15,
-      "points": 83,
-      "games_played": 67,
-      "goal_differential": 26
+      "ot_losses": 16,
+      "points": 84,
+      "games_played": 68,
+      "goal_differential": 25
     },
     {
       "abbrev": "NYI",
@@ -146,28 +146,28 @@
       "goal_differential": 8
     },
     {
-      "abbrev": "OTT",
-      "name": "Ottawa Senators",
-      "conference": "Eastern",
-      "division": "Atlantic",
-      "wins": 34,
-      "losses": 23,
-      "ot_losses": 9,
-      "points": 77,
-      "games_played": 66,
-      "goal_differential": 20
-    },
-    {
       "abbrev": "ANA",
       "name": "Anaheim Ducks",
       "conference": "Western",
       "division": "Pacific",
       "wins": 37,
       "losses": 27,
-      "ot_losses": 3,
+      "ot_losses": 4,
+      "points": 78,
+      "games_played": 68,
+      "goal_differential": -11
+    },
+    {
+      "abbrev": "OTT",
+      "name": "Ottawa Senators",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "wins": 34,
+      "losses": 24,
+      "ot_losses": 9,
       "points": 77,
       "games_played": 67,
-      "goal_differential": -10
+      "goal_differential": 17
     },
     {
       "abbrev": "EDM",
@@ -180,6 +180,18 @@
       "points": 77,
       "games_played": 69,
       "goal_differential": 8
+    },
+    {
+      "abbrev": "PHI",
+      "name": "Philadelphia Flyers",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "wins": 32,
+      "losses": 23,
+      "ot_losses": 12,
+      "points": 76,
+      "games_played": 67,
+      "goal_differential": -13
     },
     {
       "abbrev": "UTA",
@@ -206,28 +218,28 @@
       "goal_differential": 9
     },
     {
-      "abbrev": "PHI",
-      "name": "Philadelphia Flyers",
-      "conference": "Eastern",
-      "division": "Metropolitan",
-      "wins": 31,
-      "losses": 23,
-      "ot_losses": 12,
-      "points": 74,
-      "games_played": 66,
-      "goal_differential": -14
-    },
-    {
       "abbrev": "WSH",
       "name": "Washington Capitals",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "wins": 33,
+      "wins": 34,
       "losses": 27,
       "ot_losses": 8,
-      "points": 74,
+      "points": 76,
+      "games_played": 69,
+      "goal_differential": 12
+    },
+    {
+      "abbrev": "NJD",
+      "name": "New Jersey Devils",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "wins": 35,
+      "losses": 31,
+      "ot_losses": 2,
+      "points": 72,
       "games_played": 68,
-      "goal_differential": 9
+      "goal_differential": -21
     },
     {
       "abbrev": "SEA",
@@ -264,18 +276,6 @@
       "points": 70,
       "games_played": 66,
       "goal_differential": -27
-    },
-    {
-      "abbrev": "NJD",
-      "name": "New Jersey Devils",
-      "conference": "Eastern",
-      "division": "Metropolitan",
-      "wins": 34,
-      "losses": 31,
-      "ot_losses": 2,
-      "points": 70,
-      "games_played": 67,
-      "goal_differential": -24
     },
     {
       "abbrev": "TOR",
@@ -332,10 +332,10 @@
       "division": "Central",
       "wins": 27,
       "losses": 30,
-      "ot_losses": 10,
-      "points": 64,
-      "games_played": 67,
-      "goal_differential": -45
+      "ot_losses": 11,
+      "points": 65,
+      "games_played": 68,
+      "goal_differential": -46
     },
     {
       "abbrev": "NYR",
@@ -343,11 +343,11 @@
       "conference": "Eastern",
       "division": "Metropolitan",
       "wins": 28,
-      "losses": 31,
+      "losses": 32,
       "ot_losses": 8,
       "points": 64,
-      "games_played": 67,
-      "goal_differential": -19
+      "games_played": 68,
+      "goal_differential": -22
     },
     {
       "abbrev": "CHI",
@@ -366,12 +366,12 @@
       "name": "Calgary Flames",
       "conference": "Western",
       "division": "Pacific",
-      "wins": 26,
+      "wins": 27,
       "losses": 34,
       "ot_losses": 7,
-      "points": 59,
-      "games_played": 67,
-      "goal_differential": -45
+      "points": 61,
+      "games_played": 68,
+      "goal_differential": -44
     },
     {
       "abbrev": "VAN",

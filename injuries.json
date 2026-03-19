@@ -4,9 +4,9 @@
       {
         "name": "Ross Johnston",
         "team": "ANA",
-        "status": "Day-To-Day",
-        "details": "Johnston has missed the last three games due to the injury, and he could sit out another contest against Philadelphia on Wednesday. He has contributed three goals, 14 points, 33 shots on net, 192 hits and 107 PIM in 62 appearances this season.",
-        "date": "2026-03-17T18:17Z"
+        "status": "Out",
+        "details": "Johnston had already missed the Ducks' last three games before the timeline was announced. The 31-year-old winger has put together the best offensive season of his career with three goals, 14 points, 33 shots, 192 hits and 107 PIM over 62 appearances. While Johnston doesn't offer much fantasy value from a scoring standpoint, he has been a fixture on Anaheim's fourth line and provides physicality that the Ducks will miss during his absence.",
+        "date": "2026-03-18T18:25Z"
       },
       {
         "name": "Radko Gudas",
@@ -36,16 +36,16 @@
       {
         "name": "Tanner Pearson",
         "team": "BUF",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-18T01:44Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Alex Tuch",
         "team": "BUF",
-        "status": "Out",
-        "details": "Tuch appears to need at least one game off to recover from his illness. Tyson Kozak is set to return from an undisclosed injury Tuesday, while Josh Doan will likely get a boost in ice time due to Tuch's absence. Tuch's next chance to play is Thursday in San Jose.",
-        "date": "2026-03-18T01:32Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Jiri Kulich",
@@ -73,9 +73,9 @@
       {
         "name": "Yan Kuznetsov",
         "team": "CGY",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-17T17:56Z"
+        "status": "Out",
+        "details": "Kuznetsov will miss his second straight game with the injury. The 23-year-old's absence continues to be covered by Hunter Brzustewicz, who will skate on the second pairing. Kuznetsov's next chance to play is Friday versus the Panthers.",
+        "date": "2026-03-19T01:10Z"
       },
       {
         "name": "Jonathan Huberdeau",
@@ -97,8 +97,8 @@
         "name": "Shayne Gostisbehere",
         "team": "CAR",
         "status": "Out",
-        "details": "Gostisbehere will miss his fifth straight game, and it's unclear if he will be ready to play against Pittsburgh on Wednesday. Still, head coach Rod Brind'Amour told reporters Monday that Gostisbehere is \"tending closer\" to a potential return. The 32-year-old Gostisbehere has 11 goals, 43 points, 98 shots on net and 50 blocked shots in 45 appearances this season.",
-        "date": "2026-03-16T16:29Z"
+        "details": "out",
+        "date": "2026-03-18T20:59Z"
       },
       {
         "name": "Pyotr Kochetkov",
@@ -112,9 +112,9 @@
       {
         "name": "Sacha Boisvert",
         "team": "CHI",
-        "status": "Out",
-        "details": "Boisvert missed Monday's practice session while waiting for his work visa to process, and he'll be unable to suit up a day after signing an entry-level deal with Chicago. His next opportunity to make his team debut will be in a rematch against Minnesota on Thursday, but it's not yet clear whether he'll be able to do so.",
-        "date": "2026-03-16T18:25Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Oliver Moore",
@@ -142,9 +142,9 @@
       {
         "name": "Ross Colton",
         "team": "COL",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-17T17:56Z"
+        "status": "Out",
+        "details": "Colton will miss his fourth consecutive game. The 29-year-old forward's status hasn't been officially updated by the Avalanche since he was hurt March 10 versus the Oilers. Colton's next chance to play is Friday versus the Blackhawks.",
+        "date": "2026-03-19T01:36Z"
       },
       {
         "name": "Logan O'Connor",
@@ -232,9 +232,9 @@
       {
         "name": "Ty Emberson",
         "team": "EDM",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-18T00:44Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Leon Draisaitl",
@@ -314,8 +314,8 @@
         "name": "Adrian Kempe",
         "team": "LAK",
         "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-17T02:25Z"
+        "details": "Kempe missed Monday's 4-1 win over the Rangers due to the injury. He has 26 goals and 58 points in 66 outings this season. If Kempe is able to return Thursday, then Mathieu Joseph will probably lose his spot in the top six.",
+        "date": "2026-03-18T18:39Z"
       },
       {
         "name": "Joel Armia",
@@ -343,9 +343,9 @@
       {
         "name": "Bobby Brink",
         "team": "MIN",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-17T23:23Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Joel Eriksson Ek",
@@ -414,9 +414,9 @@
       {
         "name": "Maxim Shabanov",
         "team": "NYI",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-17T16:23Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Alexander Romanov",
@@ -448,6 +448,20 @@
       }
     ],
     "NYR": [
+      {
+        "name": "Noah Laba",
+        "team": "NYR",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-19T01:05Z"
+      },
+      {
+        "name": "Urho Vaakanainen",
+        "team": "NYR",
+        "status": "Day-To-Day",
+        "details": "Vaakanainen's injury occurred in the first period, but it's not clear caused it. Vincent Iorio will likely fill in if Vaakanainen can't play Thursday versus the Blue Jackets.",
+        "date": "2026-03-19T00:06Z"
+      },
       {
         "name": "Matt Rempe",
         "team": "NYR",
@@ -490,25 +504,25 @@
     ],
     "PIT": [
       {
+        "name": "Kevin Hayes",
+        "team": "PIT",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-18T22:44Z"
+      },
+      {
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "status": "Out",
+        "details": "Girard is set to miss his fifth straight contest due to the injury. That allows Connor Clifton the opportunity to stay in the lineup. Girard's next chance to play is Saturday versus the Jets, though that is the first half of a back-to-back set.",
+        "date": "2026-03-18T22:43Z"
+      },
+      {
         "name": "Blake Lizotte",
         "team": "PIT",
         "status": "Out",
         "details": "Lizotte sat out Monday's 7-2 win over Colorado and is now in danger of missing the rest of the regular season. The Penguins conclude their 82-game schedule in St. Louis on April 14, which is exactly four weeks from now. The 28-year-old has accounted for seven goals, 19 points and a plus-6 rating over 55 appearances this season.",
         "date": "2026-03-17T18:09Z"
-      },
-      {
-        "name": "Samuel Girard",
-        "team": "PIT",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-17T17:56Z"
-      },
-      {
-        "name": "Kevin Hayes",
-        "team": "PIT",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-03-17T17:56Z"
       },
       {
         "name": "Ryan Graves",
@@ -523,13 +537,6 @@
         "status": "Injured Reserve",
         "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
         "date": "2026-02-27T23:43Z"
-      },
-      {
-        "name": "Sidney Crosby",
-        "team": "PIT",
-        "status": "Injured Reserve",
-        "details": "ir",
-        "date": "2026-02-25T15:07Z"
       },
       {
         "name": "Caleb Jones",
@@ -548,18 +555,18 @@
     ],
     "SJS": [
       {
-        "name": "Igor Chernyshov",
-        "team": "SJS",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-17T20:08Z"
-      },
-      {
         "name": "Yaroslav Askarov",
         "team": "SJS",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-17T20:05Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
+      },
+      {
+        "name": "Igor Chernyshov",
+        "team": "SJS",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Ty Dellandrea",
@@ -580,9 +587,9 @@
       {
         "name": "Eeli Tolvanen",
         "team": "SEA",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-18T01:50Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
       },
       {
         "name": "Jaden Schwartz",
@@ -601,18 +608,18 @@
     ],
     "TBL": [
       {
+        "name": "Emil Lilleberg",
+        "team": "TBL",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-03-18T13:28Z"
+      },
+      {
         "name": "Declan Carlile",
         "team": "TBL",
         "status": "Injured Reserve",
         "details": "Carlile has a goal, three points, 23 PIM, 46 hits and 30 blocks in 38 outings in 2025-26. His exit from the lineup coincides with Erik Cernak returning Saturday versus Carolina from an undisclosed injury. Carlile will be in the mix for a third-pairing spot once he's healthy.",
         "date": "2026-03-14T23:17Z"
-      },
-      {
-        "name": "Emil Lilleberg",
-        "team": "TBL",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-03-07T22:02Z"
       },
       {
         "name": "Dominic James",
@@ -679,9 +686,9 @@
       {
         "name": "David Kampf",
         "team": "WSH",
-        "status": "Day-To-Day",
-        "details": "Kampf hasn't suited up with the Capitals since being acquired due to issues with getting his work visa, and now he has another reason to miss some time with him and his wife expecting their second child soon. The 31-year-old has two goals and four assists in 38 games on the season. The Capitals have some time off and don't play again until Wednesday against the Senators.",
-        "date": "2026-03-15T16:47Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-18T23:17Z"
       },
       {
         "name": "Eriks Mateiko",
@@ -726,9 +733,9 @@
     "Ross Johnston": {
       "name": "Ross Johnston",
       "team": "ANA",
-      "status": "Day-To-Day",
-      "details": "Johnston has missed the last three games due to the injury, and he could sit out another contest against Philadelphia on Wednesday. He has contributed three goals, 14 points, 33 shots on net, 192 hits and 107 PIM in 62 appearances this season.",
-      "date": "2026-03-17T18:17Z"
+      "status": "Out",
+      "details": "Johnston had already missed the Ducks' last three games before the timeline was announced. The 31-year-old winger has put together the best offensive season of his career with three goals, 14 points, 33 shots, 192 hits and 107 PIM over 62 appearances. While Johnston doesn't offer much fantasy value from a scoring standpoint, he has been a fixture on Anaheim's fourth line and provides physicality that the Ducks will miss during his absence.",
+      "date": "2026-03-18T18:25Z"
     },
     "Radko Gudas": {
       "name": "Radko Gudas",
@@ -754,16 +761,16 @@
     "Tanner Pearson": {
       "name": "Tanner Pearson",
       "team": "BUF",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-18T01:44Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Alex Tuch": {
       "name": "Alex Tuch",
       "team": "BUF",
-      "status": "Out",
-      "details": "Tuch appears to need at least one game off to recover from his illness. Tyson Kozak is set to return from an undisclosed injury Tuesday, while Josh Doan will likely get a boost in ice time due to Tuch's absence. Tuch's next chance to play is Thursday in San Jose.",
-      "date": "2026-03-18T01:32Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Jiri Kulich": {
       "name": "Jiri Kulich",
@@ -789,9 +796,9 @@
     "Yan Kuznetsov": {
       "name": "Yan Kuznetsov",
       "team": "CGY",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-17T17:56Z"
+      "status": "Out",
+      "details": "Kuznetsov will miss his second straight game with the injury. The 23-year-old's absence continues to be covered by Hunter Brzustewicz, who will skate on the second pairing. Kuznetsov's next chance to play is Friday versus the Panthers.",
+      "date": "2026-03-19T01:10Z"
     },
     "Jonathan Huberdeau": {
       "name": "Jonathan Huberdeau",
@@ -811,8 +818,8 @@
       "name": "Shayne Gostisbehere",
       "team": "CAR",
       "status": "Out",
-      "details": "Gostisbehere will miss his fifth straight game, and it's unclear if he will be ready to play against Pittsburgh on Wednesday. Still, head coach Rod Brind'Amour told reporters Monday that Gostisbehere is \"tending closer\" to a potential return. The 32-year-old Gostisbehere has 11 goals, 43 points, 98 shots on net and 50 blocked shots in 45 appearances this season.",
-      "date": "2026-03-16T16:29Z"
+      "details": "out",
+      "date": "2026-03-18T20:59Z"
     },
     "Pyotr Kochetkov": {
       "name": "Pyotr Kochetkov",
@@ -824,9 +831,9 @@
     "Sacha Boisvert": {
       "name": "Sacha Boisvert",
       "team": "CHI",
-      "status": "Out",
-      "details": "Boisvert missed Monday's practice session while waiting for his work visa to process, and he'll be unable to suit up a day after signing an entry-level deal with Chicago. His next opportunity to make his team debut will be in a rematch against Minnesota on Thursday, but it's not yet clear whether he'll be able to do so.",
-      "date": "2026-03-16T18:25Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Oliver Moore": {
       "name": "Oliver Moore",
@@ -852,9 +859,9 @@
     "Ross Colton": {
       "name": "Ross Colton",
       "team": "COL",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-17T17:56Z"
+      "status": "Out",
+      "details": "Colton will miss his fourth consecutive game. The 29-year-old forward's status hasn't been officially updated by the Avalanche since he was hurt March 10 versus the Oilers. Colton's next chance to play is Friday versus the Blackhawks.",
+      "date": "2026-03-19T01:36Z"
     },
     "Logan O'Connor": {
       "name": "Logan O'Connor",
@@ -936,9 +943,9 @@
     "Ty Emberson": {
       "name": "Ty Emberson",
       "team": "EDM",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-18T00:44Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Leon Draisaitl": {
       "name": "Leon Draisaitl",
@@ -1014,8 +1021,8 @@
       "name": "Adrian Kempe",
       "team": "LAK",
       "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-17T02:25Z"
+      "details": "Kempe missed Monday's 4-1 win over the Rangers due to the injury. He has 26 goals and 58 points in 66 outings this season. If Kempe is able to return Thursday, then Mathieu Joseph will probably lose his spot in the top six.",
+      "date": "2026-03-18T18:39Z"
     },
     "Joel Armia": {
       "name": "Joel Armia",
@@ -1041,9 +1048,9 @@
     "Bobby Brink": {
       "name": "Bobby Brink",
       "team": "MIN",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-17T23:23Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Joel Eriksson Ek": {
       "name": "Joel Eriksson Ek",
@@ -1104,9 +1111,9 @@
     "Maxim Shabanov": {
       "name": "Maxim Shabanov",
       "team": "NYI",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-17T16:23Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Alexander Romanov": {
       "name": "Alexander Romanov",
@@ -1135,6 +1142,20 @@
       "status": "Injured Reserve",
       "details": "ir",
       "date": "2025-11-30T16:08Z"
+    },
+    "Noah Laba": {
+      "name": "Noah Laba",
+      "team": "NYR",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-19T01:05Z"
+    },
+    "Urho Vaakanainen": {
+      "name": "Urho Vaakanainen",
+      "team": "NYR",
+      "status": "Day-To-Day",
+      "details": "Vaakanainen's injury occurred in the first period, but it's not clear caused it. Vincent Iorio will likely fill in if Vaakanainen can't play Thursday versus the Blue Jackets.",
+      "date": "2026-03-19T00:06Z"
     },
     "Matt Rempe": {
       "name": "Matt Rempe",
@@ -1171,26 +1192,26 @@
       "details": "Abols could still return in time for the last month of the regular season, though that may depend on how the Flyers are performing at the time. In any case, the 30-year-old is likely to be out at least two months. He is on injured reserve and could be transferred to long-term injured reserve if the Flyers get into a cap crunch.",
       "date": "2026-01-22T00:33Z"
     },
+    "Kevin Hayes": {
+      "name": "Kevin Hayes",
+      "team": "PIT",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-18T22:44Z"
+    },
+    "Samuel Girard": {
+      "name": "Samuel Girard",
+      "team": "PIT",
+      "status": "Out",
+      "details": "Girard is set to miss his fifth straight contest due to the injury. That allows Connor Clifton the opportunity to stay in the lineup. Girard's next chance to play is Saturday versus the Jets, though that is the first half of a back-to-back set.",
+      "date": "2026-03-18T22:43Z"
+    },
     "Blake Lizotte": {
       "name": "Blake Lizotte",
       "team": "PIT",
       "status": "Out",
       "details": "Lizotte sat out Monday's 7-2 win over Colorado and is now in danger of missing the rest of the regular season. The Penguins conclude their 82-game schedule in St. Louis on April 14, which is exactly four weeks from now. The 28-year-old has accounted for seven goals, 19 points and a plus-6 rating over 55 appearances this season.",
       "date": "2026-03-17T18:09Z"
-    },
-    "Samuel Girard": {
-      "name": "Samuel Girard",
-      "team": "PIT",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-17T17:56Z"
-    },
-    "Kevin Hayes": {
-      "name": "Kevin Hayes",
-      "team": "PIT",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-03-17T17:56Z"
     },
     "Ryan Graves": {
       "name": "Ryan Graves",
@@ -1206,13 +1227,6 @@
       "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
       "date": "2026-02-27T23:43Z"
     },
-    "Sidney Crosby": {
-      "name": "Sidney Crosby",
-      "team": "PIT",
-      "status": "Injured Reserve",
-      "details": "ir",
-      "date": "2026-02-25T15:07Z"
-    },
     "Caleb Jones": {
       "name": "Caleb Jones",
       "team": "PIT",
@@ -1227,19 +1241,19 @@
       "details": "out",
       "date": "2025-11-24T18:30Z"
     },
-    "Igor Chernyshov": {
-      "name": "Igor Chernyshov",
-      "team": "SJS",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-17T20:08Z"
-    },
     "Yaroslav Askarov": {
       "name": "Yaroslav Askarov",
       "team": "SJS",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-17T20:05Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
+    },
+    "Igor Chernyshov": {
+      "name": "Igor Chernyshov",
+      "team": "SJS",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Ty Dellandrea": {
       "name": "Ty Dellandrea",
@@ -1258,9 +1272,9 @@
     "Eeli Tolvanen": {
       "name": "Eeli Tolvanen",
       "team": "SEA",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-18T01:50Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
     },
     "Jaden Schwartz": {
       "name": "Jaden Schwartz",
@@ -1276,19 +1290,19 @@
       "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
       "date": "2025-09-30T16:59Z"
     },
+    "Emil Lilleberg": {
+      "name": "Emil Lilleberg",
+      "team": "TBL",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-03-18T13:28Z"
+    },
     "Declan Carlile": {
       "name": "Declan Carlile",
       "team": "TBL",
       "status": "Injured Reserve",
       "details": "Carlile has a goal, three points, 23 PIM, 46 hits and 30 blocks in 38 outings in 2025-26. His exit from the lineup coincides with Erik Cernak returning Saturday versus Carolina from an undisclosed injury. Carlile will be in the mix for a third-pairing spot once he's healthy.",
       "date": "2026-03-14T23:17Z"
-    },
-    "Emil Lilleberg": {
-      "name": "Emil Lilleberg",
-      "team": "TBL",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-03-07T22:02Z"
     },
     "Dominic James": {
       "name": "Dominic James",
@@ -1349,9 +1363,9 @@
     "David Kampf": {
       "name": "David Kampf",
       "team": "WSH",
-      "status": "Day-To-Day",
-      "details": "Kampf hasn't suited up with the Capitals since being acquired due to issues with getting his work visa, and now he has another reason to miss some time with him and his wife expecting their second child soon. The 31-year-old has two goals and four assists in 38 games on the season. The Capitals have some time off and don't play again until Wednesday against the Senators.",
-      "date": "2026-03-15T16:47Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-18T23:17Z"
     },
     "Eriks Mateiko": {
       "name": "Eriks Mateiko",
@@ -1411,17 +1425,6 @@
       ],
       "boost": 1.06
     },
-    "PIT": {
-      "injured": [
-        "Sidney Crosby"
-      ],
-      "beneficiaries": [
-        "Evgeni Malkin",
-        "Bryan Rust",
-        "Rickard Rakell"
-      ],
-      "boost": 1.06
-    },
     "TOR": {
       "injured": [
         "Auston Matthews"
@@ -1434,6 +1437,6 @@
       "boost": 1.06
     }
   },
-  "total_injured": 95,
-  "fetched_at": "2026-03-18T09:23:02.572571"
+  "total_injured": 96,
+  "fetched_at": "2026-03-19T01:01:43.789519"
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18T09:37:35.096476",
+  "fetched_at": "2026-03-19T01:01:47.142618",
   "season": "2025-2026",
   "goalies": {
     "Andrei Vasilevskiy": {
@@ -27,12 +27,12 @@
     "Jake Oettinger": {
       "player_id": 8479979,
       "team": "DAL",
-      "gp": 43,
-      "wins": 28,
+      "gp": 44,
+      "wins": 29,
       "losses": 10,
       "ot_losses": 5,
-      "save_pct": 0.90035,
-      "gaa": 2.62179,
+      "save_pct": 0.90241,
+      "gaa": 2.57985,
       "shutouts": 2
     },
     "Lukas Dostal": {
@@ -104,12 +104,12 @@
     "Scott Wedgewood": {
       "player_id": 8475809,
       "team": "COL",
-      "gp": 37,
+      "gp": 38,
       "wins": 25,
       "losses": 5,
-      "ot_losses": 5,
-      "save_pct": 0.91512,
-      "gaa": 2.23209,
+      "ot_losses": 6,
+      "save_pct": 0.91568,
+      "gaa": 2.19273,
       "shutouts": 2
     },
     "Juuse Saros": {
@@ -134,6 +134,17 @@
       "gaa": 3.0706,
       "shutouts": 3
     },
+    "Logan Thompson": {
+      "player_id": 8480313,
+      "team": "WSH",
+      "gp": 47,
+      "wins": 23,
+      "losses": 19,
+      "ot_losses": 5,
+      "save_pct": 0.91381,
+      "gaa": 2.39264,
+      "shutouts": 2
+    },
     "Igor Shesterkin": {
       "player_id": 8478048,
       "team": "NYR",
@@ -152,7 +163,7 @@
       "wins": 22,
       "losses": 12,
       "ot_losses": 8,
-      "save_pct": 0.90923,
+      "save_pct": 0.90931,
       "gaa": 2.60237,
       "shutouts": 2
     },
@@ -167,27 +178,27 @@
       "gaa": 2.93334,
       "shutouts": 0
     },
-    "Logan Thompson": {
-      "player_id": 8480313,
-      "team": "WSH",
-      "gp": 46,
-      "wins": 22,
-      "losses": 19,
-      "ot_losses": 5,
-      "save_pct": 0.91221,
-      "gaa": 2.42332,
-      "shutouts": 2
-    },
     "Linus Ullmark": {
       "player_id": 8476999,
       "team": "OTT",
-      "gp": 38,
+      "gp": 39,
       "wins": 21,
-      "losses": 9,
+      "losses": 10,
       "ot_losses": 7,
-      "save_pct": 0.8849,
-      "gaa": 2.8065,
+      "save_pct": 0.88559,
+      "gaa": 2.78845,
       "shutouts": 2
+    },
+    "Jacob Markstrom": {
+      "player_id": 8474593,
+      "team": "NJD",
+      "gp": 39,
+      "wins": 21,
+      "losses": 16,
+      "ot_losses": 1,
+      "save_pct": 0.88434,
+      "gaa": 3.09636,
+      "shutouts": 0
     },
     "Dan Vladar": {
       "player_id": 8478435,
@@ -200,26 +211,15 @@
       "gaa": 2.45804,
       "shutouts": 0
     },
-    "Jacob Markstrom": {
-      "player_id": 8474593,
-      "team": "NJD",
-      "gp": 38,
-      "wins": 20,
-      "losses": 16,
-      "ot_losses": 1,
-      "save_pct": 0.88527,
-      "gaa": 3.09824,
-      "shutouts": 0
-    },
     "Stuart Skinner": {
       "player_id": 8479973,
       "team": "EDM,PIT",
-      "gp": 41,
+      "gp": 42,
       "wins": 20,
       "losses": 13,
-      "ot_losses": 8,
-      "save_pct": 0.89138,
-      "gaa": 2.77677,
+      "ot_losses": 9,
+      "save_pct": 0.89024,
+      "gaa": 2.8502,
       "shutouts": 2
     },
     "Joey Daccord": {
@@ -328,7 +328,7 @@
       "wins": 16,
       "losses": 8,
       "ot_losses": 2,
-      "save_pct": 0.90909,
+      "save_pct": 0.90921,
       "gaa": 2.60371,
       "shutouts": 1
     },
@@ -442,6 +442,17 @@
       "gaa": 2.85191,
       "shutouts": 0
     },
+    "Frederik Andersen": {
+      "player_id": 8475883,
+      "team": "CAR",
+      "gp": 28,
+      "wins": 12,
+      "losses": 11,
+      "ot_losses": 5,
+      "save_pct": 0.87179,
+      "gaa": 3.19369,
+      "shutouts": 0
+    },
     "Cam Talbot": {
       "player_id": 8475660,
       "team": "DET",
@@ -474,17 +485,6 @@
       "save_pct": 0.9,
       "gaa": 2.83298,
       "shutouts": 2
-    },
-    "Frederik Andersen": {
-      "player_id": 8475883,
-      "team": "CAR",
-      "gp": 27,
-      "wins": 11,
-      "losses": 11,
-      "ot_losses": 5,
-      "save_pct": 0.87256,
-      "gaa": 3.13592,
-      "shutouts": 0
     },
     "Connor Ingram": {
       "player_id": 8478971,
@@ -753,12 +753,12 @@
     "Jonathan Quick": {
       "player_id": 8471734,
       "team": "NYR",
-      "gp": 22,
+      "gp": 23,
       "wins": 5,
-      "losses": 15,
+      "losses": 16,
       "ot_losses": 2,
-      "save_pct": 0.89193,
-      "gaa": 3.04846,
+      "save_pct": 0.88906,
+      "gaa": 3.18469,
       "shutouts": 2
     },
     "Jacob Fowler": {

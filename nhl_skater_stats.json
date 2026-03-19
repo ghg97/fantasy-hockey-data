@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18T09:37:33.060599",
+  "fetched_at": "2026-03-19T01:01:45.301304",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -10,20 +10,20 @@
       "value": 115
     },
     {
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": null,
+      "games_played": null,
+      "value": 111
+    },
+    {
       "player_id": 8476453,
       "name": "Nikita Kucherov",
       "team": "TBL",
       "position": null,
       "games_played": null,
       "value": 111
-    },
-    {
-      "player_id": 8477492,
-      "name": "Nathan MacKinnon",
-      "team": "COL",
-      "position": null,
-      "games_played": null,
-      "value": 110
     },
     {
       "player_id": 8477934,
@@ -107,7 +107,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 65
+      "value": 66
     },
     {
       "player_id": 8477934,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18T09:37:34.921017",
+  "fetched_at": "2026-03-19T01:01:47.004932",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -20,7 +20,7 @@
       "name": "Jake Oettinger",
       "team": "DAL",
       "games_played": null,
-      "value": 28
+      "value": 29
     },
     {
       "player_id": 8480843,
@@ -43,7 +43,7 @@
       "name": "Scott Wedgewood",
       "team": "COL",
       "games_played": null,
-      "value": 0.915125
+      "value": 0.915688
     },
     {
       "player_id": 8478009,
@@ -51,6 +51,13 @@
       "team": "NYI",
       "games_played": null,
       "value": 0.91405
+    },
+    {
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
+      "games_played": null,
+      "value": 0.91382
     },
     {
       "player_id": 8476883,
@@ -65,13 +72,6 @@
       "team": "CGY",
       "games_played": null,
       "value": 0.913522
-    },
-    {
-      "player_id": 8479312,
-      "name": "Alex Lyon",
-      "team": "BUF",
-      "games_played": null,
-      "value": 0.913237
     }
   ],
   "gaa_leaders": []

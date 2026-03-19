@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18T09:37:37.903382",
+  "fetched_at": "2026-03-19T01:01:48.830631",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -187,7 +187,7 @@
       "pp_unit": null,
       "selected_position": "G",
       "status": "",
-      "nhl_position": "Starting Goalie"
+      "nhl_position": "Backup Goalie"
     },
     {
       "player_id": 7089,

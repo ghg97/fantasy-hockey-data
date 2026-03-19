@@ -1,14 +1,18 @@
 {
   "starters": {
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Lukas Dostal": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Stuart Skinner": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Frederik Andersen": {
+    "Line Combination": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -20,27 +24,7 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Lukas Dostal": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Dustin Wolf": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jake Oettinger": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Logan Thompson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Mackenzie Blackwood": {
+    "Scott Wedgewood": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -48,15 +32,31 @@
       "status": "unconfirmed",
       "starting_today": false
     },
+    "Devin Cooley": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Logan Thompson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Dan Vladar": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Igor Shesterkin": {
+    "Stuart Skinner": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jonathan Quick": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-03-18",
-  "fetched_at": "2026-03-18T09:23:00.644981"
+  "date": "2026-03-19",
+  "fetched_at": "2026-03-19T01:01:42.591034"
 }
