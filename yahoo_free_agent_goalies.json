@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-19T01:01:58.851732",
-  "count": 34,
+  "fetched_at": "2026-03-24T10:20:12.731200",
+  "count": 36,
   "players": [
     {
       "player_id": 4003,
@@ -23,25 +23,13 @@
       "team": "NYR",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 7
-    },
-    {
-      "player_id": 4369,
-      "name": "James Reimer",
-      "team": "OTT",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 3
+      "status": "DTD",
+      "percent_owned": 5
     },
     {
       "player_id": 4589,
@@ -54,7 +42,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17
+      "percent_owned": 16
     },
     {
       "player_id": 4854,
@@ -80,7 +68,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 14
+      "percent_owned": 12
     },
     {
       "player_id": 5114,
@@ -111,19 +99,6 @@
       "percent_owned": 45
     },
     {
-      "player_id": 5529,
-      "name": "Laurent Brossoit",
-      "team": "SJS",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 1
-    },
-    {
       "player_id": 5553,
       "name": "Anton Forsberg",
       "team": "LAK",
@@ -134,7 +109,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 5753,
@@ -163,6 +138,19 @@
       "percent_owned": 0
     },
     {
+      "player_id": 6024,
+      "name": "Tristan Jarry",
+      "team": "PIT,EDM",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 21
+    },
+    {
       "player_id": 6039,
       "name": "Eric Comrie",
       "team": "WPG",
@@ -173,7 +161,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 8
     },
     {
       "player_id": 6405,
@@ -188,7 +176,7 @@
       "line": null,
       "pp_unit": null,
       "status": "IR-LT",
-      "percent_owned": 28
+      "percent_owned": 27
     },
     {
       "player_id": 6406,
@@ -201,7 +189,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 6408,
@@ -214,7 +202,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 2
     },
     {
       "player_id": 6445,
@@ -253,7 +241,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 63
+      "percent_owned": 61
     },
     {
       "player_id": 7084,
@@ -279,7 +267,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 7156,
@@ -297,19 +285,6 @@
       "percent_owned": 14
     },
     {
-      "player_id": 7429,
-      "name": "Casey DeSmith",
-      "team": "DAL",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 21
-    },
-    {
       "player_id": 7593,
       "name": "Stuart Skinner",
       "team": "EDM,PIT",
@@ -320,7 +295,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 48
+      "percent_owned": 46
     },
     {
       "player_id": 7601,
@@ -333,7 +308,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 5
     },
     {
       "player_id": 7886,
@@ -359,7 +334,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 3
     },
     {
       "player_id": 8040,
@@ -372,7 +347,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 3
     },
     {
       "player_id": 8314,
@@ -403,6 +378,32 @@
       "percent_owned": 1
     },
     {
+      "player_id": 8651,
+      "name": "Yaroslav Askarov",
+      "team": "SJS",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 33
+    },
+    {
+      "player_id": 8741,
+      "name": "Dylan Garand",
+      "team": "NYR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
+    },
+    {
       "player_id": 8794,
       "name": "Devin Cooley",
       "team": "CGY",
@@ -413,7 +414,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 8
     },
     {
       "player_id": 8871,
@@ -429,6 +430,32 @@
       "percent_owned": 1
     },
     {
+      "player_id": 9238,
+      "name": "Brandon Bussi",
+      "team": "CAR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 57
+    },
+    {
+      "player_id": 9389,
+      "name": "Dennis Hildeby",
+      "team": "TOR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
+    },
+    {
       "player_id": 30201,
       "name": "Jacob Fowler",
       "team": "MTL",
@@ -439,7 +466,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 15
+      "percent_owned": 14
     },
     {
       "player_id": 30995,

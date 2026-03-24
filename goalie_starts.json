@@ -1,5 +1,134 @@
 {
-  "starters": {},
-  "date": "2026-03-23",
-  "fetched_at": "2026-03-23T09:12:02.246421"
+  "starters": {
+    "Philipp Grubauer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joseph Woll": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "John Gibson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Kevin Lankinen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Karel Vejmelka": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Hellebuyck": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Spencer Knight": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Darcy Kuemper": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Adin Hill": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Lukas Dostal": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Tristan Jarry": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arturs Silovs": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Logan Thompson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Yaroslav Askarov": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Sergei Bobrovsky": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Filip Gustavsson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jet Greaves": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ilya Sorokin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dustin Wolf": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-24",
+  "fetched_at": "2026-03-24T10:19:38.388472"
 }
