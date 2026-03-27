@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-24T10:20:10.491291",
-  "count": 578,
+  "fetched_at": "2026-03-27T09:23:25.582994",
+  "count": 590,
   "players": [
     {
       "player_id": 3358,
@@ -12,9 +12,9 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
-      "percent_owned": 51,
+      "percent_owned": 50,
       "nhl_position": "Right Defense"
     },
     {
@@ -27,10 +27,25 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 2,
       "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 3788,
+      "name": "Anze Kopitar",
+      "team": "LAK",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 34,
+      "nhl_position": "Center"
     },
     {
       "player_id": 3980,
@@ -44,7 +59,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9,
+      "percent_owned": 8,
       "nhl_position": "Center"
     },
     {
@@ -56,7 +71,7 @@
         "C",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 2,
@@ -75,7 +90,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 24,
+      "percent_owned": 20,
       "nhl_position": "Right Wing"
     },
     {
@@ -88,11 +103,11 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 4064,
@@ -134,7 +149,7 @@
         "LW",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
@@ -230,7 +245,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 30,
+      "percent_owned": 31,
       "nhl_position": "Right Defense"
     },
     {
@@ -242,11 +257,10 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 4474,
@@ -287,11 +301,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Injured Reserve 5"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 4498,
@@ -309,6 +323,23 @@
       "nhl_position": "Right Wing"
     },
     {
+      "player_id": 4519,
+      "name": "Jamie Benn",
+      "team": "DAL",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 16,
+      "nhl_position": "Right Wing"
+    },
+    {
       "player_id": 4684,
       "name": "Evander Kane",
       "team": "VAN",
@@ -320,7 +351,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 14,
+      "percent_owned": 13,
       "nhl_position": "Right Wing"
     },
     {
@@ -348,11 +379,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 2,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 27,
-      "nhl_position": "Skater 4"
+      "percent_owned": 26,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 4691,
@@ -398,7 +429,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 4704,
@@ -409,7 +440,7 @@
         "LW",
         "Util"
       ],
-      "line": 1,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 8,
@@ -435,16 +466,17 @@
     {
       "player_id": 4753,
       "name": "Evgenii Dadonov",
-      "team": null,
+      "team": "NJD",
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 4771,
@@ -483,29 +515,28 @@
       "position": "LW",
       "eligible_positions": [
         "LW",
-        "Util",
-        "IR",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
-      "status": "IR",
+      "status": "",
       "percent_owned": 2,
-      "nhl_position": "Injured Reserve 1"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 4849,
       "name": "Jeff Petry",
-      "team": "FLA,MIN",
+      "team": "MIN",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 4921,
@@ -516,10 +547,10 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 22,
+      "percent_owned": 21,
       "nhl_position": "Right Wing"
     },
     {
@@ -617,9 +648,9 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
-      "percent_owned": 20,
+      "percent_owned": 22,
       "nhl_position": "Center"
     },
     {
@@ -696,10 +727,10 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
-      "percent_owned": 10,
-      "nhl_position": "Left Wing"
+      "percent_owned": 11,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 4979,
@@ -743,7 +774,7 @@
       "line": 3,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 45,
+      "percent_owned": 43,
       "nhl_position": "Center"
     },
     {
@@ -768,14 +799,13 @@
       "eligible_positions": [
         "LW",
         "RW",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
-      "pp_unit": null,
-      "status": "O",
-      "percent_owned": 36,
-      "nhl_position": "Injured Reserve 4"
+      "line": 3,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 35,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 5024,
@@ -795,17 +825,16 @@
     {
       "player_id": 5027,
       "name": "Justin Holl",
-      "team": "STL",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 5032,
@@ -819,7 +848,7 @@
       "line": 2,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 14,
+      "percent_owned": 16,
       "nhl_position": "Left Wing"
     },
     {
@@ -829,13 +858,14 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
-      "status": "",
+      "status": "DTD",
       "percent_owned": 12,
-      "nhl_position": "Injured Reserve 2"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 5104,
@@ -844,13 +874,14 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 2,
-      "pp_unit": 2,
-      "status": "",
+      "line": null,
+      "pp_unit": null,
+      "status": "DTD",
       "percent_owned": 5,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Injured Reserve 4"
     },
     {
       "player_id": 5117,
@@ -864,7 +895,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 2,
       "nhl_position": "Center"
     },
     {
@@ -904,11 +935,12 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util"
+        "Util",
+        "IR+"
       ],
       "line": 1,
-      "pp_unit": 2,
-      "status": "",
+      "pp_unit": null,
+      "status": "DTD",
       "percent_owned": 5,
       "nhl_position": "Right Defense"
     },
@@ -951,7 +983,7 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": 1,
       "status": "",
       "percent_owned": 16,
@@ -982,11 +1014,26 @@
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
       "nhl_position": "Right Wing"
+    },
+    {
+      "player_id": 5329,
+      "name": "Mattias Ekholm",
+      "team": "EDM",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 61,
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 5345,
@@ -1005,17 +1052,16 @@
     {
       "player_id": 5358,
       "name": "Garrett Wilson",
-      "team": "PHI",
+      "team": null,
       "position": "LW",
       "eligible_positions": [
         "LW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 5364,
@@ -1060,7 +1106,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Center"
@@ -1072,14 +1118,13 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 3,
-      "nhl_position": "Skater 2"
+      "nhl_position": "Center"
     },
     {
       "player_id": 5371,
@@ -1121,10 +1166,10 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 5381,
@@ -1135,7 +1180,7 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
@@ -1204,7 +1249,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 5405,
@@ -1217,7 +1262,7 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 16,
       "nhl_position": "Center"
@@ -1310,9 +1355,9 @@
         "Util"
       ],
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
-      "percent_owned": 26,
+      "percent_owned": 25,
       "nhl_position": "Left Wing"
     },
     {
@@ -1435,7 +1480,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 2,
+      "percent_owned": 3,
       "nhl_position": "Left Wing"
     },
     {
@@ -1544,7 +1589,7 @@
       "line": 3,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 88,
+      "percent_owned": 86,
       "nhl_position": "Center"
     },
     {
@@ -1557,8 +1602,8 @@
         "RW",
         "Util"
       ],
-      "line": 3,
-      "pp_unit": 1,
+      "line": 4,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 10,
       "nhl_position": "Left Wing"
@@ -1619,7 +1664,7 @@
         "Util"
       ],
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 2,
       "nhl_position": "Left Defense"
@@ -1631,14 +1676,13 @@
       "position": "LW",
       "eligible_positions": [
         "LW",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 5"
+      "nhl_position": "Injured Reserve 4"
     },
     {
       "player_id": 5712,
@@ -1667,7 +1711,7 @@
       "line": 2,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17,
+      "percent_owned": 18,
       "nhl_position": "Left Defense"
     },
     {
@@ -1713,7 +1757,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 0,
       "nhl_position": "Right Wing"
     },
     {
@@ -1723,12 +1767,13 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util"
+        "Util",
+        "IR+"
       ],
       "line": 1,
       "pp_unit": 2,
-      "status": "",
-      "percent_owned": 5,
+      "status": "DTD",
+      "percent_owned": 8,
       "nhl_position": "Right Defense"
     },
     {
@@ -1740,11 +1785,11 @@
         "D",
         "Util"
       ],
-      "line": 1,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 5765,
@@ -1758,7 +1803,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 36,
+      "percent_owned": 35,
       "nhl_position": "Left Defense"
     },
     {
@@ -1774,7 +1819,7 @@
       "pp_unit": 1,
       "status": "",
       "percent_owned": 8,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 5772,
@@ -1800,11 +1845,11 @@
         "Util",
         "IR+"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "O",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Injured Reserve 3"
     },
     {
       "player_id": 5777,
@@ -1828,14 +1873,13 @@
       "position": "RW",
       "eligible_positions": [
         "RW",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 1,
-      "nhl_position": "Injured Reserve 3"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 5795,
@@ -1870,17 +1914,16 @@
     {
       "player_id": 5816,
       "name": "Dominic Toninato",
-      "team": "CHI",
+      "team": null,
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Center"
+      "percent_owned": 0
     },
     {
       "player_id": 5837,
@@ -1954,7 +1997,7 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
@@ -1996,12 +2039,11 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": 2,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 1,
       "nhl_position": "Left Defense"
     },
@@ -2041,17 +2083,17 @@
     {
       "player_id": 5976,
       "name": "Luke Glendening",
-      "team": "NJD,PHI",
+      "team": "PHI",
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 0
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 5981,
@@ -2067,7 +2109,7 @@
       "line": null,
       "pp_unit": null,
       "status": "IR-LT",
-      "percent_owned": 31,
+      "percent_owned": 30,
       "nhl_position": "Injured Reserve 1"
     },
     {
@@ -2168,14 +2210,13 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 1,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 3,
-      "nhl_position": "Injured Reserve 6"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 5995,
@@ -2219,11 +2260,11 @@
         "RW",
         "Util"
       ],
-      "line": 1,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 2,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6004,
@@ -2237,7 +2278,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3,
+      "percent_owned": 2,
       "nhl_position": "Center"
     },
     {
@@ -2265,10 +2306,10 @@
         "RW",
         "Util"
       ],
-      "line": 2,
-      "pp_unit": 1,
+      "line": 1,
+      "pp_unit": 2,
       "status": "",
-      "percent_owned": 13,
+      "percent_owned": 12,
       "nhl_position": "Center"
     },
     {
@@ -2280,11 +2321,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 6"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6015,
@@ -2295,11 +2336,11 @@
         "C",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Center"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6022,
@@ -2323,14 +2364,13 @@
       "eligible_positions": [
         "LW",
         "RW",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 2,
       "pp_unit": null,
-      "status": "O",
-      "percent_owned": 51,
-      "nhl_position": "Injured Reserve 2"
+      "status": "",
+      "percent_owned": 50,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6037,
@@ -2404,12 +2444,11 @@
       "position": "LW",
       "eligible_positions": [
         "LW",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 2,
       "nhl_position": "Injured Reserve 5"
     },
@@ -2423,7 +2462,7 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 4,
       "nhl_position": "Right Wing"
@@ -2437,10 +2476,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6080,
@@ -2453,7 +2493,7 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
       "nhl_position": "Center"
@@ -2468,7 +2508,7 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 4,
@@ -2477,17 +2517,17 @@
     {
       "player_id": 6089,
       "name": "Ryan Graves",
-      "team": "PIT",
+      "team": "SJS",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Injured Reserve 2"
     },
     {
       "player_id": 6113,
@@ -2517,7 +2557,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 6128,
@@ -2528,10 +2568,11 @@
         "C",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Center"
     },
     {
       "player_id": 6232,
@@ -2542,10 +2583,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 0,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 6248,
@@ -2723,13 +2765,14 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 2,
-      "pp_unit": 2,
-      "status": "",
-      "percent_owned": 13,
-      "nhl_position": "Right Defense"
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
+      "percent_owned": 11,
+      "nhl_position": "Injured Reserve 6"
     },
     {
       "player_id": 6387,
@@ -2774,8 +2817,8 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 30,
+      "status": "O",
+      "percent_owned": 28,
       "nhl_position": "Injured Reserve 3"
     },
     {
@@ -2790,7 +2833,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 29,
+      "percent_owned": 28,
       "nhl_position": "Left Wing"
     },
     {
@@ -2820,7 +2863,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 7,
       "nhl_position": "Center"
@@ -2837,7 +2880,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 4,
+      "percent_owned": 5,
       "nhl_position": "Center"
     },
     {
@@ -2865,10 +2908,10 @@
         "D",
         "Util"
       ],
-      "line": 1,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 20,
+      "percent_owned": 19,
       "nhl_position": "Left Defense"
     },
     {
@@ -2914,24 +2957,23 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 18,
+      "percent_owned": 19,
       "nhl_position": "Right Wing"
     },
     {
       "player_id": 6481,
       "name": "Sam Lafferty",
-      "team": "CHI",
+      "team": null,
       "position": "C",
       "eligible_positions": [
         "C",
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 6484,
@@ -2942,26 +2984,26 @@
         "LW",
         "Util"
       ],
-      "line": 4,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6485,
       "name": "Michael Bunting",
-      "team": "DAL",
+      "team": "FLA",
       "position": "LW",
       "eligible_positions": [
         "LW",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 2,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 6494,
@@ -3005,7 +3047,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 3,
       "nhl_position": "Right Wing"
@@ -3075,7 +3117,7 @@
     {
       "player_id": 6616,
       "name": "Liam O'Brien",
-      "team": "UTA",
+      "team": null,
       "position": "LW",
       "eligible_positions": [
         "LW",
@@ -3126,10 +3168,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18
+      "percent_owned": 17,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 6726,
@@ -3140,12 +3183,13 @@
         "C",
         "LW",
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
       "line": 2,
       "pp_unit": 1,
-      "status": "",
-      "percent_owned": 6,
+      "status": "O",
+      "percent_owned": 5,
       "nhl_position": "Center"
     },
     {
@@ -3176,7 +3220,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 73,
+      "percent_owned": 71,
       "nhl_position": "Center"
     },
     {
@@ -3222,7 +3266,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 20,
+      "percent_owned": 21,
       "nhl_position": "Right Wing"
     },
     {
@@ -3235,11 +3279,26 @@
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": 1,
       "status": "",
       "percent_owned": 13,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 6762,
+      "name": "Joel Eriksson Ek",
+      "team": "MIN",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 66,
+      "nhl_position": "Center"
     },
     {
       "player_id": 6765,
@@ -3270,7 +3329,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 6,
+      "percent_owned": 5,
       "nhl_position": "Left Wing"
     },
     {
@@ -3282,11 +3341,10 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 6770,
@@ -3297,11 +3355,11 @@
         "LW",
         "Util"
       ],
-      "line": 1,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6779,
@@ -3340,13 +3398,14 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
-      "status": "",
+      "status": "O",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Injured Reserve 2"
     },
     {
       "player_id": 6791,
@@ -3361,7 +3420,7 @@
       "line": null,
       "pp_unit": null,
       "status": "O",
-      "percent_owned": 72,
+      "percent_owned": 71,
       "nhl_position": "Injured Reserve 4"
     },
     {
@@ -3393,7 +3452,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 18,
+      "percent_owned": 17,
       "nhl_position": "Left Defense"
     },
     {
@@ -3467,7 +3526,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 43,
+      "percent_owned": 42,
       "nhl_position": "Center"
     },
     {
@@ -3510,7 +3569,7 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 3,
@@ -3524,13 +3583,14 @@
       "eligible_positions": [
         "C",
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 4,
-      "pp_unit": 2,
-      "status": "",
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
       "percent_owned": 1,
-      "nhl_position": "Center"
+      "nhl_position": "Injured Reserve 2"
     },
     {
       "player_id": 6854,
@@ -3544,7 +3604,7 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8,
+      "percent_owned": 7,
       "nhl_position": "Left Defense"
     },
     {
@@ -3587,11 +3647,11 @@
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6863,
@@ -3600,14 +3660,13 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 1,
-      "nhl_position": "Injured Reserve 4"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 6865,
@@ -3621,7 +3680,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 6,
       "nhl_position": "Right Wing"
     },
     {
@@ -3637,7 +3696,7 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
+      "status": "IR-LT",
       "percent_owned": 2
     },
     {
@@ -3647,13 +3706,14 @@
       "position": "RW",
       "eligible_positions": [
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 1,
-      "pp_unit": 1,
-      "status": "",
-      "percent_owned": 46,
-      "nhl_position": "Right Wing"
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
+      "percent_owned": 45,
+      "nhl_position": "Injured Reserve 3"
     },
     {
       "player_id": 6891,
@@ -3666,7 +3726,7 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Right Wing"
@@ -3713,7 +3773,7 @@
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -3744,7 +3804,7 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 4,
@@ -3768,17 +3828,16 @@
     {
       "player_id": 6965,
       "name": "Philippe Myers",
-      "team": "TOR",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 6984,
@@ -3807,23 +3866,38 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Skater 1"
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7066,
+      "name": "Mason Marchment",
+      "team": "CBJ",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 1,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 27,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7083,
       "name": "Brandon Tanev",
-      "team": null,
+      "team": "UTA",
       "position": "LW",
       "eligible_positions": [
         "LW",
         "RW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7093,
@@ -3834,7 +3908,7 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -3857,6 +3931,22 @@
       "status": "IR",
       "percent_owned": 7,
       "nhl_position": "Injured Reserve 1"
+    },
+    {
+      "player_id": 7111,
+      "name": "Pierre-Luc Dubois",
+      "team": "WSH",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 23,
+      "nhl_position": "Center"
     },
     {
       "player_id": 7118,
@@ -3901,11 +3991,11 @@
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 7125,
@@ -3934,7 +4024,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 8,
       "nhl_position": "Left Defense"
     },
     {
@@ -4006,11 +4096,12 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 3,
-      "pp_unit": null,
-      "status": "",
+      "line": 2,
+      "pp_unit": 2,
+      "status": "DTD",
       "percent_owned": 1,
       "nhl_position": "Left Wing"
     },
@@ -4023,10 +4114,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 1,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7143,
@@ -4112,16 +4204,16 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 4,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7193,
       "name": "Josh Mahura",
-      "team": "SEA",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
@@ -4148,6 +4240,21 @@
       "nhl_position": "Left Wing"
     },
     {
+      "player_id": 7218,
+      "name": "Noah Gregor",
+      "team": "FLA",
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": 4,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Right Wing"
+    },
+    {
       "player_id": 7219,
       "name": "Jacob Moverare",
       "team": null,
@@ -4169,14 +4276,27 @@
       "eligible_positions": [
         "C",
         "LW",
-        "Util",
-        "IR+"
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 4,
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 7241,
+      "name": "Joona Koppanen",
+      "team": null,
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 4,
-      "nhl_position": "Injured Reserve 3"
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 7248,
@@ -4188,11 +4308,10 @@
         "LW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 7250,
@@ -4206,7 +4325,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2,
+      "percent_owned": 4,
       "nhl_position": "Right Wing"
     },
     {
@@ -4230,12 +4349,11 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": 3,
+      "line": 1,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 0,
       "nhl_position": "Right Defense"
     },
@@ -4299,7 +4417,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 15,
+      "percent_owned": 16,
       "nhl_position": "Right Wing"
     },
     {
@@ -4312,11 +4430,11 @@
         "RW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 3,
-      "nhl_position": "Skater 2"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 7374,
@@ -4360,15 +4478,15 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
-      "percent_owned": 5,
+      "percent_owned": 4,
       "nhl_position": "Right Wing"
     },
     {
       "player_id": 7488,
       "name": "Nick DeSimone",
-      "team": null,
+      "team": "UTA",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -4488,7 +4606,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 40,
+      "percent_owned": 42,
       "nhl_position": "Right Wing"
     },
     {
@@ -4522,21 +4640,6 @@
       "nhl_position": "Injured Reserve 2"
     },
     {
-      "player_id": 7534,
-      "name": "Josh Norris",
-      "team": "BUF",
-      "position": "C",
-      "eligible_positions": [
-        "C",
-        "Util"
-      ],
-      "line": 3,
-      "pp_unit": 1,
-      "status": "",
-      "percent_owned": 20,
-      "nhl_position": "Center"
-    },
-    {
       "player_id": 7536,
       "name": "Filip Chytil",
       "team": "VAN",
@@ -4551,7 +4654,7 @@
       "pp_unit": null,
       "status": "IR",
       "percent_owned": 1,
-      "nhl_position": "Injured Reserve 4"
+      "nhl_position": "Injured Reserve 3"
     },
     {
       "player_id": 7537,
@@ -4562,11 +4665,10 @@
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 7538,
@@ -4577,11 +4679,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 3"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7540,
@@ -4608,7 +4710,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 3,
       "nhl_position": "Center"
@@ -4622,11 +4724,10 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 7545,
@@ -4641,7 +4742,7 @@
       "line": 3,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 15,
+      "percent_owned": 14,
       "nhl_position": "Left Wing"
     },
     {
@@ -4651,15 +4752,13 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
-      "status": "IR",
+      "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 1"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7549,
@@ -4724,18 +4823,18 @@
     {
       "player_id": 7560,
       "name": "Alexandre Texier",
-      "team": "MTL",
+      "team": "STL,MTL",
       "position": "LW",
       "eligible_positions": [
         "LW",
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "status": "O",
+      "percent_owned": 1
     },
     {
       "player_id": 7564,
@@ -4746,7 +4845,7 @@
         "D",
         "Util"
       ],
-      "line": 1,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 3,
@@ -4780,9 +4879,9 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
-      "percent_owned": 5,
+      "percent_owned": 4,
       "nhl_position": "Right Wing"
     },
     {
@@ -4825,10 +4924,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 7614,
@@ -4898,11 +4998,11 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7689,
@@ -4912,11 +5012,12 @@
       "eligible_positions": [
         "C",
         "LW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": null,
-      "status": "",
+      "status": "DTD",
       "percent_owned": 1,
       "nhl_position": "Center"
     },
@@ -4951,21 +5052,6 @@
       "nhl_position": "Skater 2"
     },
     {
-      "player_id": 7816,
-      "name": "Sheldon Dries",
-      "team": "DET",
-      "position": "C",
-      "eligible_positions": [
-        "C",
-        "Util"
-      ],
-      "line": 4,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Center"
-    },
-    {
       "player_id": 7828,
       "name": "Parker Kelly",
       "team": "COL",
@@ -4975,10 +5061,10 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3,
+      "percent_owned": 2,
       "nhl_position": "Left Wing"
     },
     {
@@ -4991,11 +5077,11 @@
         "LW",
         "Util"
       ],
-      "line": 4,
-      "pp_unit": null,
+      "line": 3,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 7832,
@@ -5025,8 +5111,24 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 2,
       "nhl_position": "Right Defense"
+    },
+    {
+      "player_id": 7854,
+      "name": "Kiefer Sherwood",
+      "team": "SJS",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "RW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 51,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7859,
@@ -5052,11 +5154,10 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 7901,
@@ -5079,13 +5180,14 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 3,
-      "pp_unit": 1,
-      "status": "",
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
       "percent_owned": 3,
-      "nhl_position": "Center"
+      "nhl_position": "Injured Reserve 1"
     },
     {
       "player_id": 7906,
@@ -5097,10 +5199,10 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7911,
@@ -5147,7 +5249,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 25,
+      "percent_owned": 24,
       "nhl_position": "Left Defense"
     },
     {
@@ -5163,7 +5265,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7924,
@@ -5266,7 +5368,7 @@
         "C",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
@@ -5281,7 +5383,7 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 7,
@@ -5299,7 +5401,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9,
+      "percent_owned": 8,
       "nhl_position": "Right Defense"
     },
     {
@@ -5314,7 +5416,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2,
+      "percent_owned": 1,
       "nhl_position": "Center"
     },
     {
@@ -5362,8 +5464,8 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 19,
-      "nhl_position": "Left Wing"
+      "percent_owned": 17,
+      "nhl_position": "Center"
     },
     {
       "player_id": 7969,
@@ -5388,11 +5490,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 5"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7973,
@@ -5403,7 +5505,7 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -5459,17 +5561,16 @@
     {
       "player_id": 8003,
       "name": "Curtis Douglas",
-      "team": "VAN",
+      "team": null,
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 8009,
@@ -5519,17 +5620,16 @@
     {
       "player_id": 8028,
       "name": "Spencer Stastney",
-      "team": "EDM",
+      "team": "NSH,EDM",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 8047,
@@ -5586,7 +5686,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 2,
       "nhl_position": "Left Wing"
@@ -5600,7 +5700,7 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -5629,20 +5729,18 @@
       "position": "RW",
       "eligible_positions": [
         "RW",
-        "Util",
-        "IR",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
-      "status": "IR-LT",
+      "status": "",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 1"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8131,
       "name": "Egor Zamula",
-      "team": "PHI,CBJ",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
@@ -5735,11 +5833,10 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 8249,
@@ -5780,7 +5877,7 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -5816,7 +5913,7 @@
       "pp_unit": null,
       "status": "O",
       "percent_owned": 1,
-      "nhl_position": "Injured Reserve 4"
+      "nhl_position": "Injured Reserve 3"
     },
     {
       "player_id": 8282,
@@ -5843,11 +5940,10 @@
         "LW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 8286,
@@ -5861,7 +5957,7 @@
       "line": 1,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 8,
       "nhl_position": "Left Defense"
     },
     {
@@ -5908,7 +6004,7 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4,
+      "percent_owned": 5,
       "nhl_position": "Left Wing"
     },
     {
@@ -5921,11 +6017,11 @@
         "Util",
         "IR+"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "O",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Injured Reserve 5"
     },
     {
       "player_id": 8298,
@@ -5966,7 +6062,7 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 10,
@@ -5990,16 +6086,17 @@
     {
       "player_id": 8308,
       "name": "John Beecher",
-      "team": "BOS,CGY",
+      "team": "CGY",
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Center"
     },
     {
       "player_id": 8310,
@@ -6013,7 +6110,7 @@
       "line": 3,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 33,
+      "percent_owned": 29,
       "nhl_position": "Center"
     },
     {
@@ -6040,10 +6137,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 8319,
@@ -6072,7 +6170,7 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
+      "percent_owned": 2,
       "nhl_position": "Left Defense"
     },
     {
@@ -6098,7 +6196,7 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
@@ -6161,10 +6259,10 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 57,
+      "percent_owned": 56,
       "nhl_position": "Left Wing"
     },
     {
@@ -6179,7 +6277,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 13
+      "percent_owned": 12
     },
     {
       "player_id": 8436,
@@ -6205,11 +6303,10 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Center"
+      "percent_owned": 0
     },
     {
       "player_id": 8465,
@@ -6235,11 +6332,10 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 8522,
@@ -6268,8 +6364,8 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
-      "nhl_position": "Left Defense"
+      "percent_owned": 2,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8590,
@@ -6302,21 +6398,6 @@
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 8598,
-      "name": "Connor Mackey",
-      "team": "NYR",
-      "position": "D",
-      "eligible_positions": [
-        "D",
-        "Util"
-      ],
-      "line": 3,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Defense"
-    },
-    {
       "player_id": 8614,
       "name": "Artem Zub",
       "team": "OTT",
@@ -6344,7 +6425,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 53,
+      "percent_owned": 54,
       "nhl_position": "Center"
     },
     {
@@ -6361,21 +6442,6 @@
       "status": "",
       "percent_owned": 4,
       "nhl_position": "Right Defense"
-    },
-    {
-      "player_id": 8648,
-      "name": "Jack Quinn",
-      "team": "BUF",
-      "position": "RW",
-      "eligible_positions": [
-        "RW",
-        "Util"
-      ],
-      "line": 2,
-      "pp_unit": 2,
-      "status": "",
-      "percent_owned": 10,
-      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8649,
@@ -6406,7 +6472,7 @@
       "line": 2,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 17,
+      "percent_owned": 16,
       "nhl_position": "Left Wing"
     },
     {
@@ -6421,8 +6487,8 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 34,
+      "status": "O",
+      "percent_owned": 31,
       "nhl_position": "Injured Reserve 6"
     },
     {
@@ -6437,7 +6503,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5,
+      "percent_owned": 7,
       "nhl_position": "Left Defense"
     },
     {
@@ -6468,7 +6534,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 15,
+      "percent_owned": 14,
       "nhl_position": "Right Wing"
     },
     {
@@ -6484,7 +6550,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 16,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 8660,
@@ -6495,7 +6561,7 @@
         "D",
         "Util"
       ],
-      "line": 1,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -6514,8 +6580,8 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 18,
-      "nhl_position": "Left Wing"
+      "percent_owned": 19,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8662,
@@ -6564,7 +6630,7 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "O",
       "percent_owned": 1,
       "nhl_position": "Injured Reserve 5"
     },
@@ -6595,7 +6661,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 6,
       "nhl_position": "Left Wing"
     },
     {
@@ -6610,9 +6676,9 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 5,
       "nhl_position": "Right Wing"
     },
     {
@@ -6628,7 +6694,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 8,
+      "percent_owned": 7,
       "nhl_position": "Right Wing"
     },
     {
@@ -6640,10 +6706,11 @@
         "RW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 8673,
@@ -6670,10 +6737,10 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 49,
+      "percent_owned": 48,
       "nhl_position": "Left Wing"
     },
     {
@@ -6704,7 +6771,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 23,
+      "percent_owned": 22,
       "nhl_position": "Right Wing"
     },
     {
@@ -6714,12 +6781,11 @@
       "position": "D",
       "eligible_positions": [
         "D",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 0,
       "nhl_position": "Injured Reserve 4"
     },
@@ -6751,7 +6817,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 9,
+      "percent_owned": 7,
       "nhl_position": "Right Wing"
     },
     {
@@ -6808,26 +6874,26 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 8788,
       "name": "Matthew Kessel",
-      "team": "TOR",
+      "team": "STL",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 2,
-      "pp_unit": 1,
+      "line": 3,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8804,
@@ -6933,7 +6999,7 @@
       "pp_unit": null,
       "status": "IR",
       "percent_owned": 0,
-      "nhl_position": "Injured Reserve 4"
+      "nhl_position": "Injured Reserve 1"
     },
     {
       "player_id": 8874,
@@ -6944,10 +7010,11 @@
         "LW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 8877,
@@ -6961,7 +7028,7 @@
       "line": 2,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 17,
+      "percent_owned": 20,
       "nhl_position": "Left Defense"
     },
     {
@@ -6976,7 +7043,7 @@
       "line": 1,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 20,
+      "percent_owned": 19,
       "nhl_position": "Center"
     },
     {
@@ -7005,11 +7072,10 @@
         "RW",
         "Util"
       ],
-      "line": 2,
-      "pp_unit": 2,
+      "line": null,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 4,
-      "nhl_position": "Left Wing"
+      "percent_owned": 4
     },
     {
       "player_id": 8882,
@@ -7023,7 +7089,7 @@
       "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 16,
+      "percent_owned": 17,
       "nhl_position": "Left Defense"
     },
     {
@@ -7067,11 +7133,11 @@
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 8892,
@@ -7084,7 +7150,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 8,
       "nhl_position": "Left Wing"
@@ -7099,7 +7165,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Left Wing"
@@ -7181,6 +7247,21 @@
       "nhl_position": "Center"
     },
     {
+      "player_id": 8926,
+      "name": "Ville Koivunen",
+      "team": "PIT",
+      "position": "RW",
+      "eligible_positions": [
+        "RW",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
+    },
+    {
       "player_id": 8927,
       "name": "Aatu Raty",
       "team": "VAN",
@@ -7198,16 +7279,17 @@
     {
       "player_id": 8930,
       "name": "Vincent Iorio",
-      "team": null,
+      "team": "NYR",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8934,
@@ -7276,16 +7358,17 @@
     {
       "player_id": 8980,
       "name": "Ethan Del Mastro",
-      "team": null,
+      "team": "CHI",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 9006,
@@ -7296,11 +7379,10 @@
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "percent_owned": 1
     },
     {
       "player_id": 9068,
@@ -7389,7 +7471,22 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Center"
+      "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 9251,
+      "name": "Bobby McMann",
+      "team": "SEA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 25,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 9258,
@@ -7401,7 +7498,7 @@
         "Util"
       ],
       "line": 4,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 4,
       "nhl_position": "Right Wing"
@@ -7415,11 +7512,10 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 9268,
@@ -7468,7 +7564,7 @@
       "pp_unit": 2,
       "status": "",
       "percent_owned": 4,
-      "nhl_position": "Center"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 9276,
@@ -7512,7 +7608,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 2,
       "nhl_position": "Left Defense"
@@ -7529,7 +7625,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10,
+      "percent_owned": 9,
       "nhl_position": "Left Defense"
     },
     {
@@ -7539,28 +7635,28 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util"
+        "Util",
+        "IR+"
       ],
       "line": 3,
       "pp_unit": 2,
-      "status": "",
+      "status": "DTD",
       "percent_owned": 1,
       "nhl_position": "Left Wing"
     },
     {
       "player_id": 9285,
       "name": "Joakim Kemell",
-      "team": "NSH",
+      "team": null,
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 9287,
@@ -7576,6 +7672,20 @@
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 9290,
+      "name": "Nathan Gaucher",
+      "team": null,
+      "position": "C",
+      "eligible_positions": [
+        "C",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 9296,
@@ -7603,11 +7713,11 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 9300,
@@ -7636,23 +7746,22 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 6,
+      "percent_owned": 7,
       "nhl_position": "Center"
     },
     {
       "player_id": 9315,
       "name": "Hunter Haight",
-      "team": "MIN",
+      "team": null,
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Center"
+      "percent_owned": 0
     },
     {
       "player_id": 9323,
@@ -7670,6 +7779,50 @@
       "nhl_position": "Right Defense"
     },
     {
+      "player_id": 9331,
+      "name": "Adam Sykora",
+      "team": "NYR",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Right Wing"
+    },
+    {
+      "player_id": 9366,
+      "name": "Isaiah George",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 9403,
+      "name": "Jorian Donovan",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Left Defense"
+    },
+    {
       "player_id": 9522,
       "name": "Ethen Frank",
       "team": "WSH",
@@ -7679,11 +7832,11 @@
         "Util",
         "IR+"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "O",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Injured Reserve 2"
     },
     {
       "player_id": 9594,
@@ -7770,10 +7923,10 @@
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7,
+      "percent_owned": 5,
       "nhl_position": "Left Defense"
     },
     {
@@ -7786,7 +7939,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 7,
       "nhl_position": "Right Wing"
@@ -7800,11 +7953,11 @@
         "D",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 30155,
@@ -7818,7 +7971,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 14,
+      "percent_owned": 13,
       "nhl_position": "Right Wing"
     },
     {
@@ -7862,7 +8015,7 @@
         "Util"
       ],
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 2,
       "nhl_position": "Left Wing"
@@ -7891,7 +8044,7 @@
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -7924,7 +8077,7 @@
       "line": 2,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 0,
+      "percent_owned": 1,
       "nhl_position": "Right Wing"
     },
     {
@@ -7967,11 +8120,11 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 30547,
@@ -8018,7 +8171,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6,
+      "percent_owned": 12,
       "nhl_position": "Left Wing"
     },
     {
@@ -8033,8 +8186,23 @@
       "line": 3,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 12,
+      "percent_owned": 11,
       "nhl_position": "Right Wing"
+    },
+    {
+      "player_id": 30552,
+      "name": "Daniil But",
+      "team": "UTA",
+      "position": "LW",
+      "eligible_positions": [
+        "LW",
+        "Util"
+      ],
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 30555,
@@ -8046,7 +8214,7 @@
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 1,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
@@ -8162,20 +8330,19 @@
       "nhl_position": "Left Defense"
     },
     {
-      "player_id": 30578,
-      "name": "Gavin Brindley",
-      "team": "COL",
+      "player_id": 30586,
+      "name": "Oscar Fisker Molgaard",
+      "team": "SEA",
       "position": "C",
       "eligible_positions": [
         "C",
-        "RW",
         "Util"
       ],
-      "line": 4,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 30593,
@@ -8187,7 +8354,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": null,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Right Wing"
@@ -8202,7 +8369,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 0,
       "nhl_position": "Right Defense"
@@ -8214,13 +8381,13 @@
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
-      "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 0
+      "line": 2,
+      "pp_unit": 2,
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 30680,
@@ -8230,13 +8397,28 @@
       "eligible_positions": [
         "C",
         "LW",
+        "Util",
+        "IR+"
+      ],
+      "line": 3,
+      "pp_unit": 2,
+      "status": "DTD",
+      "percent_owned": 3,
+      "nhl_position": "Center"
+    },
+    {
+      "player_id": 30699,
+      "name": "Matthew Andonovski",
+      "team": null,
+      "position": "D",
+      "eligible_positions": [
+        "D",
         "Util"
       ],
-      "line": 1,
-      "pp_unit": 2,
+      "line": null,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 3,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 30742,
@@ -8248,11 +8430,10 @@
         "RW",
         "Util"
       ],
-      "line": 1,
-      "pp_unit": 2,
+      "line": null,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
-      "nhl_position": "Center"
+      "percent_owned": 1
     },
     {
       "player_id": 30788,
@@ -8324,13 +8505,14 @@
       "eligible_positions": [
         "LW",
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 3,
-      "pp_unit": 2,
-      "status": "",
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Injured Reserve 4"
     },
     {
       "player_id": 30914,
@@ -8345,7 +8527,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 30960,
@@ -8388,19 +8570,19 @@
         "C",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
-      "player_id": 31111,
-      "name": "Ivan Miroshnichenko",
+      "player_id": 31077,
+      "name": "Avery Hayes",
       "team": null,
-      "position": "LW",
+      "position": "RW",
       "eligible_positions": [
-        "LW",
+        "RW",
         "Util"
       ],
       "line": null,
@@ -8409,19 +8591,19 @@
       "percent_owned": 0
     },
     {
-      "player_id": 31138,
-      "name": "Zach Metsa",
-      "team": "BUF",
-      "position": "D",
+      "player_id": 31111,
+      "name": "Ivan Miroshnichenko",
+      "team": "WSH",
+      "position": "LW",
       "eligible_positions": [
-        "D",
+        "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 31161,
@@ -8433,9 +8615,9 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
-      "percent_owned": 14,
+      "percent_owned": 15,
       "nhl_position": "Right Defense"
     },
     {
@@ -8447,11 +8629,11 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 31755,
@@ -8463,21 +8645,6 @@
         "Util"
       ],
       "line": 1,
-      "pp_unit": 2,
-      "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 31768,
-      "name": "Jani Nyman",
-      "team": "SEA",
-      "position": "RW",
-      "eligible_positions": [
-        "RW",
-        "Util"
-      ],
-      "line": 4,
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
@@ -8525,7 +8692,7 @@
       "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 0,
+      "percent_owned": 1,
       "nhl_position": "Left Wing"
     },
     {
@@ -8537,11 +8704,10 @@
         "C",
         "Util"
       ],
-      "line": 4,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 32592,
@@ -8560,17 +8726,16 @@
     {
       "player_id": 32644,
       "name": "Victor Mancini",
-      "team": "VAN",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 32762,
@@ -8599,7 +8764,7 @@
       "line": 1,
       "pp_unit": 1,
       "status": "",
-      "percent_owned": 6,
+      "percent_owned": 10,
       "nhl_position": "Right Defense"
     },
     {
@@ -8611,11 +8776,26 @@
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": 1,
       "pp_unit": 2,
       "status": "",
-      "percent_owned": 28,
+      "percent_owned": 27,
       "nhl_position": "Left Defense"
+    },
+    {
+      "player_id": 32768,
+      "name": "Carter Yakemchuk",
+      "team": "OTT",
+      "position": "D",
+      "eligible_positions": [
+        "D",
+        "Util"
+      ],
+      "line": 3,
+      "pp_unit": 1,
+      "status": "",
+      "percent_owned": 4,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 32771,
@@ -8626,11 +8806,11 @@
         "D",
         "Util"
       ],
-      "line": null,
-      "pp_unit": null,
+      "line": 3,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 4,
-      "nhl_position": "Skater 3"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 32773,
@@ -8642,7 +8822,7 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 15,
       "nhl_position": "Right Defense"
@@ -8657,26 +8837,26 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": 1,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 32781,
       "name": "Sacha Boisvert",
-      "team": null,
+      "team": "CHI",
       "position": "C",
       "eligible_positions": [
         "C",
-        "Util",
-        "IR+"
+        "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
-      "status": "O",
-      "percent_owned": 0
+      "status": "",
+      "percent_owned": 0,
+      "nhl_position": "Center"
     },
     {
       "player_id": 32790,
@@ -8694,22 +8874,6 @@
       "nhl_position": "Right Wing"
     },
     {
-      "player_id": 32791,
-      "name": "Michael Brandsegg-Nyg\u00e5rd",
-      "team": "DET",
-      "position": "RW",
-      "eligible_positions": [
-        "RW",
-        "Util",
-        "IR+"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 0,
-      "nhl_position": "Injured Reserve 3"
-    },
-    {
       "player_id": 32794,
       "name": "Igor Chernyshov",
       "team": "SJS",
@@ -8717,12 +8881,11 @@
       "eligible_positions": [
         "LW",
         "RW",
-        "Util",
-        "IR+"
+        "Util"
       ],
       "line": 1,
       "pp_unit": 2,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 1,
       "nhl_position": "Left Wing"
     },
@@ -8751,11 +8914,11 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8,
-      "nhl_position": "Right Wing"
+      "percent_owned": 7,
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 32829,
@@ -8794,13 +8957,13 @@
       "position": "RW",
       "eligible_positions": [
         "RW",
-        "Util"
+        "Util",
+        "IR+"
       ],
-      "line": 2,
+      "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "status": "O",
+      "percent_owned": 0
     },
     {
       "player_id": 33086,

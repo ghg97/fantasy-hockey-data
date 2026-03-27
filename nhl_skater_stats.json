@@ -1,3 +1,129 @@
 {
-  "fetched_at": "2026-03-26T06:23:22.624006"
+  "fetched_at": "2026-03-27T09:23:01.906006",
+  "points_leaders": [
+    {
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 121
+    },
+    {
+      "player_id": 8476453,
+      "name": "Nikita Kucherov",
+      "team": "TBL",
+      "position": null,
+      "games_played": null,
+      "value": 121
+    },
+    {
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": null,
+      "games_played": null,
+      "value": 117
+    },
+    {
+      "player_id": 8477934,
+      "name": "Leon Draisaitl",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 97
+    },
+    {
+      "player_id": 8484801,
+      "name": "Macklin Celebrini",
+      "team": "SJS",
+      "position": null,
+      "games_played": null,
+      "value": 96
+    }
+  ],
+  "goals_leaders": [
+    {
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": null,
+      "games_played": null,
+      "value": 48
+    },
+    {
+      "player_id": 8481540,
+      "name": "Cole Caufield",
+      "team": "MTL",
+      "position": null,
+      "games_played": null,
+      "value": 44
+    },
+    {
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 41
+    },
+    {
+      "player_id": 8476453,
+      "name": "Nikita Kucherov",
+      "team": "TBL",
+      "position": null,
+      "games_played": null,
+      "value": 40
+    },
+    {
+      "player_id": 8482740,
+      "name": "Wyatt Johnston",
+      "team": "DAL",
+      "position": null,
+      "games_played": null,
+      "value": 40
+    }
+  ],
+  "assists_leaders": [
+    {
+      "player_id": 8476453,
+      "name": "Nikita Kucherov",
+      "team": "TBL",
+      "position": null,
+      "games_played": null,
+      "value": 81
+    },
+    {
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 80
+    },
+    {
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": null,
+      "games_played": null,
+      "value": 69
+    },
+    {
+      "player_id": 8480803,
+      "name": "Evan Bouchard",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 64
+    },
+    {
+      "player_id": 8480800,
+      "name": "Quinn Hughes",
+      "team": "MIN",
+      "position": null,
+      "games_played": null,
+      "value": 64
+    }
+  ]
 }
