@@ -1,30 +1,5 @@
 {
-  "starters": {
-    "Igor Shesterkin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "John Gibson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Alex Lyon": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Arvid Soderblom": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    }
-  },
-  "date": "2026-03-27",
-  "fetched_at": "2026-03-27T09:22:51.742369"
+  "starters": {},
+  "date": "2026-03-28",
+  "fetched_at": "2026-03-28T10:01:22.301341"
 }
