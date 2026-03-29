@@ -1,18 +1,7 @@
 {
-  "fetched_at": "2026-03-27T09:23:10.016298",
+  "fetched_at": "2026-03-29T06:09:47.987258",
   "team_key": "465.l.71635.t.5",
   "roster": [
-    {
-      "player_id": 4990,
-      "name": "Brock Nelson",
-      "team": "COL",
-      "position": "C",
-      "line": 2,
-      "pp_unit": 1,
-      "selected_position": "C",
-      "status": "",
-      "nhl_position": "Center"
-    },
     {
       "player_id": 5431,
       "name": "Vincent Trocheck",
@@ -23,6 +12,17 @@
       "selected_position": "C",
       "status": "",
       "nhl_position": "Center"
+    },
+    {
+      "player_id": 8653,
+      "name": "Seth Jarvis",
+      "team": "CAR",
+      "position": "C",
+      "line": 1,
+      "pp_unit": 1,
+      "selected_position": "C",
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 4471,
@@ -36,48 +36,37 @@
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 8699,
-      "name": "Will Cuylle",
-      "team": "NYR",
+      "player_id": 9269,
+      "name": "Juraj Slafkovsk\u00fd",
+      "team": "MTL",
       "position": "LW",
-      "line": 2,
-      "pp_unit": 2,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "LW",
       "status": "",
-      "nhl_position": "Left Wing"
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7554,
       "name": "Jason Robertson",
       "team": "DAL",
       "position": "LW",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
       "selected_position": "RW",
       "status": "",
       "nhl_position": "Left Wing"
     },
     {
-      "player_id": 7115,
-      "name": "Clayton Keller",
-      "team": "UTA",
+      "player_id": 8699,
+      "name": "Will Cuylle",
+      "team": "NYR",
       "position": "LW",
-      "line": 1,
-      "pp_unit": 1,
+      "line": 2,
+      "pp_unit": 2,
       "selected_position": "RW",
       "status": "",
       "nhl_position": "Left Wing"
-    },
-    {
-      "player_id": 7161,
-      "name": "Filip Hronek",
-      "team": "VAN",
-      "position": "D",
-      "line": 1,
-      "pp_unit": 1,
-      "selected_position": "D",
-      "status": "",
-      "nhl_position": "Right Defense"
     },
     {
       "player_id": 7930,
@@ -113,15 +102,37 @@
       "nhl_position": "Right Defense"
     },
     {
+      "player_id": 7910,
+      "name": "Noah Dobson",
+      "team": "MTL",
+      "position": "D",
+      "line": 1,
+      "pp_unit": 2,
+      "selected_position": "D",
+      "status": "",
+      "nhl_position": "Right Defense"
+    },
+    {
       "player_id": 7264,
       "name": "Brandon Hagel",
       "team": "TBL",
       "position": "LW",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
       "selected_position": "Util",
       "status": "",
       "nhl_position": "Left Wing"
+    },
+    {
+      "player_id": 4990,
+      "name": "Brock Nelson",
+      "team": "COL",
+      "position": "C",
+      "line": 2,
+      "pp_unit": 1,
+      "selected_position": "BN",
+      "status": "",
+      "nhl_position": "Center"
     },
     {
       "player_id": 6744,
@@ -135,41 +146,30 @@
       "nhl_position": "Center"
     },
     {
-      "player_id": 9269,
-      "name": "Juraj Slafkovsk\u00fd",
-      "team": "MTL",
+      "player_id": 7115,
+      "name": "Clayton Keller",
+      "team": "UTA",
       "position": "LW",
       "line": 1,
       "pp_unit": 1,
       "selected_position": "BN",
       "status": "",
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Wing"
     },
     {
-      "player_id": 7910,
-      "name": "Noah Dobson",
-      "team": "MTL",
+      "player_id": 7161,
+      "name": "Filip Hronek",
+      "team": "VAN",
       "position": "D",
       "line": 1,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "selected_position": "BN",
       "status": "",
       "nhl_position": "Right Defense"
     },
     {
-      "player_id": 8653,
-      "name": "Seth Jarvis",
-      "team": "CAR",
-      "position": "C",
-      "line": 1,
-      "pp_unit": 1,
-      "selected_position": "BN",
-      "status": "",
-      "nhl_position": "Right Wing"
-    },
-    {
-      "player_id": 7089,
-      "name": "Alex Lyon",
+      "player_id": 7569,
+      "name": "Ukko-Pekka Luukkonen",
       "team": "BUF",
       "position": "G",
       "line": null,
@@ -190,8 +190,8 @@
       "nhl_position": "Starting Goalie"
     },
     {
-      "player_id": 7569,
-      "name": "Ukko-Pekka Luukkonen",
+      "player_id": 7089,
+      "name": "Alex Lyon",
       "team": "BUF",
       "position": "G",
       "line": null,

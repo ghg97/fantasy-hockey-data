@@ -1,5 +1,62 @@
 {
-  "starters": {},
-  "date": "2026-03-28",
-  "fetched_at": "2026-03-28T10:01:22.301341"
+  "starters": {
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Fowler": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Juuse Saros": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Elvis Merzlikins": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arvid Soderblom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Daniil Tarasov": {
+      "status": "unconfirmed",
+      "starting_today": false
+    }
+  },
+  "date": "2026-03-29",
+  "fetched_at": "2026-03-29T06:09:37.583930"
 }

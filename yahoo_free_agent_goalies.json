@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-27T09:23:27.118897",
-  "count": 35,
+  "fetched_at": "2026-03-29T06:10:11.781112",
+  "count": 34,
   "players": [
     {
       "player_id": 4003,
@@ -28,7 +28,7 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "O",
       "percent_owned": 5
     },
     {
@@ -45,9 +45,9 @@
       "percent_owned": 4
     },
     {
-      "player_id": 4589,
-      "name": "Jake Allen",
-      "team": "NJD",
+      "player_id": 4854,
+      "name": "Cam Talbot",
+      "team": "DET",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -55,20 +55,6 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 16
-    },
-    {
-      "player_id": 4854,
-      "name": "Cam Talbot",
-      "team": "DET",
-      "position": "G",
-      "eligible_positions": [
-        "G",
-        "IR+"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "O",
       "percent_owned": 8
     },
     {
@@ -110,7 +96,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
+      "percent_owned": 47
+    },
+    {
+      "player_id": 5529,
+      "name": "Laurent Brossoit",
+      "team": "SJS",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
     },
     {
       "player_id": 5553,
@@ -136,7 +135,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 42
+      "percent_owned": 41
+    },
+    {
+      "player_id": 5753,
+      "name": "Joonas Korpisalo",
+      "team": "BOS",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 7
     },
     {
       "player_id": 5774,
@@ -229,7 +241,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 10
     },
     {
       "player_id": 6462,
@@ -242,7 +254,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 2
     },
     {
       "player_id": 6941,
@@ -255,7 +267,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 60
+      "percent_owned": 59
     },
     {
       "player_id": 7084,
@@ -281,7 +293,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 7156,
@@ -309,7 +321,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
+      "percent_owned": 44
     },
     {
       "player_id": 7601,
@@ -348,7 +360,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 4
     },
     {
       "player_id": 8314,
@@ -389,21 +401,8 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 33
-    },
-    {
-      "player_id": 8741,
-      "name": "Dylan Garand",
-      "team": "NYR",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 1
+      "status": "O",
+      "percent_owned": 32
     },
     {
       "player_id": 8794,
@@ -429,7 +428,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 6
     },
     {
       "player_id": 9238,
@@ -443,19 +442,6 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 55
-    },
-    {
-      "player_id": 30201,
-      "name": "Jacob Fowler",
-      "team": "MTL",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 13
     },
     {
       "player_id": 30995,
