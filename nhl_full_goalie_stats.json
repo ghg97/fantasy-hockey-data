@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T06:09:44.935916",
+  "fetched_at": "2026-03-30T09:31:36.067542",
   "season": "2025-2026",
   "goalies": {
     "Andrei Vasilevskiy": {
@@ -35,6 +35,17 @@
       "gaa": 2.6314,
       "shutouts": 2
     },
+    "Jeremy Swayman": {
+      "player_id": 8480280,
+      "team": "BOS",
+      "gp": 50,
+      "wins": 30,
+      "losses": 15,
+      "ot_losses": 4,
+      "save_pct": 0.9079,
+      "gaa": 2.72672,
+      "shutouts": 1
+    },
     "Lukas Dostal": {
       "player_id": 8480843,
       "team": "ANA",
@@ -45,17 +56,6 @@
       "save_pct": 0.89366,
       "gaa": 3.01367,
       "shutouts": 0
-    },
-    "Jeremy Swayman": {
-      "player_id": 8480280,
-      "team": "BOS",
-      "gp": 49,
-      "wins": 29,
-      "losses": 15,
-      "ot_losses": 4,
-      "save_pct": 0.90845,
-      "gaa": 2.72411,
-      "shutouts": 1
     },
     "Ilya Sorokin": {
       "player_id": 8478009,
@@ -82,23 +82,23 @@
     "John Gibson": {
       "player_id": 8476434,
       "team": "DET",
-      "gp": 49,
+      "gp": 50,
       "wins": 27,
-      "losses": 17,
+      "losses": 18,
       "ot_losses": 3,
-      "save_pct": 0.90673,
-      "gaa": 2.53907,
+      "save_pct": 0.90516,
+      "gaa": 2.58099,
       "shutouts": 4
     },
     "Sergei Bobrovsky": {
       "player_id": 8475683,
       "team": "FLA",
-      "gp": 48,
+      "gp": 49,
       "wins": 26,
-      "losses": 20,
+      "losses": 21,
       "ot_losses": 1,
-      "save_pct": 0.87802,
-      "gaa": 3.01927,
+      "save_pct": 0.8784,
+      "gaa": 2.9994,
       "shutouts": 4
     },
     "Filip Gustavsson": {
@@ -137,35 +137,46 @@
     "Logan Thompson": {
       "player_id": 8480313,
       "team": "WSH",
-      "gp": 51,
-      "wins": 25,
+      "gp": 52,
+      "wins": 26,
       "losses": 20,
       "ot_losses": 6,
-      "save_pct": 0.91412,
-      "gaa": 2.4019,
-      "shutouts": 2
-    },
-    "Jet Greaves": {
-      "player_id": 8482982,
-      "team": "CBJ",
-      "gp": 47,
-      "wins": 24,
-      "losses": 14,
-      "ot_losses": 8,
-      "save_pct": 0.90964,
-      "gaa": 2.55477,
+      "save_pct": 0.91307,
+      "gaa": 2.42907,
       "shutouts": 2
     },
     "Jakub Dobes": {
       "player_id": 8482487,
       "team": "MTL",
-      "gp": 36,
-      "wins": 24,
+      "gp": 37,
+      "wins": 25,
       "losses": 8,
       "ot_losses": 4,
-      "save_pct": 0.89772,
-      "gaa": 2.82733,
+      "save_pct": 0.90029,
+      "gaa": 2.77659,
       "shutouts": 0
+    },
+    "Dan Vladar": {
+      "player_id": 8478435,
+      "team": "PHI",
+      "gp": 45,
+      "wins": 24,
+      "losses": 12,
+      "ot_losses": 7,
+      "save_pct": 0.90693,
+      "gaa": 2.4415,
+      "shutouts": 0
+    },
+    "Jet Greaves": {
+      "player_id": 8482982,
+      "team": "CBJ",
+      "gp": 48,
+      "wins": 24,
+      "losses": 14,
+      "ot_losses": 9,
+      "save_pct": 0.90996,
+      "gaa": 2.55964,
+      "shutouts": 2
     },
     "Linus Ullmark": {
       "player_id": 8476999,
@@ -178,16 +189,16 @@
       "gaa": 2.75024,
       "shutouts": 2
     },
-    "Dan Vladar": {
-      "player_id": 8478435,
-      "team": "PHI",
-      "gp": 44,
+    "Igor Shesterkin": {
+      "player_id": 8478048,
+      "team": "NYR",
+      "gp": 46,
       "wins": 23,
-      "losses": 12,
-      "ot_losses": 7,
-      "save_pct": 0.9067,
-      "gaa": 2.42811,
-      "shutouts": 0
+      "losses": 16,
+      "ot_losses": 6,
+      "save_pct": 0.91158,
+      "gaa": 2.55108,
+      "shutouts": 1
     },
     "Jacob Markstrom": {
       "player_id": 8474593,
@@ -200,16 +211,16 @@
       "gaa": 3.09389,
       "shutouts": 0
     },
-    "Igor Shesterkin": {
-      "player_id": 8478048,
-      "team": "NYR",
-      "gp": 45,
+    "Dustin Wolf": {
+      "player_id": 8481692,
+      "team": "CGY",
+      "gp": 52,
       "wins": 22,
-      "losses": 16,
-      "ot_losses": 6,
-      "save_pct": 0.9105,
-      "gaa": 2.58596,
-      "shutouts": 1
+      "losses": 25,
+      "ot_losses": 3,
+      "save_pct": 0.89871,
+      "gaa": 2.95485,
+      "shutouts": 2
     },
     "Stuart Skinner": {
       "player_id": 8479973,
@@ -232,17 +243,6 @@
       "save_pct": 0.90452,
       "gaa": 2.42443,
       "shutouts": 3
-    },
-    "Dustin Wolf": {
-      "player_id": 8481692,
-      "team": "CGY",
-      "gp": 51,
-      "wins": 21,
-      "losses": 25,
-      "ot_losses": 3,
-      "save_pct": 0.89839,
-      "gaa": 2.95389,
-      "shutouts": 2
     },
     "Alex Lyon": {
       "player_id": 8479312,
@@ -313,12 +313,12 @@
     "Spencer Knight": {
       "player_id": 8481519,
       "team": "CHI",
-      "gp": 48,
+      "gp": 49,
       "wins": 18,
-      "losses": 20,
+      "losses": 21,
       "ot_losses": 10,
-      "save_pct": 0.90779,
-      "gaa": 2.6856,
+      "save_pct": 0.90751,
+      "gaa": 2.7133,
       "shutouts": 3
     },
     "Ukko-Pekka Luukkonen": {
@@ -376,6 +376,17 @@
       "gaa": 2.72797,
       "shutouts": 4
     },
+    "Jake Allen": {
+      "player_id": 8474596,
+      "team": "NJD",
+      "gp": 33,
+      "wins": 15,
+      "losses": 16,
+      "ot_losses": 1,
+      "save_pct": 0.9058,
+      "gaa": 2.68735,
+      "shutouts": 1
+    },
     "Joseph Woll": {
       "player_id": 8479361,
       "team": "TOR",
@@ -390,12 +401,12 @@
     "Casey DeSmith": {
       "player_id": 8479193,
       "team": "DAL",
-      "gp": 27,
+      "gp": 28,
       "wins": 14,
       "losses": 7,
-      "ot_losses": 5,
-      "save_pct": 0.90762,
-      "gaa": 2.40264,
+      "ot_losses": 6,
+      "save_pct": 0.9087,
+      "gaa": 2.38281,
       "shutouts": 1
     },
     "David Rittich": {
@@ -431,17 +442,6 @@
       "gaa": 2.97239,
       "shutouts": 0
     },
-    "Jake Allen": {
-      "player_id": 8474596,
-      "team": "NJD",
-      "gp": 32,
-      "wins": 14,
-      "losses": 16,
-      "ot_losses": 1,
-      "save_pct": 0.90589,
-      "gaa": 2.67738,
-      "shutouts": 1
-    },
     "Philipp Grubauer": {
       "player_id": 8475831,
       "team": "SEA",
@@ -453,15 +453,15 @@
       "gaa": 2.59766,
       "shutouts": 0
     },
-    "Frederik Andersen": {
-      "player_id": 8475883,
-      "team": "CAR",
+    "Samuel Ersson": {
+      "player_id": 8481035,
+      "team": "PHI",
       "gp": 30,
       "wins": 13,
-      "losses": 12,
+      "losses": 10,
       "ot_losses": 5,
-      "save_pct": 0.87144,
-      "gaa": 3.15358,
+      "save_pct": 0.8695,
+      "gaa": 3.11491,
       "shutouts": 0
     },
     "Connor Ingram": {
@@ -475,6 +475,17 @@
       "gaa": 2.79824,
       "shutouts": 1
     },
+    "Frederik Andersen": {
+      "player_id": 8475883,
+      "team": "CAR",
+      "gp": 31,
+      "wins": 13,
+      "losses": 13,
+      "ot_losses": 5,
+      "save_pct": 0.87054,
+      "gaa": 3.15563,
+      "shutouts": 0
+    },
     "Jordan Binnington": {
       "player_id": 8476412,
       "team": "STL",
@@ -485,17 +496,6 @@
       "save_pct": 0.8727,
       "gaa": 3.32813,
       "shutouts": 1
-    },
-    "Samuel Ersson": {
-      "player_id": 8481035,
-      "team": "PHI",
-      "gp": 29,
-      "wins": 12,
-      "losses": 10,
-      "ot_losses": 5,
-      "save_pct": 0.86746,
-      "gaa": 3.19828,
-      "shutouts": 0
     },
     "Joonas Korpisalo": {
       "player_id": 8476914,
@@ -522,12 +522,23 @@
     "Cam Talbot": {
       "player_id": 8475660,
       "team": "DET",
-      "gp": 28,
+      "gp": 29,
       "wins": 12,
       "losses": 8,
       "ot_losses": 5,
-      "save_pct": 0.89124,
-      "gaa": 3.03056,
+      "save_pct": 0.89185,
+      "gaa": 3.01186,
+      "shutouts": 0
+    },
+    "Jonas Johansson": {
+      "player_id": 8477992,
+      "team": "TBL",
+      "gp": 24,
+      "wins": 11,
+      "losses": 9,
+      "ot_losses": 2,
+      "save_pct": 0.88575,
+      "gaa": 3.20937,
       "shutouts": 0
     },
     "Anton Forsberg": {
@@ -540,17 +551,6 @@
       "save_pct": 0.9029,
       "gaa": 2.80814,
       "shutouts": 2
-    },
-    "Jonas Johansson": {
-      "player_id": 8477992,
-      "team": "TBL",
-      "gp": 23,
-      "wins": 10,
-      "losses": 9,
-      "ot_losses": 2,
-      "save_pct": 0.88322,
-      "gaa": 3.26499,
-      "shutouts": 0
     },
     "Samuel Montembeault": {
       "player_id": 8478470,
@@ -599,12 +599,12 @@
     "Adin Hill": {
       "player_id": 8478499,
       "team": "VGK",
-      "gp": 24,
+      "gp": 25,
       "wins": 9,
       "losses": 9,
-      "ot_losses": 4,
-      "save_pct": 0.86811,
-      "gaa": 3.07315,
+      "ot_losses": 5,
+      "save_pct": 0.86578,
+      "gaa": 3.10277,
       "shutouts": 1
     },
     "Daniil Tarasov": {
@@ -632,12 +632,12 @@
     "Kevin Lankinen": {
       "player_id": 8480947,
       "team": "VAN",
-      "gp": 41,
+      "gp": 42,
       "wins": 8,
       "losses": 25,
       "ot_losses": 5,
-      "save_pct": 0.87736,
-      "gaa": 3.62189,
+      "save_pct": 0.876,
+      "gaa": 3.64874,
       "shutouts": 0
     },
     "Leevi Meril\u00e4inen": {
@@ -654,12 +654,12 @@
     "Justus Annunen": {
       "player_id": 8481020,
       "team": "NSH",
-      "gp": 24,
+      "gp": 25,
       "wins": 8,
-      "losses": 10,
+      "losses": 11,
       "ot_losses": 2,
-      "save_pct": 0.89932,
-      "gaa": 2.89606,
+      "save_pct": 0.89903,
+      "gaa": 2.90318,
       "shutouts": 0
     },
     "Thatcher Demko": {
@@ -680,7 +680,7 @@
       "wins": 7,
       "losses": 12,
       "ot_losses": 3,
-      "save_pct": 0.88111,
+      "save_pct": 0.88095,
       "gaa": 3.78844,
       "shutouts": 1
     },
@@ -753,12 +753,12 @@
     "Nikita Tolopilo": {
       "player_id": 8484268,
       "team": "VAN",
-      "gp": 15,
+      "gp": 16,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ot_losses": 2,
-      "save_pct": 0.89227,
-      "gaa": 3.3414,
+      "save_pct": 0.88584,
+      "gaa": 3.52692,
       "shutouts": 0
     },
     "Jonathan Quick": {

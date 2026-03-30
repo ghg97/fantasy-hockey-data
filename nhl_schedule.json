@@ -1,55 +1,7 @@
 {
-  "fetched_at": "2026-03-29T06:09:40.867104",
+  "fetched_at": "2026-03-30T09:31:33.262337",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021167,
-      "home_team": "NYR",
-      "away_team": "FLA",
-      "start_time": "2026-03-29T17:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021168,
-      "home_team": "TBL",
-      "away_team": "NSH",
-      "start_time": "2026-03-29T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021169,
-      "home_team": "CAR",
-      "away_team": "MTL",
-      "start_time": "2026-03-29T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021170,
-      "home_team": "CBJ",
-      "away_team": "BOS",
-      "start_time": "2026-03-29T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021171,
-      "home_team": "NJD",
-      "away_team": "CHI",
-      "start_time": "2026-03-29T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-03-29",
-      "game_id": 2025021172,
-      "home_team": "PHI",
-      "away_team": "DAL",
-      "start_time": "2026-03-29T23:00:00Z",
-      "game_type": 2
-    },
     {
       "date": "2026-03-30",
       "game_id": 2025021173,
@@ -921,40 +873,120 @@
       "away_team": "UTA",
       "start_time": "2026-04-13T01:00:00Z",
       "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021282,
+      "home_team": "TBL",
+      "away_team": "DET",
+      "start_time": "2026-04-13T23:00:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021283,
+      "home_team": "FLA",
+      "away_team": "NYR",
+      "start_time": "2026-04-13T23:00:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021284,
+      "home_team": "PHI",
+      "away_team": "CAR",
+      "start_time": "2026-04-13T23:00:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021285,
+      "home_team": "TOR",
+      "away_team": "DAL",
+      "start_time": "2026-04-13T23:30:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021286,
+      "home_team": "STL",
+      "away_team": "MIN",
+      "start_time": "2026-04-14T00:00:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021287,
+      "home_team": "NSH",
+      "away_team": "SJS",
+      "start_time": "2026-04-14T00:00:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021288,
+      "home_team": "CHI",
+      "away_team": "BUF",
+      "start_time": "2026-04-14T00:30:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021289,
+      "home_team": "EDM",
+      "away_team": "COL",
+      "start_time": "2026-04-14T01:30:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021291,
+      "home_team": "SEA",
+      "away_team": "LAK",
+      "start_time": "2026-04-14T01:30:00Z",
+      "game_type": 2
+    },
+    {
+      "date": "2026-04-13",
+      "game_id": 2025021290,
+      "home_team": "VGK",
+      "away_team": "WPG",
+      "start_time": "2026-04-14T02:00:00Z",
+      "game_type": 2
     }
   ],
   "team_games_count": {
-    "NYR": 7,
-    "FLA": 8,
-    "TBL": 8,
-    "NSH": 7,
-    "CAR": 8,
-    "MTL": 9,
-    "CBJ": 8,
-    "BOS": 8,
-    "NJD": 9,
-    "CHI": 7,
-    "PHI": 8,
-    "DAL": 7,
     "NYI": 7,
     "PIT": 8,
-    "COL": 7,
+    "COL": 8,
     "CGY": 7,
-    "VGK": 6,
+    "VGK": 7,
     "VAN": 8,
     "ANA": 7,
-    "TOR": 6,
-    "SJS": 8,
-    "STL": 7,
-    "BUF": 6,
+    "TOR": 7,
+    "SJS": 9,
+    "STL": 8,
+    "BOS": 7,
+    "DAL": 7,
+    "BUF": 7,
+    "TBL": 8,
+    "MTL": 8,
+    "FLA": 8,
     "OTT": 8,
-    "DET": 7,
+    "NYR": 7,
+    "NJD": 8,
+    "DET": 8,
     "WSH": 7,
-    "WPG": 6,
-    "EDM": 6,
-    "SEA": 7,
-    "LAK": 6,
-    "MIN": 6,
-    "UTA": 6
+    "PHI": 8,
+    "CBJ": 7,
+    "CAR": 8,
+    "CHI": 7,
+    "WPG": 7,
+    "EDM": 7,
+    "SEA": 8,
+    "LAK": 7,
+    "MIN": 7,
+    "UTA": 6,
+    "NSH": 7
   }
 }

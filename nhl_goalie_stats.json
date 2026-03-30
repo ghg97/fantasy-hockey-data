@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T06:09:44.678947",
+  "fetched_at": "2026-03-30T09:31:35.939560",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -27,7 +27,7 @@
       "name": "Jeremy Swayman",
       "team": "BOS",
       "games_played": null,
-      "value": 29
+      "value": 30
     },
     {
       "player_id": 8480843,
@@ -53,18 +53,18 @@
       "value": 0.915068
     },
     {
-      "player_id": 8480313,
-      "name": "Logan Thompson",
-      "team": "WSH",
-      "games_played": null,
-      "value": 0.914123
-    },
-    {
       "player_id": 8478009,
       "name": "Ilya Sorokin",
       "team": "NYI",
       "games_played": null,
       "value": 0.913653
+    },
+    {
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
+      "games_played": null,
+      "value": 0.913074
     },
     {
       "player_id": 8476883,

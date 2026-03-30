@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T06:10:11.781112",
+  "fetched_at": "2026-03-30T09:31:49.498370",
   "count": 34,
   "players": [
     {
@@ -28,7 +28,7 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "O",
+      "status": "DTD",
       "percent_owned": 5
     },
     {
@@ -42,7 +42,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 4
+      "percent_owned": 3
     },
     {
       "player_id": 4854,
@@ -55,7 +55,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 5085,
@@ -68,7 +68,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 12
+      "percent_owned": 11
     },
     {
       "player_id": 5114,
@@ -96,7 +96,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 47
+      "percent_owned": 45
     },
     {
       "player_id": 5529,
@@ -135,7 +135,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 41
+      "percent_owned": 40
     },
     {
       "player_id": 5753,
@@ -174,7 +174,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 21
+      "percent_owned": 20
     },
     {
       "player_id": 6039,
@@ -241,7 +241,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 9
     },
     {
       "player_id": 6462,
@@ -267,7 +267,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 59
+      "percent_owned": 57
     },
     {
       "player_id": 7084,
@@ -321,7 +321,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 44
+      "percent_owned": 43
     },
     {
       "player_id": 7601,
@@ -348,19 +348,6 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 6
-    },
-    {
-      "player_id": 8040,
-      "name": "Samuel Ersson",
-      "team": "PHI",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 4
     },
     {
       "player_id": 8314,
@@ -401,8 +388,21 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "O",
-      "percent_owned": 32
+      "status": "DTD",
+      "percent_owned": 31
+    },
+    {
+      "player_id": 8741,
+      "name": "Dylan Garand",
+      "team": "NYR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
     },
     {
       "player_id": 8794,
@@ -415,7 +415,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 8871,
@@ -428,7 +428,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 3
     },
     {
       "player_id": 9238,
@@ -441,7 +441,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 55
+      "percent_owned": 53
     },
     {
       "player_id": 30995,

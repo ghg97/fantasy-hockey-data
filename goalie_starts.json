@@ -1,26 +1,18 @@
 {
   "starters": {
-    "Dan Vladar": {
+    "Ilya Sorokin": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jeremy Swayman": {
+    "Lukas Dostal": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jacob Fowler": {
+    "Kevin Lankinen": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Juuse Saros": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Andrei Vasilevskiy": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Elvis Merzlikins": {
+    "Joseph Woll": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -28,35 +20,35 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jake Oettinger": {
+    "Adin Hill": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Igor Shesterkin": {
+    "Dustin Wolf": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Arvid Soderblom": {
+    "Stuart Skinner": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jacob Markstrom": {
+    "Alex Nedeljkovic": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
       "status": "unconfirmed",
       "starting_today": false
     },
     "Line Combination": {
       "status": "unconfirmed",
       "starting_today": false
-    },
-    "Brandon Bussi": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Daniil Tarasov": {
-      "status": "unconfirmed",
-      "starting_today": false
     }
   },
-  "date": "2026-03-29",
-  "fetched_at": "2026-03-29T06:09:37.583930"
+  "date": "2026-03-30",
+  "fetched_at": "2026-03-30T09:31:31.878203"
 }
