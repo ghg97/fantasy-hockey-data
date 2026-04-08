@@ -1,10 +1,30 @@
 {
-  "fetched_at": "2026-03-30T09:31:49.735784",
+  "fetched_at": "2026-04-07T09:06:41.303546",
   "teams": [
+    {
+      "team_key": "465.l.71635.t.8",
+      "name": "Viens",
+      "rank": 1,
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "4338.80",
+      "points_against": 4343.5
+    },
+    {
+      "team_key": "465.l.71635.t.3",
+      "name": "Jte Pete",
+      "rank": 2,
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "4444.80",
+      "points_against": 4222.8
+    },
     {
       "team_key": "465.l.71635.t.1",
       "name": "ALL EYES ON YOU",
-      "rank": "1",
+      "rank": 3,
       "wins": null,
       "losses": null,
       "ties": null,
@@ -14,7 +34,7 @@
     {
       "team_key": "465.l.71635.t.5",
       "name": "Puck Daddy",
-      "rank": "2",
+      "rank": 4,
       "wins": null,
       "losses": null,
       "ties": null,
@@ -22,29 +42,9 @@
       "points_against": 4339.099999999999
     },
     {
-      "team_key": "465.l.71635.t.3",
-      "name": "Jte Pete",
-      "rank": "3",
-      "wins": null,
-      "losses": null,
-      "ties": null,
-      "points_for": "4444.80",
-      "points_against": 4222.8
-    },
-    {
-      "team_key": "465.l.71635.t.8",
-      "name": "Viens",
-      "rank": "4",
-      "wins": null,
-      "losses": null,
-      "ties": null,
-      "points_for": "4338.80",
-      "points_against": 4343.5
-    },
-    {
       "team_key": "465.l.71635.t.2",
       "name": "El Chapo",
-      "rank": "5",
+      "rank": 5,
       "wins": null,
       "losses": null,
       "ties": null,
@@ -54,7 +54,7 @@
     {
       "team_key": "465.l.71635.t.4",
       "name": "Robshet la Jaf HC",
-      "rank": "6",
+      "rank": 6,
       "wins": null,
       "losses": null,
       "ties": null,
@@ -62,19 +62,19 @@
       "points_against": 4334.8
     },
     {
-      "team_key": "465.l.71635.t.12",
-      "name": "Baba",
-      "rank": "7",
+      "team_key": "465.l.71635.t.7",
+      "name": "Vasyy",
+      "rank": 7,
       "wins": null,
       "losses": null,
       "ties": null,
-      "points_for": "4490.30",
-      "points_against": 4357.099999999999
+      "points_for": "4136.20",
+      "points_against": 4460.799999999999
     },
     {
       "team_key": "465.l.71635.t.10",
       "name": "Zad",
-      "rank": "8",
+      "rank": 8,
       "wins": null,
       "losses": null,
       "ties": null,
@@ -82,24 +82,24 @@
       "points_against": 4254.299999999999
     },
     {
+      "team_key": "465.l.71635.t.12",
+      "name": "Baba",
+      "rank": 9,
+      "wins": null,
+      "losses": null,
+      "ties": null,
+      "points_for": "4490.30",
+      "points_against": 4357.099999999999
+    },
+    {
       "team_key": "465.l.71635.t.6",
       "name": "The Sleix Blue Squad",
-      "rank": "9",
+      "rank": 10,
       "wins": null,
       "losses": null,
       "ties": null,
       "points_for": "4004.20",
       "points_against": 4364.9
-    },
-    {
-      "team_key": "465.l.71635.t.7",
-      "name": "Vasyy",
-      "rank": "10",
-      "wins": null,
-      "losses": null,
-      "ties": null,
-      "points_for": "4136.20",
-      "points_against": 4460.799999999999
     }
   ]
 }

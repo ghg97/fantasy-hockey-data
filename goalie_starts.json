@@ -1,34 +1,14 @@
 {
   "starters": {
-    "Ilya Sorokin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Lukas Dostal": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Kevin Lankinen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Joseph Woll": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Adin Hill": {
+    "Igor Shesterkin": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Dustin Wolf": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Stuart Skinner": {
+    "Connor Ingram": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -36,11 +16,11 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Joel Hofer": {
+    "Logan Thompson": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Scott Wedgewood": {
+    "Joseph Woll": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -49,6 +29,6 @@
       "starting_today": false
     }
   },
-  "date": "2026-03-30",
-  "fetched_at": "2026-03-30T09:31:31.878203"
+  "date": "2026-04-08",
+  "fetched_at": "2026-04-08T06:30:37.228208"
 }

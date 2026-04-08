@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-03-30T09:31:35.939560",
+  "fetched_at": "2026-04-08T07:46:37.795554",
   "wins_leaders": [
     {
       "player_id": 8476883,
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
       "games_played": null,
-      "value": 35
+      "value": 37
     },
     {
       "player_id": 8478872,
       "name": "Karel Vejmelka",
       "team": "UTA",
       "games_played": null,
-      "value": 33
+      "value": 36
     },
     {
       "player_id": 8479979,
       "name": "Jake Oettinger",
       "team": "DAL",
       "games_played": null,
-      "value": 30
+      "value": 32
     },
     {
       "player_id": 8480280,
@@ -30,11 +30,11 @@
       "value": 30
     },
     {
-      "player_id": 8480843,
-      "name": "Lukas Dostal",
-      "team": "ANA",
+      "player_id": 8483548,
+      "name": "Brandon Bussi",
+      "team": "CAR",
       "games_played": null,
-      "value": 29
+      "value": 30
     }
   ],
   "save_pct_leaders": [
@@ -43,35 +43,35 @@
       "name": "Scott Wedgewood",
       "team": "COL",
       "games_played": null,
-      "value": 0.916409
+      "value": 0.918269
     },
     {
-      "player_id": 8482445,
-      "name": "Devin Cooley",
-      "team": "CGY",
+      "player_id": 8482661,
+      "name": "Jesper Wallstedt",
+      "team": "MIN",
       "games_played": null,
-      "value": 0.915068
+      "value": 0.914672
     },
     {
-      "player_id": 8478009,
-      "name": "Ilya Sorokin",
-      "team": "NYI",
+      "player_id": 8478048,
+      "name": "Igor Shesterkin",
+      "team": "NYR",
       "games_played": null,
-      "value": 0.913653
-    },
-    {
-      "player_id": 8480313,
-      "name": "Logan Thompson",
-      "team": "WSH",
-      "games_played": null,
-      "value": 0.913074
+      "value": 0.912382
     },
     {
       "player_id": 8476883,
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
       "games_played": null,
-      "value": 0.912548
+      "value": 0.912119
+    },
+    {
+      "player_id": 8482445,
+      "name": "Devin Cooley",
+      "team": "CGY",
+      "games_played": null,
+      "value": 0.91052
     }
   ],
   "gaa_leaders": []

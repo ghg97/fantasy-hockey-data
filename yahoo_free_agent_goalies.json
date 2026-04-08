@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-03-30T09:31:49.498370",
-  "count": 34,
+  "fetched_at": "2026-04-07T09:06:41.009544",
+  "count": 38,
   "players": [
     {
       "player_id": 4003,
@@ -23,12 +23,11 @@
       "team": "NYR",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
+      "status": "",
       "percent_owned": 5
     },
     {
@@ -42,7 +41,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 4
+    },
+    {
+      "player_id": 4589,
+      "name": "Jake Allen",
+      "team": "NJD",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 22
     },
     {
       "player_id": 4854,
@@ -55,7 +67,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 9
     },
     {
       "player_id": 5085,
@@ -63,12 +75,13 @@
       "team": "SEA",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 11
+      "status": "DTD",
+      "percent_owned": 13
     },
     {
       "player_id": 5114,
@@ -96,20 +109,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
-    },
-    {
-      "player_id": 5529,
-      "name": "Laurent Brossoit",
-      "team": "SJS",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 1
+      "percent_owned": 48
     },
     {
       "player_id": 5553,
@@ -122,7 +122,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 8
     },
     {
       "player_id": 5734,
@@ -135,7 +135,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 40
+      "percent_owned": 39
     },
     {
       "player_id": 5753,
@@ -148,7 +148,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 11
     },
     {
       "player_id": 5774,
@@ -187,7 +187,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 5
     },
     {
       "player_id": 6405,
@@ -215,7 +215,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 11
     },
     {
       "player_id": 6408,
@@ -228,7 +228,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 1
     },
     {
       "player_id": 6445,
@@ -241,7 +241,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 9
+      "percent_owned": 8
     },
     {
       "player_id": 6462,
@@ -267,7 +267,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 57
+      "percent_owned": 54
     },
     {
       "player_id": 7084,
@@ -280,7 +280,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 13
+    },
+    {
+      "player_id": 7089,
+      "name": "Alex Lyon",
+      "team": "BUF",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 35
     },
     {
       "player_id": 7108,
@@ -293,7 +306,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 8
+      "percent_owned": 7
     },
     {
       "player_id": 7156,
@@ -301,14 +314,12 @@
       "team": "VGK",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR-LT",
-      "percent_owned": 14
+      "status": "",
+      "percent_owned": 16
     },
     {
       "player_id": 7593,
@@ -316,12 +327,13 @@
       "team": "EDM,PIT",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 43
+      "status": "DTD",
+      "percent_owned": 44
     },
     {
       "player_id": 7601,
@@ -334,11 +346,11 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 6
     },
     {
-      "player_id": 7886,
-      "name": "Kevin Lankinen",
+      "player_id": 7676,
+      "name": "Jiri Patera",
       "team": "VAN",
       "position": "G",
       "eligible_positions": [
@@ -347,7 +359,21 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 0
+    },
+    {
+      "player_id": 7886,
+      "name": "Kevin Lankinen",
+      "team": "VAN",
+      "position": "G",
+      "eligible_positions": [
+        "G",
+        "IR+"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "O",
+      "percent_owned": 5
     },
     {
       "player_id": 8314,
@@ -383,13 +409,12 @@
       "team": "SJS",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 31
+      "status": "",
+      "percent_owned": 34
     },
     {
       "player_id": 8741,
@@ -402,7 +427,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 1
     },
     {
       "player_id": 8794,
@@ -428,7 +453,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 3
+      "percent_owned": 2
     },
     {
       "player_id": 9238,
@@ -442,6 +467,32 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 53
+    },
+    {
+      "player_id": 30123,
+      "name": "Tyler Muszelik",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30201,
+      "name": "Jacob Fowler",
+      "team": "MTL",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 32
     },
     {
       "player_id": 30995,

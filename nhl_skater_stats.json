@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-30T09:31:34.552495",
+  "fetched_at": "2026-04-08T07:46:32.976746",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -7,7 +7,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 124
+      "value": 128
     },
     {
       "player_id": 8476453,
@@ -15,7 +15,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 121
+      "value": 127
     },
     {
       "player_id": 8477492,
@@ -23,7 +23,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 117
+      "value": 123
     },
     {
       "player_id": 8484801,
@@ -31,15 +31,15 @@
       "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 98
+      "value": 107
     },
     {
-      "player_id": 8477934,
-      "name": "Leon Draisaitl",
-      "team": "EDM",
+      "player_id": 8477956,
+      "name": "David Pastrnak",
+      "team": "BOS",
       "position": null,
       "games_played": null,
-      "value": 97
+      "value": 99
     }
   ],
   "goals_leaders": [
@@ -49,7 +49,7 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 48
+      "value": 51
     },
     {
       "player_id": 8481540,
@@ -57,7 +57,7 @@
       "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 46
+      "value": 49
     },
     {
       "player_id": 8478402,
@@ -65,7 +65,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 42
+      "value": 44
     },
     {
       "player_id": 8476453,
@@ -73,15 +73,15 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 40
+      "value": 43
     },
     {
-      "player_id": 8480027,
-      "name": "Jason Robertson",
-      "team": "DAL",
+      "player_id": 8478864,
+      "name": "Kirill Kaprizov",
+      "team": "MIN",
       "position": null,
       "games_played": null,
-      "value": 40
+      "value": 43
     }
   ],
   "assists_leaders": [
@@ -91,7 +91,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 82
+      "value": 84
     },
     {
       "player_id": 8476453,
@@ -99,7 +99,7 @@
       "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 81
+      "value": 84
     },
     {
       "player_id": 8477492,
@@ -107,23 +107,23 @@
       "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 69
+      "value": 72
     },
     {
-      "player_id": 8480803,
-      "name": "Evan Bouchard",
-      "team": "EDM",
+      "player_id": 8477956,
+      "name": "David Pastrnak",
+      "team": "BOS",
       "position": null,
       "games_played": null,
-      "value": 66
+      "value": 70
     },
     {
-      "player_id": 8480800,
-      "name": "Quinn Hughes",
-      "team": "MIN",
+      "player_id": 8480018,
+      "name": "Nick Suzuki",
+      "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 66
+      "value": 68
     }
   ]
 }
