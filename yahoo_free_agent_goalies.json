@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-04-07T09:06:41.009544",
-  "count": 38,
+  "fetched_at": "2026-04-09T06:10:11.703442",
+  "count": 41,
   "players": [
     {
       "player_id": 4003,
@@ -81,7 +81,7 @@
       "line": null,
       "pp_unit": null,
       "status": "DTD",
-      "percent_owned": 13
+      "percent_owned": 12
     },
     {
       "player_id": 5114,
@@ -109,7 +109,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 48
+      "percent_owned": 47
     },
     {
       "player_id": 5553,
@@ -130,11 +130,12 @@
       "team": "TOR",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
+      "status": "O",
       "percent_owned": 39
     },
     {
@@ -215,7 +216,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 11
+      "percent_owned": 12
     },
     {
       "player_id": 6408,
@@ -267,7 +268,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 54
+      "percent_owned": 53
     },
     {
       "player_id": 7084,
@@ -275,12 +276,13 @@
       "team": "WSH",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 13
+      "status": "O",
+      "percent_owned": 12
     },
     {
       "player_id": 7089,
@@ -288,12 +290,13 @@
       "team": "BUF",
       "position": "G",
       "eligible_positions": [
-        "G"
+        "G",
+        "IR+"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "",
-      "percent_owned": 35
+      "status": "O",
+      "percent_owned": 34
     },
     {
       "player_id": 7108,
@@ -319,7 +322,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 16
+      "percent_owned": 18
     },
     {
       "player_id": 7593,
@@ -333,7 +336,7 @@
       "line": null,
       "pp_unit": null,
       "status": "DTD",
-      "percent_owned": 44
+      "percent_owned": 43
     },
     {
       "player_id": 7601,
@@ -372,7 +375,7 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "O",
+      "status": "DTD",
       "percent_owned": 5
     },
     {
@@ -482,6 +485,19 @@
       "percent_owned": 0
     },
     {
+      "player_id": 30168,
+      "name": "Mitchell Gibson",
+      "team": "WSH",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
       "player_id": 30201,
       "name": "Jacob Fowler",
       "team": "MTL",
@@ -492,7 +508,33 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 32
+      "percent_owned": 30
+    },
+    {
+      "player_id": 30741,
+      "name": "Artur Akhtyamov",
+      "team": "TOR",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30866,
+      "name": "Sergei Murashov",
+      "team": "PIT",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 2
     },
     {
       "player_id": 30995,

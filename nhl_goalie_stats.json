@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T07:46:37.795554",
+  "fetched_at": "2026-04-09T06:09:46.112778",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -53,13 +53,6 @@
       "value": 0.914672
     },
     {
-      "player_id": 8478048,
-      "name": "Igor Shesterkin",
-      "team": "NYR",
-      "games_played": null,
-      "value": 0.912382
-    },
-    {
       "player_id": 8476883,
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
@@ -67,11 +60,18 @@
       "value": 0.912119
     },
     {
-      "player_id": 8482445,
-      "name": "Devin Cooley",
-      "team": "CGY",
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
       "games_played": null,
-      "value": 0.91052
+      "value": 0.91167
+    },
+    {
+      "player_id": 8478048,
+      "name": "Igor Shesterkin",
+      "team": "NYR",
+      "games_played": null,
+      "value": 0.911158
     }
   ],
   "gaa_leaders": []

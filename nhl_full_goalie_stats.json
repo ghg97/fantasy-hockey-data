@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T07:46:38.277898",
+  "fetched_at": "2026-04-09T06:09:46.309382",
   "season": "2025-2026",
   "goalies": {
     "Andrei Vasilevskiy": {
@@ -42,7 +42,7 @@
       "wins": 30,
       "losses": 17,
       "ot_losses": 4,
-      "save_pct": 0.90622,
+      "save_pct": 0.90629,
       "gaa": 2.77214,
       "shutouts": 1
     },
@@ -66,6 +66,17 @@
       "ot_losses": 6,
       "save_pct": 0.91826,
       "gaa": 2.10388,
+      "shutouts": 3
+    },
+    "Logan Thompson": {
+      "player_id": 8480313,
+      "team": "WSH",
+      "gp": 56,
+      "wins": 29,
+      "losses": 21,
+      "ot_losses": 6,
+      "save_pct": 0.91166,
+      "gaa": 2.47214,
       "shutouts": 3
     },
     "Lukas Dostal": {
@@ -123,17 +134,6 @@
       "gaa": 2.73263,
       "shutouts": 0
     },
-    "Logan Thompson": {
-      "player_id": 8480313,
-      "team": "WSH",
-      "gp": 55,
-      "wins": 28,
-      "losses": 21,
-      "ot_losses": 6,
-      "save_pct": 0.91045,
-      "gaa": 2.51708,
-      "shutouts": 2
-    },
     "Ilya Sorokin": {
       "player_id": 8478009,
       "team": "NYI",
@@ -181,12 +181,12 @@
     "Igor Shesterkin": {
       "player_id": 8478048,
       "team": "NYR",
-      "gp": 49,
+      "gp": 50,
       "wins": 25,
-      "losses": 17,
+      "losses": 18,
       "ot_losses": 6,
-      "save_pct": 0.91238,
-      "gaa": 2.49807,
+      "save_pct": 0.91115,
+      "gaa": 2.52978,
       "shutouts": 1
     },
     "Jet Greaves": {
@@ -207,7 +207,7 @@
       "wins": 23,
       "losses": 19,
       "ot_losses": 1,
-      "save_pct": 0.88309,
+      "save_pct": 0.88319,
       "gaa": 3.06601,
       "shutouts": 1
     },
@@ -266,6 +266,17 @@
       "gaa": 2.58256,
       "shutouts": 3
     },
+    "Ukko-Pekka Luukkonen": {
+      "player_id": 8480045,
+      "team": "BUF",
+      "gp": 34,
+      "wins": 21,
+      "losses": 9,
+      "ot_losses": 3,
+      "save_pct": 0.90919,
+      "gaa": 2.56127,
+      "shutouts": 1
+    },
     "Joel Hofer": {
       "player_id": 8480981,
       "team": "STL",
@@ -276,17 +287,6 @@
       "save_pct": 0.91049,
       "gaa": 2.57688,
       "shutouts": 6
-    },
-    "Ukko-Pekka Luukkonen": {
-      "player_id": 8480045,
-      "team": "BUF",
-      "gp": 33,
-      "wins": 20,
-      "losses": 9,
-      "ot_losses": 3,
-      "save_pct": 0.91051,
-      "gaa": 2.54748,
-      "shutouts": 1
     },
     "Alex Lyon": {
       "player_id": 8479312,
@@ -346,12 +346,12 @@
     "Tristan Jarry": {
       "player_id": 8477465,
       "team": "PIT,EDM",
-      "gp": 32,
+      "gp": 33,
       "wins": 18,
       "losses": 9,
       "ot_losses": 3,
-      "save_pct": 0.88164,
-      "gaa": 3.35307,
+      "save_pct": 0.88221,
+      "gaa": 3.31525,
       "shutouts": 2
     },
     "Jesper Wallstedt": {
@@ -368,12 +368,12 @@
     "Alex Nedeljkovic": {
       "player_id": 8477968,
       "team": "SJS",
-      "gp": 37,
+      "gp": 38,
       "wins": 16,
-      "losses": 13,
+      "losses": 14,
       "ot_losses": 4,
-      "save_pct": 0.89566,
-      "gaa": 2.88821,
+      "save_pct": 0.89336,
+      "gaa": 2.94705,
       "shutouts": 0
     },
     "Jake Allen": {
@@ -401,12 +401,23 @@
     "Joseph Woll": {
       "player_id": 8479361,
       "team": "TOR",
-      "gp": 37,
+      "gp": 38,
       "wins": 15,
-      "losses": 14,
+      "losses": 15,
       "ot_losses": 7,
-      "save_pct": 0.90169,
-      "gaa": 3.31904,
+      "save_pct": 0.90058,
+      "gaa": 3.31468,
+      "shutouts": 2
+    },
+    "Connor Ingram": {
+      "player_id": 8478971,
+      "team": "EDM",
+      "gp": 29,
+      "wins": 15,
+      "losses": 9,
+      "ot_losses": 2,
+      "save_pct": 0.89398,
+      "gaa": 2.7814,
       "shutouts": 2
     },
     "Casey DeSmith": {
@@ -452,17 +463,6 @@
       "save_pct": 0.883,
       "gaa": 3.39565,
       "shutouts": 1
-    },
-    "Connor Ingram": {
-      "player_id": 8478971,
-      "team": "EDM",
-      "gp": 28,
-      "wins": 14,
-      "losses": 9,
-      "ot_losses": 2,
-      "save_pct": 0.89534,
-      "gaa": 2.77578,
-      "shutouts": 2
     },
     "Anton Forsberg": {
       "player_id": 8476341,
@@ -588,12 +588,12 @@
     "Anthony Stolarz": {
       "player_id": 8476932,
       "team": "TOR",
-      "gp": 25,
+      "gp": 26,
       "wins": 10,
       "losses": 10,
       "ot_losses": 3,
-      "save_pct": 0.89235,
-      "gaa": 3.28842,
+      "save_pct": 0.89265,
+      "gaa": 3.28234,
       "shutouts": 0
     },
     "Devin Cooley": {
@@ -768,7 +768,7 @@
       "wins": 5,
       "losses": 10,
       "ot_losses": 2,
-      "save_pct": 0.88257,
+      "save_pct": 0.88279,
       "gaa": 3.63086,
       "shutouts": 0
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T07:46:32.240761",
+  "fetched_at": "2026-04-09T06:09:43.252860",
   "teams": [
     {
       "abbrev": "COL",
@@ -38,6 +38,18 @@
       "goal_differential": 48
     },
     {
+      "abbrev": "BUF",
+      "name": "Buffalo Sabres",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "wins": 48,
+      "losses": 23,
+      "ot_losses": 8,
+      "points": 104,
+      "games_played": 79,
+      "goal_differential": 39
+    },
+    {
       "abbrev": "TBL",
       "name": "Tampa Bay Lightning",
       "conference": "Eastern",
@@ -48,18 +60,6 @@
       "points": 102,
       "games_played": 78,
       "goal_differential": 60
-    },
-    {
-      "abbrev": "BUF",
-      "name": "Buffalo Sabres",
-      "conference": "Eastern",
-      "division": "Atlantic",
-      "wins": 47,
-      "losses": 23,
-      "ot_losses": 8,
-      "points": 102,
-      "games_played": 78,
-      "goal_differential": 37
     },
     {
       "abbrev": "MTL",
@@ -146,6 +146,18 @@
       "goal_differential": 4
     },
     {
+      "abbrev": "EDM",
+      "name": "Edmonton Oilers",
+      "conference": "Western",
+      "division": "Pacific",
+      "wins": 40,
+      "losses": 29,
+      "ot_losses": 10,
+      "points": 90,
+      "games_played": 79,
+      "goal_differential": 10
+    },
+    {
       "abbrev": "DET",
       "name": "Detroit Red Wings",
       "conference": "Eastern",
@@ -170,6 +182,18 @@
       "goal_differential": -3
     },
     {
+      "abbrev": "WSH",
+      "name": "Washington Capitals",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "wins": 40,
+      "losses": 30,
+      "ot_losses": 9,
+      "points": 89,
+      "games_played": 79,
+      "goal_differential": 12
+    },
+    {
       "abbrev": "UTA",
       "name": "Utah Mammoth",
       "conference": "Western",
@@ -182,18 +206,6 @@
       "goal_differential": 31
     },
     {
-      "abbrev": "EDM",
-      "name": "Edmonton Oilers",
-      "conference": "Western",
-      "division": "Pacific",
-      "wins": 39,
-      "losses": 29,
-      "ot_losses": 10,
-      "points": 88,
-      "games_played": 78,
-      "goal_differential": 7
-    },
-    {
       "abbrev": "VGK",
       "name": "Vegas Golden Knights",
       "conference": "Western",
@@ -202,18 +214,6 @@
       "losses": 26,
       "ot_losses": 16,
       "points": 88,
-      "games_played": 78,
-      "goal_differential": 8
-    },
-    {
-      "abbrev": "WSH",
-      "name": "Washington Capitals",
-      "conference": "Eastern",
-      "division": "Metropolitan",
-      "wins": 39,
-      "losses": 30,
-      "ot_losses": 9,
-      "points": 87,
       "games_played": 78,
       "goal_differential": 8
     },
@@ -271,11 +271,11 @@
       "conference": "Western",
       "division": "Pacific",
       "wins": 37,
-      "losses": 32,
+      "losses": 33,
       "ot_losses": 7,
       "points": 81,
-      "games_played": 76,
-      "goal_differential": -35
+      "games_played": 77,
+      "goal_differential": -38
     },
     {
       "abbrev": "WPG",
@@ -302,18 +302,6 @@
       "goal_differential": -35
     },
     {
-      "abbrev": "TOR",
-      "name": "Toronto Maple Leafs",
-      "conference": "Eastern",
-      "division": "Atlantic",
-      "wins": 32,
-      "losses": 31,
-      "ot_losses": 14,
-      "points": 78,
-      "games_played": 77,
-      "goal_differential": -33
-    },
-    {
       "abbrev": "FLA",
       "name": "Florida Panthers",
       "conference": "Eastern",
@@ -324,6 +312,18 @@
       "points": 78,
       "games_played": 78,
       "goal_differential": -33
+    },
+    {
+      "abbrev": "TOR",
+      "name": "Toronto Maple Leafs",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "wins": 32,
+      "losses": 32,
+      "ot_losses": 14,
+      "points": 78,
+      "games_played": 78,
+      "goal_differential": -37
     },
     {
       "abbrev": "SEA",
@@ -343,11 +343,11 @@
       "conference": "Eastern",
       "division": "Metropolitan",
       "wins": 33,
-      "losses": 36,
+      "losses": 37,
       "ot_losses": 9,
       "points": 75,
-      "games_played": 78,
-      "goal_differential": -9
+      "games_played": 79,
+      "goal_differential": -11
     },
     {
       "abbrev": "CGY",

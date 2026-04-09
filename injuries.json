@@ -50,9 +50,16 @@
       {
         "name": "Noah Ostlund",
         "team": "BUF",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-04-07T12:22Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T22:45Z"
+      },
+      {
+        "name": "Alex Lyon",
+        "team": "BUF",
+        "status": "Out",
+        "details": "Head coach Lindy Ruff described Lyon's injury as a tweak, so it might be a short-term issue. Ruff also said that Lyon wasn't scheduled to dress Wednesday anyway, so his injury won't influence Buffalo's plans against the Rangers. Either Ukko-Pekka Luukkonen or Colten Ellis will get the start, and the other will serve as the understudy.",
+        "date": "2026-04-08T16:01Z"
       },
       {
         "name": "Sam Carrick",
@@ -170,9 +177,9 @@
       {
         "name": "Nazem Kadri",
         "team": "COL",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-04-08T02:08Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T14:59Z"
       },
       {
         "name": "Cale Makar",
@@ -228,21 +235,35 @@
     ],
     "DET": [
       {
+        "name": "Mason Appleton",
+        "team": "DET",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T16:06Z"
+      },
+      {
         "name": "Michael Rasmussen",
         "team": "DET",
         "status": "Out",
         "details": "out",
         "date": "2026-04-08T02:23Z"
-      },
-      {
-        "name": "Mason Appleton",
-        "team": "DET",
-        "status": "Out",
-        "details": "This will be Appleton's third consecutive game on the shelf. Prior to getting injured, the 30-year-old forward was stuck in a cold stretch, as he had recorded just one goal, 23 hits and 12 PIM across his past 14 appearances. Detroit's next game is against the Flyers on Thursday.",
-        "date": "2026-04-07T15:29Z"
       }
     ],
     "EDM": [
+      {
+        "name": "Jason Dickinson",
+        "team": "EDM",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-09T05:06Z"
+      },
+      {
+        "name": "Connor Ingram",
+        "team": "EDM",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-09T05:03Z"
+      },
       {
         "name": "Leon Draisaitl",
         "team": "EDM",
@@ -349,8 +370,8 @@
         "name": "Andrei Kuzmenko",
         "team": "LAK",
         "status": "Injured Reserve",
-        "details": "Kuzmenko underwent knee surgery last Saturday to repair a torn meniscus. He had 13 goals, 25 points and 68 shots on net across 52 appearances this campaign. If the Kings qualify for the playoffs, it's unclear when Kuzmenko will be ready to return to the lineup.",
-        "date": "2026-03-06T22:09Z"
+        "details": "Kuzmenko was previously ruled out for the remainder of the regular season, but this latest update would leave the door open for him to play in the season finale versus the Flames on April 16. In his 15 games before getting hurt, the 30-year-old winger notched four goals and five assists, including five power-play points.",
+        "date": "2026-04-08T19:29Z"
       },
       {
         "name": "Kevin Fiala",
@@ -364,9 +385,9 @@
       {
         "name": "Zach Bogosian",
         "team": "MIN",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-07T16:56Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Charlie Stramel",
@@ -380,9 +401,9 @@
       {
         "name": "Joe Veleno",
         "team": "MTL",
-        "status": "Out",
-        "details": "Veleno had played in nine of the last 10 games, exclusively in a bottom-six role. This is his second illness in as many months, but the 26-year-old should be back in the mix soon. He's day-to-day ahead of Thursday's game versus the Lightning.",
-        "date": "2026-04-07T22:46Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Alexandre Carrier",
@@ -403,9 +424,9 @@
       {
         "name": "Nicolas Hague",
         "team": "NSH",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-08T01:35Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       }
     ],
     "NJD": [
@@ -440,18 +461,18 @@
     ],
     "NYI": [
       {
+        "name": "Tony DeAngelo",
+        "team": "NYI",
+        "status": "Day-To-Day",
+        "details": "DeAngelo took part in Wednesday's practice as part of the second pairing alongside Adam Pelech. DeAngelo has five goals and 33 points in 72 outings in 2025-26. He hasn't been in the lineup since March 24 due to the injury.",
+        "date": "2026-04-08T16:35Z"
+      },
+      {
         "name": "Alexander Romanov",
         "team": "NYI",
         "status": "Injured Reserve",
         "details": "Romanov might be available to return to the lineup before the end of the regular season. He has missed the last 58 games after having shoulder surgery in late November. Romanov has contributed one assist, 17 shots on goal, 31 blocked shots and 31 hits across 15 appearances this campaign.",
         "date": "2026-04-06T15:02Z"
-      },
-      {
-        "name": "Tony DeAngelo",
-        "team": "NYI",
-        "status": "Out",
-        "details": "DeAngelo had already been ruled out for Thursday's game against Dallas. His exit from the lineup coincides with Ryan Pulock's (lower body) return. When DeAngelo is ready to return, he will likely serve in a top-four capacity.",
-        "date": "2026-03-26T23:05Z"
       },
       {
         "name": "Pierre Engvall",
@@ -493,25 +514,18 @@
     ],
     "OTT": [
       {
+        "name": "Dennis Gilbert",
+        "team": "OTT",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T14:29Z"
+      },
+      {
         "name": "Tyler Kleven",
         "team": "OTT",
         "status": "Out",
         "details": "out",
         "date": "2026-04-04T14:55Z"
-      },
-      {
-        "name": "Carter Yakemchuk",
-        "team": "OTT",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-04T14:19Z"
-      },
-      {
-        "name": "Dennis Gilbert",
-        "team": "OTT",
-        "status": "Out",
-        "details": "Gilbert suffered an upper-body injury during Saturday's game against Toronto and was expected to miss time. He's officially facing a multi-week return timetable that could force him to miss the remainder of the regular season, but it seems possible that he could be back in action for a potential playoff run.",
-        "date": "2026-03-26T15:43Z"
       },
       {
         "name": "Thomas Chabot",
@@ -608,16 +622,16 @@
       {
         "name": "Shane Wright",
         "team": "SEA",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-07T23:56Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Philipp Grubauer",
         "team": "SEA",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-07T22:20Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Max McCormick",
@@ -629,25 +643,25 @@
     ],
     "TBL": [
       {
-        "name": "Anthony Cirelli",
-        "team": "TBL",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-07T22:50Z"
-      },
-      {
-        "name": "Brandon Hagel",
-        "team": "TBL",
-        "status": "Out",
-        "details": "Hagel's absence will reach four games. The 27-year-old winger's status beyond Tuesday hasn't been announced yet. The Lightning have numerous injuries up front but will likely remain cautious through the end of the regular season, so it's unclear if Hagel will be cleared for Thursday versus the Canadiens.",
-        "date": "2026-04-07T22:38Z"
-      },
-      {
         "name": "Pontus Holmberg",
         "team": "TBL",
         "status": "Out",
         "details": "out",
-        "date": "2026-04-07T02:17Z"
+        "date": "2026-04-08T19:57Z"
+      },
+      {
+        "name": "Anthony Cirelli",
+        "team": "TBL",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
+      },
+      {
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Victor Hedman",
@@ -680,11 +694,25 @@
     ],
     "TOR": [
       {
-        "name": "Oliver Ekman-Larsson",
+        "name": "Dakota Joshua",
         "team": "TOR",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-04-05T14:28Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-09T02:57Z"
+      },
+      {
+        "name": "Brandon Carlo",
+        "team": "TOR",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-09T02:54Z"
+      },
+      {
+        "name": "Anthony Stolarz",
+        "team": "TOR",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-09T02:51Z"
       },
       {
         "name": "Chris Tanev",
@@ -696,18 +724,18 @@
     ],
     "VAN": [
       {
-        "name": "Evander Kane",
-        "team": "VAN",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-07T18:50Z"
-      },
-      {
         "name": "Kevin Lankinen",
         "team": "VAN",
-        "status": "Out",
-        "details": "Lankinen missed Saturday's game against the Mammoth due to an illness, but he's also dealing with an upper-body issue that will sideline him for a second consecutive matchup. It's not yet clear when he'll be able to return, but Jiri Patera will presumably remain with Vancouver for Tuesday's game.",
-        "date": "2026-04-06T19:05Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
+      },
+      {
+        "name": "Evander Kane",
+        "team": "VAN",
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-04-08T13:16Z"
       },
       {
         "name": "Thatcher Demko",
@@ -739,6 +767,13 @@
       }
     ],
     "WSH": [
+      {
+        "name": "Charlie Lindgren",
+        "team": "WSH",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T23:21Z"
+      },
       {
         "name": "Eriks Mateiko",
         "team": "WSH",
@@ -824,9 +859,16 @@
     "Noah Ostlund": {
       "name": "Noah Ostlund",
       "team": "BUF",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-04-07T12:22Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T22:45Z"
+    },
+    "Alex Lyon": {
+      "name": "Alex Lyon",
+      "team": "BUF",
+      "status": "Out",
+      "details": "Head coach Lindy Ruff described Lyon's injury as a tweak, so it might be a short-term issue. Ruff also said that Lyon wasn't scheduled to dress Wednesday anyway, so his injury won't influence Buffalo's plans against the Rangers. Either Ukko-Pekka Luukkonen or Colten Ellis will get the start, and the other will serve as the understudy.",
+      "date": "2026-04-08T16:01Z"
     },
     "Sam Carrick": {
       "name": "Sam Carrick",
@@ -936,9 +978,9 @@
     "Nazem Kadri": {
       "name": "Nazem Kadri",
       "team": "COL",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-04-08T02:08Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T14:59Z"
     },
     "Cale Makar": {
       "name": "Cale Makar",
@@ -989,6 +1031,13 @@
       "details": "Dallas has filed the paperwork to gain full cap relief for Seguin, but in doing so, the Stars have ruled out the possibility of him returning at any point during the 2026 postseason. This is the second straight campaign that Seguin has missed a major block of time due to injury -- he played in 20 regular-season outings and an additional 18 playoff matches in 2024-25. He'll finish 2025-26 with seven goals and 17 points in 27 appearances. Seguin's contract runs through 2026-27, so he'll probably be back with the Stars next season.",
       "date": "2026-02-27T20:24Z"
     },
+    "Mason Appleton": {
+      "name": "Mason Appleton",
+      "team": "DET",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T16:06Z"
+    },
     "Michael Rasmussen": {
       "name": "Michael Rasmussen",
       "team": "DET",
@@ -996,12 +1045,19 @@
       "details": "out",
       "date": "2026-04-08T02:23Z"
     },
-    "Mason Appleton": {
-      "name": "Mason Appleton",
-      "team": "DET",
-      "status": "Out",
-      "details": "This will be Appleton's third consecutive game on the shelf. Prior to getting injured, the 30-year-old forward was stuck in a cold stretch, as he had recorded just one goal, 23 hits and 12 PIM across his past 14 appearances. Detroit's next game is against the Flyers on Thursday.",
-      "date": "2026-04-07T15:29Z"
+    "Jason Dickinson": {
+      "name": "Jason Dickinson",
+      "team": "EDM",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-09T05:06Z"
+    },
+    "Connor Ingram": {
+      "name": "Connor Ingram",
+      "team": "EDM",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-09T05:03Z"
     },
     "Leon Draisaitl": {
       "name": "Leon Draisaitl",
@@ -1105,8 +1161,8 @@
       "name": "Andrei Kuzmenko",
       "team": "LAK",
       "status": "Injured Reserve",
-      "details": "Kuzmenko underwent knee surgery last Saturday to repair a torn meniscus. He had 13 goals, 25 points and 68 shots on net across 52 appearances this campaign. If the Kings qualify for the playoffs, it's unclear when Kuzmenko will be ready to return to the lineup.",
-      "date": "2026-03-06T22:09Z"
+      "details": "Kuzmenko was previously ruled out for the remainder of the regular season, but this latest update would leave the door open for him to play in the season finale versus the Flames on April 16. In his 15 games before getting hurt, the 30-year-old winger notched four goals and five assists, including five power-play points.",
+      "date": "2026-04-08T19:29Z"
     },
     "Kevin Fiala": {
       "name": "Kevin Fiala",
@@ -1118,9 +1174,9 @@
     "Zach Bogosian": {
       "name": "Zach Bogosian",
       "team": "MIN",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-07T16:56Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Charlie Stramel": {
       "name": "Charlie Stramel",
@@ -1132,9 +1188,9 @@
     "Joe Veleno": {
       "name": "Joe Veleno",
       "team": "MTL",
-      "status": "Out",
-      "details": "Veleno had played in nine of the last 10 games, exclusively in a bottom-six role. This is his second illness in as many months, but the 26-year-old should be back in the mix soon. He's day-to-day ahead of Thursday's game versus the Lightning.",
-      "date": "2026-04-07T22:46Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Alexandre Carrier": {
       "name": "Alexandre Carrier",
@@ -1153,9 +1209,9 @@
     "Nicolas Hague": {
       "name": "Nicolas Hague",
       "team": "NSH",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-08T01:35Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Arseny Gritsyuk": {
       "name": "Arseny Gritsyuk",
@@ -1185,19 +1241,19 @@
       "details": "MacEwen was injured Nov. 12 and underwent ACL surgery, according to head coach Sheldon Keefe. MacEwen managed six hits and four shots on goal across three appearances for the Devils this season. He should be healthy enough to return for the start of training camp, though he will be an unrestricted free agent come July 1.",
       "date": "2026-01-10T18:44Z"
     },
+    "Tony DeAngelo": {
+      "name": "Tony DeAngelo",
+      "team": "NYI",
+      "status": "Day-To-Day",
+      "details": "DeAngelo took part in Wednesday's practice as part of the second pairing alongside Adam Pelech. DeAngelo has five goals and 33 points in 72 outings in 2025-26. He hasn't been in the lineup since March 24 due to the injury.",
+      "date": "2026-04-08T16:35Z"
+    },
     "Alexander Romanov": {
       "name": "Alexander Romanov",
       "team": "NYI",
       "status": "Injured Reserve",
       "details": "Romanov might be available to return to the lineup before the end of the regular season. He has missed the last 58 games after having shoulder surgery in late November. Romanov has contributed one assist, 17 shots on goal, 31 blocked shots and 31 hits across 15 appearances this campaign.",
       "date": "2026-04-06T15:02Z"
-    },
-    "Tony DeAngelo": {
-      "name": "Tony DeAngelo",
-      "team": "NYI",
-      "status": "Out",
-      "details": "DeAngelo had already been ruled out for Thursday's game against Dallas. His exit from the lineup coincides with Ryan Pulock's (lower body) return. When DeAngelo is ready to return, he will likely serve in a top-four capacity.",
-      "date": "2026-03-26T23:05Z"
     },
     "Pierre Engvall": {
       "name": "Pierre Engvall",
@@ -1234,26 +1290,19 @@
       "details": "Rempe remains on injured reserve and will miss his 14th straight game against Ottawa on Monday. Head coach Mike Sullivan admitted that he would be \"surprised\" if Rempe played again this season. The 23-year-old Rempe appears poised to finish the 2025-26 campaign with one goal, 15 shots on net, 86 hits and 11 PIM in 26 appearances.",
       "date": "2026-03-23T14:59Z"
     },
+    "Dennis Gilbert": {
+      "name": "Dennis Gilbert",
+      "team": "OTT",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T14:29Z"
+    },
     "Tyler Kleven": {
       "name": "Tyler Kleven",
       "team": "OTT",
       "status": "Out",
       "details": "out",
       "date": "2026-04-04T14:55Z"
-    },
-    "Carter Yakemchuk": {
-      "name": "Carter Yakemchuk",
-      "team": "OTT",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-04T14:19Z"
-    },
-    "Dennis Gilbert": {
-      "name": "Dennis Gilbert",
-      "team": "OTT",
-      "status": "Out",
-      "details": "Gilbert suffered an upper-body injury during Saturday's game against Toronto and was expected to miss time. He's officially facing a multi-week return timetable that could force him to miss the remainder of the regular season, but it seems possible that he could be back in action for a potential playoff run.",
-      "date": "2026-03-26T15:43Z"
     },
     "Thomas Chabot": {
       "name": "Thomas Chabot",
@@ -1342,16 +1391,16 @@
     "Shane Wright": {
       "name": "Shane Wright",
       "team": "SEA",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-07T23:56Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Philipp Grubauer": {
       "name": "Philipp Grubauer",
       "team": "SEA",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-07T22:20Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Max McCormick": {
       "name": "Max McCormick",
@@ -1360,26 +1409,26 @@
       "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
       "date": "2025-09-30T16:59Z"
     },
-    "Anthony Cirelli": {
-      "name": "Anthony Cirelli",
-      "team": "TBL",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-07T22:50Z"
-    },
-    "Brandon Hagel": {
-      "name": "Brandon Hagel",
-      "team": "TBL",
-      "status": "Out",
-      "details": "Hagel's absence will reach four games. The 27-year-old winger's status beyond Tuesday hasn't been announced yet. The Lightning have numerous injuries up front but will likely remain cautious through the end of the regular season, so it's unclear if Hagel will be cleared for Thursday versus the Canadiens.",
-      "date": "2026-04-07T22:38Z"
-    },
     "Pontus Holmberg": {
       "name": "Pontus Holmberg",
       "team": "TBL",
       "status": "Out",
       "details": "out",
-      "date": "2026-04-07T02:17Z"
+      "date": "2026-04-08T19:57Z"
+    },
+    "Anthony Cirelli": {
+      "name": "Anthony Cirelli",
+      "team": "TBL",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
+    },
+    "Brandon Hagel": {
+      "name": "Brandon Hagel",
+      "team": "TBL",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Victor Hedman": {
       "name": "Victor Hedman",
@@ -1409,12 +1458,26 @@
       "details": "James will miss the remainder of the regular season and could be sidelined through more than one playoff series, assuming the Lightning go that far. As a rookie, the 23-year-old winger put up seven goals, eight assists and 56 shots in 43 contests while averaging 12:14 of ice time.",
       "date": "2026-03-05T14:21Z"
     },
-    "Oliver Ekman-Larsson": {
-      "name": "Oliver Ekman-Larsson",
+    "Dakota Joshua": {
+      "name": "Dakota Joshua",
       "team": "TOR",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-04-05T14:28Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-09T02:57Z"
+    },
+    "Brandon Carlo": {
+      "name": "Brandon Carlo",
+      "team": "TOR",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-09T02:54Z"
+    },
+    "Anthony Stolarz": {
+      "name": "Anthony Stolarz",
+      "team": "TOR",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-09T02:51Z"
     },
     "Chris Tanev": {
       "name": "Chris Tanev",
@@ -1423,19 +1486,19 @@
       "details": "Tanev is projected to be ready for training camp in September. He's signed to a six-year, $27 million contract that runs through 2029-30 and comes with a no-movement clause, so it's fair to believe he'll still be a member of the Leafs for the 2026-27 season. The 36-year-old defenseman will complete 2025-26 with two assists, eight shots, two hits and 15 blocks in 11 appearances.",
       "date": "2026-03-04T16:59Z"
     },
-    "Evander Kane": {
-      "name": "Evander Kane",
-      "team": "VAN",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-07T18:50Z"
-    },
     "Kevin Lankinen": {
       "name": "Kevin Lankinen",
       "team": "VAN",
-      "status": "Out",
-      "details": "Lankinen missed Saturday's game against the Mammoth due to an illness, but he's also dealing with an upper-body issue that will sideline him for a second consecutive matchup. It's not yet clear when he'll be able to return, but Jiri Patera will presumably remain with Vancouver for Tuesday's game.",
-      "date": "2026-04-06T19:05Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
+    },
+    "Evander Kane": {
+      "name": "Evander Kane",
+      "team": "VAN",
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-04-08T13:16Z"
     },
     "Thatcher Demko": {
       "name": "Thatcher Demko",
@@ -1464,6 +1527,13 @@
       "status": "Injured Reserve",
       "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
       "date": "2025-10-28T17:30Z"
+    },
+    "Charlie Lindgren": {
+      "name": "Charlie Lindgren",
+      "team": "WSH",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T23:21Z"
     },
     "Eriks Mateiko": {
       "name": "Eriks Mateiko",
@@ -1534,6 +1604,6 @@
       "boost": 1.06
     }
   },
-  "total_injured": 103,
-  "fetched_at": "2026-04-08T06:30:38.173095"
+  "total_injured": 108,
+  "fetched_at": "2026-04-09T06:09:40.974728"
 }

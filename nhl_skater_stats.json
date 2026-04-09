@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T07:46:32.976746",
+  "fetched_at": "2026-04-09T06:09:43.572140",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -7,7 +7,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 128
+      "value": 133
     },
     {
       "player_id": 8476453,
@@ -31,7 +31,7 @@
       "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 107
+      "value": 108
     },
     {
       "player_id": 8477956,
@@ -65,7 +65,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 44
+      "value": 47
     },
     {
       "player_id": 8476453,
@@ -91,7 +91,7 @@
       "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 84
+      "value": 86
     },
     {
       "player_id": 8476453,
@@ -118,12 +118,12 @@
       "value": 70
     },
     {
-      "player_id": 8480018,
-      "name": "Nick Suzuki",
-      "team": "MTL",
+      "player_id": 8480803,
+      "name": "Evan Bouchard",
+      "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 68
+      "value": 70
     }
   ]
 }

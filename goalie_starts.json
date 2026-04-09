@@ -1,14 +1,98 @@
 {
   "starters": {
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Anton Forsberg": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Karel Vejmelka": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ilya Sorokin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jacob Markstrom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Igor Shesterkin": {
+    "Justus Annunen": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Connor Ingram": {
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jesper Wallstedt": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Devin Cooley": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Nikita Tolopilo": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Adin Hill": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Spencer Knight": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "John Gibson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joey Daccord": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Sergei Bobrovsky": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joel Hofer": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Hellebuyck": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arturs Silovs": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -16,11 +100,11 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Logan Thompson": {
+    "Jet Greaves": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Joseph Woll": {
+    "Lukas Dostal": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -29,6 +113,6 @@
       "starting_today": false
     }
   },
-  "date": "2026-04-08",
-  "fetched_at": "2026-04-08T06:30:37.228208"
+  "date": "2026-04-09",
+  "fetched_at": "2026-04-09T06:09:38.869623"
 }
