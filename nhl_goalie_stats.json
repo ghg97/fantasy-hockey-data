@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T06:09:46.112778",
+  "fetched_at": "2026-04-10T06:01:44.536858",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -13,14 +13,14 @@
       "name": "Karel Vejmelka",
       "team": "UTA",
       "games_played": null,
-      "value": 36
+      "value": 37
     },
     {
       "player_id": 8479979,
       "name": "Jake Oettinger",
       "team": "DAL",
       "games_played": null,
-      "value": 32
+      "value": 33
     },
     {
       "player_id": 8480280,
@@ -30,9 +30,9 @@
       "value": 30
     },
     {
-      "player_id": 8483548,
-      "name": "Brandon Bussi",
-      "team": "CAR",
+      "player_id": 8480843,
+      "name": "Lukas Dostal",
+      "team": "ANA",
       "games_played": null,
       "value": 30
     }
@@ -57,14 +57,14 @@
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
       "games_played": null,
-      "value": 0.912119
+      "value": 0.912011
     },
     {
       "player_id": 8480313,
       "name": "Logan Thompson",
       "team": "WSH",
       "games_played": null,
-      "value": 0.91167
+      "value": 0.911727
     },
     {
       "player_id": 8478048,

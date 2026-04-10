@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-09T06:09:49.457572",
+  "fetched_at": "2026-04-10T06:01:46.516078",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -40,18 +40,18 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "position": "C",
-      "line": 1,
-      "pp_unit": 1,
+      "line": null,
+      "pp_unit": null,
       "selected_position": "LW",
-      "status": "",
-      "nhl_position": "Right Wing"
+      "status": "O",
+      "nhl_position": "Injured Reserve 6"
     },
     {
       "player_id": 7554,
       "name": "Jason Robertson",
       "team": "DAL",
       "position": "LW",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
       "selected_position": "RW",
       "status": "",
@@ -73,7 +73,7 @@
       "name": "Sean Walker",
       "team": "CAR",
       "position": "D",
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "selected_position": "D",
       "status": "",
@@ -120,7 +120,7 @@
       "line": null,
       "pp_unit": null,
       "selected_position": "Util",
-      "status": "DTD",
+      "status": "O",
       "nhl_position": "Injured Reserve 5"
     },
     {
@@ -209,7 +209,7 @@
       "pp_unit": null,
       "selected_position": "BN",
       "status": "",
-      "nhl_position": "Starting Goalie"
+      "nhl_position": "Backup Goalie"
     }
   ]
 }

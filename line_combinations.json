@@ -98,7 +98,7 @@
     }
   },
   "player_lines": {
-    "Mikael Granlund": {
+    "Chris Kreider": {
       "team": "ANA",
       "pp_unit": 1,
       "line": 1,
@@ -110,33 +110,33 @@
       "line": 1,
       "position": "Center"
     },
-    "Beckett Sennecke": {
-      "team": "ANA",
-      "pp_unit": 2,
-      "line": 1,
-      "position": "Right Wing"
-    },
-    "Chris Kreider": {
-      "team": "ANA",
-      "pp_unit": 1,
-      "line": 2,
-      "position": "Left Wing"
-    },
-    "Ryan Poehling": {
-      "team": "ANA",
-      "pp_unit": 2,
-      "line": 2,
-      "position": "Center"
-    },
     "Troy Terry": {
       "team": "ANA",
       "pp_unit": 1,
-      "line": 2,
+      "line": 1,
       "position": "Right Wing"
     },
     "Alex Killorn": {
       "team": "ANA",
       "pp_unit": 2,
+      "line": 2,
+      "position": "Left Wing"
+    },
+    "Mikael Granlund": {
+      "team": "ANA",
+      "pp_unit": 1,
+      "line": 2,
+      "position": "Center"
+    },
+    "Beckett Sennecke": {
+      "team": "ANA",
+      "pp_unit": 2,
+      "line": 2,
+      "position": "Right Wing"
+    },
+    "Frank Vatrano": {
+      "team": "ANA",
+      "pp_unit": null,
       "line": 3,
       "position": "Left Wing"
     },
@@ -155,6 +155,12 @@
     "Tim Washe": {
       "team": "ANA",
       "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Ryan Poehling": {
+      "team": "ANA",
+      "pp_unit": 2,
       "line": 4,
       "position": "Center"
     },
@@ -212,12 +218,6 @@
       "line": null,
       "position": "Backup Goalie"
     },
-    "Olen Zellweger": {
-      "team": "ANA",
-      "pp_unit": null,
-      "line": 4,
-      "position": "Left Defense"
-    },
     "Petr Mrazek": {
       "team": "ANA",
       "pp_unit": null,
@@ -235,6 +235,12 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 3"
+    },
+    "Olen Zellweger": {
+      "team": "ANA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Skater 4"
     },
     "Morgan Geekie": {
       "team": "BOS",
@@ -410,7 +416,7 @@
       "line": 3,
       "position": "Right Wing"
     },
-    "Tanner Pearson": {
+    "Jordan Greenway": {
       "team": "BUF",
       "pp_unit": null,
       "line": 4,
@@ -452,25 +458,25 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Conor Timmins": {
+    "Logan Stanley": {
       "team": "BUF",
       "pp_unit": null,
       "line": 3,
       "position": "Left Defense"
     },
-    "Michael Kesselring": {
+    "Zach Metsa": {
       "team": "BUF",
       "pp_unit": null,
       "line": 3,
       "position": "Right Defense"
     },
-    "Ukko-Pekka Luukkonen": {
+    "Colten Ellis": {
       "team": "BUF",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Colten Ellis": {
+    "Ukko-Pekka Luukkonen": {
       "team": "BUF",
       "pp_unit": null,
       "line": null,
@@ -506,15 +512,9 @@
       "line": null,
       "position": "Injured Reserve 5"
     },
-    "Jordan Greenway": {
-      "team": "BUF",
-      "pp_unit": null,
-      "line": null,
-      "position": "Skater 2"
-    },
-    "Blake Coleman": {
+    "Yegor Sharangovich": {
       "team": "CGY",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Left Wing"
     },
@@ -548,33 +548,33 @@
       "line": 2,
       "position": "Right Wing"
     },
+    "Connor Zary": {
+      "team": "CGY",
+      "pp_unit": 1,
+      "line": 3,
+      "position": "Left Wing"
+    },
+    "John Beecher": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
     "Aydar Suniev": {
       "team": "CGY",
       "pp_unit": 2,
       "line": 3,
-      "position": "Left Wing"
-    },
-    "Ryan Strome": {
-      "team": "CGY",
-      "pp_unit": 2,
-      "line": 3,
-      "position": "Center"
-    },
-    "Martin Pospisil": {
-      "team": "CGY",
-      "pp_unit": null,
-      "line": 3,
       "position": "Right Wing"
     },
-    "Yegor Sharangovich": {
+    "Victor Olofsson": {
       "team": "CGY",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 4,
       "position": "Left Wing"
     },
-    "Connor Zary": {
+    "Tyson Gross": {
       "team": "CGY",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 4,
       "position": "Center"
     },
@@ -584,7 +584,7 @@
       "line": 4,
       "position": "Right Wing"
     },
-    "Kevin Bahl": {
+    "Yan Kuznetsov": {
       "team": "CGY",
       "pp_unit": null,
       "line": 1,
@@ -596,37 +596,37 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "Yan Kuznetsov": {
-      "team": "CGY",
-      "pp_unit": null,
-      "line": 2,
-      "position": "Left Defense"
-    },
-    "Zayne Parekh": {
-      "team": "CGY",
-      "pp_unit": 1,
-      "line": 2,
-      "position": "Right Defense"
-    },
     "Olli Maatta": {
       "team": "CGY",
       "pp_unit": null,
-      "line": 3,
+      "line": 2,
       "position": "Left Defense"
     },
     "Hunter Brzustewicz": {
       "team": "CGY",
       "pp_unit": 2,
+      "line": 2,
+      "position": "Right Defense"
+    },
+    "Brayden Pachal": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Zayne Parekh": {
+      "team": "CGY",
+      "pp_unit": 1,
       "line": 3,
       "position": "Right Defense"
     },
-    "Devin Cooley": {
+    "Dustin Wolf": {
       "team": "CGY",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Dustin Wolf": {
+    "Devin Cooley": {
       "team": "CGY",
       "pp_unit": null,
       "line": null,
@@ -656,79 +656,91 @@
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Andrei Svechnikov": {
-      "team": "CAR",
-      "pp_unit": 1,
-      "line": 1,
-      "position": "Left Wing"
+    "Kevin Bahl": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 5"
     },
-    "Sebastian Aho": {
-      "team": "CAR",
-      "pp_unit": 1,
-      "line": 1,
-      "position": "Center"
-    },
-    "Seth Jarvis": {
-      "team": "CAR",
-      "pp_unit": 1,
-      "line": 1,
-      "position": "Right Wing"
+    "Blake Coleman": {
+      "team": "CGY",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 6"
     },
     "Taylor Hall": {
       "team": "CAR",
-      "pp_unit": 2,
-      "line": 2,
+      "pp_unit": 1,
+      "line": 1,
       "position": "Left Wing"
     },
     "Logan Stankoven": {
       "team": "CAR",
-      "pp_unit": 2,
-      "line": 2,
+      "pp_unit": 1,
+      "line": 1,
       "position": "Center"
     },
     "Jackson Blake": {
       "team": "CAR",
-      "pp_unit": 2,
-      "line": 2,
+      "pp_unit": 1,
+      "line": 1,
       "position": "Right Wing"
     },
     "Nikolaj Ehlers": {
       "team": "CAR",
       "pp_unit": 1,
-      "line": 3,
+      "line": 2,
       "position": "Left Wing"
     },
-    "Jordan Staal": {
+    "Jesperi Kotkaniemi": {
       "team": "CAR",
       "pp_unit": 2,
-      "line": 3,
+      "line": 2,
       "position": "Center"
     },
-    "Jordan Martinook": {
+    "Bradly Nadeau": {
       "team": "CAR",
-      "pp_unit": null,
-      "line": 3,
+      "pp_unit": 2,
+      "line": 2,
       "position": "Right Wing"
     },
     "William Carrier": {
       "team": "CAR",
       "pp_unit": null,
-      "line": 4,
+      "line": 3,
       "position": "Left Wing"
     },
     "Mark Jankowski": {
       "team": "CAR",
-      "pp_unit": null,
-      "line": 4,
+      "pp_unit": 2,
+      "line": 3,
       "position": "Center"
     },
     "Nicolas Deslauriers": {
       "team": "CAR",
       "pp_unit": null,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Josiah Slavin": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Skyler Brind'Amour": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Center"
+    },
+    "Eric Robinson": {
+      "team": "CAR",
+      "pp_unit": null,
       "line": 4,
       "position": "Right Wing"
     },
-    "Jaccob Slavin": {
+    "K'Andre Miller": {
       "team": "CAR",
       "pp_unit": null,
       "line": 1,
@@ -740,53 +752,89 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "K'Andre Miller": {
-      "team": "CAR",
-      "pp_unit": null,
-      "line": 2,
-      "position": "Left Defense"
-    },
-    "Jalen Chatfield": {
-      "team": "CAR",
-      "pp_unit": null,
-      "line": 2,
-      "position": "Right Defense"
-    },
     "Alexander Nikishin": {
       "team": "CAR",
       "pp_unit": 2,
-      "line": 3,
+      "line": 2,
       "position": "Left Defense"
     },
     "Sean Walker": {
       "team": "CAR",
       "pp_unit": null,
-      "line": 3,
+      "line": 2,
       "position": "Right Defense"
     },
-    "Brandon Bussi": {
+    "Mike Reilly": {
+      "team": "CAR",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Left Defense"
+    },
+    "Charles-Alexis Legault": {
       "team": "CAR",
       "pp_unit": null,
-      "line": null,
-      "position": "Starting Goalie"
+      "line": 3,
+      "position": "Right Defense"
     },
     "Frederik Andersen": {
       "team": "CAR",
       "pp_unit": null,
       "line": null,
-      "position": "Backup Goalie"
+      "position": "Starting Goalie"
     },
-    "Charles-Alexis Legault": {
+    "Brandon Bussi": {
       "team": "CAR",
       "pp_unit": null,
       "line": null,
-      "position": "Injured Reserve 1"
+      "position": "Backup Goalie"
     },
     "Pyotr Kochetkov": {
       "team": "CAR",
       "pp_unit": null,
       "line": null,
+      "position": "Injured Reserve 1"
+    },
+    "Jalen Chatfield": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
       "position": "Injured Reserve 2"
+    },
+    "Jaccob Slavin": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
+    },
+    "Jordan Staal": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 4"
+    },
+    "Jordan Martinook": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 5"
+    },
+    "Seth Jarvis": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 6"
+    },
+    "Sebastian Aho": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 7"
+    },
+    "Andrei Svechnikov": {
+      "team": "CAR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 8"
     },
     "Teuvo Teravainen": {
       "team": "CHI",
@@ -944,9 +992,9 @@
       "line": 1,
       "position": "Right Wing"
     },
-    "Ross Colton": {
+    "Gabriel Landeskog": {
       "team": "COL",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 2,
       "position": "Left Wing"
     },
@@ -962,19 +1010,19 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Gabriel Landeskog": {
+    "Ross Colton": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Left Wing"
     },
-    "Nazem Kadri": {
+    "Nicolas Roy": {
       "team": "COL",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 3,
       "position": "Center"
     },
-    "Nicolas Roy": {
+    "Joel Kiviranta": {
       "team": "COL",
       "pp_unit": null,
       "line": 3,
@@ -1034,17 +1082,23 @@
       "line": 3,
       "position": "Right Defense"
     },
-    "Scott Wedgewood": {
+    "Mackenzie Blackwood": {
       "team": "COL",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Mackenzie Blackwood": {
+    "Scott Wedgewood": {
       "team": "COL",
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
+    },
+    "Nazem Kadri": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
     },
     "Cale Makar": {
       "team": "COL",
@@ -1148,7 +1202,7 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Jake Christiansen": {
+    "Egor Zamula": {
       "team": "CBJ",
       "pp_unit": null,
       "line": 3,
@@ -1196,9 +1250,9 @@
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Jason Robertson": {
+    "Justin Hryckowian": {
       "team": "DAL",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Left Wing"
     },
@@ -1214,9 +1268,9 @@
       "line": 1,
       "position": "Right Wing"
     },
-    "Jamie Benn": {
+    "Jason Robertson": {
       "team": "DAL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 2,
       "position": "Left Wing"
     },
@@ -1226,41 +1280,47 @@
       "line": 2,
       "position": "Center"
     },
-    "Colin Blackwell": {
-      "team": "DAL",
-      "pp_unit": null,
-      "line": 2,
-      "position": "Right Wing"
-    },
-    "Oskar Back": {
-      "team": "DAL",
-      "pp_unit": null,
-      "line": 3,
-      "position": "Left Wing"
-    },
-    "Justin Hryckowian": {
-      "team": "DAL",
-      "pp_unit": 2,
-      "line": 3,
-      "position": "Center"
-    },
     "Mavrik Bourque": {
       "team": "DAL",
       "pp_unit": 2,
-      "line": 3,
+      "line": 2,
       "position": "Right Wing"
     },
     "Adam Erne": {
       "team": "DAL",
       "pp_unit": null,
-      "line": 4,
+      "line": 3,
       "position": "Left Wing"
     },
     "Arttu Hyry": {
       "team": "DAL",
       "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Jamie Benn": {
+      "team": "DAL",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Right Wing"
+    },
+    "Cameron Hughes": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Left Wing"
+    },
+    "Oskar Back": {
+      "team": "DAL",
+      "pp_unit": null,
       "line": 4,
       "position": "Center"
+    },
+    "Colin Blackwell": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
     },
     "Esa Lindell": {
       "team": "DAL",
@@ -1280,7 +1340,7 @@
       "line": 2,
       "position": "Left Defense"
     },
-    "Nils Lundkvist": {
+    "Tyler Myers": {
       "team": "DAL",
       "pp_unit": null,
       "line": 2,
@@ -1292,7 +1352,7 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Tyler Myers": {
+    "Ilya Lyubushkin": {
       "team": "DAL",
       "pp_unit": null,
       "line": 3,
@@ -1309,12 +1369,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
-    },
-    "Ilya Lyubushkin": {
-      "team": "DAL",
-      "pp_unit": null,
-      "line": 4,
-      "position": "Right Defense"
     },
     "Tyler Seguin": {
       "team": "DAL",
@@ -1352,6 +1406,12 @@
       "line": null,
       "position": "Injured Reserve 6"
     },
+    "Nils Lundkvist": {
+      "team": "DAL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 7"
+    },
     "Emmitt Finnie": {
       "team": "DET",
       "pp_unit": 2,
@@ -1388,7 +1448,7 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Marco Kasper": {
+    "Carter Mazur": {
       "team": "DET",
       "pp_unit": null,
       "line": 3,
@@ -1412,13 +1472,13 @@
       "line": 4,
       "position": "Left Wing"
     },
-    "Michael Rasmussen": {
+    "Marco Kasper": {
       "team": "DET",
       "pp_unit": null,
       "line": 4,
       "position": "Center"
     },
-    "Carter Mazur": {
+    "Dominik Shine": {
       "team": "DET",
       "pp_unit": null,
       "line": 4,
@@ -1454,7 +1514,7 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Axel Sandin-Pellikka": {
+    "Jacob Bernard-Docker": {
       "team": "DET",
       "pp_unit": null,
       "line": 3,
@@ -1472,9 +1532,15 @@
       "line": null,
       "position": "Backup Goalie"
     },
+    "Michael Rasmussen": {
+      "team": "DET",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
+    },
     "Vasily Podkolzin": {
       "team": "EDM",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 1,
       "position": "Left Wing"
     },
@@ -1486,7 +1552,7 @@
     },
     "Matthew Savoie": {
       "team": "EDM",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Right Wing"
     },
@@ -1664,7 +1730,7 @@
       "line": 3,
       "position": "Right Wing"
     },
-    "Cole Reinhardt": {
+    "Nolan Foote": {
       "team": "FLA",
       "pp_unit": null,
       "line": 4,
@@ -1678,7 +1744,7 @@
     },
     "Vinnie Hinostroza": {
       "team": "FLA",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 4,
       "position": "Right Wing"
     },
@@ -1688,9 +1754,9 @@
       "line": 1,
       "position": "Left Defense"
     },
-    "Dmitry Kulikov": {
+    "Michael Benning": {
       "team": "FLA",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 1,
       "position": "Right Defense"
     },
@@ -1700,21 +1766,21 @@
       "line": 2,
       "position": "Left Defense"
     },
-    "Seth Jones": {
+    "Ludvig Jansson": {
       "team": "FLA",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Defense"
     },
-    "Donovan Sebrango": {
+    "Marek Alscher": {
       "team": "FLA",
       "pp_unit": null,
       "line": 3,
       "position": "Left Defense"
     },
-    "Michael Benning": {
+    "Donovan Sebrango": {
       "team": "FLA",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Right Defense"
     },
@@ -1741,6 +1807,12 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 2"
+    },
+    "Dmitry Kulikov": {
+      "team": "FLA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 3"
     },
     "Evan Rodrigues": {
       "team": "FLA",
@@ -1771,12 +1843,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 8"
-    },
-    "Nolan Foote": {
-      "team": "FLA",
-      "pp_unit": null,
-      "line": null,
-      "position": "Skater 2"
     },
     "Artemi Panarin": {
       "team": "LAK",
@@ -1946,9 +2012,9 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Vladimir Tarasenko": {
+    "Yakov Trenin": {
       "team": "MIN",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Left Wing"
     },
@@ -1958,13 +2024,13 @@
       "line": 3,
       "position": "Center"
     },
-    "Bobby Brink": {
+    "Vladimir Tarasenko": {
       "team": "MIN",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Right Wing"
     },
-    "Yakov Trenin": {
+    "Nick Foligno": {
       "team": "MIN",
       "pp_unit": null,
       "line": 4,
@@ -2018,13 +2084,13 @@
       "line": 3,
       "position": "Right Defense"
     },
-    "Jesper Wallstedt": {
+    "Filip Gustavsson": {
       "team": "MIN",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Filip Gustavsson": {
+    "Jesper Wallstedt": {
       "team": "MIN",
       "pp_unit": null,
       "line": null,
@@ -2060,9 +2126,9 @@
       "line": 2,
       "position": "Left Wing"
     },
-    "Alex Newhook": {
+    "Oliver Kapanen": {
       "team": "MTL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 2,
       "position": "Center"
     },
@@ -2072,31 +2138,31 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Kirby Dach": {
+    "Alex Newhook": {
       "team": "MTL",
       "pp_unit": 2,
       "line": 3,
       "position": "Left Wing"
     },
-    "Jake Evans": {
+    "Phillip Danault": {
       "team": "MTL",
       "pp_unit": null,
       "line": 3,
       "position": "Center"
     },
-    "Zack Bolduc": {
+    "Kirby Dach": {
       "team": "MTL",
       "pp_unit": 2,
       "line": 3,
       "position": "Right Wing"
     },
-    "Oliver Kapanen": {
+    "Joe Veleno": {
       "team": "MTL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 4,
       "position": "Left Wing"
     },
-    "Phillip Danault": {
+    "Jake Evans": {
       "team": "MTL",
       "pp_unit": null,
       "line": 4,
@@ -2180,17 +2246,11 @@
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Joe Veleno": {
-      "team": "MTL",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 5"
-    },
     "Kaiden Guhle": {
       "team": "MTL",
       "pp_unit": null,
       "line": null,
-      "position": "Injured Reserve 6"
+      "position": "Injured Reserve 5"
     },
     "Steven Stamkos": {
       "team": "NSH",
@@ -2204,9 +2264,9 @@
       "line": 1,
       "position": "Center"
     },
-    "Luke Evangelista": {
+    "Tyson Jost": {
       "team": "NSH",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 1,
       "position": "Right Wing"
     },
@@ -2228,7 +2288,7 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Tyson Jost": {
+    "Zachary L'Heureux": {
       "team": "NSH",
       "pp_unit": null,
       "line": 3,
@@ -2240,7 +2300,7 @@
       "line": 3,
       "position": "Center"
     },
-    "Zachary L'Heureux": {
+    "Joakim Kemell": {
       "team": "NSH",
       "pp_unit": null,
       "line": 3,
@@ -2258,9 +2318,9 @@
       "line": 4,
       "position": "Center"
     },
-    "Joakim Kemell": {
+    "Luke Evangelista": {
       "team": "NSH",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 4,
       "position": "Right Wing"
     },
@@ -2282,7 +2342,7 @@
       "line": 2,
       "position": "Left Defense"
     },
-    "Justin Barron": {
+    "Nick Perbix": {
       "team": "NSH",
       "pp_unit": null,
       "line": 2,
@@ -2294,19 +2354,19 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Nick Perbix": {
+    "Justin Barron": {
       "team": "NSH",
       "pp_unit": null,
       "line": 3,
       "position": "Right Defense"
     },
-    "Justus Annunen": {
+    "Juuse Saros": {
       "team": "NSH",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Juuse Saros": {
+    "Justus Annunen": {
       "team": "NSH",
       "pp_unit": null,
       "line": null,
@@ -2356,7 +2416,7 @@
     },
     "Lenni Hameenaho": {
       "team": "NJD",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Left Wing"
     },
@@ -2402,37 +2462,37 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "Luke Hughes": {
+    "Brenden Dillon": {
+      "team": "NJD",
+      "pp_unit": null,
+      "line": 2,
+      "position": "Left Defense"
+    },
+    "Simon Nemec": {
       "team": "NJD",
       "pp_unit": 1,
       "line": 2,
+      "position": "Right Defense"
+    },
+    "Dennis Cholowski": {
+      "team": "NJD",
+      "pp_unit": null,
+      "line": 3,
       "position": "Left Defense"
     },
     "Johnathan Kovacevic": {
       "team": "NJD",
       "pp_unit": null,
-      "line": 2,
-      "position": "Right Defense"
-    },
-    "Brenden Dillon": {
-      "team": "NJD",
-      "pp_unit": null,
-      "line": 3,
-      "position": "Left Defense"
-    },
-    "Simon Nemec": {
-      "team": "NJD",
-      "pp_unit": 2,
       "line": 3,
       "position": "Right Defense"
     },
-    "Jacob Markstrom": {
+    "Jake Allen": {
       "team": "NJD",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Jake Allen": {
+    "Jacob Markstrom": {
       "team": "NJD",
       "pp_unit": null,
       "line": null,
@@ -2461,6 +2521,12 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 4"
+    },
+    "Luke Hughes": {
+      "team": "NJD",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 5"
     },
     "Anders Lee": {
       "team": "NYI",
@@ -2522,7 +2588,7 @@
       "line": 4,
       "position": "Left Wing"
     },
-    "Kyle MacLean": {
+    "Casey Cizikas": {
       "team": "NYI",
       "pp_unit": null,
       "line": 4,
@@ -2605,12 +2671,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 4"
-    },
-    "Casey Cizikas": {
-      "team": "NYI",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 7"
     },
     "Gabriel Perreault": {
       "team": "NYR",
@@ -2818,7 +2878,7 @@
     },
     "Jake Sanderson": {
       "team": "OTT",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Left Defense"
     },
@@ -2828,15 +2888,15 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "Nikolas Matinpalo": {
+    "Thomas Chabot": {
       "team": "OTT",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 2,
       "position": "Left Defense"
     },
     "Jordan Spence": {
       "team": "OTT",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Defense"
     },
@@ -2846,7 +2906,7 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Cameron Crotty": {
+    "Nikolas Matinpalo": {
       "team": "OTT",
       "pp_unit": null,
       "line": 3,
@@ -2881,12 +2941,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 3"
-    },
-    "Thomas Chabot": {
-      "team": "OTT",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 4"
     },
     "Tyson Foerster": {
       "team": "PHI",
@@ -3074,13 +3128,13 @@
       "line": 4,
       "position": "Left Wing"
     },
-    "Connor Dewar": {
+    "Noel Acciari": {
       "team": "PIT",
       "pp_unit": null,
       "line": 4,
       "position": "Center"
     },
-    "Noel Acciari": {
+    "Avery Hayes": {
       "team": "PIT",
       "pp_unit": null,
       "line": 4,
@@ -3122,13 +3176,13 @@
       "line": 3,
       "position": "Right Defense"
     },
-    "Arturs Silovs": {
+    "Stuart Skinner": {
       "team": "PIT",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Sergei Murashov": {
+    "Arturs Silovs": {
       "team": "PIT",
       "pp_unit": null,
       "line": null,
@@ -3151,12 +3205,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 3"
-    },
-    "Stuart Skinner": {
-      "team": "PIT",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 4"
     },
     "Collin Graf": {
       "team": "SJS",
@@ -3194,9 +3242,9 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Igor Chernyshov": {
+    "Tyler Toffoli": {
       "team": "SJS",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 3,
       "position": "Left Wing"
     },
@@ -3206,9 +3254,9 @@
       "line": 3,
       "position": "Center"
     },
-    "Tyler Toffoli": {
+    "Pavol Regenda": {
       "team": "SJS",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 3,
       "position": "Right Wing"
     },
@@ -3224,7 +3272,7 @@
       "line": 4,
       "position": "Center"
     },
-    "Adam Gaudette": {
+    "Ty Dellandrea": {
       "team": "SJS",
       "pp_unit": null,
       "line": 4,
@@ -3242,21 +3290,21 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "Mario Ferraro": {
+    "Shakir Mukhamadullin": {
       "team": "SJS",
       "pp_unit": null,
       "line": 2,
       "position": "Left Defense"
     },
-    "John Klingberg": {
+    "Mario Ferraro": {
       "team": "SJS",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Defense"
     },
     "Sam Dickinson": {
       "team": "SJS",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Left Defense"
     },
@@ -3266,13 +3314,13 @@
       "line": 3,
       "position": "Right Defense"
     },
-    "Alex Nedeljkovic": {
+    "Yaroslav Askarov": {
       "team": "SJS",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Yaroslav Askarov": {
+    "Alex Nedeljkovic": {
       "team": "SJS",
       "pp_unit": null,
       "line": null,
@@ -3302,7 +3350,7 @@
       "line": 1,
       "position": "Right Wing"
     },
-    "Kaapo Kakko": {
+    "Jaden Schwartz": {
       "team": "SEA",
       "pp_unit": 2,
       "line": 2,
@@ -3314,7 +3362,7 @@
       "line": 2,
       "position": "Center"
     },
-    "Berkly Catton": {
+    "Kaapo Kakko": {
       "team": "SEA",
       "pp_unit": 2,
       "line": 2,
@@ -3326,19 +3374,19 @@
       "line": 3,
       "position": "Left Wing"
     },
+    "Berkly Catton": {
+      "team": "SEA",
+      "pp_unit": 2,
+      "line": 3,
+      "position": "Center"
+    },
     "Frederick Gaudreau": {
       "team": "SEA",
       "pp_unit": null,
       "line": 3,
-      "position": "Center"
-    },
-    "Jaden Schwartz": {
-      "team": "SEA",
-      "pp_unit": 2,
-      "line": 3,
       "position": "Right Wing"
     },
-    "Ben Meyers": {
+    "Ryan Winterton": {
       "team": "SEA",
       "pp_unit": null,
       "line": 4,
@@ -3350,7 +3398,7 @@
       "line": 4,
       "position": "Center"
     },
-    "Eeli Tolvanen": {
+    "Jacob Melanson": {
       "team": "SEA",
       "pp_unit": null,
       "line": 4,
@@ -3368,7 +3416,7 @@
       "line": 1,
       "position": "Right Defense"
     },
-    "Ryan Lindgren": {
+    "Joshua Mahura": {
       "team": "SEA",
       "pp_unit": null,
       "line": 2,
@@ -3410,6 +3458,12 @@
       "line": null,
       "position": "Injured Reserve 1"
     },
+    "Ryan Lindgren": {
+      "team": "SEA",
+      "pp_unit": null,
+      "line": null,
+      "position": "Skater 3"
+    },
     "Dylan Holloway": {
       "team": "STL",
       "pp_unit": 1,
@@ -3428,37 +3482,37 @@
       "line": 1,
       "position": "Right Wing"
     },
-    "Jonathan Drouin": {
+    "Jake Neighbours": {
       "team": "STL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 2,
       "position": "Left Wing"
     },
-    "Dalibor Dvorsky": {
+    "Pavel Buchnevich": {
       "team": "STL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 2,
       "position": "Center"
     },
-    "Jordan Kyrou": {
+    "Jonatan Berggren": {
       "team": "STL",
       "pp_unit": 2,
       "line": 2,
       "position": "Right Wing"
     },
-    "Jake Neighbours": {
+    "Otto Stenberg": {
       "team": "STL",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 3,
       "position": "Left Wing"
     },
-    "Pius Suter": {
+    "Dalibor Dvorsky": {
       "team": "STL",
       "pp_unit": null,
       "line": 3,
       "position": "Center"
     },
-    "Jonatan Berggren": {
+    "Jordan Kyrou": {
       "team": "STL",
       "pp_unit": 2,
       "line": 3,
@@ -3476,9 +3530,9 @@
       "line": 4,
       "position": "Center"
     },
-    "Pavel Buchnevich": {
+    "Nathan Walker": {
       "team": "STL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 4,
       "position": "Right Wing"
     },
@@ -3518,17 +3572,29 @@
       "line": 3,
       "position": "Right Defense"
     },
-    "Joel Hofer": {
+    "Jordan Binnington": {
       "team": "STL",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Jordan Binnington": {
+    "Joel Hofer": {
       "team": "STL",
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
+    },
+    "Jonathan Drouin": {
+      "team": "STL",
+      "pp_unit": 2,
+      "line": null,
+      "position": "Skater 3"
+    },
+    "Pius Suter": {
+      "team": "STL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Skater 1"
     },
     "Jake Guentzel": {
       "team": "TBL",
@@ -3536,9 +3602,9 @@
       "line": 1,
       "position": "Left Wing"
     },
-    "Brayden Point": {
+    "Anthony Cirelli": {
       "team": "TBL",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Center"
     },
@@ -3554,15 +3620,15 @@
       "line": 2,
       "position": "Left Wing"
     },
-    "Nick Paul": {
+    "Brayden Point": {
       "team": "TBL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 2,
       "position": "Center"
     },
-    "Corey Perry": {
+    "Conor Geekie": {
       "team": "TBL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Wing"
     },
@@ -3590,15 +3656,15 @@
       "line": 4,
       "position": "Left Wing"
     },
-    "Conor Geekie": {
+    "Nick Paul": {
       "team": "TBL",
       "pp_unit": 2,
       "line": 4,
       "position": "Center"
     },
-    "Dylan Duke": {
+    "Corey Perry": {
       "team": "TBL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 4,
       "position": "Right Wing"
     },
@@ -3680,17 +3746,11 @@
       "line": null,
       "position": "Injured Reserve 5"
     },
-    "Anthony Cirelli": {
-      "team": "TBL",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 6"
-    },
     "Pontus Holmberg": {
       "team": "TBL",
       "pp_unit": null,
       "line": null,
-      "position": "Injured Reserve 7"
+      "position": "Injured Reserve 6"
     },
     "Easton Cowan": {
       "team": "TOR",
@@ -3728,13 +3788,13 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Dakota Joshua": {
+    "Steven Lorentz": {
       "team": "TOR",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Left Wing"
     },
-    "Bo Groulx": {
+    "Luke Haymes": {
       "team": "TOR",
       "pp_unit": null,
       "line": 3,
@@ -3746,7 +3806,7 @@
       "line": 3,
       "position": "Right Wing"
     },
-    "Steven Lorentz": {
+    "Michael Pezzetta": {
       "team": "TOR",
       "pp_unit": null,
       "line": 4,
@@ -3760,7 +3820,7 @@
     },
     "Calle Jarnkrok": {
       "team": "TOR",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 4,
       "position": "Right Wing"
     },
@@ -3770,9 +3830,9 @@
       "line": 1,
       "position": "Left Defense"
     },
-    "Brandon Carlo": {
+    "Oliver Ekman-Larsson": {
       "team": "TOR",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 1,
       "position": "Right Defense"
     },
@@ -3794,9 +3854,9 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Oliver Ekman-Larsson": {
+    "Troy Stecher": {
       "team": "TOR",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 3,
       "position": "Right Defense"
     },
@@ -3835,6 +3895,18 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 4"
+    },
+    "Brandon Carlo": {
+      "team": "TOR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 5"
+    },
+    "Dakota Joshua": {
+      "team": "TOR",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 6"
     },
     "Clayton Keller": {
       "team": "UTA",
@@ -3890,7 +3962,7 @@
       "line": 3,
       "position": "Right Wing"
     },
-    "Brandon Tanev": {
+    "Liam O'Brien": {
       "team": "UTA",
       "pp_unit": null,
       "line": 4,
@@ -3901,6 +3973,12 @@
       "pp_unit": null,
       "line": 4,
       "position": "Center"
+    },
+    "Brandon Tanev": {
+      "team": "UTA",
+      "pp_unit": null,
+      "line": 4,
+      "position": "Right Wing"
     },
     "Mikhail Sergachev": {
       "team": "UTA",
@@ -3949,12 +4027,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
-    },
-    "Nick DeSimone": {
-      "team": "UTA",
-      "pp_unit": null,
-      "line": 4,
-      "position": "Left Defense"
     },
     "Barrett Hayton": {
       "team": "UTA",
@@ -4058,9 +4130,9 @@
       "line": 2,
       "position": "Left Defense"
     },
-    "Victor Mancini": {
+    "Tom Willander": {
       "team": "VAN",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 2,
       "position": "Right Defense"
     },
@@ -4070,9 +4142,9 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Tom Willander": {
+    "Pierre-Olivier Joseph": {
       "team": "VAN",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Right Defense"
     },
@@ -4118,7 +4190,7 @@
       "line": null,
       "position": "Injured Reserve 5"
     },
-    "Brett Howden": {
+    "Ivan Barbashev": {
       "team": "VGK",
       "pp_unit": 2,
       "line": 1,
@@ -4130,13 +4202,13 @@
       "line": 1,
       "position": "Center"
     },
-    "Pavel Dorofeyev": {
+    "Mark Stone": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 1,
       "position": "Right Wing"
     },
-    "Ivan Barbashev": {
+    "Brett Howden": {
       "team": "VGK",
       "pp_unit": 2,
       "line": 2,
@@ -4148,7 +4220,7 @@
       "line": 2,
       "position": "Center"
     },
-    "Mark Stone": {
+    "Pavel Dorofeyev": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 2,
@@ -4521,5 +4593,5 @@
       "position": "Injured Reserve 3"
     }
   },
-  "fetched_at": "2026-04-09T06:09:36.410460"
+  "fetched_at": "2026-04-10T06:01:40.347674"
 }

@@ -1,119 +1,7 @@
 {
-  "fetched_at": "2026-04-09T06:09:42.321056",
+  "fetched_at": "2026-04-10T06:01:42.083982",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021252,
-      "home_team": "NYI",
-      "away_team": "TOR",
-      "start_time": "2026-04-09T22:45:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021247,
-      "home_team": "BUF",
-      "away_team": "CBJ",
-      "start_time": "2026-04-09T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021248,
-      "home_team": "MTL",
-      "away_team": "TBL",
-      "start_time": "2026-04-09T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021249,
-      "home_team": "OTT",
-      "away_team": "FLA",
-      "start_time": "2026-04-09T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021250,
-      "home_team": "DET",
-      "away_team": "PHI",
-      "start_time": "2026-04-09T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021251,
-      "home_team": "NJD",
-      "away_team": "PIT",
-      "start_time": "2026-04-09T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021253,
-      "home_team": "STL",
-      "away_team": "WPG",
-      "start_time": "2026-04-10T00:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021255,
-      "home_team": "CHI",
-      "away_team": "CAR",
-      "start_time": "2026-04-10T00:30:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021254,
-      "home_team": "DAL",
-      "away_team": "MIN",
-      "start_time": "2026-04-10T01:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021256,
-      "home_team": "COL",
-      "away_team": "CGY",
-      "start_time": "2026-04-10T01:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021257,
-      "home_team": "UTA",
-      "away_team": "NSH",
-      "start_time": "2026-04-10T01:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021258,
-      "home_team": "ANA",
-      "away_team": "SJS",
-      "start_time": "2026-04-10T02:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021259,
-      "home_team": "SEA",
-      "away_team": "VGK",
-      "start_time": "2026-04-10T02:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-09",
-      "game_id": 2025021260,
-      "home_team": "LAK",
-      "away_team": "VAN",
-      "start_time": "2026-04-10T02:30:00Z",
-      "game_type": 2
-    },
     {
       "date": "2026-04-11",
       "game_id": 2025021261,
@@ -532,37 +420,37 @@
     }
   ],
   "team_games_count": {
-    "NYI": 4,
-    "TOR": 4,
-    "BUF": 3,
-    "CBJ": 4,
-    "MTL": 4,
-    "TBL": 4,
-    "OTT": 4,
-    "FLA": 4,
-    "DET": 4,
-    "PHI": 4,
-    "NJD": 4,
-    "PIT": 4,
-    "STL": 5,
-    "WPG": 5,
-    "CHI": 4,
-    "CAR": 4,
-    "DAL": 4,
-    "MIN": 4,
-    "COL": 5,
-    "CGY": 5,
-    "UTA": 5,
-    "NSH": 4,
-    "ANA": 4,
-    "SJS": 5,
-    "SEA": 5,
-    "VGK": 4,
-    "LAK": 5,
-    "VAN": 5,
     "BOS": 3,
+    "TBL": 3,
+    "NYI": 3,
+    "OTT": 3,
+    "PIT": 3,
     "WSH": 3,
+    "LAK": 4,
     "EDM": 3,
-    "NYR": 3
+    "DET": 3,
+    "NJD": 3,
+    "CHI": 3,
+    "STL": 4,
+    "NSH": 3,
+    "MIN": 3,
+    "DAL": 3,
+    "NYR": 3,
+    "UTA": 4,
+    "CAR": 3,
+    "TOR": 3,
+    "FLA": 3,
+    "MTL": 3,
+    "CBJ": 3,
+    "WPG": 4,
+    "PHI": 3,
+    "SEA": 4,
+    "CGY": 4,
+    "COL": 4,
+    "VGK": 3,
+    "SJS": 4,
+    "VAN": 4,
+    "ANA": 3,
+    "BUF": 2
   }
 }
