@@ -1,14 +1,134 @@
 {
   "starters": {
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Stuart Skinner": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Allen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Ilya Sorokin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jordan Binnington": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Logan Thompson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Nikke Kokko": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Anton Forsberg": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Justus Annunen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Line Combination": {
+    "Arvid Soderblom": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Daniil Tarasov": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Tristan Jarry": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joseph Woll": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jake Oettinger": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jesper Wallstedt": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Linus Ullmark": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Devin Cooley": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jet Greaves": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jeremy Swayman": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Connor Hellebuyck": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Karel Vejmelka": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jakub Dobes": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "John Gibson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Alex Nedeljkovic": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Nikita Tolopilo": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Andrei Vasilevskiy": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Carter Hart": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-04-10",
-  "fetched_at": "2026-04-10T06:01:40.682974"
+  "date": "2026-04-11",
+  "fetched_at": "2026-04-11T06:18:58.517265"
 }
