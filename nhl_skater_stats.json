@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T06:19:03.253071",
+  "fetched_at": "2026-04-12T08:11:27.964789",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -31,12 +31,12 @@
       "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 108
+      "value": 110
     },
     {
-      "player_id": 8476460,
-      "name": "Mark Scheifele",
-      "team": "WPG",
+      "player_id": 8480039,
+      "name": "Martin Necas",
+      "team": "COL",
       "position": null,
       "games_played": null,
       "value": 99
@@ -57,7 +57,7 @@
       "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 50
+      "value": 51
     },
     {
       "player_id": 8478402,
@@ -76,8 +76,8 @@
       "value": 45
     },
     {
-      "player_id": 8482740,
-      "name": "Wyatt Johnston",
+      "player_id": 8480027,
+      "name": "Jason Robertson",
       "team": "DAL",
       "position": null,
       "games_played": null,
@@ -110,17 +110,17 @@
       "value": 74
     },
     {
-      "player_id": 8477956,
-      "name": "David Pastrnak",
-      "team": "BOS",
-      "position": null,
-      "games_played": null,
-      "value": 70
-    },
-    {
       "player_id": 8480018,
       "name": "Nick Suzuki",
       "team": "MTL",
+      "position": null,
+      "games_played": null,
+      "value": 71
+    },
+    {
+      "player_id": 8477956,
+      "name": "David Pastrnak",
+      "team": "BOS",
       "position": null,
       "games_played": null,
       "value": 70

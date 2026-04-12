@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T06:19:09.007044",
+  "fetched_at": "2026-04-12T08:11:32.579973",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -40,11 +40,11 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "position": "C",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "LW",
-      "status": "DTD",
-      "nhl_position": "Injured Reserve 6"
+      "status": "",
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 7554,
@@ -74,7 +74,7 @@
       "team": "CAR",
       "position": "D",
       "line": 2,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "selected_position": "D",
       "status": "",
       "nhl_position": "Right Defense"
@@ -109,7 +109,7 @@
       "line": 1,
       "pp_unit": 2,
       "selected_position": "D",
-      "status": "",
+      "status": "DTD",
       "nhl_position": "Right Defense"
     },
     {
@@ -117,11 +117,11 @@
       "name": "Brandon Hagel",
       "team": "TBL",
       "position": "LW",
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "selected_position": "Util",
-      "status": "DTD",
-      "nhl_position": "Injured Reserve 5"
+      "status": "",
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 6744,
@@ -151,7 +151,7 @@
       "team": "TBL",
       "position": "D",
       "line": 3,
-      "pp_unit": 2,
+      "pp_unit": 1,
       "selected_position": "BN",
       "status": "",
       "nhl_position": "Left Defense"

@@ -1,78 +1,6 @@
 {
   "starters": {
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Stuart Skinner": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jake Allen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Ilya Sorokin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jordan Binnington": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Logan Thompson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Nikke Kokko": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Anton Forsberg": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Justus Annunen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Arvid Soderblom": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Daniil Tarasov": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Tristan Jarry": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Joseph Woll": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jake Oettinger": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Scott Wedgewood": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Jesper Wallstedt": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
     "Linus Ullmark": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Devin Cooley": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -84,7 +12,7 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Connor Hellebuyck": {
+    "Lukas Dostal": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -92,43 +20,43 @@
       "status": "unconfirmed",
       "starting_today": false
     },
+    "Devin Cooley": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Logan Thompson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Starting Goalies": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Arturs Silovs": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Kevin Lankinen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Nico Daws": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Jakub Dobes": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "John Gibson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Igor Shesterkin": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Brandon Bussi": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Dan Vladar": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Alex Nedeljkovic": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Nikita Tolopilo": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Andrei Vasilevskiy": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Carter Hart": {
+    "Ilya Sorokin": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-04-11",
-  "fetched_at": "2026-04-11T06:18:58.517265"
+  "date": "2026-04-12",
+  "fetched_at": "2026-04-12T08:11:24.063495"
 }

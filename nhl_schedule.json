@@ -1,127 +1,7 @@
 {
-  "fetched_at": "2026-04-11T06:19:01.901411",
+  "fetched_at": "2026-04-12T08:11:25.459961",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021261,
-      "home_team": "BOS",
-      "away_team": "TBL",
-      "start_time": "2026-04-11T16:30:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021262,
-      "home_team": "NYI",
-      "away_team": "OTT",
-      "start_time": "2026-04-11T17:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021263,
-      "home_team": "PIT",
-      "away_team": "WSH",
-      "start_time": "2026-04-11T19:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021264,
-      "home_team": "LAK",
-      "away_team": "EDM",
-      "start_time": "2026-04-11T20:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021265,
-      "home_team": "DET",
-      "away_team": "NJD",
-      "start_time": "2026-04-11T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021266,
-      "home_team": "CHI",
-      "away_team": "STL",
-      "start_time": "2026-04-11T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021267,
-      "home_team": "NSH",
-      "away_team": "MIN",
-      "start_time": "2026-04-11T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021268,
-      "home_team": "DAL",
-      "away_team": "NYR",
-      "start_time": "2026-04-11T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021269,
-      "home_team": "UTA",
-      "away_team": "CAR",
-      "start_time": "2026-04-11T21:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021270,
-      "home_team": "TOR",
-      "away_team": "FLA",
-      "start_time": "2026-04-11T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021271,
-      "home_team": "MTL",
-      "away_team": "CBJ",
-      "start_time": "2026-04-11T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021272,
-      "home_team": "WPG",
-      "away_team": "PHI",
-      "start_time": "2026-04-11T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021273,
-      "home_team": "SEA",
-      "away_team": "CGY",
-      "start_time": "2026-04-11T23:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021274,
-      "home_team": "COL",
-      "away_team": "VGK",
-      "start_time": "2026-04-12T00:00:00Z",
-      "game_type": 2
-    },
-    {
-      "date": "2026-04-11",
-      "game_id": 2025021275,
-      "home_team": "SJS",
-      "away_team": "VAN",
-      "start_time": "2026-04-12T02:00:00Z",
-      "game_type": 2
-    },
     {
       "date": "2026-04-12",
       "game_id": 2025021276,
@@ -420,37 +300,37 @@
     }
   ],
   "team_games_count": {
-    "BOS": 3,
-    "TBL": 3,
-    "NYI": 3,
-    "OTT": 3,
-    "PIT": 3,
-    "WSH": 3,
-    "LAK": 4,
-    "EDM": 3,
-    "DET": 3,
-    "NJD": 3,
-    "CHI": 3,
-    "STL": 4,
-    "NSH": 3,
-    "MIN": 3,
-    "DAL": 3,
-    "NYR": 3,
-    "UTA": 4,
-    "CAR": 3,
-    "TOR": 3,
-    "FLA": 3,
-    "MTL": 3,
-    "CBJ": 3,
-    "WPG": 4,
-    "PHI": 3,
-    "SEA": 4,
-    "CGY": 4,
-    "COL": 4,
-    "VGK": 3,
-    "SJS": 4,
-    "VAN": 4,
+    "WSH": 2,
+    "PIT": 2,
+    "NYI": 2,
+    "MTL": 2,
+    "CBJ": 2,
+    "BOS": 2,
+    "NJD": 2,
+    "OTT": 2,
     "ANA": 3,
-    "BUF": 2
+    "VAN": 3,
+    "CGY": 3,
+    "UTA": 3,
+    "TBL": 2,
+    "DET": 2,
+    "FLA": 2,
+    "NYR": 2,
+    "PHI": 2,
+    "CAR": 2,
+    "TOR": 2,
+    "DAL": 2,
+    "STL": 3,
+    "MIN": 2,
+    "NSH": 2,
+    "SJS": 3,
+    "CHI": 2,
+    "BUF": 2,
+    "EDM": 2,
+    "COL": 3,
+    "SEA": 3,
+    "LAK": 3,
+    "VGK": 2,
+    "WPG": 3
   }
 }
