@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T08:11:30.283723",
+  "fetched_at": "2026-04-13T08:15:36.747553",
   "wins_leaders": [
     {
       "player_id": 8476883,
@@ -27,12 +27,12 @@
       "name": "Logan Thompson",
       "team": "WSH",
       "games_played": null,
-      "value": 30
+      "value": 31
     },
     {
-      "player_id": 8480280,
-      "name": "Jeremy Swayman",
-      "team": "BOS",
+      "player_id": 8480843,
+      "name": "Lukas Dostal",
+      "team": "ANA",
       "games_played": null,
       "value": 30
     }
@@ -57,7 +57,14 @@
       "name": "Andrei Vasilevskiy",
       "team": "TBL",
       "games_played": null,
-      "value": 0.912534
+      "value": 0.912595
+    },
+    {
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
+      "games_played": null,
+      "value": 0.911839
     },
     {
       "player_id": 8478048,
@@ -65,13 +72,6 @@
       "team": "NYR",
       "games_played": null,
       "value": 0.911579
-    },
-    {
-      "player_id": 8480981,
-      "name": "Joel Hofer",
-      "team": "STL",
-      "games_played": null,
-      "value": 0.910535
     }
   ],
   "gaa_leaders": []

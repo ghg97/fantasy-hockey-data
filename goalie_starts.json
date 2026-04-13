@@ -1,42 +1,30 @@
 {
   "starters": {
-    "Linus Ullmark": {
+    "Justus Annunen": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jet Greaves": {
+    "Yaroslav Askarov": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jeremy Swayman": {
+    "Arvid Soderblom": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Lukas Dostal": {
+    "Andrei Vasilevskiy": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Karel Vejmelka": {
+    "Anton Forsberg": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Devin Cooley": {
+    "Joel Hofer": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Logan Thompson": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Arturs Silovs": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Kevin Lankinen": {
+    "Connor Hellebuyck": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -44,19 +32,59 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Nico Daws": {
+    "Jake Oettinger": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jakub Dobes": {
+    "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Ilya Sorokin": {
+    "Connor Ingram": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Dan Vladar": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Joseph Woll": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Igor Shesterkin": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Nikke Kokko": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Daniil Tarasov": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "John Gibson": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Scott Wedgewood": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Jesper Wallstedt": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Carter Hart": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-04-12",
-  "fetched_at": "2026-04-12T08:11:24.063495"
+  "date": "2026-04-13",
+  "fetched_at": "2026-04-13T08:15:32.925970"
 }

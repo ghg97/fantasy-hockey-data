@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T08:11:27.964789",
+  "fetched_at": "2026-04-13T08:15:35.452116",
   "points_leaders": [
     {
       "player_id": 8478402,
@@ -34,12 +34,12 @@
       "value": 110
     },
     {
-      "player_id": 8480039,
-      "name": "Martin Necas",
-      "team": "COL",
+      "player_id": 8480018,
+      "name": "Nick Suzuki",
+      "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 99
+      "value": 101
     }
   ],
   "goals_leaders": [
@@ -115,7 +115,7 @@
       "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 71
+      "value": 72
     },
     {
       "player_id": 8477956,
