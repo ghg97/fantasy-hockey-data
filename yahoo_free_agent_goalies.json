@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-04-13T08:16:22.012413",
-  "count": 43,
+  "fetched_at": "2026-05-21T08:14:19.380257",
+  "count": 48,
   "players": [
     {
       "player_id": 4003,
@@ -54,7 +54,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 22
+      "percent_owned": 21
     },
     {
       "player_id": 4854,
@@ -70,18 +70,30 @@
       "percent_owned": 8
     },
     {
+      "player_id": 5022,
+      "name": "Calvin Pickard",
+      "team": "EDM",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 3
+    },
+    {
       "player_id": 5085,
       "name": "Philipp Grubauer",
       "team": "SEA",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 12
+      "status": "",
+      "percent_owned": 11
     },
     {
       "player_id": 5114,
@@ -122,7 +134,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 13
+      "percent_owned": 21
     },
     {
       "player_id": 5734,
@@ -149,7 +161,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 12
+      "percent_owned": 11
     },
     {
       "player_id": 5774,
@@ -189,7 +201,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 8
+    },
+    {
+      "player_id": 6109,
+      "name": "Cal Petersen",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 6405,
@@ -217,7 +242,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 10
+      "percent_owned": 12
     },
     {
       "player_id": 6408,
@@ -256,7 +281,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 3
     },
     {
       "player_id": 6941,
@@ -269,8 +294,8 @@
       ],
       "line": null,
       "pp_unit": null,
-      "status": "DTD",
-      "percent_owned": 52
+      "status": "O",
+      "percent_owned": 51
     },
     {
       "player_id": 7084,
@@ -284,7 +309,7 @@
       "line": null,
       "pp_unit": null,
       "status": "O",
-      "percent_owned": 12
+      "percent_owned": 11
     },
     {
       "player_id": 7089,
@@ -292,13 +317,12 @@
       "team": "BUF",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "O",
-      "percent_owned": 31
+      "status": "",
+      "percent_owned": 30
     },
     {
       "player_id": 7108,
@@ -324,7 +348,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 19
+      "percent_owned": 23
     },
     {
       "player_id": 7587,
@@ -350,7 +374,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 45
+      "percent_owned": 44
     },
     {
       "player_id": 7601,
@@ -363,7 +387,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 6
+      "percent_owned": 7
     },
     {
       "player_id": 7886,
@@ -376,7 +400,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 5
+      "percent_owned": 7
     },
     {
       "player_id": 8314,
@@ -384,13 +408,11 @@
       "team": "CAR",
       "position": "G",
       "eligible_positions": [
-        "G",
-        "IR",
-        "IR+"
+        "G"
       ],
       "line": null,
       "pp_unit": null,
-      "status": "IR",
+      "status": "",
       "percent_owned": 26
     },
     {
@@ -404,7 +426,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2
+      "percent_owned": 3
     },
     {
       "player_id": 8651,
@@ -417,12 +439,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 35
+      "percent_owned": 36
     },
     {
-      "player_id": 8722,
-      "name": "Nico Daws",
-      "team": "NJD",
+      "player_id": 8709,
+      "name": "Leevi Meril\u00e4inen",
+      "team": "OTT",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -430,7 +452,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 7
+      "percent_owned": 2
     },
     {
       "player_id": 8741,
@@ -443,7 +465,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 2
     },
     {
       "player_id": 8794,
@@ -472,9 +494,9 @@
       "percent_owned": 2
     },
     {
-      "player_id": 9234,
-      "name": "Clay Stevenson",
-      "team": "WSH",
+      "player_id": 9232,
+      "name": "Jaxson Stauber",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
@@ -482,7 +504,7 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 0
     },
     {
       "player_id": 9238,
@@ -495,7 +517,20 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 52
+      "percent_owned": 49
+    },
+    {
+      "player_id": 30111,
+      "name": "Devon Levi",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 1
     },
     {
       "player_id": 30123,
@@ -521,12 +556,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 31
+      "percent_owned": 28
     },
     {
-      "player_id": 30741,
-      "name": "Artur Akhtyamov",
-      "team": "TOR",
+      "player_id": 30534,
+      "name": "Carl Lindbom",
+      "team": "VGK",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -534,7 +569,33 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30594,
+      "name": "Carson Bjarnason",
+      "team": null,
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 30774,
+      "name": "Aleksei Kolosov",
+      "team": "PHI",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
     },
     {
       "player_id": 30995,
@@ -550,9 +611,9 @@
       "percent_owned": 1
     },
     {
-      "player_id": 31771,
-      "name": "Niklas Kokko",
-      "team": null,
+      "player_id": 31615,
+      "name": "Vyacheslav Buteyets",
+      "team": "ANA",
       "position": "G",
       "eligible_positions": [
         "G"
@@ -560,12 +621,12 @@
       "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 0
     },
     {
-      "player_id": 32810,
-      "name": "Victor Ostman",
-      "team": "SEA",
+      "player_id": 32835,
+      "name": "Carter George",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
