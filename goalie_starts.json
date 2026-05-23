@@ -1,6 +1,6 @@
 {
   "starters": {
-    "Scott Wedgewood": {
+    "Jakub Dobes": {
       "status": "unconfirmed",
       "starting_today": false
     },
@@ -8,15 +8,15 @@
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Starting Goalies": {
+    "Frederik Andersen": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Carter Hart": {
+    "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-05-22",
-  "fetched_at": "2026-05-22T08:44:47.622786"
+  "date": "2026-05-23",
+  "fetched_at": "2026-05-23T06:01:33.105333"
 }

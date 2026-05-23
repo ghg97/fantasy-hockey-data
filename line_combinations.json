@@ -938,9 +938,9 @@
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Artturi Lehkonen": {
+    "Gabriel Landeskog": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 1,
       "position": "Left Wing"
     },
@@ -950,13 +950,13 @@
       "line": 1,
       "position": "Center"
     },
-    "Gabriel Landeskog": {
+    "Martin Necas": {
       "team": "COL",
       "pp_unit": 1,
       "line": 1,
       "position": "Right Wing"
     },
-    "Valeri Nichushkin": {
+    "Artturi Lehkonen": {
       "team": "COL",
       "pp_unit": 2,
       "line": 2,
@@ -968,9 +968,9 @@
       "line": 2,
       "position": "Center"
     },
-    "Martin Necas": {
+    "Nicolas Roy": {
       "team": "COL",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Wing"
     },
@@ -986,9 +986,9 @@
       "line": 3,
       "position": "Center"
     },
-    "Nicolas Roy": {
+    "Valeri Nichushkin": {
       "team": "COL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Right Wing"
     },
@@ -1034,7 +1034,7 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Jack Ahcan": {
+    "Nick Blankenburg": {
       "team": "COL",
       "pp_unit": null,
       "line": 3,
@@ -4214,7 +4214,7 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Ben Hutton": {
+    "Kaedan Korczak": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
@@ -4557,5 +4557,5 @@
       "position": "Skater 4"
     }
   },
-  "fetched_at": "2026-05-22T08:44:47.215855"
+  "fetched_at": "2026-05-23T06:01:32.840445"
 }

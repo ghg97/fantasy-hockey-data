@@ -18781,6 +18781,497 @@
       "icetime": 738.0
     }
   },
-  "goalies": {},
-  "fetched_at": "2026-05-22T08:50:40.461900"
+  "goalies": {
+    "Igor Shesterkin": {
+      "xGoals_against": 147.25,
+      "goals_saved_above_expected": -147.25,
+      "high_danger_sv_pct": 0
+    },
+    "Justus Annunen": {
+      "xGoals_against": 75.31,
+      "goals_saved_above_expected": -75.31,
+      "high_danger_sv_pct": 0
+    },
+    "Connor Ingram": {
+      "xGoals_against": 78.66,
+      "goals_saved_above_expected": -78.66,
+      "high_danger_sv_pct": 0
+    },
+    "Daniil Tarasov": {
+      "xGoals_against": 95.24,
+      "goals_saved_above_expected": -95.24,
+      "high_danger_sv_pct": 0
+    },
+    "Juuse Saros": {
+      "xGoals_against": 171.73,
+      "goals_saved_above_expected": -171.73,
+      "high_danger_sv_pct": 0
+    },
+    "Yaroslav Askarov": {
+      "xGoals_against": 138.09,
+      "goals_saved_above_expected": -138.09,
+      "high_danger_sv_pct": 0
+    },
+    "Karel Vejmelka": {
+      "xGoals_against": 175.92,
+      "goals_saved_above_expected": -175.92,
+      "high_danger_sv_pct": 0
+    },
+    "Jake Oettinger": {
+      "xGoals_against": 143.72,
+      "goals_saved_above_expected": -143.72,
+      "high_danger_sv_pct": 0
+    },
+    "Jacob Fowler": {
+      "xGoals_against": 48.12,
+      "goals_saved_above_expected": -48.12,
+      "high_danger_sv_pct": 0
+    },
+    "Alex Nedeljkovic": {
+      "xGoals_against": 107.83,
+      "goals_saved_above_expected": -107.83,
+      "high_danger_sv_pct": 0
+    },
+    "Spencer Martin": {
+      "xGoals_against": 15.86,
+      "goals_saved_above_expected": -15.86,
+      "high_danger_sv_pct": 0
+    },
+    "Thatcher Demko": {
+      "xGoals_against": 55.98,
+      "goals_saved_above_expected": -55.98,
+      "high_danger_sv_pct": 0
+    },
+    "David Rittich": {
+      "xGoals_against": 80.23,
+      "goals_saved_above_expected": -80.23,
+      "high_danger_sv_pct": 0
+    },
+    "Linus Ullmark": {
+      "xGoals_against": 118.19,
+      "goals_saved_above_expected": -118.19,
+      "high_danger_sv_pct": 0
+    },
+    "Philipp Grubauer": {
+      "xGoals_against": 84.65,
+      "goals_saved_above_expected": -84.65,
+      "high_danger_sv_pct": 0
+    },
+    "Frederik Andersen": {
+      "xGoals_against": 103.69,
+      "goals_saved_above_expected": -103.69,
+      "high_danger_sv_pct": 0
+    },
+    "Arvid Soderblom": {
+      "xGoals_against": 88.98,
+      "goals_saved_above_expected": -88.98,
+      "high_danger_sv_pct": 0
+    },
+    "Pheonix Copley": {
+      "xGoals_against": 2.2,
+      "goals_saved_above_expected": -2.2,
+      "high_danger_sv_pct": 0
+    },
+    "Ilya Sorokin": {
+      "xGoals_against": 169.3,
+      "goals_saved_above_expected": -169.3,
+      "high_danger_sv_pct": 0
+    },
+    "Pyotr Kochetkov": {
+      "xGoals_against": 18.97,
+      "goals_saved_above_expected": -18.97,
+      "high_danger_sv_pct": 0
+    },
+    "Charlie Lindgren": {
+      "xGoals_against": 67.71,
+      "goals_saved_above_expected": -67.71,
+      "high_danger_sv_pct": 0
+    },
+    "Mackenzie Blackwood": {
+      "xGoals_against": 98.3,
+      "goals_saved_above_expected": -98.3,
+      "high_danger_sv_pct": 0
+    },
+    "Carl Lindbom": {
+      "xGoals_against": 19.84,
+      "goals_saved_above_expected": -19.84,
+      "high_danger_sv_pct": 0
+    },
+    "Anton Forsberg": {
+      "xGoals_against": 96.41,
+      "goals_saved_above_expected": -96.41,
+      "high_danger_sv_pct": 0
+    },
+    "Jeremy Swayman": {
+      "xGoals_against": 174.78,
+      "goals_saved_above_expected": -174.78,
+      "high_danger_sv_pct": 0
+    },
+    "Jordan Binnington": {
+      "xGoals_against": 105.61,
+      "goals_saved_above_expected": -105.61,
+      "high_danger_sv_pct": 0
+    },
+    "Mads Sogaard": {
+      "xGoals_against": 3.39,
+      "goals_saved_above_expected": -3.39,
+      "high_danger_sv_pct": 0
+    },
+    "Connor Hellebuyck": {
+      "xGoals_against": 167.54,
+      "goals_saved_above_expected": -167.54,
+      "high_danger_sv_pct": 0
+    },
+    "Samuel Montembeault": {
+      "xGoals_against": 76.08,
+      "goals_saved_above_expected": -76.08,
+      "high_danger_sv_pct": 0
+    },
+    "Darcy Kuemper": {
+      "xGoals_against": 128.23,
+      "goals_saved_above_expected": -128.23,
+      "high_danger_sv_pct": 0
+    },
+    "Petr Mrazek": {
+      "xGoals_against": 27.03,
+      "goals_saved_above_expected": -27.03,
+      "high_danger_sv_pct": 0
+    },
+    "Vitek Vanecek": {
+      "xGoals_against": 57.02,
+      "goals_saved_above_expected": -57.02,
+      "high_danger_sv_pct": 0
+    },
+    "Andrei Vasilevskiy": {
+      "xGoals_against": 156.74,
+      "goals_saved_above_expected": -156.74,
+      "high_danger_sv_pct": 0
+    },
+    "Jonas Johansson": {
+      "xGoals_against": 67.57,
+      "goals_saved_above_expected": -67.57,
+      "high_danger_sv_pct": 0
+    },
+    "Leevi Merilinen": {
+      "xGoals_against": 46.7,
+      "goals_saved_above_expected": -46.7,
+      "high_danger_sv_pct": 0
+    },
+    "Marcus Hogberg": {
+      "xGoals_against": 0.37,
+      "goals_saved_above_expected": -0.37,
+      "high_danger_sv_pct": 0
+    },
+    "Sergei Murashov": {
+      "xGoals_against": 8.48,
+      "goals_saved_above_expected": -8.48,
+      "high_danger_sv_pct": 0
+    },
+    "Brandon Bussi": {
+      "xGoals_against": 99.78,
+      "goals_saved_above_expected": -99.78,
+      "high_danger_sv_pct": 0
+    },
+    "Colten Ellis": {
+      "xGoals_against": 45.86,
+      "goals_saved_above_expected": -45.86,
+      "high_danger_sv_pct": 0
+    },
+    "Sergei Bobrovsky": {
+      "xGoals_against": 141.85,
+      "goals_saved_above_expected": -141.85,
+      "high_danger_sv_pct": 0
+    },
+    "Cam Talbot": {
+      "xGoals_against": 79.89,
+      "goals_saved_above_expected": -79.89,
+      "high_danger_sv_pct": 0
+    },
+    "Casey DeSmith": {
+      "xGoals_against": 81.52,
+      "goals_saved_above_expected": -81.52,
+      "high_danger_sv_pct": 0
+    },
+    "Vyacheslav Buteyets": {
+      "xGoals_against": 1.61,
+      "goals_saved_above_expected": -1.61,
+      "high_danger_sv_pct": 0
+    },
+    "Clay Stevenson": {
+      "xGoals_against": 11.15,
+      "goals_saved_above_expected": -11.15,
+      "high_danger_sv_pct": 0
+    },
+    "Devin Cooley": {
+      "xGoals_against": 94.26,
+      "goals_saved_above_expected": -94.26,
+      "high_danger_sv_pct": 0
+    },
+    "Carter Hart": {
+      "xGoals_against": 41.8,
+      "goals_saved_above_expected": -41.8,
+      "high_danger_sv_pct": 0
+    },
+    "Spencer Knight": {
+      "xGoals_against": 162.9,
+      "goals_saved_above_expected": -162.9,
+      "high_danger_sv_pct": 0
+    },
+    "Dustin Wolf": {
+      "xGoals_against": 156.22,
+      "goals_saved_above_expected": -156.22,
+      "high_danger_sv_pct": 0
+    },
+    "Dylan Garand": {
+      "xGoals_against": 8.88,
+      "goals_saved_above_expected": -8.88,
+      "high_danger_sv_pct": 0
+    },
+    "Samuel Ersson": {
+      "xGoals_against": 80.48,
+      "goals_saved_above_expected": -80.48,
+      "high_danger_sv_pct": 0
+    },
+    "Arsenii Sergeev": {
+      "xGoals_against": 3.62,
+      "goals_saved_above_expected": -3.62,
+      "high_danger_sv_pct": 0
+    },
+    "Joey Daccord": {
+      "xGoals_against": 129.84,
+      "goals_saved_above_expected": -129.84,
+      "high_danger_sv_pct": 0
+    },
+    "Filip Gustavsson": {
+      "xGoals_against": 134.38,
+      "goals_saved_above_expected": -134.38,
+      "high_danger_sv_pct": 0
+    },
+    "Jonathan Quick": {
+      "xGoals_against": 66.61,
+      "goals_saved_above_expected": -66.61,
+      "high_danger_sv_pct": 0
+    },
+    "Kevin Lankinen": {
+      "xGoals_against": 140.67,
+      "goals_saved_above_expected": -140.67,
+      "high_danger_sv_pct": 0
+    },
+    "Calvin Pickard": {
+      "xGoals_against": 49.46,
+      "goals_saved_above_expected": -49.46,
+      "high_danger_sv_pct": 0
+    },
+    "Brandon Halverson": {
+      "xGoals_against": 2.28,
+      "goals_saved_above_expected": -2.28,
+      "high_danger_sv_pct": 0
+    },
+    "Eric Comrie": {
+      "xGoals_against": 71.35,
+      "goals_saved_above_expected": -71.35,
+      "high_danger_sv_pct": 0
+    },
+    "James Reimer": {
+      "xGoals_against": 32.32,
+      "goals_saved_above_expected": -32.32,
+      "high_danger_sv_pct": 0
+    },
+    "Dennis Hildeby": {
+      "xGoals_against": 58.45,
+      "goals_saved_above_expected": -58.45,
+      "high_danger_sv_pct": 0
+    },
+    "Adin Hill": {
+      "xGoals_against": 61.83,
+      "goals_saved_above_expected": -61.83,
+      "high_danger_sv_pct": 0
+    },
+    "Joonas Korpisalo": {
+      "xGoals_against": 89.05,
+      "goals_saved_above_expected": -89.05,
+      "high_danger_sv_pct": 0
+    },
+    "John Gibson": {
+      "xGoals_against": 155.73,
+      "goals_saved_above_expected": -155.73,
+      "high_danger_sv_pct": 0
+    },
+    "Victor Ostman": {
+      "xGoals_against": 2.64,
+      "goals_saved_above_expected": -2.64,
+      "high_danger_sv_pct": 0
+    },
+    "Jake Allen": {
+      "xGoals_against": 106.35,
+      "goals_saved_above_expected": -106.35,
+      "high_danger_sv_pct": 0
+    },
+    "Matt Murray": {
+      "xGoals_against": 10.78,
+      "goals_saved_above_expected": -10.78,
+      "high_danger_sv_pct": 0
+    },
+    "Joseph Woll": {
+      "xGoals_against": 117.4,
+      "goals_saved_above_expected": -117.4,
+      "high_danger_sv_pct": 0
+    },
+    "Drew Commesso": {
+      "xGoals_against": 8.57,
+      "goals_saved_above_expected": -8.57,
+      "high_danger_sv_pct": 0
+    },
+    "Trent Miner": {
+      "xGoals_against": 9.23,
+      "goals_saved_above_expected": -9.23,
+      "high_danger_sv_pct": 0
+    },
+    "Alex Lyon": {
+      "xGoals_against": 104.63,
+      "goals_saved_above_expected": -104.63,
+      "high_danger_sv_pct": 0
+    },
+    "Aleksei Kolosov": {
+      "xGoals_against": 3.97,
+      "goals_saved_above_expected": -3.97,
+      "high_danger_sv_pct": 0
+    },
+    "Thomas Milic": {
+      "xGoals_against": 6.17,
+      "goals_saved_above_expected": -6.17,
+      "high_danger_sv_pct": 0
+    },
+    "Elvis Merzlikins": {
+      "xGoals_against": 87.7,
+      "goals_saved_above_expected": -87.7,
+      "high_danger_sv_pct": 0
+    },
+    "Scott Wedgewood": {
+      "xGoals_against": 109.12,
+      "goals_saved_above_expected": -109.12,
+      "high_danger_sv_pct": 0
+    },
+    "Nico Daws": {
+      "xGoals_against": 8.45,
+      "goals_saved_above_expected": -8.45,
+      "high_danger_sv_pct": 0
+    },
+    "Joel Hofer": {
+      "xGoals_against": 125.69,
+      "goals_saved_above_expected": -125.69,
+      "high_danger_sv_pct": 0
+    },
+    "Jiri Patera": {
+      "xGoals_against": 3.38,
+      "goals_saved_above_expected": -3.38,
+      "high_danger_sv_pct": 0
+    },
+    "Akira Schmid": {
+      "xGoals_against": 84.0,
+      "goals_saved_above_expected": -84.0,
+      "high_danger_sv_pct": 0
+    },
+    "Hunter Shepard": {
+      "xGoals_against": 0.74,
+      "goals_saved_above_expected": -0.74,
+      "high_danger_sv_pct": 0
+    },
+    "Dan Vladar": {
+      "xGoals_against": 134.76,
+      "goals_saved_above_expected": -134.76,
+      "high_danger_sv_pct": 0
+    },
+    "Nikita Tolopilo": {
+      "xGoals_against": 61.47,
+      "goals_saved_above_expected": -61.47,
+      "high_danger_sv_pct": 0
+    },
+    "Laurent Brossoit": {
+      "xGoals_against": 3.65,
+      "goals_saved_above_expected": -3.65,
+      "high_danger_sv_pct": 0
+    },
+    "Stuart Skinner": {
+      "xGoals_against": 150.31,
+      "goals_saved_above_expected": -150.31,
+      "high_danger_sv_pct": 0
+    },
+    "Jesper Wallstedt": {
+      "xGoals_against": 93.18,
+      "goals_saved_above_expected": -93.18,
+      "high_danger_sv_pct": 0
+    },
+    "Jet Greaves": {
+      "xGoals_against": 158.46,
+      "goals_saved_above_expected": -158.46,
+      "high_danger_sv_pct": 0
+    },
+    "Cayden Primeau": {
+      "xGoals_against": 5.61,
+      "goals_saved_above_expected": -5.61,
+      "high_danger_sv_pct": 0
+    },
+    "Artur Akhtyamov": {
+      "xGoals_against": 10.42,
+      "goals_saved_above_expected": -10.42,
+      "high_danger_sv_pct": 0
+    },
+    "Lukas Dostal": {
+      "xGoals_against": 166.08,
+      "goals_saved_above_expected": -166.08,
+      "high_danger_sv_pct": 0
+    },
+    "Logan Thompson": {
+      "xGoals_against": 169.32,
+      "goals_saved_above_expected": -169.32,
+      "high_danger_sv_pct": 0
+    },
+    "Tristan Jarry": {
+      "xGoals_against": 93.87,
+      "goals_saved_above_expected": -93.87,
+      "high_danger_sv_pct": 0
+    },
+    "Ukko-Pekka Luukkonen": {
+      "xGoals_against": 95.51,
+      "goals_saved_above_expected": -95.51,
+      "high_danger_sv_pct": 0
+    },
+    "Ville Husso": {
+      "xGoals_against": 58.85,
+      "goals_saved_above_expected": -58.85,
+      "high_danger_sv_pct": 0
+    },
+    "Nikke Kokko": {
+      "xGoals_against": 7.69,
+      "goals_saved_above_expected": -7.69,
+      "high_danger_sv_pct": 0
+    },
+    "Jakub Dobes": {
+      "xGoals_against": 134.26,
+      "goals_saved_above_expected": -134.26,
+      "high_danger_sv_pct": 0
+    },
+    "Anthony Stolarz": {
+      "xGoals_against": 69.31,
+      "goals_saved_above_expected": -69.31,
+      "high_danger_sv_pct": 0
+    },
+    "Jacob Markstrom": {
+      "xGoals_against": 118.07,
+      "goals_saved_above_expected": -118.07,
+      "high_danger_sv_pct": 0
+    },
+    "Arturs Silovs": {
+      "xGoals_against": 103.12,
+      "goals_saved_above_expected": -103.12,
+      "high_danger_sv_pct": 0
+    },
+    "Michael DiPietro": {
+      "xGoals_against": 0.1,
+      "goals_saved_above_expected": -0.1,
+      "high_danger_sv_pct": 0
+    }
+  },
+  "fetched_at": "2026-05-23T06:01:33.802963"
 }

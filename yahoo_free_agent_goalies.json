@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-21T08:14:19.380257",
-  "count": 48,
+  "fetched_at": "2026-05-23T06:01:50.305819",
+  "count": 46,
   "players": [
     {
       "player_id": 4003,
@@ -533,19 +533,6 @@
       "percent_owned": 1
     },
     {
-      "player_id": 30123,
-      "name": "Tyler Muszelik",
-      "team": null,
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
       "player_id": 30201,
       "name": "Jacob Fowler",
       "team": "MTL",
@@ -614,19 +601,6 @@
       "player_id": 31615,
       "name": "Vyacheslav Buteyets",
       "team": "ANA",
-      "position": "G",
-      "eligible_positions": [
-        "G"
-      ],
-      "line": null,
-      "pp_unit": null,
-      "status": "",
-      "percent_owned": 0
-    },
-    {
-      "player_id": 32835,
-      "name": "Carter George",
-      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
