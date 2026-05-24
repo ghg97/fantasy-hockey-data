@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T06:01:49.274298",
+  "fetched_at": "2026-05-24T06:13:19.412361",
   "count": 602,
   "players": [
     {
@@ -2664,7 +2664,7 @@
     {
       "player_id": 6366,
       "name": "Tomas Nosek",
-      "team": "FLA",
+      "team": null,
       "position": "LW",
       "eligible_positions": [
         "LW",
@@ -3115,7 +3115,7 @@
     {
       "player_id": 6616,
       "name": "Liam O'Brien",
-      "team": null,
+      "team": "UTA",
       "position": "LW",
       "eligible_positions": [
         "LW",
@@ -5198,7 +5198,7 @@
     {
       "player_id": 7906,
       "name": "Adam Boqvist",
-      "team": null,
+      "team": "NYI",
       "position": "D",
       "eligible_positions": [
         "D",

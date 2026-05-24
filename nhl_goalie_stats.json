@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T06:01:37.261633",
+  "fetched_at": "2026-05-24T06:12:54.565926",
   "wins_leaders": [
     {
       "player_id": 8479394,
@@ -20,7 +20,7 @@
       "name": "Frederik Andersen",
       "team": "CAR",
       "games_played": null,
-      "value": 8
+      "value": 9
     },
     {
       "player_id": 8475809,
@@ -46,18 +46,18 @@
       "value": 0.939024
     },
     {
-      "player_id": 8475883,
-      "name": "Frederik Andersen",
-      "team": "CAR",
-      "games_played": null,
-      "value": 0.932432
-    },
-    {
       "player_id": 8476999,
       "name": "Linus Ullmark",
       "team": "OTT",
       "games_played": null,
       "value": 0.932331
+    },
+    {
+      "player_id": 8475883,
+      "name": "Frederik Andersen",
+      "team": "CAR",
+      "games_played": null,
+      "value": 0.92735
     },
     {
       "player_id": 8479394,

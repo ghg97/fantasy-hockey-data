@@ -196,9 +196,9 @@
       {
         "name": "Cale Makar",
         "team": "COL",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-05-22T16:22Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-05-23T17:11Z"
       }
     ],
     "DAL": [
@@ -782,9 +782,9 @@
       {
         "name": "Mark Stone",
         "team": "VGK",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-05-22T17:49Z"
+        "status": "Day-To-Day",
+        "details": "day-to-day",
+        "date": "2026-05-23T17:11Z"
       }
     ],
     "WSH": [
@@ -1055,9 +1055,9 @@
     "Cale Makar": {
       "name": "Cale Makar",
       "team": "COL",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-05-22T16:22Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-05-23T17:11Z"
     },
     "Roope Hintz": {
       "name": "Roope Hintz",
@@ -1601,9 +1601,9 @@
     "Mark Stone": {
       "name": "Mark Stone",
       "team": "VGK",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-05-22T17:49Z"
+      "status": "Day-To-Day",
+      "details": "day-to-day",
+      "date": "2026-05-23T17:11Z"
     },
     "Rasmus Sandin": {
       "name": "Rasmus Sandin",
@@ -1718,5 +1718,5 @@
     }
   },
   "total_injured": 116,
-  "fetched_at": "2026-05-23T06:01:34.030786"
+  "fetched_at": "2026-05-24T06:12:49.507570"
 }

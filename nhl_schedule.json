@@ -1,15 +1,7 @@
 {
-  "fetched_at": "2026-05-23T06:01:34.339360",
+  "fetched_at": "2026-05-24T06:12:50.867134",
   "days_ahead": 14,
   "games": [
-    {
-      "date": "2026-05-23",
-      "game_id": 2025030312,
-      "home_team": "CAR",
-      "away_team": "MTL",
-      "start_time": "2026-05-23T23:00:00Z",
-      "game_type": 3
-    },
     {
       "date": "2026-05-24",
       "game_id": 2025030323,
@@ -92,9 +84,9 @@
     }
   ],
   "team_games_count": {
-    "CAR": 6,
-    "MTL": 6,
     "VGK": 5,
-    "COL": 5
+    "COL": 5,
+    "MTL": 5,
+    "CAR": 5
   }
 }
