@@ -1,22 +1,22 @@
 {
   "starters": {
+    "Line Combination": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Frederik Andersen": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Scott Wedgewood": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Carter Hart": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
+    "Jakub Dobes": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-05-24",
-  "fetched_at": "2026-05-24T06:12:47.501470"
+  "date": "2026-05-25",
+  "fetched_at": "2026-05-25T06:02:05.672805"
 }

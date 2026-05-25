@@ -194,11 +194,18 @@
     ],
     "COL": [
       {
-        "name": "Cale Makar",
+        "name": "Valeri Nichushkin",
+        "team": "COL",
+        "status": "Day-To-Day",
+        "details": "Per Rawal, Nichushkin did not play in the final 22 minutes of Sunday's loss, and there was no update on his status from head coach Jared Bednar after the game. Nathan MacKinnon (lower body) was also banged up in Game 3, so the Avalanche are facing an uphill battle on the cusp of elimination. Nichushkin can be considered questionable for Game 4 in Vegas on Tuesday until information regarding his availability is provided.",
+        "date": "2026-05-25T04:03Z"
+      },
+      {
+        "name": "Nathan MacKinnon",
         "team": "COL",
         "status": "Day-To-Day",
         "details": "day-to-day",
-        "date": "2026-05-23T17:11Z"
+        "date": "2026-05-25T03:36Z"
       }
     ],
     "DAL": [
@@ -778,15 +785,6 @@
         "date": "2025-10-28T17:30Z"
       }
     ],
-    "VGK": [
-      {
-        "name": "Mark Stone",
-        "team": "VGK",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-05-23T17:11Z"
-      }
-    ],
     "WSH": [
       {
         "name": "Rasmus Sandin",
@@ -1052,12 +1050,19 @@
       "details": "ir-lt",
       "date": "2025-09-30T17:35Z"
     },
-    "Cale Makar": {
-      "name": "Cale Makar",
+    "Valeri Nichushkin": {
+      "name": "Valeri Nichushkin",
+      "team": "COL",
+      "status": "Day-To-Day",
+      "details": "Per Rawal, Nichushkin did not play in the final 22 minutes of Sunday's loss, and there was no update on his status from head coach Jared Bednar after the game. Nathan MacKinnon (lower body) was also banged up in Game 3, so the Avalanche are facing an uphill battle on the cusp of elimination. Nichushkin can be considered questionable for Game 4 in Vegas on Tuesday until information regarding his availability is provided.",
+      "date": "2026-05-25T04:03Z"
+    },
+    "Nathan MacKinnon": {
+      "name": "Nathan MacKinnon",
       "team": "COL",
       "status": "Day-To-Day",
       "details": "day-to-day",
-      "date": "2026-05-23T17:11Z"
+      "date": "2026-05-25T03:36Z"
     },
     "Roope Hintz": {
       "name": "Roope Hintz",
@@ -1598,13 +1603,6 @@
       "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
       "date": "2025-10-28T17:30Z"
     },
-    "Mark Stone": {
-      "name": "Mark Stone",
-      "team": "VGK",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-05-23T17:11Z"
-    },
     "Rasmus Sandin": {
       "name": "Rasmus Sandin",
       "team": "WSH",
@@ -1686,11 +1684,12 @@
   "injury_opportunities": {
     "COL": {
       "injured": [
-        "Cale Makar"
+        "Nathan MacKinnon"
       ],
       "beneficiaries": [
-        "Devon Toews",
-        "Samuel Girard"
+        "Mikko Rantanen",
+        "Casey Mittelstadt",
+        "Jonathan Drouin"
       ],
       "boost": 1.06
     },
@@ -1718,5 +1717,5 @@
     }
   },
   "total_injured": 116,
-  "fetched_at": "2026-05-24T06:12:49.507570"
+  "fetched_at": "2026-05-25T06:02:07.462788"
 }

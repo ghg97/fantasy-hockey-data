@@ -938,9 +938,9 @@
       "line": null,
       "position": "Injured Reserve 4"
     },
-    "Gabriel Landeskog": {
+    "Artturi Lehkonen": {
       "team": "COL",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Left Wing"
     },
@@ -950,15 +950,15 @@
       "line": 1,
       "position": "Center"
     },
-    "Martin Necas": {
+    "Gabriel Landeskog": {
       "team": "COL",
       "pp_unit": 1,
       "line": 1,
       "position": "Right Wing"
     },
-    "Artturi Lehkonen": {
+    "Nazem Kadri": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 2,
       "position": "Left Wing"
     },
@@ -968,9 +968,9 @@
       "line": 2,
       "position": "Center"
     },
-    "Nicolas Roy": {
+    "Martin Necas": {
       "team": "COL",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 2,
       "position": "Right Wing"
     },
@@ -980,9 +980,9 @@
       "line": 3,
       "position": "Left Wing"
     },
-    "Nazem Kadri": {
+    "Nicolas Roy": {
       "team": "COL",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 3,
       "position": "Center"
     },
@@ -1012,13 +1012,13 @@
     },
     "Devon Toews": {
       "team": "COL",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Left Defense"
     },
-    "Sam Malinski": {
+    "Cale Makar": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 1,
       "position": "Right Defense"
     },
@@ -1028,19 +1028,19 @@
       "line": 2,
       "position": "Left Defense"
     },
-    "Brent Burns": {
+    "Sam Malinski": {
       "team": "COL",
       "pp_unit": 2,
       "line": 2,
       "position": "Right Defense"
     },
-    "Nick Blankenburg": {
+    "Josh Manson": {
       "team": "COL",
       "pp_unit": null,
       "line": 3,
       "position": "Left Defense"
     },
-    "Josh Manson": {
+    "Brent Burns": {
       "team": "COL",
       "pp_unit": null,
       "line": 3,
@@ -1057,12 +1057,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
-    },
-    "Cale Makar": {
-      "team": "COL",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 1"
     },
     "Kirill Marchenko": {
       "team": "CBJ",
@@ -4154,21 +4148,21 @@
       "line": 2,
       "position": "Right Wing"
     },
-    "Brandon Saad": {
-      "team": "VGK",
-      "pp_unit": null,
-      "line": 3,
-      "position": "Left Wing"
-    },
     "Tomas Hertl": {
       "team": "VGK",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 3,
-      "position": "Center"
+      "position": "Left Wing"
     },
     "Colton Sissons": {
       "team": "VGK",
       "pp_unit": null,
+      "line": 3,
+      "position": "Center"
+    },
+    "Mark Stone": {
+      "team": "VGK",
+      "pp_unit": 1,
       "line": 3,
       "position": "Right Wing"
     },
@@ -4204,7 +4198,7 @@
     },
     "Noah Hanifin": {
       "team": "VGK",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Left Defense"
     },
@@ -4214,13 +4208,13 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Kaedan Korczak": {
+    "Dylan Coghlan": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
       "position": "Left Defense"
     },
-    "Dylan Coghlan": {
+    "Kaedan Korczak": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
@@ -4243,12 +4237,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Injured Reserve 1"
-    },
-    "Mark Stone": {
-      "team": "VGK",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 2"
     },
     "Alex Ovechkin": {
       "team": "WSH",
@@ -4557,5 +4545,5 @@
       "position": "Skater 4"
     }
   },
-  "fetched_at": "2026-05-24T06:12:46.945139"
+  "fetched_at": "2026-05-25T06:02:05.203227"
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T06:13:19.412361",
+  "fetched_at": "2026-05-25T06:02:34.304845",
   "count": 602,
   "players": [
     {
@@ -11,8 +11,8 @@
         "D",
         "Util"
       ],
-      "line": 2,
-      "pp_unit": 2,
+      "line": 3,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 51,
       "nhl_position": "Right Defense"
@@ -1273,11 +1273,10 @@
         "LW",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Left Wing"
+      "percent_owned": 0
     },
     {
       "player_id": 5414,
@@ -1595,10 +1594,10 @@
         "Util"
       ],
       "line": 3,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 77,
-      "nhl_position": "Center"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 5698,
@@ -1735,7 +1734,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 5741,
@@ -2337,7 +2336,7 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 50,
@@ -2664,7 +2663,7 @@
     {
       "player_id": 6366,
       "name": "Tomas Nosek",
-      "team": null,
+      "team": "FLA",
       "position": "LW",
       "eligible_positions": [
         "LW",
@@ -2934,7 +2933,7 @@
         "Util"
       ],
       "line": 1,
-      "pp_unit": 1,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 49,
       "nhl_position": "Left Defense"
@@ -3231,7 +3230,7 @@
         "Util"
       ],
       "line": 2,
-      "pp_unit": 2,
+      "pp_unit": null,
       "status": "",
       "percent_owned": 36,
       "nhl_position": "Left Defense"
@@ -3598,11 +3597,11 @@
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 6854,
@@ -4475,7 +4474,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 7432,
@@ -6202,7 +6201,7 @@
       "pp_unit": null,
       "status": "",
       "percent_owned": 0,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8321,
@@ -7439,7 +7438,7 @@
     {
       "player_id": 9154,
       "name": "Arber Xhekaj",
-      "team": "MTL",
+      "team": null,
       "position": "D",
       "eligible_positions": [
         "D",
@@ -7482,17 +7481,16 @@
     {
       "player_id": 9243,
       "name": "Nick Blankenburg",
-      "team": "COL",
+      "team": "NSH,COL",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 3,
+      "line": null,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1,
-      "nhl_position": "Left Defense"
+      "percent_owned": 1
     },
     {
       "player_id": 9246,
@@ -8634,7 +8632,7 @@
         "D",
         "Util"
       ],
-      "line": 1,
+      "line": 2,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 50,
