@@ -196,16 +196,9 @@
       {
         "name": "Valeri Nichushkin",
         "team": "COL",
-        "status": "Day-To-Day",
-        "details": "Per Rawal, Nichushkin did not play in the final 22 minutes of Sunday's loss, and there was no update on his status from head coach Jared Bednar after the game. Nathan MacKinnon (lower body) was also banged up in Game 3, so the Avalanche are facing an uphill battle on the cusp of elimination. Nichushkin can be considered questionable for Game 4 in Vegas on Tuesday until information regarding his availability is provided.",
-        "date": "2026-05-25T04:03Z"
-      },
-      {
-        "name": "Nathan MacKinnon",
-        "team": "COL",
-        "status": "Day-To-Day",
-        "details": "day-to-day",
-        "date": "2026-05-25T03:36Z"
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-27T00:38Z"
       }
     ],
     "DAL": [
@@ -239,13 +232,6 @@
       }
     ],
     "DET": [
-      {
-        "name": "Dylan Larkin",
-        "team": "DET",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-04-16T13:22Z"
-      },
       {
         "name": "Mason Appleton",
         "team": "DET",
@@ -421,15 +407,6 @@
         "status": "Out",
         "details": "Stramel's three-year deal is set to begin in the 2026-27 season. The 21-year-old collegiate star excelled at Michigan State this season with 19 goals, 44 points, and a plus-29 rating across 37 appearances. He's currently in the recovery process from a broken ankle, which he sustained in Michigan State's NCAA quarterfinal loss against the University of Wisconsin. Once he's healthy, Stramel will look to compete for a roster spot with the Wild ahead of next season. Regardless, he holds solid value in dynasty-based fantasy formats given his scoring leap in college this season.",
         "date": "2026-04-07T01:43Z"
-      }
-    ],
-    "MTL": [
-      {
-        "name": "Patrik Laine",
-        "team": "MTL",
-        "status": "Injured Reserve",
-        "details": "Laine underwent core muscle surgery Oct. 25, and this is the first time since then that he has joined his teammates on the ice. Laine was given a 3-4 month recovery timetable and he could return to the lineup as early as late January. Laine has one assist in five games this season.",
-        "date": "2026-01-10T15:23Z"
       }
     ],
     "NJD": [
@@ -670,13 +647,6 @@
         "status": "Out",
         "details": "out",
         "date": "2026-04-16T23:06Z"
-      },
-      {
-        "name": "Max McCormick",
-        "team": "SEA",
-        "status": "Out",
-        "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
-        "date": "2025-09-30T16:59Z"
       }
     ],
     "STL": [
@@ -698,6 +668,13 @@
       }
     ],
     "TOR": [
+      {
+        "name": "Max Domi",
+        "team": "TOR",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-25T14:01Z"
+      },
       {
         "name": "Anthony Stolarz",
         "team": "TOR",
@@ -1053,16 +1030,9 @@
     "Valeri Nichushkin": {
       "name": "Valeri Nichushkin",
       "team": "COL",
-      "status": "Day-To-Day",
-      "details": "Per Rawal, Nichushkin did not play in the final 22 minutes of Sunday's loss, and there was no update on his status from head coach Jared Bednar after the game. Nathan MacKinnon (lower body) was also banged up in Game 3, so the Avalanche are facing an uphill battle on the cusp of elimination. Nichushkin can be considered questionable for Game 4 in Vegas on Tuesday until information regarding his availability is provided.",
-      "date": "2026-05-25T04:03Z"
-    },
-    "Nathan MacKinnon": {
-      "name": "Nathan MacKinnon",
-      "team": "COL",
-      "status": "Day-To-Day",
-      "details": "day-to-day",
-      "date": "2026-05-25T03:36Z"
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-27T00:38Z"
     },
     "Roope Hintz": {
       "name": "Roope Hintz",
@@ -1091,13 +1061,6 @@
       "status": "Out",
       "details": "out",
       "date": "2026-04-29T18:37Z"
-    },
-    "Dylan Larkin": {
-      "name": "Dylan Larkin",
-      "team": "DET",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-04-16T13:22Z"
     },
     "Mason Appleton": {
       "name": "Mason Appleton",
@@ -1266,13 +1229,6 @@
       "status": "Out",
       "details": "Stramel's three-year deal is set to begin in the 2026-27 season. The 21-year-old collegiate star excelled at Michigan State this season with 19 goals, 44 points, and a plus-29 rating across 37 appearances. He's currently in the recovery process from a broken ankle, which he sustained in Michigan State's NCAA quarterfinal loss against the University of Wisconsin. Once he's healthy, Stramel will look to compete for a roster spot with the Wild ahead of next season. Regardless, he holds solid value in dynasty-based fantasy formats given his scoring leap in college this season.",
       "date": "2026-04-07T01:43Z"
-    },
-    "Patrik Laine": {
-      "name": "Patrik Laine",
-      "team": "MTL",
-      "status": "Injured Reserve",
-      "details": "Laine underwent core muscle surgery Oct. 25, and this is the first time since then that he has joined his teammates on the ice. Laine was given a 3-4 month recovery timetable and he could return to the lineup as early as late January. Laine has one assist in five games this season.",
-      "date": "2026-01-10T15:23Z"
     },
     "Jonas Siegenthaler": {
       "name": "Jonas Siegenthaler",
@@ -1498,13 +1454,6 @@
       "details": "out",
       "date": "2026-04-16T23:06Z"
     },
-    "Max McCormick": {
-      "name": "Max McCormick",
-      "team": "SEA",
-      "status": "Out",
-      "details": "McCormick has played in just one NHL regular-season game over the past three seasons, so his absence is unlikely to impact the majority of fantasy players. With his contract with the Kraken expiring July 1, the 33-year-old winger may have to settle for a minor-league-only deal heading into the 2026-27 campaign.",
-      "date": "2025-09-30T16:59Z"
-    },
     "Jordan Kyrou": {
       "name": "Jordan Kyrou",
       "team": "STL",
@@ -1518,6 +1467,13 @@
       "status": "Out",
       "details": "While an exact timeline for Holmberg's return never materialized, this type of injury can take 6-12 weeks to recover from. He has plenty of time to heal now that Tampa Bay has been eliminated from the playoffs, and he should be available for training camp in the fall. Holmberg had 11 goals, 22 points, 90 shots on net and 66 hits across 70 appearances during the 2025-26 regular season.",
       "date": "2026-05-05T16:10Z"
+    },
+    "Max Domi": {
+      "name": "Max Domi",
+      "team": "TOR",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-25T14:01Z"
     },
     "Anthony Stolarz": {
       "name": "Anthony Stolarz",
@@ -1682,17 +1638,6 @@
     }
   },
   "injury_opportunities": {
-    "COL": {
-      "injured": [
-        "Nathan MacKinnon"
-      ],
-      "beneficiaries": [
-        "Mikko Rantanen",
-        "Casey Mittelstadt",
-        "Jonathan Drouin"
-      ],
-      "boost": 1.06
-    },
     "NYI": {
       "injured": [
         "Mathew Barzal"
@@ -1716,6 +1661,6 @@
       "boost": 1.06
     }
   },
-  "total_injured": 116,
-  "fetched_at": "2026-05-25T06:02:07.462788"
+  "total_injured": 113,
+  "fetched_at": "2026-06-11T06:04:52.597084"
 }

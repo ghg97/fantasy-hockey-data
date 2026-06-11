@@ -1,22 +1,22 @@
 {
   "starters": {
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Frederik Andersen": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
     "Starting Goalies": {
       "status": "unconfirmed",
       "starting_today": false
     },
-    "Jakub Dobes": {
+    "Brandon Bussi": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Carter Hart": {
+      "status": "unconfirmed",
+      "starting_today": false
+    },
+    "Line Combination": {
       "status": "unconfirmed",
       "starting_today": false
     }
   },
-  "date": "2026-05-25",
-  "fetched_at": "2026-05-25T06:02:05.672805"
+  "date": "2026-06-11",
+  "fetched_at": "2026-06-11T06:04:51.505178"
 }

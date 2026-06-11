@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T06:02:10.055298",
+  "fetched_at": "2026-06-11T06:04:54.058492",
   "points_leaders": [
     {
       "player_id": 8478483,
@@ -7,7 +7,91 @@
       "team": "VGK",
       "position": null,
       "games_played": null,
-      "value": 21
+      "value": 29
+    },
+    {
+      "player_id": 8478403,
+      "name": "Jack Eichel",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 20
+    },
+    {
+      "player_id": 8479353,
+      "name": "Brett Howden",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 18
+    },
+    {
+      "player_id": 8475791,
+      "name": "Taylor Hall",
+      "team": "CAR",
+      "position": null,
+      "games_played": null,
+      "value": 18
+    },
+    {
+      "player_id": 8482809,
+      "name": "Jackson Blake",
+      "team": "CAR",
+      "position": null,
+      "games_played": null,
+      "value": 18
+    }
+  ],
+  "goals_leaders": [
+    {
+      "player_id": 8479353,
+      "name": "Brett Howden",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 14
+    },
+    {
+      "player_id": 8482702,
+      "name": "Logan Stankoven",
+      "team": "CAR",
+      "position": null,
+      "games_played": null,
+      "value": 11
+    },
+    {
+      "player_id": 8478483,
+      "name": "Mitch Marner",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 10
+    },
+    {
+      "player_id": 8481604,
+      "name": "Pavel Dorofeyev",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 10
+    },
+    {
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": null,
+      "games_played": null,
+      "value": 7
+    }
+  ],
+  "assists_leaders": [
+    {
+      "player_id": 8478483,
+      "name": "Mitch Marner",
+      "team": "VGK",
+      "position": null,
+      "games_played": null,
+      "value": 19
     },
     {
       "player_id": 8478403,
@@ -18,112 +102,28 @@
       "value": 18
     },
     {
-      "player_id": 8480018,
-      "name": "Nick Suzuki",
-      "team": "MTL",
-      "position": null,
-      "games_played": null,
-      "value": 16
-    },
-    {
-      "player_id": 8477492,
-      "name": "Nathan MacKinnon",
-      "team": "COL",
-      "position": null,
-      "games_played": null,
-      "value": 15
-    },
-    {
-      "player_id": 8479420,
-      "name": "Tage Thompson",
-      "team": "BUF",
-      "position": null,
-      "games_played": null,
-      "value": 15
-    }
-  ],
-  "goals_leaders": [
-    {
-      "player_id": 8481604,
-      "name": "Pavel Dorofeyev",
-      "team": "VGK",
-      "position": null,
-      "games_played": null,
-      "value": 10
-    },
-    {
-      "player_id": 8479353,
-      "name": "Brett Howden",
-      "team": "VGK",
-      "position": null,
-      "games_played": null,
-      "value": 10
-    },
-    {
-      "player_id": 8478483,
-      "name": "Mitch Marner",
-      "team": "VGK",
-      "position": null,
-      "games_played": null,
-      "value": 7
-    },
-    {
-      "player_id": 8477492,
-      "name": "Nathan MacKinnon",
-      "team": "COL",
-      "position": null,
-      "games_played": null,
-      "value": 7
-    },
-    {
-      "player_id": 8481557,
-      "name": "Matt Boldy",
-      "team": "MIN",
-      "position": null,
-      "games_played": null,
-      "value": 7
-    }
-  ],
-  "assists_leaders": [
-    {
-      "player_id": 8478403,
-      "name": "Jack Eichel",
-      "team": "VGK",
-      "position": null,
-      "games_played": null,
-      "value": 16
-    },
-    {
-      "player_id": 8478483,
-      "name": "Mitch Marner",
-      "team": "VGK",
-      "position": null,
-      "games_played": null,
-      "value": 14
-    },
-    {
-      "player_id": 8480018,
-      "name": "Nick Suzuki",
-      "team": "MTL",
-      "position": null,
-      "games_played": null,
-      "value": 12
-    },
-    {
       "player_id": 8483457,
       "name": "Lane Hutson",
       "team": "MTL",
       "position": null,
       "games_played": null,
+      "value": 13
+    },
+    {
+      "player_id": 8475791,
+      "name": "Taylor Hall",
+      "team": "CAR",
+      "position": null,
+      "games_played": null,
       "value": 12
     },
     {
-      "player_id": 8478864,
-      "name": "Kirill Kaprizov",
-      "team": "MIN",
+      "player_id": 8482809,
+      "name": "Jackson Blake",
+      "team": "CAR",
       "position": null,
       "games_played": null,
-      "value": 11
+      "value": 12
     }
   ]
 }

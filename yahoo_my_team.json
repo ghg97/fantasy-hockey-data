@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T06:02:14.927996",
+  "fetched_at": "2026-06-10T06:13:34.485733",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -40,7 +40,7 @@
       "name": "Seth Jarvis",
       "team": "CAR",
       "position": "C",
-      "line": 1,
+      "line": 3,
       "pp_unit": 1,
       "selected_position": "LW",
       "status": "",

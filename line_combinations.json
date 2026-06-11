@@ -164,7 +164,7 @@
       "line": 4,
       "position": "Center"
     },
-    "Ross Johnston": {
+    "Ian Moore": {
       "team": "ANA",
       "pp_unit": null,
       "line": 4,
@@ -200,7 +200,7 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Ian Moore": {
+    "Radko Gudas": {
       "team": "ANA",
       "pp_unit": null,
       "line": 3,
@@ -224,17 +224,11 @@
       "line": null,
       "position": "Injured Reserve 1"
     },
-    "Radko Gudas": {
-      "team": "ANA",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 2"
-    },
     "Ryan Poehling": {
       "team": "ANA",
       "pp_unit": null,
       "line": null,
-      "position": "Injured Reserve 3"
+      "position": "Injured Reserve 2"
     },
     "Marat Khusnutdinov": {
       "team": "BOS",
@@ -686,9 +680,9 @@
       "line": 1,
       "position": "Center"
     },
-    "Seth Jarvis": {
+    "Jordan Martinook": {
       "team": "CAR",
-      "pp_unit": 1,
+      "pp_unit": null,
       "line": 1,
       "position": "Right Wing"
     },
@@ -718,13 +712,13 @@
     },
     "Jordan Staal": {
       "team": "CAR",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 3,
       "position": "Center"
     },
-    "Jordan Martinook": {
+    "Seth Jarvis": {
       "team": "CAR",
-      "pp_unit": null,
+      "pp_unit": 1,
       "line": 3,
       "position": "Right Wing"
     },
@@ -760,7 +754,7 @@
     },
     "K'Andre Miller": {
       "team": "CAR",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Left Defense"
     },
@@ -778,17 +772,17 @@
     },
     "Alexander Nikishin": {
       "team": "CAR",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Right Defense"
     },
-    "Frederik Andersen": {
+    "Brandon Bussi": {
       "team": "CAR",
       "pp_unit": null,
       "line": null,
       "position": "Starting Goalie"
     },
-    "Brandon Bussi": {
+    "Pyotr Kochetkov": {
       "team": "CAR",
       "pp_unit": null,
       "line": null,
@@ -982,13 +976,13 @@
     },
     "Nicolas Roy": {
       "team": "COL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Center"
     },
-    "Valeri Nichushkin": {
+    "Logan O'Connor": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 3,
       "position": "Right Wing"
     },
@@ -1004,7 +998,7 @@
       "line": 4,
       "position": "Center"
     },
-    "Logan O'Connor": {
+    "Joel Kiviranta": {
       "team": "COL",
       "pp_unit": null,
       "line": 4,
@@ -1030,7 +1024,7 @@
     },
     "Sam Malinski": {
       "team": "COL",
-      "pp_unit": 2,
+      "pp_unit": null,
       "line": 2,
       "position": "Right Defense"
     },
@@ -1042,21 +1036,27 @@
     },
     "Brent Burns": {
       "team": "COL",
-      "pp_unit": null,
+      "pp_unit": 2,
       "line": 3,
       "position": "Right Defense"
-    },
-    "Scott Wedgewood": {
-      "team": "COL",
-      "pp_unit": null,
-      "line": null,
-      "position": "Starting Goalie"
     },
     "Mackenzie Blackwood": {
       "team": "COL",
       "pp_unit": null,
       "line": null,
+      "position": "Starting Goalie"
+    },
+    "Scott Wedgewood": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
       "position": "Backup Goalie"
+    },
+    "Valeri Nichushkin": {
+      "team": "COL",
+      "pp_unit": null,
+      "line": null,
+      "position": "Injured Reserve 1"
     },
     "Kirill Marchenko": {
       "team": "CBJ",
@@ -2108,7 +2108,7 @@
       "line": 4,
       "position": "Left Wing"
     },
-    "Oliver Kapanen": {
+    "Joe Veleno": {
       "team": "MTL",
       "pp_unit": null,
       "line": 4,
@@ -4124,7 +4124,7 @@
       "line": 1,
       "position": "Center"
     },
-    "Pavel Dorofeyev": {
+    "Mark Stone": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 1,
@@ -4150,7 +4150,7 @@
     },
     "Tomas Hertl": {
       "team": "VGK",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 3,
       "position": "Left Wing"
     },
@@ -4160,7 +4160,7 @@
       "line": 3,
       "position": "Center"
     },
-    "Mark Stone": {
+    "Pavel Dorofeyev": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 3,
@@ -4192,7 +4192,7 @@
     },
     "Shea Theodore": {
       "team": "VGK",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 1,
       "position": "Right Defense"
     },
@@ -4208,13 +4208,13 @@
       "line": 2,
       "position": "Right Defense"
     },
-    "Dylan Coghlan": {
+    "Jeremy Lauzon": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
       "position": "Left Defense"
     },
-    "Kaedan Korczak": {
+    "Dylan Coghlan": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
@@ -4231,12 +4231,6 @@
       "pp_unit": null,
       "line": null,
       "position": "Backup Goalie"
-    },
-    "Jeremy Lauzon": {
-      "team": "VGK",
-      "pp_unit": null,
-      "line": null,
-      "position": "Injured Reserve 1"
     },
     "Alex Ovechkin": {
       "team": "WSH",
@@ -4545,5 +4539,5 @@
       "position": "Skater 4"
     }
   },
-  "fetched_at": "2026-05-25T06:02:05.203227"
+  "fetched_at": "2026-06-11T06:04:51.195288"
 }

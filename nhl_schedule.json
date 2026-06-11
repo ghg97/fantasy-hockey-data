@@ -1,84 +1,34 @@
 {
-  "fetched_at": "2026-05-25T06:02:08.774009",
+  "fetched_at": "2026-06-11T06:04:52.998400",
   "days_ahead": 14,
   "games": [
     {
-      "date": "2026-05-25",
-      "game_id": 2025030313,
-      "home_team": "MTL",
-      "away_team": "CAR",
-      "start_time": "2026-05-26T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-26",
-      "game_id": 2025030324,
-      "home_team": "VGK",
-      "away_team": "COL",
-      "start_time": "2026-05-27T01:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-27",
-      "game_id": 2025030314,
-      "home_team": "MTL",
-      "away_team": "CAR",
-      "start_time": "2026-05-28T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-28",
-      "game_id": 2025030325,
-      "home_team": "COL",
-      "away_team": "VGK",
-      "start_time": "2026-05-29T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-29",
-      "game_id": 2025030315,
+      "date": "2026-06-11",
+      "game_id": 2025030415,
       "home_team": "CAR",
-      "away_team": "MTL",
-      "start_time": "2026-05-30T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-30",
-      "game_id": 2025030326,
-      "home_team": "VGK",
-      "away_team": "COL",
-      "start_time": "2026-05-31T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-05-31",
-      "game_id": 2025030316,
-      "home_team": "MTL",
-      "away_team": "CAR",
-      "start_time": "2026-05-31T16:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-06-01",
-      "game_id": 2025030327,
-      "home_team": "COL",
       "away_team": "VGK",
-      "start_time": "2026-06-02T00:00:00Z",
+      "start_time": "2026-06-12T00:00:00Z",
       "game_type": 3
     },
     {
-      "date": "2026-06-02",
-      "game_id": 2025030317,
+      "date": "2026-06-14",
+      "game_id": 2025030416,
+      "home_team": "VGK",
+      "away_team": "CAR",
+      "start_time": "2026-06-15T00:00:00Z",
+      "game_type": 3
+    },
+    {
+      "date": "2026-06-17",
+      "game_id": 2025030417,
       "home_team": "CAR",
-      "away_team": "MTL",
-      "start_time": "2026-06-03T00:00:00Z",
+      "away_team": "VGK",
+      "start_time": "2026-06-18T00:00:00Z",
       "game_type": 3
     }
   ],
   "team_games_count": {
-    "MTL": 5,
-    "CAR": 5,
-    "VGK": 4,
-    "COL": 4
+    "CAR": 3,
+    "VGK": 3
   }
 }

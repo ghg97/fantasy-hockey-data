@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-25T06:02:36.364883",
-  "count": 46,
+  "fetched_at": "2026-06-10T06:14:57.036751",
+  "count": 47,
   "players": [
     {
       "player_id": 4003,
@@ -601,6 +601,19 @@
       "player_id": 31615,
       "name": "Vyacheslav Buteyets",
       "team": "ANA",
+      "position": "G",
+      "eligible_positions": [
+        "G"
+      ],
+      "line": null,
+      "pp_unit": null,
+      "status": "",
+      "percent_owned": 0
+    },
+    {
+      "player_id": 33401,
+      "name": "Isak Posch",
+      "team": null,
       "position": "G",
       "eligible_positions": [
         "G"
