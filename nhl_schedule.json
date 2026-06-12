@@ -1,34 +1,6 @@
 {
-  "fetched_at": "2026-06-11T06:04:52.998400",
+  "fetched_at": "2026-06-12T07:59:20.263382",
   "days_ahead": 14,
-  "games": [
-    {
-      "date": "2026-06-11",
-      "game_id": 2025030415,
-      "home_team": "CAR",
-      "away_team": "VGK",
-      "start_time": "2026-06-12T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-06-14",
-      "game_id": 2025030416,
-      "home_team": "VGK",
-      "away_team": "CAR",
-      "start_time": "2026-06-15T00:00:00Z",
-      "game_type": 3
-    },
-    {
-      "date": "2026-06-17",
-      "game_id": 2025030417,
-      "home_team": "CAR",
-      "away_team": "VGK",
-      "start_time": "2026-06-18T00:00:00Z",
-      "game_type": 3
-    }
-  ],
-  "team_games_count": {
-    "CAR": 3,
-    "VGK": 3
-  }
+  "games": [],
+  "team_games_count": {}
 }

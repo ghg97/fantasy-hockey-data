@@ -1,22 +1,5 @@
 {
-  "starters": {
-    "Starting Goalies": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Brandon Bussi": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Carter Hart": {
-      "status": "unconfirmed",
-      "starting_today": false
-    },
-    "Line Combination": {
-      "status": "unconfirmed",
-      "starting_today": false
-    }
-  },
-  "date": "2026-06-11",
-  "fetched_at": "2026-06-11T06:04:51.505178"
+  "starters": {},
+  "date": "2026-06-12",
+  "fetched_at": "2026-06-12T07:59:19.512941"
 }
