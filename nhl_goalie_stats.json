@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T06:01:30.813996",
+  "fetched_at": "2026-06-15T08:50:35.387303",
   "wins_leaders": [
     {
       "player_id": 8479394,
@@ -53,6 +53,13 @@
       "value": 0.932331
     },
     {
+      "player_id": 8483548,
+      "name": "Brandon Bussi",
+      "team": "CAR",
+      "games_played": null,
+      "value": 0.931034
+    },
+    {
       "player_id": 8478435,
       "name": "Dan Vladar",
       "team": "PHI",
@@ -65,13 +72,6 @@
       "team": "CAR",
       "games_played": null,
       "value": 0.909605
-    },
-    {
-      "player_id": 8476341,
-      "name": "Anton Forsberg",
-      "team": "LAK",
-      "games_played": null,
-      "value": 0.909091
     }
   ],
   "gaa_leaders": []

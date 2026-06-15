@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T06:01:29.421984",
+  "fetched_at": "2026-06-15T08:50:32.851234",
   "points_leaders": [
     {
       "player_id": 8478483,
@@ -18,12 +18,12 @@
       "value": 22
     },
     {
-      "player_id": 8479353,
-      "name": "Brett Howden",
-      "team": "VGK",
+      "player_id": 8482809,
+      "name": "Jackson Blake",
+      "team": "CAR",
       "position": null,
       "games_played": null,
-      "value": 18
+      "value": 20
     },
     {
       "player_id": 8475791,
@@ -31,12 +31,12 @@
       "team": "CAR",
       "position": null,
       "games_played": null,
-      "value": 18
+      "value": 19
     },
     {
-      "player_id": 8482809,
-      "name": "Jackson Blake",
-      "team": "CAR",
+      "player_id": 8479353,
+      "name": "Brett Howden",
+      "team": "VGK",
       "position": null,
       "games_played": null,
       "value": 18
@@ -76,8 +76,8 @@
       "value": 10
     },
     {
-      "player_id": 8473533,
-      "name": "Jordan Staal",
+      "player_id": 8477940,
+      "name": "Nikolaj Ehlers",
       "team": "CAR",
       "position": null,
       "games_played": null,
@@ -102,6 +102,14 @@
       "value": 19
     },
     {
+      "player_id": 8482809,
+      "name": "Jackson Blake",
+      "team": "CAR",
+      "position": null,
+      "games_played": null,
+      "value": 13
+    },
+    {
       "player_id": 8483457,
       "name": "Lane Hutson",
       "team": "MTL",
@@ -112,14 +120,6 @@
     {
       "player_id": 8475791,
       "name": "Taylor Hall",
-      "team": "CAR",
-      "position": null,
-      "games_played": null,
-      "value": 12
-    },
-    {
-      "player_id": 8482809,
-      "name": "Jackson Blake",
       "team": "CAR",
       "position": null,
       "games_played": null,

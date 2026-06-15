@@ -4118,9 +4118,9 @@
       "line": null,
       "position": "Injured Reserve 5"
     },
-    "Ivan Barbashev": {
+    "Pavel Dorofeyev": {
       "team": "VGK",
-      "pp_unit": 2,
+      "pp_unit": 1,
       "line": 1,
       "position": "Left Wing"
     },
@@ -4130,25 +4130,25 @@
       "line": 1,
       "position": "Center"
     },
-    "Pavel Dorofeyev": {
+    "Mark Stone": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 1,
       "position": "Right Wing"
     },
-    "Brett Howden": {
+    "Ivan Barbashev": {
       "team": "VGK",
       "pp_unit": 2,
       "line": 2,
       "position": "Left Wing"
     },
-    "Mitch Marner": {
+    "Brett Howden": {
       "team": "VGK",
-      "pp_unit": 1,
+      "pp_unit": 2,
       "line": 2,
       "position": "Center"
     },
-    "Mark Stone": {
+    "Mitch Marner": {
       "team": "VGK",
       "pp_unit": 1,
       "line": 2,
@@ -4184,7 +4184,7 @@
       "line": 4,
       "position": "Center"
     },
-    "Keegan Kolesar": {
+    "Braeden Bowman": {
       "team": "VGK",
       "pp_unit": null,
       "line": 4,
@@ -4220,7 +4220,7 @@
       "line": 3,
       "position": "Left Defense"
     },
-    "Dylan Coghlan": {
+    "Kaedan Korczak": {
       "team": "VGK",
       "pp_unit": null,
       "line": 3,
@@ -4551,5 +4551,5 @@
       "position": "Skater 4"
     }
   },
-  "fetched_at": "2026-06-14T06:01:27.300951"
+  "fetched_at": "2026-06-15T08:50:21.895184"
 }

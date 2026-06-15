@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T06:01:42.888486",
+  "fetched_at": "2026-06-15T08:32:46.235727",
   "count": 599,
   "players": [
     {
@@ -2782,7 +2782,7 @@
         "LW",
         "Util"
       ],
-      "line": 1,
+      "line": 2,
       "pp_unit": 2,
       "status": "",
       "percent_owned": 29,
@@ -3086,7 +3086,7 @@
     {
       "player_id": 6616,
       "name": "Liam O'Brien",
-      "team": "UTA",
+      "team": null,
       "position": "LW",
       "eligible_positions": [
         "LW",
@@ -3495,8 +3495,7 @@
       "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 2,
-      "nhl_position": "Right Wing"
+      "percent_owned": 2
     },
     {
       "player_id": 6814,
@@ -4034,7 +4033,7 @@
       "pp_unit": 2,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 7137,
@@ -4426,8 +4425,7 @@
       "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0,
-      "nhl_position": "Right Defense"
+      "percent_owned": 0
     },
     {
       "player_id": 7432,
@@ -5150,7 +5148,7 @@
     {
       "player_id": 7906,
       "name": "Adam Boqvist",
-      "team": null,
+      "team": "NYI",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -6152,10 +6150,11 @@
         "D",
         "Util"
       ],
-      "line": null,
+      "line": 3,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 0
+      "percent_owned": 0,
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 8321,
@@ -7392,7 +7391,7 @@
     {
       "player_id": 9154,
       "name": "Arber Xhekaj",
-      "team": null,
+      "team": "MTL",
       "position": "D",
       "eligible_positions": [
         "D",
@@ -7856,10 +7855,11 @@
         "RW",
         "Util"
       ],
-      "line": null,
+      "line": 4,
       "pp_unit": null,
       "status": "",
-      "percent_owned": 1
+      "percent_owned": 1,
+      "nhl_position": "Right Wing"
     },
     {
       "player_id": 30104,
