@@ -5,8 +5,8 @@
         "name": "Troy Terry",
         "team": "ANA",
         "status": "Out",
-        "details": "Terry basically skipped practices throughout the postseason, but that didn't stop him from appearing in all 12 playoff games for the Ducks. In those outings, the 28-year-old winger notched three goals and eight assists, including a pair of power-play points.",
-        "date": "2026-05-21T16:53Z"
+        "details": "Terry didn't miss any of Anaheim's 12 playoff games this year, and he was productive over those postseason outings with three goals and 11 points. However, he was playing through the hip injury. His timetable suggests that the 28-year-old won't be ready for the start of 2026-27, and he likely won't play before mid-November in a best-case scenario. He still might cross the 50-point mark for a sixth consecutive campaign in 2026-27 despite beginning the season on the shelf. Although he was limited to 61 outings during the 2025-26 regular season, he finished with 19 goals and 57 points.",
+        "date": "2026-06-18T17:13Z"
       },
       {
         "name": "Radko Gudas",
@@ -762,15 +762,6 @@
         "date": "2025-10-28T17:30Z"
       }
     ],
-    "VGK": [
-      {
-        "name": "William Karlsson",
-        "team": "VGK",
-        "status": "Out",
-        "details": "out",
-        "date": "2026-06-12T03:26Z"
-      }
-    ],
     "WSH": [
       {
         "name": "Rasmus Sandin",
@@ -858,8 +849,8 @@
       "name": "Troy Terry",
       "team": "ANA",
       "status": "Out",
-      "details": "Terry basically skipped practices throughout the postseason, but that didn't stop him from appearing in all 12 playoff games for the Ducks. In those outings, the 28-year-old winger notched three goals and eight assists, including a pair of power-play points.",
-      "date": "2026-05-21T16:53Z"
+      "details": "Terry didn't miss any of Anaheim's 12 playoff games this year, and he was productive over those postseason outings with three goals and 11 points. However, he was playing through the hip injury. His timetable suggests that the 28-year-old won't be ready for the start of 2026-27, and he likely won't play before mid-November in a best-case scenario. He still might cross the 50-point mark for a sixth consecutive campaign in 2026-27 despite beginning the season on the shelf. Although he was limited to 61 outings during the 2025-26 regular season, he finished with 19 goals and 57 points.",
+      "date": "2026-06-18T17:13Z"
     },
     "Radko Gudas": {
       "name": "Radko Gudas",
@@ -1568,13 +1559,6 @@
       "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
       "date": "2025-10-28T17:30Z"
     },
-    "William Karlsson": {
-      "name": "William Karlsson",
-      "team": "VGK",
-      "status": "Out",
-      "details": "out",
-      "date": "2026-06-12T03:26Z"
-    },
     "Rasmus Sandin": {
       "name": "Rasmus Sandin",
       "team": "WSH",
@@ -1677,6 +1661,6 @@
       "boost": 1.06
     }
   },
-  "total_injured": 114,
-  "fetched_at": "2026-06-15T08:50:28.440033"
+  "total_injured": 113,
+  "fetched_at": "2026-06-20T07:18:59.823699"
 }

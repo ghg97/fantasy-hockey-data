@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T08:50:41.756926",
+  "fetched_at": "2026-06-20T07:19:06.842120",
   "team_key": "465.l.71635.t.5",
   "roster": [
     {
@@ -139,7 +139,7 @@
       "name": "Steven Stamkos",
       "team": "NSH",
       "position": "C",
-      "line": 1,
+      "line": 2,
       "pp_unit": 1,
       "selected_position": "BN",
       "status": "",

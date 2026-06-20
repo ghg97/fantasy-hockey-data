@@ -1,129 +1,129 @@
 {
-  "fetched_at": "2026-06-15T08:50:32.851234",
+  "fetched_at": "2026-06-20T07:19:02.435261",
   "points_leaders": [
     {
-      "player_id": 8478483,
-      "name": "Mitch Marner",
-      "team": "VGK",
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 29
+      "value": 138
     },
     {
-      "player_id": 8478403,
-      "name": "Jack Eichel",
-      "team": "VGK",
+      "player_id": 8476453,
+      "name": "Nikita Kucherov",
+      "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 22
+      "value": 130
     },
     {
-      "player_id": 8482809,
-      "name": "Jackson Blake",
-      "team": "CAR",
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 20
+      "value": 127
     },
     {
-      "player_id": 8475791,
-      "name": "Taylor Hall",
-      "team": "CAR",
+      "player_id": 8484801,
+      "name": "Macklin Celebrini",
+      "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 19
+      "value": 115
     },
     {
-      "player_id": 8479353,
-      "name": "Brett Howden",
-      "team": "VGK",
+      "player_id": 8476460,
+      "name": "Mark Scheifele",
+      "team": "WPG",
       "position": null,
       "games_played": null,
-      "value": 18
+      "value": 103
     }
   ],
   "goals_leaders": [
     {
-      "player_id": 8479353,
-      "name": "Brett Howden",
-      "team": "VGK",
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 14
+      "value": 53
     },
     {
-      "player_id": 8481604,
-      "name": "Pavel Dorofeyev",
-      "team": "VGK",
+      "player_id": 8481540,
+      "name": "Cole Caufield",
+      "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 12
+      "value": 51
     },
     {
-      "player_id": 8482702,
-      "name": "Logan Stankoven",
-      "team": "CAR",
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 11
+      "value": 48
     },
     {
-      "player_id": 8478483,
-      "name": "Mitch Marner",
-      "team": "VGK",
+      "player_id": 8484801,
+      "name": "Macklin Celebrini",
+      "team": "SJS",
       "position": null,
       "games_played": null,
-      "value": 10
+      "value": 45
     },
     {
-      "player_id": 8477940,
-      "name": "Nikolaj Ehlers",
-      "team": "CAR",
+      "player_id": 8480027,
+      "name": "Jason Robertson",
+      "team": "DAL",
       "position": null,
       "games_played": null,
-      "value": 8
+      "value": 45
     }
   ],
   "assists_leaders": [
     {
-      "player_id": 8478403,
-      "name": "Jack Eichel",
-      "team": "VGK",
+      "player_id": 8478402,
+      "name": "Connor McDavid",
+      "team": "EDM",
       "position": null,
       "games_played": null,
-      "value": 20
+      "value": 90
     },
     {
-      "player_id": 8478483,
-      "name": "Mitch Marner",
-      "team": "VGK",
+      "player_id": 8476453,
+      "name": "Nikita Kucherov",
+      "team": "TBL",
       "position": null,
       "games_played": null,
-      "value": 19
+      "value": 86
     },
     {
-      "player_id": 8482809,
-      "name": "Jackson Blake",
-      "team": "CAR",
+      "player_id": 8477492,
+      "name": "Nathan MacKinnon",
+      "team": "COL",
       "position": null,
       "games_played": null,
-      "value": 13
+      "value": 74
     },
     {
-      "player_id": 8483457,
-      "name": "Lane Hutson",
+      "player_id": 8480803,
+      "name": "Evan Bouchard",
+      "team": "EDM",
+      "position": null,
+      "games_played": null,
+      "value": 74
+    },
+    {
+      "player_id": 8480018,
+      "name": "Nick Suzuki",
       "team": "MTL",
       "position": null,
       "games_played": null,
-      "value": 13
-    },
-    {
-      "player_id": 8475791,
-      "name": "Taylor Hall",
-      "team": "CAR",
-      "position": null,
-      "games_played": null,
-      "value": 12
+      "value": 72
     }
   ]
 }
