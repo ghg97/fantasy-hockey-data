@@ -715,18 +715,18 @@
     {
       "player_id": 4988,
       "name": "Charlie Coyle",
-      "team": "CBJ",
+      "team": "BOS",
       "position": "C",
       "eligible_positions": [
         "C",
         "RW",
         "Util"
       ],
-      "line": 2,
+      "line": 1,
       "pp_unit": 1,
       "status": "",
       "percent_owned": 31,
-      "nhl_position": "Center"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 5009,
@@ -1825,17 +1825,17 @@
     {
       "player_id": 5785,
       "name": "Josh Anderson",
-      "team": "MTL",
+      "team": "COL",
       "position": "RW",
       "eligible_positions": [
         "RW",
         "Util"
       ],
-      "line": 3,
+      "line": 2,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Right Wing"
+      "nhl_position": "Left Defense"
     },
     {
       "player_id": 5795,
@@ -3027,17 +3027,17 @@
     {
       "player_id": 6576,
       "name": "Jake Middleton",
-      "team": "MIN",
+      "team": "COL",
       "position": "D",
       "eligible_positions": [
         "D",
         "Util"
       ],
-      "line": 2,
+      "line": 3,
       "pp_unit": null,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Defense"
+      "nhl_position": "Right Defense"
     },
     {
       "player_id": 6585,
@@ -3152,14 +3152,14 @@
     {
       "player_id": 6745,
       "name": "Dylan Strome",
-      "team": "WSH",
+      "team": "CGY",
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 1,
-      "pp_unit": 1,
+      "line": 3,
+      "pp_unit": 2,
       "status": "",
       "percent_owned": 69,
       "nhl_position": "Center"
@@ -5472,17 +5472,17 @@
     {
       "player_id": 7990,
       "name": "Connor Dewar",
-      "team": "PIT",
+      "team": "CHI",
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": 4,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 1,
-      "nhl_position": "Left Wing"
+      "nhl_position": "Center"
     },
     {
       "player_id": 8002,
@@ -6458,17 +6458,17 @@
     {
       "player_id": 8652,
       "name": "Anton Lundell",
-      "team": "FLA",
+      "team": "CHI",
       "position": "C",
       "eligible_positions": [
         "C",
         "Util"
       ],
-      "line": null,
-      "pp_unit": null,
+      "line": 1,
+      "pp_unit": 1,
       "status": "",
       "percent_owned": 26,
-      "nhl_position": "Injured Reserve 6"
+      "nhl_position": "Left Wing"
     },
     {
       "player_id": 8656,
