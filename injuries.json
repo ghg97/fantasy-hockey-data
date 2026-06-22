@@ -1,7 +1,1652 @@
 {
-  "injuries_by_team": {},
-  "injured_players": {},
-  "injury_opportunities": {},
-  "total_injured": 0,
-  "fetched_at": "2026-06-21T08:17:23.607224"
+  "injuries_by_team": {
+    "ANA": [
+      {
+        "name": "Troy Terry",
+        "team": "ANA",
+        "status": "Out",
+        "details": "Terry didn't miss any of Anaheim's 12 playoff games this year, and he was productive over those postseason outings with three goals and 11 points. However, he was playing through the hip injury. His timetable suggests that the 28-year-old won't be ready for the start of 2026-27, and he likely won't play before mid-November in a best-case scenario. He still might cross the 50-point mark for a sixth consecutive campaign in 2026-27 despite beginning the season on the shelf. Although he was limited to 61 outings during the 2025-26 regular season, he finished with 19 goals and 57 points.",
+        "date": "2026-06-18T17:13Z"
+      },
+      {
+        "name": "Radko Gudas",
+        "team": "ANA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-14T17:44Z"
+      },
+      {
+        "name": "Drew Helleson",
+        "team": "ANA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-14T17:29Z"
+      },
+      {
+        "name": "Ryan Poehling",
+        "team": "ANA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-13T20:13Z"
+      },
+      {
+        "name": "Petr Mrazek",
+        "team": "ANA",
+        "status": "Injured Reserve",
+        "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
+        "date": "2026-02-18T23:39Z"
+      }
+    ],
+    "BOS": [
+      {
+        "name": "Charlie McAvoy",
+        "team": "BOS",
+        "status": "Suspension",
+        "details": "suspension",
+        "date": "2026-05-13T00:13Z"
+      },
+      {
+        "name": "Viktor Arvidsson",
+        "team": "BOS",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-03T17:21Z"
+      },
+      {
+        "name": "Nikita Zadorov",
+        "team": "BOS",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-02T11:45Z"
+      },
+      {
+        "name": "Dans Locmelis",
+        "team": "BOS",
+        "status": "Out",
+        "details": "Locmelis has played through his injury for a while but will now get it addressed. The 22-year-old expects to be ready for training camp in September. He stood out with 28 points in 43 games with AHL Providence this season, as well as two goals in four games with Latvia at the Olympics.",
+        "date": "2026-02-28T23:26Z"
+      }
+    ],
+    "BUF": [
+      {
+        "name": "Justin Danforth",
+        "team": "BUF",
+        "status": "Injured Reserve",
+        "details": "Danforth underwent surgery to repair a broken kneecap sustained in October. A second procedure was required to clean up loose cartilage, which explains why he didn't return after the Olympic break as initially expected. Danforth should be good to go at the start of 2026-27, and he's under contract with the Sabres, so he'll be in the mix for bottom-six minutes.",
+        "date": "2026-05-20T22:36Z"
+      },
+      {
+        "name": "Jiri Kulich",
+        "team": "BUF",
+        "status": "Injured Reserve",
+        "details": "Kulich appeared in just 12 regular-season games in 2025-26, accounting for three goals, five points, 20 shots and a minus-4 rating. While an exact timeline for his recovery is not known, he should be reason for the start of next season. Kulich told reporters Tuesday during the Sabres' postseason media availability that he feels good now, has been doing a lot of skating and shooting and is looking forward to next season. The 22-year-old will be a restricted free agent after the 2026-27 campaign.",
+        "date": "2026-05-19T18:03Z"
+      },
+      {
+        "name": "Noah Ostlund",
+        "team": "BUF",
+        "status": "Out",
+        "details": "Ostlund sustained the injury in the first period of Game 5 against Boston on Tuesday. He had one goal, one assist, four shots on net and one blocked shot in three appearances during Buffalo's first-round series win over the Bruins. It remains unclear when he will be available to return to the lineup.",
+        "date": "2026-05-03T16:41Z"
+      }
+    ],
+    "CGY": [
+      {
+        "name": "Kevin Bahl",
+        "team": "CGY",
+        "status": "Out",
+        "details": "Bahl will complete 2025-26 with four goals, 18 points, 47 PIM, 114 hits and 99 blocks in 76 outings. Barring a trade, the 25-year-old is expected to be back with the Flames next season and continue to serve in a top-four capacity.",
+        "date": "2026-04-16T22:41Z"
+      },
+      {
+        "name": "Connor Zary",
+        "team": "CGY",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-16T22:39Z"
+      },
+      {
+        "name": "Yan Kuznetsov",
+        "team": "CGY",
+        "status": "Out",
+        "details": "After sitting out Sunday's 4-1 win over Utah because of the injury, Kuznetsov won't play against the Avalanche and Kings on Tuesday and Thursday, respectively. He will conclude the 2025-26 campaign with four goals, 12 points, 64 shots on net, 103 blocked shots and 79 hits across 57 appearances.",
+        "date": "2026-04-14T17:25Z"
+      },
+      {
+        "name": "Joel Hanley",
+        "team": "CGY",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-03-28T17:45Z"
+      },
+      {
+        "name": "Samuel Honzek",
+        "team": "CGY",
+        "status": "Injured Reserve",
+        "details": "Honzek practiced for the first time Friday since he was injured versus Winnipeg on Nov. 15, a span of 52 games. The 21-year-old ends the season with two goals, four points and 35 hits over 18 games with the Flames. He is expected to be fully recovered in time for training camp in September.",
+        "date": "2026-03-27T17:41Z"
+      },
+      {
+        "name": "Jonathan Huberdeau",
+        "team": "CGY",
+        "status": "Injured Reserve",
+        "details": "Huberdeau was already ruled out for the rest of the 2025-26 campaign after undergoing hip surgery, so the decision to put him on IR isn't surprising. He'll conclude the year with 10 goals and 25 points in 50 regular-season appearances. The 32-year-old's eight-year, $84 million contract runs through 2030-31, and he has a no-movement clause, so odds are he'll be back with Calgary next season.",
+        "date": "2026-02-21T22:27Z"
+      },
+      {
+        "name": "Cullen Potter",
+        "team": "CGY",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-01-21T23:05Z"
+      },
+      {
+        "name": "Jake Bean",
+        "team": "CGY",
+        "status": "Injured Reserve",
+        "details": "Bean has played in just six of the Flames' last 21 games due to his undisclosed injury and now faces an extended stint on the shelf. Even when healthy, the Calgary native has only reached the 20-point threshold once in his career and doesn't offer enough category coverage to be more than a low-end fantasy option. If the Flames need some cap relief, Bean would be a good candidate to be shifted to long-term injured reserve, especially if he is ruled out for the rest of the year.",
+        "date": "2025-12-18T18:19Z"
+      },
+      {
+        "name": "Henry Mews",
+        "team": "CGY",
+        "status": "Out",
+        "details": "out",
+        "date": "2025-11-04T23:32Z"
+      }
+    ],
+    "CHI": [
+      {
+        "name": "Andrew Mangiapane",
+        "team": "CHI",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-16T00:13Z"
+      },
+      {
+        "name": "Matt Grzelcyk",
+        "team": "CHI",
+        "status": "Out",
+        "details": "Grzelcyk hasn't played since March 22 against Nashville because of the injury. He will conclude the campaign with 12 assists, 68 shots on goal, 54 blocked shots and 28 hits across 69 appearances. The 32-year-old blueliner will be eligible for unrestricted free agency in the summer.",
+        "date": "2026-03-31T16:34Z"
+      },
+      {
+        "name": "Artyom Levshunov",
+        "team": "CHI",
+        "status": "Out",
+        "details": "Levshunov sustained a fracture in his left hand against the Islanders last week and played through the injury for a few games. The 20-year-old defenseman will now turn his attention to recovering and getting ready for the 2026-27 campaign, but it currently remains to be seen if Levshunov will undergo surgery to address his hand fracture.",
+        "date": "2026-03-31T16:30Z"
+      },
+      {
+        "name": "Ryan Ellis",
+        "team": "CHI",
+        "status": "Injured Reserve",
+        "details": "Ellis hasn't played since 2021-22 when he logged four games for the Flyers, generating one goal and four assists along the way. The 35-year-old blueliner hasn't been officially shifted to long-term injured reserve, but that move could give the Blackhawks some cap relief if they need it.",
+        "date": "2026-01-08T20:25Z"
+      }
+    ],
+    "COL": [
+      {
+        "name": "Valeri Nichushkin",
+        "team": "COL",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-27T00:38Z"
+      }
+    ],
+    "DAL": [
+      {
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "status": "Out",
+        "details": "Hintz, who tore his hamstring in two spots, was hopeful that he could have played in Game 2 or 3 had the Stars advanced to the second round of the 2026 Stanley Cup Playoffs. However, he will have the summer to recover fully after Dallas' first-round exit at the hands of Minnesota on Thursday.",
+        "date": "2026-05-04T16:02Z"
+      },
+      {
+        "name": "Tyler Seguin",
+        "team": "DAL",
+        "status": "Injured Reserve",
+        "details": "Seguin appeared in only 27 games during the 2025-26 regular season, providing seven goals and 17 points. He underwent surgery in mid-December to repair a torn ACL. Seguin's inability to stay healthy over the last three regular seasons will likely hurt his fantasy stock ahead of the 2026-27 campaign.",
+        "date": "2026-05-04T15:50Z"
+      },
+      {
+        "name": "Arttu Hyry",
+        "team": "DAL",
+        "status": "Out",
+        "details": "Hyry is pointless in his previous four outings while chipping in seven hits, three shots and two blocks. With the 25-year-old forward on the shelf, Michael Bunting is expected to serve in a bottom-six role in his playoff debut. Still, once Hyry is given the all-clear, he should be capable of retaking his spot in the lineup.",
+        "date": "2026-04-30T15:52Z"
+      },
+      {
+        "name": "Nils Lundkvist",
+        "team": "DAL",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-29T18:37Z"
+      }
+    ],
+    "DET": [
+      {
+        "name": "Mason Appleton",
+        "team": "DET",
+        "status": "Out",
+        "details": "Appleton will miss his sixth straight game to end the campaign. He'll finish the season with 14 points in 65 outings. He is under contract for 2026-27, but without an update on his injury status, it's unclear if he'll be ready for the start of that campaign.",
+        "date": "2026-04-15T23:01Z"
+      },
+      {
+        "name": "Michael Rasmussen",
+        "team": "DET",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T02:23Z"
+      }
+    ],
+    "EDM": [
+      {
+        "name": "Adam Henrique",
+        "team": "EDM",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-30T22:15Z"
+      },
+      {
+        "name": "Max Jones",
+        "team": "EDM",
+        "status": "Out",
+        "details": "The Oilers are trailing the Ducks 3-2 in the first round, so there's no guarantee they'll give Jones enough time to get back. If they do, he'll be a contender for a bottom-six spot. In any case, his injury isn't expected to linger into 2026-27.",
+        "date": "2026-04-29T22:50Z"
+      },
+      {
+        "name": "Mattias Janmark",
+        "team": "EDM",
+        "status": "Injured Reserve",
+        "details": "Janmark was injured in the first period Feb. 25 in Anaheim and did not return. He managed one goal and seven assists in 43 games with the Oilers this season. He is expected to be healthy for the start of training camp in September.",
+        "date": "2026-03-06T18:16Z"
+      }
+    ],
+    "FLA": [
+      {
+        "name": "Carter Verhaeghe",
+        "team": "FLA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-15T22:46Z"
+      },
+      {
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-15T22:46Z"
+      },
+      {
+        "name": "Gustav Forsling",
+        "team": "FLA",
+        "status": "Out",
+        "details": "Forsling had been playing through the injury, and head coach Paul Maurice felt \"he's given enough,\" so the 29-year-old will get the game off. Mikulas Hovorka will draw into the lineup as a result. Forsling will finish 2025-26 with two goals, 28 points, 51 PIM, 52 hits and 98 blocks in 80 outings.",
+        "date": "2026-04-15T15:43Z"
+      },
+      {
+        "name": "Tomas Nosek",
+        "team": "FLA",
+        "status": "Out",
+        "details": "Thus ends a difficult campaign for Nosek, who was limited to 21 outings due to injury. He recorded two goals, four points, four PIM and 51 hits over those games in 2025-26. The 33-year-old is eligible to become an unrestricted free agent this summer.",
+        "date": "2026-04-15T15:37Z"
+      },
+      {
+        "name": "Seth Jones",
+        "team": "FLA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-09T18:46Z"
+      },
+      {
+        "name": "Dmitry Kulikov",
+        "team": "FLA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-08T02:11Z"
+      },
+      {
+        "name": "Evan Rodrigues",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "ir-lt",
+        "date": "2026-04-04T18:10Z"
+      },
+      {
+        "name": "Aaron Ekblad",
+        "team": "FLA",
+        "status": "Out",
+        "details": "Head coach Paul Maurice said that Ekblad would be out \"weeks\" and with only two weeks remaining in the regular season and the Panthers all but eliminated from playoff contention, it is likely the end of the campaign for the 30-year-old blueliner. Ekblad will end the season with four goals, 22 assists, 84 hits and 103 blocked shots across 72 regular-season games in 2025-26.",
+        "date": "2026-04-02T14:59Z"
+      },
+      {
+        "name": "Jonah Gadjovich",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "Gadjovich hasn't been in the lineup since late October. The 27-year-old appeared in only 10 games in 2025-26, chipping in three helpers, 30 hits and a plus-2 rating. It remains to be seen how he has been progressing in his recovery.",
+        "date": "2026-03-31T15:45Z"
+      },
+      {
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "status": "Out",
+        "details": "The Panthers have been dealing with a slew of injuries, and Reinhart is one of several players who will likely be shut down for the rest of this year. The goal-scoring winger will conclude the 2025-26 campaign with 29 markers, including six game-winners, 61 points (25 on the power play), 166 shots and a minus-18 rating over 64 appearances. While it's not currently known how his recovery process is going, Reinhart should have more than enough time to be ready for the start of training camp in September ahead of the 2026-27 season.",
+        "date": "2026-03-31T15:39Z"
+      },
+      {
+        "name": "Niko Mikkola",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-03-23T19:06Z"
+      },
+      {
+        "name": "Uvis Balinskis",
+        "team": "FLA",
+        "status": "Out",
+        "details": "Balinskis has been sidelined for a week and a half due to his lower-body injury, and it's possible that he'll be shut down for the remainder of the season after being diagnosed with a fracture. Across 54 appearances for the Panthers this year, he's recorded five goals, 10 assists, 71 hits, 42 blocked shots and 30 PIM while averaging 16:22 of ice time.",
+        "date": "2026-03-23T16:14Z"
+      },
+      {
+        "name": "Brad Marchand",
+        "team": "FLA",
+        "status": "Injured Reserve",
+        "details": "Marchand has missed the last three games and is not expected to be back in the lineup anytime soon. Considering the Panthers are all but eliminated from postseason contention, it would not be surprising to see Marchand shut down for the remainder of the year after multiple deep playoff runs and injuries along the way.",
+        "date": "2026-03-17T18:45Z"
+      }
+    ],
+    "LAK": [
+      {
+        "name": "Kevin Fiala",
+        "team": "LAK",
+        "status": "Injured Reserve",
+        "details": "Fiala was already ruled out for the rest of the regular season, but now the possibility of him returning for the playoffs has also been eliminated. He suffered the injury while playing for Switzerland during the 2026 Winter Olympics. He'll finish the 2025-26 campaign with 18 goals and 40 points in 56 outings with the Kings.",
+        "date": "2026-03-06T22:06Z"
+      }
+    ],
+    "MIN": [
+      {
+        "name": "Filip Gustavsson",
+        "team": "MIN",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-18T18:29Z"
+      },
+      {
+        "name": "Zach Bogosian",
+        "team": "MIN",
+        "status": "Out",
+        "details": "Bogosian has been battling a lower-body issue since late in the regular season, and it's flared up enough to keep him out of an elimination game. Jeff Petry will replace him in the lineup Wednesday. Bogosian should be considered questionable to play if the Wild force Game 6, which would be played Friday.",
+        "date": "2026-05-13T23:58Z"
+      },
+      {
+        "name": "Jonas Brodin",
+        "team": "MIN",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-13T23:40Z"
+      },
+      {
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-13T23:40Z"
+      },
+      {
+        "name": "Charlie Stramel",
+        "team": "MIN",
+        "status": "Out",
+        "details": "Stramel's three-year deal is set to begin in the 2026-27 season. The 21-year-old collegiate star excelled at Michigan State this season with 19 goals, 44 points, and a plus-29 rating across 37 appearances. He's currently in the recovery process from a broken ankle, which he sustained in Michigan State's NCAA quarterfinal loss against the University of Wisconsin. Once he's healthy, Stramel will look to compete for a roster spot with the Wild ahead of next season. Regardless, he holds solid value in dynasty-based fantasy formats given his scoring leap in college this season.",
+        "date": "2026-04-07T01:43Z"
+      }
+    ],
+    "NJD": [
+      {
+        "name": "Jonas Siegenthaler",
+        "team": "NJD",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-04T14:30Z"
+      },
+      {
+        "name": "Brett Pesce",
+        "team": "NJD",
+        "status": "Injured Reserve",
+        "details": "ir-lt",
+        "date": "2026-04-13T21:14Z"
+      },
+      {
+        "name": "Jacob Markstrom",
+        "team": "NJD",
+        "status": "Out",
+        "details": "The Devils have been eliminated from postseason contention, and Markstrom will be shut down for the team's final three games of the year due to his lingering injuries. Across 44 appearances during the 2025-26 campaign, Markstrom went 23-19-1 with a 3.07 GAA and .883 save percentage. His ratios were his lowest marks since the 2014-15 campaign, but he'll attempt to bounce back next year, and he remains under contract with the Devils for the 2026-27 season.",
+        "date": "2026-04-10T17:35Z"
+      },
+      {
+        "name": "Luke Hughes",
+        "team": "NJD",
+        "status": "Out",
+        "details": "The Devils are out of the playoffs and with only four games remaining in the regular season, it was decided that Hughes would have the surgery and get a head start on being ready for training camp in September. Hughes ends the season with six goals and 29 assists, including 13 points on the power play, over 68 appearances in 2025-26, his worst performance in his three-year NHL career. Look for Hughes to have a better 2026-27 campaign, and he could surpass the 50-point mark, if he is able to stay healthy.",
+        "date": "2026-04-09T14:35Z"
+      },
+      {
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-02T15:40Z"
+      },
+      {
+        "name": "Stefan Noesen",
+        "team": "NJD",
+        "status": "Injured Reserve",
+        "details": "Noesen had surgery on his knee back in January. There was hope that he might be able to make it back in time to contribute this year, but that possibility has been officially ruled out. The 33-year-old will officially wrap up his 2025-26 campaign with three goals, four assists, 33 penalty minutes, 33 hits and 15 blocked shots in 38 games.",
+        "date": "2026-03-22T16:31Z"
+      },
+      {
+        "name": "Zack MacEwen",
+        "team": "NJD",
+        "status": "Injured Reserve",
+        "details": "MacEwen was injured Nov. 12 and underwent ACL surgery, according to head coach Sheldon Keefe. MacEwen managed six hits and four shots on goal across three appearances for the Devils this season. He should be healthy enough to return for the start of training camp, though he will be an unrestricted free agent come July 1.",
+        "date": "2026-01-10T18:44Z"
+      }
+    ],
+    "NYI": [
+      {
+        "name": "Mathew Barzal",
+        "team": "NYI",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-12T20:04Z"
+      },
+      {
+        "name": "Semyon Varlamov",
+        "team": "NYI",
+        "status": "Injured Reserve",
+        "details": "The Islanders' season is over, so there are no games left for Varlamov, who missed the entirety of the 2025-26 season, to get into this year. It's a good sign for the 37-year-old's ability to have a full offseason and readiness for training camp going forward. The next time that he plays, it will be the first time since November of 2024 the veteran netminder will see NHL action.",
+        "date": "2026-04-19T22:07Z"
+      },
+      {
+        "name": "Kyle Palmieri",
+        "team": "NYI",
+        "status": "Injured Reserve",
+        "details": "Palmieri suffered a torn ACL back in November but appears to be on track in his recovery. Prior to getting hurt, the veteran winger logged 25 games for the Isles in which he notched six goals and 12 assists, including five power-play points. Palmieri will head into 2026-27 in the last season of a two-year deal he signed with the club in May of 2025 and could be entering the final season of his NHL career.",
+        "date": "2026-04-15T13:22Z"
+      },
+      {
+        "name": "Maxim Shabanov",
+        "team": "NYI",
+        "status": "Out",
+        "details": "Shabanov will miss a third straight game to end the season. The 25-year-old rookie ended up producing five goals, 13 assists and 56 shots on net over 44 appearances. He will be out of contract this summer as a restricted free agent.",
+        "date": "2026-04-14T22:50Z"
+      },
+      {
+        "name": "Ryan Pulock",
+        "team": "NYI",
+        "status": "Out",
+        "details": "The Islanders relayed in their announcement that Pulock has been contending with several injuries. The right-shot blueliner will now turn his attention to healing up in the offseason in order to be ready for training camp in the fall. Isaiah George will draw into the lineup in the Isles' regular-season finale.",
+        "date": "2026-04-14T18:14Z"
+      },
+      {
+        "name": "Alexander Romanov",
+        "team": "NYI",
+        "status": "Injured Reserve",
+        "details": "Romanov has been practicing with contact, but he won't be an option for the final two games of the regular season. He will miss his 61st straight outing against Montreal on Sunday. If the Islanders qualify for the playoffs, it remains unclear whether Romanov will be available to return to the lineup.",
+        "date": "2026-04-12T20:55Z"
+      },
+      {
+        "name": "Pierre Engvall",
+        "team": "NYI",
+        "status": "Injured Reserve",
+        "details": "General manager Mathieu Darche confirmed that Engvall will miss the rest of the campaign due to the ankle surgery he had in late October. While he's been shut down for 2025-26, he was spotted skating with Alexander Romanov and Semyon Valamov on Tuesday morning, which is a big step in his recovery. Engvall will look ahead to next season after missing the entirety of a campaign for the first time in his six-year NHL career.",
+        "date": "2026-03-12T14:27Z"
+      }
+    ],
+    "NYR": [
+      {
+        "name": "Matt Rempe",
+        "team": "NYR",
+        "status": "Injured Reserve",
+        "details": "Rempe remains on injured reserve and will miss his 14th straight game against Ottawa on Monday. Head coach Mike Sullivan admitted that he would be \"surprised\" if Rempe played again this season. The 23-year-old Rempe appears poised to finish the 2025-26 campaign with one goal, 15 shots on net, 86 hits and 11 PIM in 26 appearances.",
+        "date": "2026-03-23T14:59Z"
+      }
+    ],
+    "OTT": [
+      {
+        "name": "Ridly Greig",
+        "team": "OTT",
+        "status": "Suspension",
+        "details": "suspension",
+        "date": "2026-05-04T20:23Z"
+      },
+      {
+        "name": "Artem Zub",
+        "team": "OTT",
+        "status": "Out",
+        "details": "Based on Zub's announced timeline, the Sens would have needed a very deep run for him to return during the postseason. In 81 regular-season appearances, the 30-year-old blueliner notched five goals and 25 assists, reaching the 30-point threshold for the first time in his six-year NHL career. Hopefully, the team will provide an update in the future, but fantasy managers should anticipate he'll be ready for the start of training camp in the fall.",
+        "date": "2026-04-27T15:53Z"
+      },
+      {
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-24T17:06Z"
+      },
+      {
+        "name": "Nick Jensen",
+        "team": "OTT",
+        "status": "Injured Reserve",
+        "details": "Jensen underwent surgery to repair a torn meniscus in mid-March, a procedure that was expected to carry a six-week recovery timetable. While the Senators have clinched a playoff berth, Jensen isn't expected to be healthy in time to contribute during postseason play. The 35-year-old made 61 regular-season appearances this year and recorded four goals, 13 assists, 65 blocked shots, 38 hits and 22 PIM while averaging 17:01 of ice time.",
+        "date": "2026-04-14T16:23Z"
+      }
+    ],
+    "PHI": [
+      {
+        "name": "Nikita Grebenkin",
+        "team": "PHI",
+        "status": "Out",
+        "details": "Grebenkin has been sidelined since March 21 versus the Sharks due to his upper-body problem, a stretch of 23 games that included the playoffs as well. Before getting hurt, the 23-year-old winger was mired in a 16-game goal drought, notching a mere three helpers along the way. Even when healthy, Grebenkin could find himself serving as a healthy scratch periodically.",
+        "date": "2026-05-14T15:10Z"
+      },
+      {
+        "name": "Noah Cates",
+        "team": "PHI",
+        "status": "Out",
+        "details": "Cates told reporters during the Flyers' postseason press conference Tuesday that he probably would not have been able to return in the playoffs, even if the team had advanced past the second round. While he won't need surgery for his foot injury, O'Connor noted that Cates will be sidelined for around a month. As such, Cates should more than likely be ready for the start of the 2026-27 campaign, barring any setbacks.",
+        "date": "2026-05-12T16:16Z"
+      },
+      {
+        "name": "Owen Tippett",
+        "team": "PHI",
+        "status": "Out",
+        "details": "Kurz noted that there should be further clarification on Tippett's status soon, but the 27-year-old winger is expected be ready for training camp ahead of the 2026-27 campaign. Tippett missed the entirety of the Flyers' second-round series defeat to the Hurricanes due to his injuries. The Ontario native finished just two points shy of his career high (53) over 81 appearances during the 2025-26 regular season, but he should have plenty of opportunities to best that total in the years to come as a key part of Philadelphia's top six.",
+        "date": "2026-05-11T23:50Z"
+      },
+      {
+        "name": "Rodrigo Abols",
+        "team": "PHI",
+        "status": "Injured Reserve",
+        "details": "Abols sported a non-contact jersey during Saturday's morning skate, Jordan Hall of NBC Sports Philadelphia reports. The 30-year-old Abols remains on injured reserve and hasn't played since Jan. 17 against the Rangers.",
+        "date": "2026-05-09T17:58Z"
+      },
+      {
+        "name": "Ty Murchison",
+        "team": "PHI",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-02-04T01:48Z"
+      }
+    ],
+    "PIT": [
+      {
+        "name": "Caleb Jones",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-04-05T18:16Z"
+      },
+      {
+        "name": "Filip Hallander",
+        "team": "PIT",
+        "status": "Injured Reserve",
+        "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
+        "date": "2026-02-27T23:43Z"
+      }
+    ],
+    "SJS": [
+      {
+        "name": "Ryan Reaves",
+        "team": "SJS",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-11T00:18Z"
+      },
+      {
+        "name": "Logan Couture",
+        "team": "SJS",
+        "status": "Injured Reserve",
+        "details": "ir-lt",
+        "date": "2025-09-30T17:35Z"
+      }
+    ],
+    "SEA": [
+      {
+        "name": "Jared McCann",
+        "team": "SEA",
+        "status": "Out",
+        "details": "McCann missed the final three games of the regular season due to the injury, and he completed 2025-26 with 20 goals and 40 points in 52 outings. The 29-year-old expects to be available for the start of the 2026-27 campaign.",
+        "date": "2026-04-17T20:11Z"
+      },
+      {
+        "name": "Joey Daccord",
+        "team": "SEA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-17T01:00Z"
+      },
+      {
+        "name": "Jaden Schwartz",
+        "team": "SEA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-17T00:18Z"
+      },
+      {
+        "name": "Matt Murray",
+        "team": "SEA",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-16T23:06Z"
+      }
+    ],
+    "STL": [
+      {
+        "name": "Jordan Kyrou",
+        "team": "STL",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-23T20:06Z"
+      }
+    ],
+    "TBL": [
+      {
+        "name": "Pontus Holmberg",
+        "team": "TBL",
+        "status": "Out",
+        "details": "While an exact timeline for Holmberg's return never materialized, this type of injury can take 6-12 weeks to recover from. He has plenty of time to heal now that Tampa Bay has been eliminated from the playoffs, and he should be available for training camp in the fall. Holmberg had 11 goals, 22 points, 90 shots on net and 66 hits across 70 appearances during the 2025-26 regular season.",
+        "date": "2026-05-05T16:10Z"
+      }
+    ],
+    "TOR": [
+      {
+        "name": "Max Domi",
+        "team": "TOR",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-05-25T14:01Z"
+      },
+      {
+        "name": "Anthony Stolarz",
+        "team": "TOR",
+        "status": "Out",
+        "details": "Stolarz missed the final four games of the season with the injury. He said Thursday that he will hit the rehab process hard once he is able to work out and that no surgery is necessary. Stolarz struggled all season, posting a 10-10-3 record with a 3.28 GAA and an .893 save percentage across 26 regular-season appearances in 2025-26, a far cry from 2024-25, when he led the NHL with a .926 save percentage and was third in GAA at 2.14. Stolarz should be in fine form at the start of training camp in September, barring any major setbacks.",
+        "date": "2026-04-16T14:43Z"
+      },
+      {
+        "name": "Calle Jarnkrok",
+        "team": "TOR",
+        "status": "Out",
+        "details": "Jarnkrok will conclude 2025-26 with six goals, eight points, eight PIM, 45 shots, 33 hits and 11 blocks in 56 appearances. Michael Pezzetta will draw into the lineup Wednesday due to Jarnkrok's absence.",
+        "date": "2026-04-15T16:06Z"
+      },
+      {
+        "name": "Dakota Joshua",
+        "team": "TOR",
+        "status": "Out",
+        "details": "Joshua will complete the season with 10 goals, eight assists, 49 PIM, 195 hits and 32 blocked shots over 55 contests. He is expected to be ready for the start of training camp in September.",
+        "date": "2026-04-11T15:19Z"
+      },
+      {
+        "name": "Brandon Carlo",
+        "team": "TOR",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-11T15:15Z"
+      },
+      {
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "status": "Out",
+        "details": "Matthews had already been ruled out for the remainder of the season due to a Grade 3 MCL tear and quadriceps contusion, and he has a recovery timetable of approximately 12 weeks following Thursday's procedure. The 28-year-old finished his 2025-26 campaign with 27 goals, 26 assists, 81 blocked shots, 42 hits and 18 PIM while averaging 20:48 of ice time. Given his return timetable, it seems unlikely that Matthews will be an option for Team USA at the IIHF World Championship, but it wouldn't be surprising to see him available for training camp ahead of the 2026-27 NHL campaign.",
+        "date": "2026-03-19T20:51Z"
+      },
+      {
+        "name": "Chris Tanev",
+        "team": "TOR",
+        "status": "Injured Reserve",
+        "details": "Tanev is projected to be ready for training camp in September. He's signed to a six-year, $27 million contract that runs through 2029-30 and comes with a no-movement clause, so it's fair to believe he'll still be a member of the Leafs for the 2026-27 season. The 36-year-old defenseman will complete 2025-26 with two assists, eight shots, two hits and 15 blocks in 11 appearances.",
+        "date": "2026-03-04T16:59Z"
+      }
+    ],
+    "VAN": [
+      {
+        "name": "Nils Hoglander",
+        "team": "VAN",
+        "status": "Out",
+        "details": "Hoglander was limited to just 38 regular-season games for the Canucks this year due to a lower-body injury and now finds himself sidelined for the international competition. If the 25-year-old winger can stay healthy, he should be capable of pushing for the 20-goal and 40-point thresholds next year, though that's becoming an increasingly big question mark.",
+        "date": "2026-05-06T13:48Z"
+      },
+      {
+        "name": "Evander Kane",
+        "team": "VAN",
+        "status": "Out",
+        "details": "Head coach Adam Foote said that Kane is done for the season unless the team runs into a lot of injuries before its last game Thursday in Edmonton. As such, Kane seems poised to finish the campaign with 13 goals, 31 points, 171 shots, 111 hits and a minus-20 rating over 71 appearances. The veteran winger will be an unrestricted free agent this offseason.",
+        "date": "2026-04-14T18:30Z"
+      },
+      {
+        "name": "Thatcher Demko",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "Demko's move to LTIR was bound to happen after Vancouver announced he would be shut down for the season Jan. 27. The move was made in correspondence to Pierre-Oliver Joseph's need for a standard IR spot, as he's dealing with an undisclosed injury. Demko will continue to rehab his injury after going 8-10-1 with a 2.90 GAA and an .895 save percentage across 20 games this season.",
+        "date": "2026-03-03T21:33Z"
+      },
+      {
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "status": "Out",
+        "details": "The Canucks announced Saturday that Lekkerimaki would require season-ending surgery, but he's expected to be ready to return in time for training camp in September, when he should have an opportunity to compete for an NHL roster spot. Over 13 appearances with Vancouver this year, the 21-year-old recorded two goals, an assist, 10 hits and five blocked shots while averaging 11:41 of ice time.",
+        "date": "2026-02-27T20:49Z"
+      },
+      {
+        "name": "Filip Chytil",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "ir",
+        "date": "2026-02-26T00:15Z"
+      },
+      {
+        "name": "Derek Forbort",
+        "team": "VAN",
+        "status": "Injured Reserve",
+        "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
+        "date": "2025-10-28T17:30Z"
+      }
+    ],
+    "WSH": [
+      {
+        "name": "Rasmus Sandin",
+        "team": "WSH",
+        "status": "Out",
+        "details": "Sandin missed Washington's final two regular-season games and finished the campaign with five goals, 29 points, 12 PIM, 88 hits and 127 blocks in 73 outings. He's expected to miss 6-9 months as a result of the injury, which puts his availability for the start of the 2026-27 campaign into question.",
+        "date": "2026-04-22T15:34Z"
+      },
+      {
+        "name": "Pierre-Luc Dubois",
+        "team": "WSH",
+        "status": "Out",
+        "details": "Dubois missed Washington's season finale Tuesday due to what was previously classified as an upper-body injury. The Capitals didn't make the playoffs, so Dubois has plenty of time to focus on his recovery. The 27-year-old is hoping to avoid surgery and be fine in a month or two. He finished 2025-26 with five goals and 19 points in 29 outings.",
+        "date": "2026-04-16T18:30Z"
+      },
+      {
+        "name": "Charlie Lindgren",
+        "team": "WSH",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-14T22:50Z"
+      },
+      {
+        "name": "Eriks Mateiko",
+        "team": "WSH",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-01-13T23:05Z"
+      }
+    ],
+    "WPG": [
+      {
+        "name": "Nikita Chibrikov",
+        "team": "WPG",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-30T20:17Z"
+      },
+      {
+        "name": "Elias Salomonsson",
+        "team": "WPG",
+        "status": "Out",
+        "details": "Salomonsson had a goal and five points in 32 outings with Winnipeg as well as a goal and nine points in 29 appearances with AHL Manitoba in the 2025-26 regular season. He also had an assist in two playoff outings with Manitoba this year. The 21-year-old defenseman might have been in the mix to make the 2026-27 Opening Night roster with Winnipeg if he had entered training camp healthy. However, Salomonsson is now likely to still be recovering from his surgery when training camp begins, which will limit his opportunities to compete for a roster spot.",
+        "date": "2026-04-30T20:17Z"
+      },
+      {
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "status": "Out",
+        "details": "Pionk was limited to 51 outings in 2025-26, and he's set to finish the season with three goals, 12 points, 37 PIM, 111 hits and 75 blocks. Winnipeg didn't secure a playoff berth, so this marks the end of the first campaign of his six-year, $42 million contract.",
+        "date": "2026-04-16T18:40Z"
+      },
+      {
+        "name": "Vladislav Namestnikov",
+        "team": "WPG",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-16T18:39Z"
+      },
+      {
+        "name": "Gustav Nyquist",
+        "team": "WPG",
+        "status": "Out",
+        "details": "Nyquist will miss his 10th straight game to end the regular season. He had one goal and 11 assists in 51 games with the Jets in 2025-26 and at the age of 36, he may not get another opportunity to play at the NHL level.",
+        "date": "2026-04-16T18:37Z"
+      },
+      {
+        "name": "Alex Iafallo",
+        "team": "WPG",
+        "status": "Out",
+        "details": "out",
+        "date": "2026-04-16T18:36Z"
+      },
+      {
+        "name": "Morgan Barron",
+        "team": "WPG",
+        "status": "Out",
+        "details": "Barron remains week-to-week and will miss his third straight game against Philadelphia on Saturday. He has provided 11 goals, 23 points, 92 shots on net, 40 blocked shots and 132 hits across 65 appearances this season.",
+        "date": "2026-04-11T15:39Z"
+      }
+    ]
+  },
+  "injured_players": {
+    "Troy Terry": {
+      "name": "Troy Terry",
+      "team": "ANA",
+      "status": "Out",
+      "details": "Terry didn't miss any of Anaheim's 12 playoff games this year, and he was productive over those postseason outings with three goals and 11 points. However, he was playing through the hip injury. His timetable suggests that the 28-year-old won't be ready for the start of 2026-27, and he likely won't play before mid-November in a best-case scenario. He still might cross the 50-point mark for a sixth consecutive campaign in 2026-27 despite beginning the season on the shelf. Although he was limited to 61 outings during the 2025-26 regular season, he finished with 19 goals and 57 points.",
+      "date": "2026-06-18T17:13Z"
+    },
+    "Radko Gudas": {
+      "name": "Radko Gudas",
+      "team": "ANA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-14T17:44Z"
+    },
+    "Drew Helleson": {
+      "name": "Drew Helleson",
+      "team": "ANA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-14T17:29Z"
+    },
+    "Ryan Poehling": {
+      "name": "Ryan Poehling",
+      "team": "ANA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-13T20:13Z"
+    },
+    "Petr Mrazek": {
+      "name": "Petr Mrazek",
+      "team": "ANA",
+      "status": "Injured Reserve",
+      "details": "Mrazek's campaign with the Ducks ends with a 3-5-0 record, a 4.07 GAA and an .858 save percentage in 10 appearances. Given his lengthy injury history and the severity of a hip surgery, the 34-year-old goalie may not be ready to play at the start of the 2026-27 campaign. He'll likely also face reduced demand during free agency since he'll be coming off an injury and has seen performance decline in recent years.",
+      "date": "2026-02-18T23:39Z"
+    },
+    "Charlie McAvoy": {
+      "name": "Charlie McAvoy",
+      "team": "BOS",
+      "status": "Suspension",
+      "details": "suspension",
+      "date": "2026-05-13T00:13Z"
+    },
+    "Viktor Arvidsson": {
+      "name": "Viktor Arvidsson",
+      "team": "BOS",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-03T17:21Z"
+    },
+    "Nikita Zadorov": {
+      "name": "Nikita Zadorov",
+      "team": "BOS",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-02T11:45Z"
+    },
+    "Dans Locmelis": {
+      "name": "Dans Locmelis",
+      "team": "BOS",
+      "status": "Out",
+      "details": "Locmelis has played through his injury for a while but will now get it addressed. The 22-year-old expects to be ready for training camp in September. He stood out with 28 points in 43 games with AHL Providence this season, as well as two goals in four games with Latvia at the Olympics.",
+      "date": "2026-02-28T23:26Z"
+    },
+    "Justin Danforth": {
+      "name": "Justin Danforth",
+      "team": "BUF",
+      "status": "Injured Reserve",
+      "details": "Danforth underwent surgery to repair a broken kneecap sustained in October. A second procedure was required to clean up loose cartilage, which explains why he didn't return after the Olympic break as initially expected. Danforth should be good to go at the start of 2026-27, and he's under contract with the Sabres, so he'll be in the mix for bottom-six minutes.",
+      "date": "2026-05-20T22:36Z"
+    },
+    "Jiri Kulich": {
+      "name": "Jiri Kulich",
+      "team": "BUF",
+      "status": "Injured Reserve",
+      "details": "Kulich appeared in just 12 regular-season games in 2025-26, accounting for three goals, five points, 20 shots and a minus-4 rating. While an exact timeline for his recovery is not known, he should be reason for the start of next season. Kulich told reporters Tuesday during the Sabres' postseason media availability that he feels good now, has been doing a lot of skating and shooting and is looking forward to next season. The 22-year-old will be a restricted free agent after the 2026-27 campaign.",
+      "date": "2026-05-19T18:03Z"
+    },
+    "Noah Ostlund": {
+      "name": "Noah Ostlund",
+      "team": "BUF",
+      "status": "Out",
+      "details": "Ostlund sustained the injury in the first period of Game 5 against Boston on Tuesday. He had one goal, one assist, four shots on net and one blocked shot in three appearances during Buffalo's first-round series win over the Bruins. It remains unclear when he will be available to return to the lineup.",
+      "date": "2026-05-03T16:41Z"
+    },
+    "Kevin Bahl": {
+      "name": "Kevin Bahl",
+      "team": "CGY",
+      "status": "Out",
+      "details": "Bahl will complete 2025-26 with four goals, 18 points, 47 PIM, 114 hits and 99 blocks in 76 outings. Barring a trade, the 25-year-old is expected to be back with the Flames next season and continue to serve in a top-four capacity.",
+      "date": "2026-04-16T22:41Z"
+    },
+    "Connor Zary": {
+      "name": "Connor Zary",
+      "team": "CGY",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-16T22:39Z"
+    },
+    "Yan Kuznetsov": {
+      "name": "Yan Kuznetsov",
+      "team": "CGY",
+      "status": "Out",
+      "details": "After sitting out Sunday's 4-1 win over Utah because of the injury, Kuznetsov won't play against the Avalanche and Kings on Tuesday and Thursday, respectively. He will conclude the 2025-26 campaign with four goals, 12 points, 64 shots on net, 103 blocked shots and 79 hits across 57 appearances.",
+      "date": "2026-04-14T17:25Z"
+    },
+    "Joel Hanley": {
+      "name": "Joel Hanley",
+      "team": "CGY",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-03-28T17:45Z"
+    },
+    "Samuel Honzek": {
+      "name": "Samuel Honzek",
+      "team": "CGY",
+      "status": "Injured Reserve",
+      "details": "Honzek practiced for the first time Friday since he was injured versus Winnipeg on Nov. 15, a span of 52 games. The 21-year-old ends the season with two goals, four points and 35 hits over 18 games with the Flames. He is expected to be fully recovered in time for training camp in September.",
+      "date": "2026-03-27T17:41Z"
+    },
+    "Jonathan Huberdeau": {
+      "name": "Jonathan Huberdeau",
+      "team": "CGY",
+      "status": "Injured Reserve",
+      "details": "Huberdeau was already ruled out for the rest of the 2025-26 campaign after undergoing hip surgery, so the decision to put him on IR isn't surprising. He'll conclude the year with 10 goals and 25 points in 50 regular-season appearances. The 32-year-old's eight-year, $84 million contract runs through 2030-31, and he has a no-movement clause, so odds are he'll be back with Calgary next season.",
+      "date": "2026-02-21T22:27Z"
+    },
+    "Cullen Potter": {
+      "name": "Cullen Potter",
+      "team": "CGY",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-01-21T23:05Z"
+    },
+    "Jake Bean": {
+      "name": "Jake Bean",
+      "team": "CGY",
+      "status": "Injured Reserve",
+      "details": "Bean has played in just six of the Flames' last 21 games due to his undisclosed injury and now faces an extended stint on the shelf. Even when healthy, the Calgary native has only reached the 20-point threshold once in his career and doesn't offer enough category coverage to be more than a low-end fantasy option. If the Flames need some cap relief, Bean would be a good candidate to be shifted to long-term injured reserve, especially if he is ruled out for the rest of the year.",
+      "date": "2025-12-18T18:19Z"
+    },
+    "Henry Mews": {
+      "name": "Henry Mews",
+      "team": "CGY",
+      "status": "Out",
+      "details": "out",
+      "date": "2025-11-04T23:32Z"
+    },
+    "Andrew Mangiapane": {
+      "name": "Andrew Mangiapane",
+      "team": "CHI",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-16T00:13Z"
+    },
+    "Matt Grzelcyk": {
+      "name": "Matt Grzelcyk",
+      "team": "CHI",
+      "status": "Out",
+      "details": "Grzelcyk hasn't played since March 22 against Nashville because of the injury. He will conclude the campaign with 12 assists, 68 shots on goal, 54 blocked shots and 28 hits across 69 appearances. The 32-year-old blueliner will be eligible for unrestricted free agency in the summer.",
+      "date": "2026-03-31T16:34Z"
+    },
+    "Artyom Levshunov": {
+      "name": "Artyom Levshunov",
+      "team": "CHI",
+      "status": "Out",
+      "details": "Levshunov sustained a fracture in his left hand against the Islanders last week and played through the injury for a few games. The 20-year-old defenseman will now turn his attention to recovering and getting ready for the 2026-27 campaign, but it currently remains to be seen if Levshunov will undergo surgery to address his hand fracture.",
+      "date": "2026-03-31T16:30Z"
+    },
+    "Ryan Ellis": {
+      "name": "Ryan Ellis",
+      "team": "CHI",
+      "status": "Injured Reserve",
+      "details": "Ellis hasn't played since 2021-22 when he logged four games for the Flyers, generating one goal and four assists along the way. The 35-year-old blueliner hasn't been officially shifted to long-term injured reserve, but that move could give the Blackhawks some cap relief if they need it.",
+      "date": "2026-01-08T20:25Z"
+    },
+    "Valeri Nichushkin": {
+      "name": "Valeri Nichushkin",
+      "team": "COL",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-27T00:38Z"
+    },
+    "Roope Hintz": {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "status": "Out",
+      "details": "Hintz, who tore his hamstring in two spots, was hopeful that he could have played in Game 2 or 3 had the Stars advanced to the second round of the 2026 Stanley Cup Playoffs. However, he will have the summer to recover fully after Dallas' first-round exit at the hands of Minnesota on Thursday.",
+      "date": "2026-05-04T16:02Z"
+    },
+    "Tyler Seguin": {
+      "name": "Tyler Seguin",
+      "team": "DAL",
+      "status": "Injured Reserve",
+      "details": "Seguin appeared in only 27 games during the 2025-26 regular season, providing seven goals and 17 points. He underwent surgery in mid-December to repair a torn ACL. Seguin's inability to stay healthy over the last three regular seasons will likely hurt his fantasy stock ahead of the 2026-27 campaign.",
+      "date": "2026-05-04T15:50Z"
+    },
+    "Arttu Hyry": {
+      "name": "Arttu Hyry",
+      "team": "DAL",
+      "status": "Out",
+      "details": "Hyry is pointless in his previous four outings while chipping in seven hits, three shots and two blocks. With the 25-year-old forward on the shelf, Michael Bunting is expected to serve in a bottom-six role in his playoff debut. Still, once Hyry is given the all-clear, he should be capable of retaking his spot in the lineup.",
+      "date": "2026-04-30T15:52Z"
+    },
+    "Nils Lundkvist": {
+      "name": "Nils Lundkvist",
+      "team": "DAL",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-29T18:37Z"
+    },
+    "Mason Appleton": {
+      "name": "Mason Appleton",
+      "team": "DET",
+      "status": "Out",
+      "details": "Appleton will miss his sixth straight game to end the campaign. He'll finish the season with 14 points in 65 outings. He is under contract for 2026-27, but without an update on his injury status, it's unclear if he'll be ready for the start of that campaign.",
+      "date": "2026-04-15T23:01Z"
+    },
+    "Michael Rasmussen": {
+      "name": "Michael Rasmussen",
+      "team": "DET",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T02:23Z"
+    },
+    "Adam Henrique": {
+      "name": "Adam Henrique",
+      "team": "EDM",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-30T22:15Z"
+    },
+    "Max Jones": {
+      "name": "Max Jones",
+      "team": "EDM",
+      "status": "Out",
+      "details": "The Oilers are trailing the Ducks 3-2 in the first round, so there's no guarantee they'll give Jones enough time to get back. If they do, he'll be a contender for a bottom-six spot. In any case, his injury isn't expected to linger into 2026-27.",
+      "date": "2026-04-29T22:50Z"
+    },
+    "Mattias Janmark": {
+      "name": "Mattias Janmark",
+      "team": "EDM",
+      "status": "Injured Reserve",
+      "details": "Janmark was injured in the first period Feb. 25 in Anaheim and did not return. He managed one goal and seven assists in 43 games with the Oilers this season. He is expected to be healthy for the start of training camp in September.",
+      "date": "2026-03-06T18:16Z"
+    },
+    "Carter Verhaeghe": {
+      "name": "Carter Verhaeghe",
+      "team": "FLA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-15T22:46Z"
+    },
+    "Sam Bennett": {
+      "name": "Sam Bennett",
+      "team": "FLA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-15T22:46Z"
+    },
+    "Gustav Forsling": {
+      "name": "Gustav Forsling",
+      "team": "FLA",
+      "status": "Out",
+      "details": "Forsling had been playing through the injury, and head coach Paul Maurice felt \"he's given enough,\" so the 29-year-old will get the game off. Mikulas Hovorka will draw into the lineup as a result. Forsling will finish 2025-26 with two goals, 28 points, 51 PIM, 52 hits and 98 blocks in 80 outings.",
+      "date": "2026-04-15T15:43Z"
+    },
+    "Tomas Nosek": {
+      "name": "Tomas Nosek",
+      "team": "FLA",
+      "status": "Out",
+      "details": "Thus ends a difficult campaign for Nosek, who was limited to 21 outings due to injury. He recorded two goals, four points, four PIM and 51 hits over those games in 2025-26. The 33-year-old is eligible to become an unrestricted free agent this summer.",
+      "date": "2026-04-15T15:37Z"
+    },
+    "Seth Jones": {
+      "name": "Seth Jones",
+      "team": "FLA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-09T18:46Z"
+    },
+    "Dmitry Kulikov": {
+      "name": "Dmitry Kulikov",
+      "team": "FLA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-08T02:11Z"
+    },
+    "Evan Rodrigues": {
+      "name": "Evan Rodrigues",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "ir-lt",
+      "date": "2026-04-04T18:10Z"
+    },
+    "Aaron Ekblad": {
+      "name": "Aaron Ekblad",
+      "team": "FLA",
+      "status": "Out",
+      "details": "Head coach Paul Maurice said that Ekblad would be out \"weeks\" and with only two weeks remaining in the regular season and the Panthers all but eliminated from playoff contention, it is likely the end of the campaign for the 30-year-old blueliner. Ekblad will end the season with four goals, 22 assists, 84 hits and 103 blocked shots across 72 regular-season games in 2025-26.",
+      "date": "2026-04-02T14:59Z"
+    },
+    "Jonah Gadjovich": {
+      "name": "Jonah Gadjovich",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "Gadjovich hasn't been in the lineup since late October. The 27-year-old appeared in only 10 games in 2025-26, chipping in three helpers, 30 hits and a plus-2 rating. It remains to be seen how he has been progressing in his recovery.",
+      "date": "2026-03-31T15:45Z"
+    },
+    "Sam Reinhart": {
+      "name": "Sam Reinhart",
+      "team": "FLA",
+      "status": "Out",
+      "details": "The Panthers have been dealing with a slew of injuries, and Reinhart is one of several players who will likely be shut down for the rest of this year. The goal-scoring winger will conclude the 2025-26 campaign with 29 markers, including six game-winners, 61 points (25 on the power play), 166 shots and a minus-18 rating over 64 appearances. While it's not currently known how his recovery process is going, Reinhart should have more than enough time to be ready for the start of training camp in September ahead of the 2026-27 season.",
+      "date": "2026-03-31T15:39Z"
+    },
+    "Niko Mikkola": {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-03-23T19:06Z"
+    },
+    "Uvis Balinskis": {
+      "name": "Uvis Balinskis",
+      "team": "FLA",
+      "status": "Out",
+      "details": "Balinskis has been sidelined for a week and a half due to his lower-body injury, and it's possible that he'll be shut down for the remainder of the season after being diagnosed with a fracture. Across 54 appearances for the Panthers this year, he's recorded five goals, 10 assists, 71 hits, 42 blocked shots and 30 PIM while averaging 16:22 of ice time.",
+      "date": "2026-03-23T16:14Z"
+    },
+    "Brad Marchand": {
+      "name": "Brad Marchand",
+      "team": "FLA",
+      "status": "Injured Reserve",
+      "details": "Marchand has missed the last three games and is not expected to be back in the lineup anytime soon. Considering the Panthers are all but eliminated from postseason contention, it would not be surprising to see Marchand shut down for the remainder of the year after multiple deep playoff runs and injuries along the way.",
+      "date": "2026-03-17T18:45Z"
+    },
+    "Kevin Fiala": {
+      "name": "Kevin Fiala",
+      "team": "LAK",
+      "status": "Injured Reserve",
+      "details": "Fiala was already ruled out for the rest of the regular season, but now the possibility of him returning for the playoffs has also been eliminated. He suffered the injury while playing for Switzerland during the 2026 Winter Olympics. He'll finish the 2025-26 campaign with 18 goals and 40 points in 56 outings with the Kings.",
+      "date": "2026-03-06T22:06Z"
+    },
+    "Filip Gustavsson": {
+      "name": "Filip Gustavsson",
+      "team": "MIN",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-18T18:29Z"
+    },
+    "Zach Bogosian": {
+      "name": "Zach Bogosian",
+      "team": "MIN",
+      "status": "Out",
+      "details": "Bogosian has been battling a lower-body issue since late in the regular season, and it's flared up enough to keep him out of an elimination game. Jeff Petry will replace him in the lineup Wednesday. Bogosian should be considered questionable to play if the Wild force Game 6, which would be played Friday.",
+      "date": "2026-05-13T23:58Z"
+    },
+    "Jonas Brodin": {
+      "name": "Jonas Brodin",
+      "team": "MIN",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-13T23:40Z"
+    },
+    "Joel Eriksson Ek": {
+      "name": "Joel Eriksson Ek",
+      "team": "MIN",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-13T23:40Z"
+    },
+    "Charlie Stramel": {
+      "name": "Charlie Stramel",
+      "team": "MIN",
+      "status": "Out",
+      "details": "Stramel's three-year deal is set to begin in the 2026-27 season. The 21-year-old collegiate star excelled at Michigan State this season with 19 goals, 44 points, and a plus-29 rating across 37 appearances. He's currently in the recovery process from a broken ankle, which he sustained in Michigan State's NCAA quarterfinal loss against the University of Wisconsin. Once he's healthy, Stramel will look to compete for a roster spot with the Wild ahead of next season. Regardless, he holds solid value in dynasty-based fantasy formats given his scoring leap in college this season.",
+      "date": "2026-04-07T01:43Z"
+    },
+    "Jonas Siegenthaler": {
+      "name": "Jonas Siegenthaler",
+      "team": "NJD",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-04T14:30Z"
+    },
+    "Brett Pesce": {
+      "name": "Brett Pesce",
+      "team": "NJD",
+      "status": "Injured Reserve",
+      "details": "ir-lt",
+      "date": "2026-04-13T21:14Z"
+    },
+    "Jacob Markstrom": {
+      "name": "Jacob Markstrom",
+      "team": "NJD",
+      "status": "Out",
+      "details": "The Devils have been eliminated from postseason contention, and Markstrom will be shut down for the team's final three games of the year due to his lingering injuries. Across 44 appearances during the 2025-26 campaign, Markstrom went 23-19-1 with a 3.07 GAA and .883 save percentage. His ratios were his lowest marks since the 2014-15 campaign, but he'll attempt to bounce back next year, and he remains under contract with the Devils for the 2026-27 season.",
+      "date": "2026-04-10T17:35Z"
+    },
+    "Luke Hughes": {
+      "name": "Luke Hughes",
+      "team": "NJD",
+      "status": "Out",
+      "details": "The Devils are out of the playoffs and with only four games remaining in the regular season, it was decided that Hughes would have the surgery and get a head start on being ready for training camp in September. Hughes ends the season with six goals and 29 assists, including 13 points on the power play, over 68 appearances in 2025-26, his worst performance in his three-year NHL career. Look for Hughes to have a better 2026-27 campaign, and he could surpass the 50-point mark, if he is able to stay healthy.",
+      "date": "2026-04-09T14:35Z"
+    },
+    "Arseny Gritsyuk": {
+      "name": "Arseny Gritsyuk",
+      "team": "NJD",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-02T15:40Z"
+    },
+    "Stefan Noesen": {
+      "name": "Stefan Noesen",
+      "team": "NJD",
+      "status": "Injured Reserve",
+      "details": "Noesen had surgery on his knee back in January. There was hope that he might be able to make it back in time to contribute this year, but that possibility has been officially ruled out. The 33-year-old will officially wrap up his 2025-26 campaign with three goals, four assists, 33 penalty minutes, 33 hits and 15 blocked shots in 38 games.",
+      "date": "2026-03-22T16:31Z"
+    },
+    "Zack MacEwen": {
+      "name": "Zack MacEwen",
+      "team": "NJD",
+      "status": "Injured Reserve",
+      "details": "MacEwen was injured Nov. 12 and underwent ACL surgery, according to head coach Sheldon Keefe. MacEwen managed six hits and four shots on goal across three appearances for the Devils this season. He should be healthy enough to return for the start of training camp, though he will be an unrestricted free agent come July 1.",
+      "date": "2026-01-10T18:44Z"
+    },
+    "Mathew Barzal": {
+      "name": "Mathew Barzal",
+      "team": "NYI",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-12T20:04Z"
+    },
+    "Semyon Varlamov": {
+      "name": "Semyon Varlamov",
+      "team": "NYI",
+      "status": "Injured Reserve",
+      "details": "The Islanders' season is over, so there are no games left for Varlamov, who missed the entirety of the 2025-26 season, to get into this year. It's a good sign for the 37-year-old's ability to have a full offseason and readiness for training camp going forward. The next time that he plays, it will be the first time since November of 2024 the veteran netminder will see NHL action.",
+      "date": "2026-04-19T22:07Z"
+    },
+    "Kyle Palmieri": {
+      "name": "Kyle Palmieri",
+      "team": "NYI",
+      "status": "Injured Reserve",
+      "details": "Palmieri suffered a torn ACL back in November but appears to be on track in his recovery. Prior to getting hurt, the veteran winger logged 25 games for the Isles in which he notched six goals and 12 assists, including five power-play points. Palmieri will head into 2026-27 in the last season of a two-year deal he signed with the club in May of 2025 and could be entering the final season of his NHL career.",
+      "date": "2026-04-15T13:22Z"
+    },
+    "Maxim Shabanov": {
+      "name": "Maxim Shabanov",
+      "team": "NYI",
+      "status": "Out",
+      "details": "Shabanov will miss a third straight game to end the season. The 25-year-old rookie ended up producing five goals, 13 assists and 56 shots on net over 44 appearances. He will be out of contract this summer as a restricted free agent.",
+      "date": "2026-04-14T22:50Z"
+    },
+    "Ryan Pulock": {
+      "name": "Ryan Pulock",
+      "team": "NYI",
+      "status": "Out",
+      "details": "The Islanders relayed in their announcement that Pulock has been contending with several injuries. The right-shot blueliner will now turn his attention to healing up in the offseason in order to be ready for training camp in the fall. Isaiah George will draw into the lineup in the Isles' regular-season finale.",
+      "date": "2026-04-14T18:14Z"
+    },
+    "Alexander Romanov": {
+      "name": "Alexander Romanov",
+      "team": "NYI",
+      "status": "Injured Reserve",
+      "details": "Romanov has been practicing with contact, but he won't be an option for the final two games of the regular season. He will miss his 61st straight outing against Montreal on Sunday. If the Islanders qualify for the playoffs, it remains unclear whether Romanov will be available to return to the lineup.",
+      "date": "2026-04-12T20:55Z"
+    },
+    "Pierre Engvall": {
+      "name": "Pierre Engvall",
+      "team": "NYI",
+      "status": "Injured Reserve",
+      "details": "General manager Mathieu Darche confirmed that Engvall will miss the rest of the campaign due to the ankle surgery he had in late October. While he's been shut down for 2025-26, he was spotted skating with Alexander Romanov and Semyon Valamov on Tuesday morning, which is a big step in his recovery. Engvall will look ahead to next season after missing the entirety of a campaign for the first time in his six-year NHL career.",
+      "date": "2026-03-12T14:27Z"
+    },
+    "Matt Rempe": {
+      "name": "Matt Rempe",
+      "team": "NYR",
+      "status": "Injured Reserve",
+      "details": "Rempe remains on injured reserve and will miss his 14th straight game against Ottawa on Monday. Head coach Mike Sullivan admitted that he would be \"surprised\" if Rempe played again this season. The 23-year-old Rempe appears poised to finish the 2025-26 campaign with one goal, 15 shots on net, 86 hits and 11 PIM in 26 appearances.",
+      "date": "2026-03-23T14:59Z"
+    },
+    "Ridly Greig": {
+      "name": "Ridly Greig",
+      "team": "OTT",
+      "status": "Suspension",
+      "details": "suspension",
+      "date": "2026-05-04T20:23Z"
+    },
+    "Artem Zub": {
+      "name": "Artem Zub",
+      "team": "OTT",
+      "status": "Out",
+      "details": "Based on Zub's announced timeline, the Sens would have needed a very deep run for him to return during the postseason. In 81 regular-season appearances, the 30-year-old blueliner notched five goals and 25 assists, reaching the 30-point threshold for the first time in his six-year NHL career. Hopefully, the team will provide an update in the future, but fantasy managers should anticipate he'll be ready for the start of training camp in the fall.",
+      "date": "2026-04-27T15:53Z"
+    },
+    "Jake Sanderson": {
+      "name": "Jake Sanderson",
+      "team": "OTT",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-24T17:06Z"
+    },
+    "Nick Jensen": {
+      "name": "Nick Jensen",
+      "team": "OTT",
+      "status": "Injured Reserve",
+      "details": "Jensen underwent surgery to repair a torn meniscus in mid-March, a procedure that was expected to carry a six-week recovery timetable. While the Senators have clinched a playoff berth, Jensen isn't expected to be healthy in time to contribute during postseason play. The 35-year-old made 61 regular-season appearances this year and recorded four goals, 13 assists, 65 blocked shots, 38 hits and 22 PIM while averaging 17:01 of ice time.",
+      "date": "2026-04-14T16:23Z"
+    },
+    "Nikita Grebenkin": {
+      "name": "Nikita Grebenkin",
+      "team": "PHI",
+      "status": "Out",
+      "details": "Grebenkin has been sidelined since March 21 versus the Sharks due to his upper-body problem, a stretch of 23 games that included the playoffs as well. Before getting hurt, the 23-year-old winger was mired in a 16-game goal drought, notching a mere three helpers along the way. Even when healthy, Grebenkin could find himself serving as a healthy scratch periodically.",
+      "date": "2026-05-14T15:10Z"
+    },
+    "Noah Cates": {
+      "name": "Noah Cates",
+      "team": "PHI",
+      "status": "Out",
+      "details": "Cates told reporters during the Flyers' postseason press conference Tuesday that he probably would not have been able to return in the playoffs, even if the team had advanced past the second round. While he won't need surgery for his foot injury, O'Connor noted that Cates will be sidelined for around a month. As such, Cates should more than likely be ready for the start of the 2026-27 campaign, barring any setbacks.",
+      "date": "2026-05-12T16:16Z"
+    },
+    "Owen Tippett": {
+      "name": "Owen Tippett",
+      "team": "PHI",
+      "status": "Out",
+      "details": "Kurz noted that there should be further clarification on Tippett's status soon, but the 27-year-old winger is expected be ready for training camp ahead of the 2026-27 campaign. Tippett missed the entirety of the Flyers' second-round series defeat to the Hurricanes due to his injuries. The Ontario native finished just two points shy of his career high (53) over 81 appearances during the 2025-26 regular season, but he should have plenty of opportunities to best that total in the years to come as a key part of Philadelphia's top six.",
+      "date": "2026-05-11T23:50Z"
+    },
+    "Rodrigo Abols": {
+      "name": "Rodrigo Abols",
+      "team": "PHI",
+      "status": "Injured Reserve",
+      "details": "Abols sported a non-contact jersey during Saturday's morning skate, Jordan Hall of NBC Sports Philadelphia reports. The 30-year-old Abols remains on injured reserve and hasn't played since Jan. 17 against the Rangers.",
+      "date": "2026-05-09T17:58Z"
+    },
+    "Ty Murchison": {
+      "name": "Ty Murchison",
+      "team": "PHI",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-02-04T01:48Z"
+    },
+    "Caleb Jones": {
+      "name": "Caleb Jones",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-04-05T18:16Z"
+    },
+    "Filip Hallander": {
+      "name": "Filip Hallander",
+      "team": "PIT",
+      "status": "Injured Reserve",
+      "details": "Hallander remains on injured reserve for now, but he may be activated prior to Saturday's game versus the Rangers. He is recovering from a blood clot in his leg, which has cost him more than three months of action. Hallander figures to be a bottom-six option for the Penguins once he gets back in the lineup.",
+      "date": "2026-02-27T23:43Z"
+    },
+    "Ryan Reaves": {
+      "name": "Ryan Reaves",
+      "team": "SJS",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-11T00:18Z"
+    },
+    "Logan Couture": {
+      "name": "Logan Couture",
+      "team": "SJS",
+      "status": "Injured Reserve",
+      "details": "ir-lt",
+      "date": "2025-09-30T17:35Z"
+    },
+    "Jared McCann": {
+      "name": "Jared McCann",
+      "team": "SEA",
+      "status": "Out",
+      "details": "McCann missed the final three games of the regular season due to the injury, and he completed 2025-26 with 20 goals and 40 points in 52 outings. The 29-year-old expects to be available for the start of the 2026-27 campaign.",
+      "date": "2026-04-17T20:11Z"
+    },
+    "Joey Daccord": {
+      "name": "Joey Daccord",
+      "team": "SEA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-17T01:00Z"
+    },
+    "Jaden Schwartz": {
+      "name": "Jaden Schwartz",
+      "team": "SEA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-17T00:18Z"
+    },
+    "Matt Murray": {
+      "name": "Matt Murray",
+      "team": "SEA",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-16T23:06Z"
+    },
+    "Jordan Kyrou": {
+      "name": "Jordan Kyrou",
+      "team": "STL",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-23T20:06Z"
+    },
+    "Pontus Holmberg": {
+      "name": "Pontus Holmberg",
+      "team": "TBL",
+      "status": "Out",
+      "details": "While an exact timeline for Holmberg's return never materialized, this type of injury can take 6-12 weeks to recover from. He has plenty of time to heal now that Tampa Bay has been eliminated from the playoffs, and he should be available for training camp in the fall. Holmberg had 11 goals, 22 points, 90 shots on net and 66 hits across 70 appearances during the 2025-26 regular season.",
+      "date": "2026-05-05T16:10Z"
+    },
+    "Max Domi": {
+      "name": "Max Domi",
+      "team": "TOR",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-05-25T14:01Z"
+    },
+    "Anthony Stolarz": {
+      "name": "Anthony Stolarz",
+      "team": "TOR",
+      "status": "Out",
+      "details": "Stolarz missed the final four games of the season with the injury. He said Thursday that he will hit the rehab process hard once he is able to work out and that no surgery is necessary. Stolarz struggled all season, posting a 10-10-3 record with a 3.28 GAA and an .893 save percentage across 26 regular-season appearances in 2025-26, a far cry from 2024-25, when he led the NHL with a .926 save percentage and was third in GAA at 2.14. Stolarz should be in fine form at the start of training camp in September, barring any major setbacks.",
+      "date": "2026-04-16T14:43Z"
+    },
+    "Calle Jarnkrok": {
+      "name": "Calle Jarnkrok",
+      "team": "TOR",
+      "status": "Out",
+      "details": "Jarnkrok will conclude 2025-26 with six goals, eight points, eight PIM, 45 shots, 33 hits and 11 blocks in 56 appearances. Michael Pezzetta will draw into the lineup Wednesday due to Jarnkrok's absence.",
+      "date": "2026-04-15T16:06Z"
+    },
+    "Dakota Joshua": {
+      "name": "Dakota Joshua",
+      "team": "TOR",
+      "status": "Out",
+      "details": "Joshua will complete the season with 10 goals, eight assists, 49 PIM, 195 hits and 32 blocked shots over 55 contests. He is expected to be ready for the start of training camp in September.",
+      "date": "2026-04-11T15:19Z"
+    },
+    "Brandon Carlo": {
+      "name": "Brandon Carlo",
+      "team": "TOR",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-11T15:15Z"
+    },
+    "Auston Matthews": {
+      "name": "Auston Matthews",
+      "team": "TOR",
+      "status": "Out",
+      "details": "Matthews had already been ruled out for the remainder of the season due to a Grade 3 MCL tear and quadriceps contusion, and he has a recovery timetable of approximately 12 weeks following Thursday's procedure. The 28-year-old finished his 2025-26 campaign with 27 goals, 26 assists, 81 blocked shots, 42 hits and 18 PIM while averaging 20:48 of ice time. Given his return timetable, it seems unlikely that Matthews will be an option for Team USA at the IIHF World Championship, but it wouldn't be surprising to see him available for training camp ahead of the 2026-27 NHL campaign.",
+      "date": "2026-03-19T20:51Z"
+    },
+    "Chris Tanev": {
+      "name": "Chris Tanev",
+      "team": "TOR",
+      "status": "Injured Reserve",
+      "details": "Tanev is projected to be ready for training camp in September. He's signed to a six-year, $27 million contract that runs through 2029-30 and comes with a no-movement clause, so it's fair to believe he'll still be a member of the Leafs for the 2026-27 season. The 36-year-old defenseman will complete 2025-26 with two assists, eight shots, two hits and 15 blocks in 11 appearances.",
+      "date": "2026-03-04T16:59Z"
+    },
+    "Nils Hoglander": {
+      "name": "Nils Hoglander",
+      "team": "VAN",
+      "status": "Out",
+      "details": "Hoglander was limited to just 38 regular-season games for the Canucks this year due to a lower-body injury and now finds himself sidelined for the international competition. If the 25-year-old winger can stay healthy, he should be capable of pushing for the 20-goal and 40-point thresholds next year, though that's becoming an increasingly big question mark.",
+      "date": "2026-05-06T13:48Z"
+    },
+    "Evander Kane": {
+      "name": "Evander Kane",
+      "team": "VAN",
+      "status": "Out",
+      "details": "Head coach Adam Foote said that Kane is done for the season unless the team runs into a lot of injuries before its last game Thursday in Edmonton. As such, Kane seems poised to finish the campaign with 13 goals, 31 points, 171 shots, 111 hits and a minus-20 rating over 71 appearances. The veteran winger will be an unrestricted free agent this offseason.",
+      "date": "2026-04-14T18:30Z"
+    },
+    "Thatcher Demko": {
+      "name": "Thatcher Demko",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "Demko's move to LTIR was bound to happen after Vancouver announced he would be shut down for the season Jan. 27. The move was made in correspondence to Pierre-Oliver Joseph's need for a standard IR spot, as he's dealing with an undisclosed injury. Demko will continue to rehab his injury after going 8-10-1 with a 2.90 GAA and an .895 save percentage across 20 games this season.",
+      "date": "2026-03-03T21:33Z"
+    },
+    "Jonathan Lekkerimaki": {
+      "name": "Jonathan Lekkerimaki",
+      "team": "VAN",
+      "status": "Out",
+      "details": "The Canucks announced Saturday that Lekkerimaki would require season-ending surgery, but he's expected to be ready to return in time for training camp in September, when he should have an opportunity to compete for an NHL roster spot. Over 13 appearances with Vancouver this year, the 21-year-old recorded two goals, an assist, 10 hits and five blocked shots while averaging 11:41 of ice time.",
+      "date": "2026-02-27T20:49Z"
+    },
+    "Filip Chytil": {
+      "name": "Filip Chytil",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "ir",
+      "date": "2026-02-26T00:15Z"
+    },
+    "Derek Forbort": {
+      "name": "Derek Forbort",
+      "team": "VAN",
+      "status": "Injured Reserve",
+      "details": "In corresponding moves, the Canucks put Victor Mancini (undisclosed) on injured reserve and recalled Tom Willander from AHL Abbotsford. Forbort has already missed the last eight games. He will be eligible to play against Chicago on Nov. 5, but it's unclear when he will be available to return to the lineup.",
+      "date": "2025-10-28T17:30Z"
+    },
+    "Rasmus Sandin": {
+      "name": "Rasmus Sandin",
+      "team": "WSH",
+      "status": "Out",
+      "details": "Sandin missed Washington's final two regular-season games and finished the campaign with five goals, 29 points, 12 PIM, 88 hits and 127 blocks in 73 outings. He's expected to miss 6-9 months as a result of the injury, which puts his availability for the start of the 2026-27 campaign into question.",
+      "date": "2026-04-22T15:34Z"
+    },
+    "Pierre-Luc Dubois": {
+      "name": "Pierre-Luc Dubois",
+      "team": "WSH",
+      "status": "Out",
+      "details": "Dubois missed Washington's season finale Tuesday due to what was previously classified as an upper-body injury. The Capitals didn't make the playoffs, so Dubois has plenty of time to focus on his recovery. The 27-year-old is hoping to avoid surgery and be fine in a month or two. He finished 2025-26 with five goals and 19 points in 29 outings.",
+      "date": "2026-04-16T18:30Z"
+    },
+    "Charlie Lindgren": {
+      "name": "Charlie Lindgren",
+      "team": "WSH",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-14T22:50Z"
+    },
+    "Eriks Mateiko": {
+      "name": "Eriks Mateiko",
+      "team": "WSH",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-01-13T23:05Z"
+    },
+    "Nikita Chibrikov": {
+      "name": "Nikita Chibrikov",
+      "team": "WPG",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-30T20:17Z"
+    },
+    "Elias Salomonsson": {
+      "name": "Elias Salomonsson",
+      "team": "WPG",
+      "status": "Out",
+      "details": "Salomonsson had a goal and five points in 32 outings with Winnipeg as well as a goal and nine points in 29 appearances with AHL Manitoba in the 2025-26 regular season. He also had an assist in two playoff outings with Manitoba this year. The 21-year-old defenseman might have been in the mix to make the 2026-27 Opening Night roster with Winnipeg if he had entered training camp healthy. However, Salomonsson is now likely to still be recovering from his surgery when training camp begins, which will limit his opportunities to compete for a roster spot.",
+      "date": "2026-04-30T20:17Z"
+    },
+    "Neal Pionk": {
+      "name": "Neal Pionk",
+      "team": "WPG",
+      "status": "Out",
+      "details": "Pionk was limited to 51 outings in 2025-26, and he's set to finish the season with three goals, 12 points, 37 PIM, 111 hits and 75 blocks. Winnipeg didn't secure a playoff berth, so this marks the end of the first campaign of his six-year, $42 million contract.",
+      "date": "2026-04-16T18:40Z"
+    },
+    "Vladislav Namestnikov": {
+      "name": "Vladislav Namestnikov",
+      "team": "WPG",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-16T18:39Z"
+    },
+    "Gustav Nyquist": {
+      "name": "Gustav Nyquist",
+      "team": "WPG",
+      "status": "Out",
+      "details": "Nyquist will miss his 10th straight game to end the regular season. He had one goal and 11 assists in 51 games with the Jets in 2025-26 and at the age of 36, he may not get another opportunity to play at the NHL level.",
+      "date": "2026-04-16T18:37Z"
+    },
+    "Alex Iafallo": {
+      "name": "Alex Iafallo",
+      "team": "WPG",
+      "status": "Out",
+      "details": "out",
+      "date": "2026-04-16T18:36Z"
+    },
+    "Morgan Barron": {
+      "name": "Morgan Barron",
+      "team": "WPG",
+      "status": "Out",
+      "details": "Barron remains week-to-week and will miss his third straight game against Philadelphia on Saturday. He has provided 11 goals, 23 points, 92 shots on net, 40 blocked shots and 132 hits across 65 appearances this season.",
+      "date": "2026-04-11T15:39Z"
+    }
+  },
+  "injury_opportunities": {
+    "NYI": {
+      "injured": [
+        "Mathew Barzal"
+      ],
+      "beneficiaries": [
+        "Bo Horvat",
+        "Kyle Palmieri",
+        "Anders Lee"
+      ],
+      "boost": 1.06
+    },
+    "TOR": {
+      "injured": [
+        "Auston Matthews"
+      ],
+      "beneficiaries": [
+        "John Tavares",
+        "Mitch Marner",
+        "William Nylander"
+      ],
+      "boost": 1.06
+    }
+  },
+  "total_injured": 112,
+  "fetched_at": "2026-06-22T06:01:45.711067"
 }

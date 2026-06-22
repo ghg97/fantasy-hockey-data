@@ -1,3 +1,78 @@
 {
-  "fetched_at": "2026-06-21T08:17:25.877953"
+  "fetched_at": "2026-06-22T06:01:48.426500",
+  "wins_leaders": [
+    {
+      "player_id": 8476883,
+      "name": "Andrei Vasilevskiy",
+      "team": "TBL",
+      "games_played": null,
+      "value": 39
+    },
+    {
+      "player_id": 8478872,
+      "name": "Karel Vejmelka",
+      "team": "UTA",
+      "games_played": null,
+      "value": 38
+    },
+    {
+      "player_id": 8479979,
+      "name": "Jake Oettinger",
+      "team": "DAL",
+      "games_played": null,
+      "value": 35
+    },
+    {
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
+      "games_played": null,
+      "value": 31
+    },
+    {
+      "player_id": 8475809,
+      "name": "Scott Wedgewood",
+      "team": "COL",
+      "games_played": null,
+      "value": 31
+    }
+  ],
+  "save_pct_leaders": [
+    {
+      "player_id": 8475809,
+      "name": "Scott Wedgewood",
+      "team": "COL",
+      "games_played": null,
+      "value": 0.921317
+    },
+    {
+      "player_id": 8482661,
+      "name": "Jesper Wallstedt",
+      "team": "MIN",
+      "games_played": null,
+      "value": 0.915686
+    },
+    {
+      "player_id": 8476883,
+      "name": "Andrei Vasilevskiy",
+      "team": "TBL",
+      "games_played": null,
+      "value": 0.91234
+    },
+    {
+      "player_id": 8480313,
+      "name": "Logan Thompson",
+      "team": "WSH",
+      "games_played": null,
+      "value": 0.911783
+    },
+    {
+      "player_id": 8478048,
+      "name": "Igor Shesterkin",
+      "team": "NYR",
+      "games_played": null,
+      "value": 0.911579
+    }
+  ],
+  "gaa_leaders": []
 }
